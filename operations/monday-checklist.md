@@ -9,11 +9,12 @@
 - [x] Solicitor cover pack → [`../security-and-legal/solicitor-cover-email.md`](../security-and-legal/solicitor-cover-email.md) ([PR #9](https://github.com/thesnjk/BidHarbour/pull/9))  
 - [x] Week-1 send runbook + reply scripts → [`../commercial/week1-send-runbook.md`](../commercial/week1-send-runbook.md) · [`../commercial/reply-booking-scripts.md`](../commercial/reply-booking-scripts.md)  
 - [x] A01–A10 public contact hints → [`../commercial/a01-a10-contact-hints.md`](../commercial/a01-a10-contact-hints.md)  
+- [x] Week-1 send outcomes log → [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv)  
 
 ## Primary founder action (today)
 
-1. **Execute** [`../commercial/week1-send-runbook.md`](../commercial/week1-send-runbook.md) — use [`../commercial/a01-a10-contact-hints.md`](../commercial/a01-a10-contact-hints.md) for public contact pages; send A01–A10 as **Supplier Desk** (consider skip A08).  
-2. On replies, use [`../commercial/reply-booking-scripts.md`](../commercial/reply-booking-scripts.md); book ≥5 slots on the interview grid.  
+1. **Execute** [`../commercial/week1-send-runbook.md`](../commercial/week1-send-runbook.md) — use [`../commercial/a01-a10-contact-hints.md`](../commercial/a01-a10-contact-hints.md); send A01–A10 as **Supplier Desk** (consider skip A08); fill [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv) per send.  
+2. On replies, use [`../commercial/reply-booking-scripts.md`](../commercial/reply-booking-scripts.md); book ≥5 slots on the interview grid; set `reply_date` / `booked_slot` on the send log; update scorecard only after completed interviews.  
 
 ## Also this week
 

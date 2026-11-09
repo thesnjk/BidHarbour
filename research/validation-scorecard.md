@@ -22,6 +22,10 @@ Update weekly during the 8-week programme.
 | Week 4 | | | |
 | Week 8 | | | |
 
+## Pipeline evidence path
+
+Week-1 outreach outcomes → [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv) → booked slots in [`interview-grid-8wk.md`](interview-grid-8wk.md) → Actuals above. **Do not** increment Actual until interviews are completed (send/reply alone is not evidence).
+
 ## Current recommendation
 
 **INVESTIGATE FURTHER / NARROW** — Norfolk AME/marine PQQ workflow; no production SaaS yet.
