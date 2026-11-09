@@ -22,7 +22,7 @@
 | Step | Action | Done? |
 |------|--------|-------|
 | 1 | Verify company still fits ICP (roughly 5–75 people; multi-customer B2B). Skip if anti-persona (e.g. huge group HQ only). | |
-| 2 | Find a real recipient (MD / Ops / Quality). Prefer LinkedIn or site contact — do **not** invent a name. If unknown, use role-only (“Managing Director”) or skip. | |
+| 2 | Find a real recipient (MD / Ops / Quality). Start from [`a01-a10-contact-hints.md`](a01-a10-contact-hints.md) (public contact pages + general inboxes). Prefer LinkedIn for a **named** person — do **not** invent personal emails. If unknown, use role-only (“Managing Director”) or skip. | |
 | 3 | Confirm/fix website from CRM; open pack section for that ID. | |
 | 4 | Copy subject + body; replace `{{Name}}` and `{{Founder}}`. | |
 | 5 | Send from your real mailbox. | |
