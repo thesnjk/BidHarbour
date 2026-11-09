@@ -3,7 +3,7 @@
 | # | Action | Artefact / status (2025-11-09) |
 |---|--------|--------------------------------|
 | 1 | Build named list of 50 Norfolk AME/marine accounts | **Done (desk):** [`crm-accounts.csv`](crm-accounts.csv) — 25 seeded + 25 to fill. Founder verifies + completes. |
-| 2 | Draft and send first 10 discovery emails | Scripts in [`../research/customer-discovery-programme.md`](../research/customer-discovery-programme.md); **founder sends** using **Supplier Desk** product name |
+| 2 | Draft and send first 10 discovery emails | **Drafts ready:** [`week1-outreach-pack.md`](week1-outreach-pack.md) (A01–A10 queued). **Founder sends** using **Supplier Desk** product name |
 | 3 | Book attendance / intro at next NAAME or Hethel open event | **Founder** — Hethel row A25 in CRM is intro route only |
 | 4 | Prepare discovery one-pager | **Done:** [`discovery-one-pager.md`](discovery-one-pager.md) (export to PDF optional) |
 | 5 | Finalise pilot offer + solicitor queue for MSA/DPA | **Done (draft):** [`pilot-offer-sheet.md`](pilot-offer-sheet.md); stubs in `security-and-legal/` — **solicitor still required** |
