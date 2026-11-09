@@ -1,0 +1,38 @@
+# Local research dumps
+.firecrawl/
+
+# Secrets and env
+.env
+.env.*
+!.env.example
+
+# Dependencies and build
+node_modules/
+venv/
+__pycache__/
+dist/
+build/
+.next/
+target/
+*.pyc
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Customer / confidential (never commit)
+customer-data/
+pilot-packs/
+*.pem
+*.key
+credentials.json
+
+# Spreadsheet temps
+*.xlsx~
+~$*.xlsx
+
+# Model / large artefacts
+*.gguf
+checkpoints/
