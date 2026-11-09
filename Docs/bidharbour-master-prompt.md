@@ -107,7 +107,7 @@ Read `Docs/developer-map.md` first. For deep context pull one of:
 
 ### Shipped first-wave artefacts (keep honest)
 
-On `main` via PRs **#7–#12**: Week-1 outreach pack, brand decision (Supplier Desk / HarbourResponse reserve), solicitor cover, send runbook + reply scripts, A01–A10 contact hints, Week-1 send outcomes log wired to scorecard path. Epics #1–#6 still open on GitHub.
+On `main` via PRs **#7–#14**: Week-1 outreach pack, brand decision (Supplier Desk / HarbourResponse reserve), solicitor cover, send runbook + reply scripts, A01–A10 contact hints, Week-1 send outcomes log wired to scorecard path, tracked agent master prompt (#13 / #14). Epics #1–#6 still open on GitHub.
 
 **Next critical path (founder, not agent filler PRs):** execute `commercial/week1-send-runbook.md` → fill `commercial/week1-send-log.csv` → book `research/interview-grid-8wk.md` → update scorecard Actuals only after completed interviews.
 
