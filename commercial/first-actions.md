@@ -6,7 +6,7 @@
 | 2 | Draft and send first 10 discovery emails | **Drafts ready:** [`week1-outreach-pack.md`](week1-outreach-pack.md) (A01–A10 queued). **Founder sends** using **Supplier Desk** product name |
 | 3 | Book attendance / intro at next NAAME or Hethel open event | **Founder** — Hethel row A25 in CRM is intro route only |
 | 4 | Prepare discovery one-pager | **Done:** [`discovery-one-pager.md`](discovery-one-pager.md) (export to PDF optional) |
-| 5 | Finalise pilot offer + solicitor queue for MSA/DPA | **Done (draft):** [`pilot-offer-sheet.md`](pilot-offer-sheet.md); stubs in `security-and-legal/` — **solicitor still required** |
+| 5 | Finalise pilot offer + solicitor queue for MSA/DPA | Offer: [`pilot-offer-sheet.md`](pilot-offer-sheet.md). **Solicitor brief ready:** [`../security-and-legal/solicitor-cover-email.md`](../security-and-legal/solicitor-cover-email.md) + [`../security-and-legal/solicitor-send-checklist.md`](../security-and-legal/solicitor-send-checklist.md) — **founder sends; do not use stubs with customers until cleared** |
 | 6 | Create simple CRM board | **Done (CSV):** import [`crm-accounts.csv`](crm-accounts.csv) to Notion/Airtable if preferred |
 | 7 | Schedule 5 discovery calls | **Founder** — use [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md) |
 | 8 | Complete 1 workflow observation with redacted artefacts | **Founder** — checklist in research/ |
