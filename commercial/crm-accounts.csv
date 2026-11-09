@@ -1,51 +1,51 @@
-id,company,town,niche,inferred_buyer_title,website,linkedin_search_hint,source,evidence_label,stage,outreach_status,notes
-A01,Alicat Workboats Ltd,Great Yarmouth,marine,Managing Director,https://www.alicatworkboats.com/,Alicat Workboats Great Yarmouth,Company website / prior desk research,Verified fact,Identified,queued,Marine fab + workboats; public GY address; Week1 pack: commercial/week1-outreach-pack.md
-A02,Armultra Ltd,Great Yarmouth,marine,Managing Director,https://www.armultra.co.uk/,Armultra Great Yarmouth,Company website / F4OR list,Verified fact,Identified,queued,Fabrication/offshore; ISO/accreditations public; Week1 pack: commercial/week1-outreach-pack.md
-A03,PPI Engineering Ltd,Norwich,AME,Managing Director,https://ppi-engineering.com/,PPI Engineering Norwich,Company site / LinkedIn / Equinor supply-chain coverage,Verified fact,Identified,queued,Rotating electrical machines; Norwich HQ; Week1 pack: commercial/week1-outreach-pack.md
-A04,Stowen Clean Energy Ltd,Great Yarmouth,marine,Managing Director,https://www.stowen.co.uk/,Stowen Great Yarmouth,EDP/Equinor coverage / F4OR,Verified fact,Identified,queued,Confirm exact legal entity name before outreach; Week1 pack: commercial/week1-outreach-pack.md
-A05,C3 Engineering,Dereham,AME,Managing Director,https://www.c3engineering.co.uk/,C3 Engineering Dereham,Company website,Verified fact,Identified,queued,Metal fabrication Norwich/Dereham corridor; Week1 pack: commercial/week1-outreach-pack.md
-A06,Seabed Scour Control Systems Ltd,Great Yarmouth,marine,Managing Director,https://sscsystems.com/,Seabed Scour Control Systems Great Yarmouth,Company contact page (Harfreys Rd GY) + prior desk,Verified fact,Identified,queued,Public GY address NR31 0LS; Week1 pack: commercial/week1-outreach-pack.md
-A07,Pegasus Welfare Solutions,Lenwade,AME,Managing Director,,Pegasus Welfare Solutions Norfolk,Vattenfall press (prior desk),Verified fact,Identified,queued,Find current domain; offshore welfare fab; Week1 pack: commercial/week1-outreach-pack.md
-A08,Osprey Shipping / Osprey Group,Great Yarmouth,marine,Operations Director,,Osprey wind logistics Great Yarmouth,F4OR / EEEZ mentions (prior desk),Verified fact,Identified,queued,Confirm Norfolk entity and fit (logistics vs fab); Week1 pack: commercial/week1-outreach-pack.md
-A09,Certex (Great Yarmouth base),Great Yarmouth,marine,Branch / Quality Manager,,Certex Great Yarmouth,Vattenfall press (prior desk),Verified fact,Identified,queued,May be large group — check anti-persona size; Week1 pack: commercial/week1-outreach-pack.md
-A10,MDF Transport,Great Yarmouth,construction,Managing Director,,MDF Transport Great Yarmouth,Vattenfall press (prior desk),Verified fact,Identified,queued,Haulage; construction-control niche candidate; Week1 pack: commercial/week1-outreach-pack.md
-A11,Kirklands Equipment Supply,Great Yarmouth,AME,Managing Director,,Kirklands Equipment Supply Great Yarmouth,Vattenfall press (prior desk),Verified fact,Identified,not_started,Verify still operating / size
-A12,Camvac Ltd,Norfolk,AME,Managing Director,,Camvac Norfolk,Norfolk Business Board AME brochure (prior desk),Verified fact,Identified,not_started,Confirm town and website
-A13,AKP Ltd,Norfolk,AME,Managing Director,,AKP Ltd Norfolk CNC,Norfolk Business Board AME brochure (prior desk),Verified fact,Identified,not_started,Confirm town and website
-A14,NE Engineering,Norfolk,AME,Managing Director,,NE Engineering Norfolk,Norfolk Business Board AME brochure (prior desk),Verified fact,Identified,not_started,Confirm exact name/location
-A15,3sun Group,Great Yarmouth,marine,Quality / Commercial Manager,,3sun Group Great Yarmouth,EEEZ supply-chain matrix (prior desk),Verified fact,Identified,not_started,May be large — size-check vs ICP
-A16,Eastern Marine Services,Great Yarmouth,marine,Managing Director,,Eastern Marine Services Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,Verify website and size
-A17,Hardy Marine,Great Yarmouth,marine,Managing Director,,Hardy Marine Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,Verify website and size
-A18,Iceni Marine,Great Yarmouth,marine,Managing Director,,Iceni Marine Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,Verify website and size
-A19,BFS Enterprise (Fabrications) Ltd,Great Yarmouth,AME,Managing Director,,BFS Enterprise Fabrications Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,Fabrications — good ICP signal
-A20,API Engineering,Great Yarmouth,AME,Managing Director,,API Engineering Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,Verify website and size
-A21,Claxton Engineering,Great Yarmouth,marine,Quality Manager,,Claxton Engineering Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,May be group — size-check
-A22,Gardline Limited,Great Yarmouth,marine,Quality / HSEQ Manager,,Gardline Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,Likely large — possible anti-persona; keep for network intros
-A23,Subsea Protection Systems,Great Yarmouth,marine,Managing Director,,Subsea Protection Systems Great Yarmouth,EEEZ / prior desk,Verified fact,Identified,not_started,Verify website
-A24,Deutsche Windtechnik Offshore,Lowestoft,marine,Operations Manager,,Deutsche Windtechnik Lowestoft OrbisEnergy,EDP/Equinor coverage (prior desk),Verified fact,Identified,not_started,Suffolk — East Anglia edge; use after Norfolk density check
-A25,Hethel Engineering Centre (network intro),Hethel,AME,Centre contacts / tenant intros,https://www.hethelengineering.com/,Hethel Engineering Centre,Public centre site,Verified fact,Identified,not_started,Not a customer — introduction route only
-A26,,,,,,,,to fill,Identified,not_started,Fill from NAAME meeting list
-A27,,,,,,,,to fill,Identified,not_started,Fill — Norwich CNC/fab LinkedIn search
-A28,,,,,,,,to fill,Identified,not_started,Fill — King’s Lynn engineering
-A29,,,,,,,,to fill,Identified,not_started,Fill — rural Norfolk fabrication
-A30,,,,,,,,to fill,Identified,not_started,Fill — marine services Wells/GY
-A31,,,,,,,,to fill,Identified,not_started,Construction control niche #1
-A32,,,,,,,,to fill,Identified,not_started,Construction control niche #2
-A33,,,,,,,,to fill,Identified,not_started,Construction control niche #3
-A34,,,,,,,,to fill,Identified,not_started,Construction control niche #4
-A35,,,,,,,,to fill,Identified,not_started,Construction control niche #5
-A36,,,,,,,,to fill,Identified,not_started,AME fill
-A37,,,,,,,,to fill,Identified,not_started,AME fill
-A38,,,,,,,,to fill,Identified,not_started,AME fill
-A39,,,,,,,,to fill,Identified,not_started,AME fill
-A40,,,,,,,,to fill,Identified,not_started,AME fill
-A41,,,,,,,,to fill,Identified,not_started,Marine fill
-A42,,,,,,,,to fill,Identified,not_started,Marine fill
-A43,,,,,,,,to fill,Identified,not_started,Marine fill
-A44,,,,,,,,to fill,Identified,not_started,Marine fill
-A45,,,,,,,,to fill,Identified,not_started,Marine fill
-A46,,,,,,,,to fill,Identified,not_started,Reserve / referral
-A47,,,,,,,,to fill,Identified,not_started,Reserve / referral
-A48,,,,,,,,to fill,Identified,not_started,Reserve / referral
-A49,,,,,,,,to fill,Identified,not_started,Reserve / referral
-A50,,,,,,,,to fill,Identified,not_started,Reserve / referral
+id,company,town,niche,inferred_buyer_title,website,contact_page,contact_hint,linkedin_search_hint,source,evidence_label,stage,outreach_status,notes
+A01,Alicat Workboats Ltd,Great Yarmouth,marine,Managing Director,https://www.alicatworkboats.com/,https://www.alicatworkboats.com/,Footer: sales@alicatworkboats.com; Tel +44 (0)1493 655171; Berths 29 Southtown Rd GY. Named MD not on page — LinkedIn. Verified fact 2025-11-09.,Alicat Workboats Great Yarmouth,Company website / prior desk research,Verified fact,Identified,queued,Marine fab + workboats; public GY address; Week1 pack: commercial/week1-outreach-pack.md
+A02,Armultra Ltd,Great Yarmouth,marine,Managing Director,https://www.armultra.co.uk/,https://www.armultra.co.uk/about-us/,sales@armultra.co.uk; Tel +44 (0)1493 652150; Hewett Rd GY. LinkedIn for MD. Verified fact 2025-11-09.,Armultra Great Yarmouth,Company website / F4OR list,Verified fact,Identified,queued,Fabrication/offshore; ISO/accreditations public; Week1 pack: commercial/week1-outreach-pack.md
+A03,PPI Engineering Ltd,Norwich,AME,Managing Director,https://ppi-engineering.com/,https://ppi-engineering.com/,sales@ppi-engineering.com; Tel +44 (0)1603 728680; API Holdings Group Eng Centre Norwich NR7 0HT. SIZE-CHECK vs ICP. Verified fact 2025-11-09.,PPI Engineering Norwich,Company site / LinkedIn / Equinor supply-chain coverage,Verified fact,Identified,queued,Rotating electrical machines; Norwich HQ; Week1 pack: commercial/week1-outreach-pack.md
+A04,Stowen Clean Energy Ltd,Great Yarmouth,marine,Managing Director,https://www.stowengroup.com/,https://www.stowengroup.com/contact/,enquiries@stowengroup.com; Tel 01493 653903; James Watt Close GY. stowen.co.uk errored — use stowengroup.com. Verified fact 2025-11-09.,Stowen Great Yarmouth,EDP/Equinor coverage / F4OR,Verified fact,Identified,queued,Confirm exact legal entity name before outreach; Week1 pack: commercial/week1-outreach-pack.md
+A05,C3 Engineering,Dereham,AME,Managing Director,https://www.c3engineering.co.uk/,https://www.c3engineering.co.uk/,sales@c3engineering.co.uk; Tel +44 1362 698454; Bertie Ward Way Dereham. Verified fact 2025-11-09.,C3 Engineering Dereham,Company website,Verified fact,Identified,queued,Metal fabrication Norwich/Dereham corridor; Week1 pack: commercial/week1-outreach-pack.md
+A06,Seabed Scour Control Systems Ltd,Great Yarmouth,marine,Managing Director,https://sscsystems.com/,https://sscsystems.com/contact,info@sscsystems.com; Tel +44 (0)1493 443380; Harfreys Rd GY NR31 0LS. Verified fact 2025-11-09.,Seabed Scour Control Systems Great Yarmouth,Company contact page (Harfreys Rd GY) + prior desk,Verified fact,Identified,queued,Public GY address NR31 0LS; Week1 pack: commercial/week1-outreach-pack.md
+A07,Pegasus Welfare Solutions,Lenwade,AME,Managing Director,https://www.pegasus-welfare.com/,https://www.pegasus-welfare.com/,Site fetch 500 this pass. Directory cites enquiries@pegasus-welfare.com / 01603 320166 Lenwade — VERIFY live. OEG acquisition — ICP caution. Press names Dan Greeves founder.,Pegasus Welfare Solutions Norfolk,Vattenfall press (prior desk),Verified fact,Identified,queued,Find current domain; offshore welfare fab; Week1 pack: commercial/week1-outreach-pack.md
+A08,Osprey Shipping / Osprey Group,Great Yarmouth,marine,Operations Director,https://osprey.group/,https://osprey.group/contact-us/,hello@osprey.group; Tel +44 (0)1275 460608. HQ Portishead — NOT GY. Consider SKIP (weak Norfolk ICP / large). Verified fact 2025-11-09.,Osprey wind logistics Great Yarmouth,F4OR / EEEZ mentions (prior desk),Verified fact,Identified,queued,Confirm Norfolk entity and fit (logistics vs fab); Week1 pack: commercial/week1-outreach-pack.md
+A09,Certex (Great Yarmouth base),Great Yarmouth,marine,Branch / Quality Manager,https://www.certex.co.uk/,https://www.certex.co.uk/contact-us,greatyarmouth@certex.co.uk; Tel +44 (0)1493 857705; Britannia House Admiralty GY. Large group — anti-persona risk. Verified fact 2025-11-09.,Certex Great Yarmouth,Vattenfall press (prior desk),Verified fact,Identified,queued,May be large group — check anti-persona size; Week1 pack: commercial/week1-outreach-pack.md
+A10,MDF Transport,Great Yarmouth,construction,Managing Director,https://www.mdftransport.com/,https://www.mdftransport.com/,traffic@mdftransport.com; Tel +44 (0)1493 441444; Grampian House Hewett Rd GY. CH: M.D.F. (GT YARMOUTH) LTD 03106432. Verified fact 2025-11-09.,MDF Transport Great Yarmouth,Vattenfall press (prior desk),Verified fact,Identified,queued,Haulage; construction-control niche candidate; Week1 pack: commercial/week1-outreach-pack.md
+A11,Kirklands Equipment Supply,Great Yarmouth,AME,Managing Director,,,,Kirklands Equipment Supply Great Yarmouth,Vattenfall press (prior desk),Verified fact,Identified,not_started,Verify still operating / size
+A12,Camvac Ltd,Norfolk,AME,Managing Director,,,,Camvac Norfolk,Norfolk Business Board AME brochure (prior desk),Verified fact,Identified,not_started,Confirm town and website
+A13,AKP Ltd,Norfolk,AME,Managing Director,,,,AKP Ltd Norfolk CNC,Norfolk Business Board AME brochure (prior desk),Verified fact,Identified,not_started,Confirm town and website
+A14,NE Engineering,Norfolk,AME,Managing Director,,,,NE Engineering Norfolk,Norfolk Business Board AME brochure (prior desk),Verified fact,Identified,not_started,Confirm exact name/location
+A15,3sun Group,Great Yarmouth,marine,Quality / Commercial Manager,,,,3sun Group Great Yarmouth,EEEZ supply-chain matrix (prior desk),Verified fact,Identified,not_started,May be large — size-check vs ICP
+A16,Eastern Marine Services,Great Yarmouth,marine,Managing Director,,,,Eastern Marine Services Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,Verify website and size
+A17,Hardy Marine,Great Yarmouth,marine,Managing Director,,,,Hardy Marine Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,Verify website and size
+A18,Iceni Marine,Great Yarmouth,marine,Managing Director,,,,Iceni Marine Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,Verify website and size
+A19,BFS Enterprise (Fabrications) Ltd,Great Yarmouth,AME,Managing Director,,,,BFS Enterprise Fabrications Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,Fabrications — good ICP signal
+A20,API Engineering,Great Yarmouth,AME,Managing Director,,,,API Engineering Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,Verify website and size
+A21,Claxton Engineering,Great Yarmouth,marine,Quality Manager,,,,Claxton Engineering Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,May be group — size-check
+A22,Gardline Limited,Great Yarmouth,marine,Quality / HSEQ Manager,,,,Gardline Great Yarmouth,EEEZ matrix (prior desk),Verified fact,Identified,not_started,Likely large — possible anti-persona; keep for network intros
+A23,Subsea Protection Systems,Great Yarmouth,marine,Managing Director,,,,Subsea Protection Systems Great Yarmouth,EEEZ / prior desk,Verified fact,Identified,not_started,Verify website
+A24,Deutsche Windtechnik Offshore,Lowestoft,marine,Operations Manager,,,,Deutsche Windtechnik Lowestoft OrbisEnergy,EDP/Equinor coverage (prior desk),Verified fact,Identified,not_started,Suffolk — East Anglia edge; use after Norfolk density check
+A25,Hethel Engineering Centre (network intro),Hethel,AME,Centre contacts / tenant intros,https://www.hethelengineering.com/,,,Hethel Engineering Centre,Public centre site,Verified fact,Identified,not_started,Not a customer — introduction route only
+A26,,,,,,,,,,to fill,Identified,not_started,Fill from NAAME meeting list
+A27,,,,,,,,,,to fill,Identified,not_started,Fill — Norwich CNC/fab LinkedIn search
+A28,,,,,,,,,,to fill,Identified,not_started,Fill — King’s Lynn engineering
+A29,,,,,,,,,,to fill,Identified,not_started,Fill — rural Norfolk fabrication
+A30,,,,,,,,,,to fill,Identified,not_started,Fill — marine services Wells/GY
+A31,,,,,,,,,,to fill,Identified,not_started,Construction control niche #1
+A32,,,,,,,,,,to fill,Identified,not_started,Construction control niche #2
+A33,,,,,,,,,,to fill,Identified,not_started,Construction control niche #3
+A34,,,,,,,,,,to fill,Identified,not_started,Construction control niche #4
+A35,,,,,,,,,,to fill,Identified,not_started,Construction control niche #5
+A36,,,,,,,,,,to fill,Identified,not_started,AME fill
+A37,,,,,,,,,,to fill,Identified,not_started,AME fill
+A38,,,,,,,,,,to fill,Identified,not_started,AME fill
+A39,,,,,,,,,,to fill,Identified,not_started,AME fill
+A40,,,,,,,,,,to fill,Identified,not_started,AME fill
+A41,,,,,,,,,,to fill,Identified,not_started,Marine fill
+A42,,,,,,,,,,to fill,Identified,not_started,Marine fill
+A43,,,,,,,,,,to fill,Identified,not_started,Marine fill
+A44,,,,,,,,,,to fill,Identified,not_started,Marine fill
+A45,,,,,,,,,,to fill,Identified,not_started,Marine fill
+A46,,,,,,,,,,to fill,Identified,not_started,Reserve / referral
+A47,,,,,,,,,,to fill,Identified,not_started,Reserve / referral
+A48,,,,,,,,,,to fill,Identified,not_started,Reserve / referral
+A49,,,,,,,,,,to fill,Identified,not_started,Reserve / referral
+A50,,,,,,,,,,to fill,Identified,not_started,Reserve / referral

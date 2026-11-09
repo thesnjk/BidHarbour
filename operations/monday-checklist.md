@@ -8,10 +8,11 @@
 - [x] Brand decision memo → [`../strategy/brand-decision-memo.md`](../strategy/brand-decision-memo.md) ([PR #8](https://github.com/thesnjk/BidHarbour/pull/8))  
 - [x] Solicitor cover pack → [`../security-and-legal/solicitor-cover-email.md`](../security-and-legal/solicitor-cover-email.md) ([PR #9](https://github.com/thesnjk/BidHarbour/pull/9))  
 - [x] Week-1 send runbook + reply scripts → [`../commercial/week1-send-runbook.md`](../commercial/week1-send-runbook.md) · [`../commercial/reply-booking-scripts.md`](../commercial/reply-booking-scripts.md)  
+- [x] A01–A10 public contact hints → [`../commercial/a01-a10-contact-hints.md`](../commercial/a01-a10-contact-hints.md)  
 
 ## Primary founder action (today)
 
-1. **Execute** [`../commercial/week1-send-runbook.md`](../commercial/week1-send-runbook.md) — verify + send A01–A10 as **Supplier Desk**.  
+1. **Execute** [`../commercial/week1-send-runbook.md`](../commercial/week1-send-runbook.md) — use [`../commercial/a01-a10-contact-hints.md`](../commercial/a01-a10-contact-hints.md) for public contact pages; send A01–A10 as **Supplier Desk** (consider skip A08).  
 2. On replies, use [`../commercial/reply-booking-scripts.md`](../commercial/reply-booking-scripts.md); book ≥5 slots on the interview grid.  
 
 ## Also this week

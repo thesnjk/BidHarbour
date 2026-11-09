@@ -14,6 +14,8 @@
 | niche | `AME` / `marine` / `construction` |
 | inferred_buyer_title | Starting guess — verify before send |
 | website | Public homepage if known |
+| contact_page | Public contact/about URL (A01–A10 enriched) |
+| contact_hint | Published general inbox/phone/caution — never invent personal emails |
 | linkedin_search_hint | Query string for LinkedIn |
 | source | Where the name was found |
 | evidence_label | `Verified fact` (public listing) or `to fill` |
@@ -30,7 +32,7 @@ Blank `to fill` rows pad to **50** for the Days 1–14 target list.
 ## Founder workflow
 
 1. Verify each seeded company (employees 5–75; multi-customer PQQs likely).  
-2. Fill blanks from NAAME lists, Hethel tenants, LinkedIn Norfolk fab/marine searches.  
-3. Queue **10** discovery emails (use **Supplier Desk** product name — see brand checklist).  
-4. Update `stage` / `outreach_status` the same day.  
-5. Do **not** commit personal emails, phone numbers, or customer pack files into git — keep PII in a private CRM copy if needed.
+2. For A01–A10: use [`a01-a10-contact-hints.md`](a01-a10-contact-hints.md) + [`week1-send-runbook.md`](week1-send-runbook.md).  
+3. Fill blanks A26–A50 from NAAME lists, Hethel tenants, LinkedIn Norfolk fab/marine searches.  
+4. Send discovery emails as **Supplier Desk**; update `stage` / `outreach_status` the same day.  
+5. Do **not** invent personal emails; published `sales@` / `enquiries@` from company sites are OK as first reach. Keep extra PII in a private CRM copy if needed.
