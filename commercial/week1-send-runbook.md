@@ -3,6 +3,7 @@
 **Goal:** Send all 10 discovery emails (CRM A01–A10) in one sitting; book ≥5 calls by end of Week 1.  
 **Pack:** [`week1-outreach-pack.md`](week1-outreach-pack.md)  
 **CRM:** [`crm-accounts.csv`](crm-accounts.csv)  
+**Send log:** [`week1-send-log.csv`](week1-send-log.csv)  
 **Replies:** [`reply-booking-scripts.md`](reply-booking-scripts.md)  
 **Epics:** [#1](https://github.com/thesnjk/BidHarbour/issues/1) · [#6](https://github.com/thesnjk/BidHarbour/issues/6)
 
@@ -26,21 +27,30 @@
 | 3 | Confirm/fix website from CRM; open pack section for that ID. | |
 | 4 | Copy subject + body; replace `{{Name}}` and `{{Founder}}`. | |
 | 5 | Send from your real mailbox. | |
-| 6 | CRM: `outreach_status=sent`, `stage=Contacted`; note date in `notes`. | |
-| 7 | If bounced / wrong entity: `Disqualified` or fix and retry once. | |
+| 6 | CRM: `outreach_status=sent`, `stage=Contacted`; note date in `notes`. Fill the matching row in [`week1-send-log.csv`](week1-send-log.csv) (`sent_date`, `channel`, `recipient_type`, `outcome`). | |
+| 7 | If bounced / wrong entity / ICP skip: set log `outcome` + `skip_reason`; CRM `Disqualified` or fix and retry once. | |
 
 ## Same-day targets
 
-- [ ] **10 sent** (or honest skips logged with reason)  
+- [ ] **10 rows filled** in [`week1-send-log.csv`](week1-send-log.csv) (`sent` or honest `skipped` / `bounced`)  
 - [ ] Follow-up calendar holds created  
 - [ ] Solicitor brief sent or scheduled  
+
+### Send-log field values
+
+| Field | Allowed values |
+|-------|----------------|
+| `channel` | `email` / `linkedin` |
+| `recipient_type` | `named` / `role_only` / `general_inbox` / `skipped` |
+| `outcome` | `sent` / `skipped` / `bounced` |
+| `booked_slot` | `S01`… when booked (leave blank until then) |
 
 ## After replies
 
 Use [`reply-booking-scripts.md`](reply-booking-scripts.md).  
-When booked: CRM `stage=Discovery`; add row to [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md) slots (S01…).  
+When booked: CRM `stage=Discovery`; set `reply_date` + `booked_slot` on the send-log row; add the slot in [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md) (S01…).  
 Before call: skim [`../research/interview-guide.md`](../research/interview-guide.md).  
-After call: [`../research/recording-template.md`](../research/recording-template.md) + negative findings same day.
+After call: [`../research/recording-template.md`](../research/recording-template.md) + negative findings same day; update scorecard Actuals from completed interviews only.
 
 ## Week-1 acceptance
 

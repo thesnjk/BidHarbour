@@ -4,7 +4,8 @@
 **Targets (proposed, not proof):** 30 interviews (~10 AME / 10 marine / 10 construction control); ≥3 observations in lead niche; 3 paid pilots after week-4 gate.  
 **Scorecard:** [`validation-scorecard.md`](validation-scorecard.md) · [`validation-scorecard.xlsx`](validation-scorecard.xlsx)  
 **CRM:** [`../commercial/crm-accounts.csv`](../commercial/crm-accounts.csv)  
-**Week-1 send pack:** [`../commercial/week1-outreach-pack.md`](../commercial/week1-outreach-pack.md) (CRM A01–A10, status `queued`)
+**Week-1 send pack:** [`../commercial/week1-outreach-pack.md`](../commercial/week1-outreach-pack.md) (CRM A01–A10)  
+**Week-1 send log:** [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv) (fill on send; link booked slots here)
 
 ## Niche mix
 
@@ -18,7 +19,7 @@
 
 | Week | Interview target (cumulative) | Observations | Commercial | Ritual | Gate |
 |------|-------------------------------|--------------|------------|--------|------|
-| 1 | 5 booked / ≥3 done | 0–1 | Send 10 discovery emails from Week-1 pack (A01–A10); NAAME/Hethel touch | Update scorecard Friday | — |
+| 1 | 5 booked / ≥3 done | 0–1 | Send A01–A10; fill [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv); NAAME/Hethel touch | Update scorecard Friday from completed interviews | — |
 | 2 | 8–10 done | 1 | Follow-ups; fill CRM blanks | Negative findings same day | — |
 | 3 | 14–16 done | 2 | Soft pilot mentions only if pain clear | Check pain convergence by niche | — |
 | 4 | ≥20 done (≥6/10 in one lead niche ideal) | ≥3 in lead | Draft pilot offers | **Week-4 gate** | ≥4/10 same pain in lead **or** PIVOT/STOP |
