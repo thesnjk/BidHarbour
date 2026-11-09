@@ -47,15 +47,19 @@ Interpretation rules: **DNS A/NS present** ⇒ treated as taken/in use. **WHOIS 
 | Material TM conflict or irreversible confusion with auctions | **Rename** before validation marketing |
 | Ambiguous | Do not invest in brand assets; operate under descriptive **Supplier Desk** in outreach |
 
-## Default operating decision (Days 1–14)
+## Default operating decision (Days 1–14) — **recorded**
+
+**Full memo:** [`brand-decision-memo.md`](brand-decision-memo.md) (2025-11-09).
 
 **Outreach and one-pagers lead with product name “Supplier Desk”.**  
-BidHarbour remains the **working company/repo name** until the founder:
+BidHarbour remains the **working company/repo name**. Do **not** invest in `bidharbour.com`. Reserve **HarbourResponse** domains if available. Defer full rename until after Week-4 unless IPO blocks.
+
+Founder still:
 
 1. Completes IPO Exact+Similar screenshots for BidHarbour + shortlist  
 2. Confirms Companies House name  
-3. Confirms/buys a clean `.co.uk` (or chooses HarbourResponse / other)  
-4. Optionally books solicitor clearance  
+3. Confirms/buys `harbourresponse.co.uk` / `.com` if free  
+4. Books solicitor clearance before incorporation / paid ads  
 
 Do **not** run paid ads or print logo merchandise under BidHarbour until steps above.
 
@@ -71,7 +75,8 @@ Do **not** run paid ads or print logo merchandise under BidHarbour until steps a
 
 ## Founder next actions (brand)
 
+- [x] Operating decision recorded → [`brand-decision-memo.md`](brand-decision-memo.md)  
 - [ ] Run IPO text search; save PDF/screenshots locally (not in git)  
-- [ ] Nominet lookup for preferred `.co.uk`  
-- [ ] Decide: keep BidHarbour working name **or** rename before week-3 outreach scale  
+- [ ] Nominet lookup / register HarbourResponse `.co.uk` (and `.com` if free)  
+- [ ] Revisit rename only at Week-4 gate (or sooner if IPO conflict)  
 - [ ] If incorporating, solicitor review before filing under chosen name
