@@ -107,7 +107,7 @@ Read `Docs/developer-map.md` first. For deep context pull one of:
 
 ### Shipped first-wave artefacts (keep honest)
 
-On `main` via PRs **#7–#14**: Week-1 outreach pack, brand decision (Supplier Desk / HarbourResponse reserve), solicitor cover, send runbook + reply scripts, A01–A10 contact hints, Week-1 send outcomes log wired to scorecard path, tracked agent master prompt (#13 / #14). Epics #1–#6 still open on GitHub.
+On `main` via PRs **#7–#15**: Week-1 outreach pack, brand decision (Supplier Desk / HarbourResponse reserve), solicitor cover, send runbook + reply scripts, A01–A10 contact hints, Week-1 send outcomes log, tracked agent master prompt + shipped-band sync (#13–#15). Epics #1–#6 still open on GitHub.
 
 **Next critical path (founder, not agent filler PRs):** execute `commercial/week1-send-runbook.md` → fill `commercial/week1-send-log.csv` → book `research/interview-grid-8wk.md` → update scorecard Actuals only after completed interviews.
 
@@ -116,6 +116,7 @@ On `main` via PRs **#7–#14**: Week-1 outreach pack, brand decision (Supplier D
 - No production auth/database / SaaS scaffold until validation scorecard **GO**.
 - Never invent personal emails or interview/scorecard Actuals; published company general inboxes OK; prefer LinkedIn for named people.
 - Do not invent filler commercial strategy docs when Week-1 pack is complete and scorecard Actual is still 0 — founder send is the bottleneck.
+- Do **not** open a PR solely to renumber the Shipped band after meta prompt syncs; only patch this file when Next critical path, gates, or posture change — or the user names a track. Bare continue with scorecard 0 / empty send log → **no PR**.
 - A08 Osprey: Bristol HQ — weak Norfolk ICP; consider skip. Size-check A03/A09; verify A07 directory contacts.
 - Do not process real customer packs until solicitor-cleared MSA/DPA.
 - Do not silent-pivot to holiday-property ops; RFQ only if PQQ validation fails.
