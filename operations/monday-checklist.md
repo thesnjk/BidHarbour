@@ -14,6 +14,7 @@
 - [x] Concierge pilot runbook + metrics → [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 - [x] A11–A20 public contact hints → [`../commercial/a11-a20-contact-hints.md`](../commercial/a11-a20-contact-hints.md)  
 - [x] Competitor honesty pass → [`../research/competitors.md`](../research/competitors.md)  
+- [x] NAAME/Hethel observation kit → [`../research/observation-kit-naame-hethel.md`](../research/observation-kit-naame-hethel.md)  
 
 ## Primary founder action (today)
 

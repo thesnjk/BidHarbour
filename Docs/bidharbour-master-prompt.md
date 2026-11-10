@@ -122,7 +122,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 2 | **done** | Concierge pilot runbook + metrics stub → `operations/concierge-pilot-runbook.md` linked from `research/pilot-design.md` | #2 |
 | 3 | **done** | CRM A11–A20 public contact enrichment (same pattern as A01–A10) | #6 |
 | 4 | **done** | Competitor matrix honesty pass — public pages only → `research/competitors.md` | #1 |
-| 5 | todo | Observation kit one-pager for NAAME/Hethel → wire to scorecard | #1 |
+| 5 | **done** | Observation kit one-pager for NAAME/Hethel → wire to scorecard | #1 |
 | 6 | todo | Brand clearance execution checklist (IPO/domain steps, no spend) → `strategy/` | #3 |
 | 7 | todo | When 1–6 done: re-rank from open epics #1–#6 + competitive gaps; append new rows surgically | — |
 
