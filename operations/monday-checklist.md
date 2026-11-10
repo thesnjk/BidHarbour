@@ -15,6 +15,7 @@
 - [x] A11–A20 public contact hints → [`../commercial/a11-a20-contact-hints.md`](../commercial/a11-a20-contact-hints.md)  
 - [x] Competitor honesty pass → [`../research/competitors.md`](../research/competitors.md)  
 - [x] NAAME/Hethel observation kit → [`../research/observation-kit-naame-hethel.md`](../research/observation-kit-naame-hethel.md)  
+- [x] Brand clearance execution checklist → [`../strategy/brand-clearance-execution.md`](../strategy/brand-clearance-execution.md)  
 
 ## Primary founder action (today)
 
@@ -25,5 +26,5 @@
 
 3. Fill founder constraints form (scenario A/B/C).  
 4. Send solicitor cover email (before any real pack upload).  
-5. IPO / HarbourResponse domain steps as capacity allows.  
+5. IPO / HarbourResponse domain steps → [`../strategy/brand-clearance-execution.md`](../strategy/brand-clearance-execution.md) (founder spend only).  
 6. **Do not** start auth/database code; **do not** use uncleared MSA/DPA stubs with customers.
