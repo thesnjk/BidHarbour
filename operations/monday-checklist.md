@@ -20,6 +20,7 @@
 - [x] Pack dry-run DRY-001 (empty library) → [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 - [x] Redacted SQ fixture (second buyer) → [`../testdata/redacted-sq-v1/`](../testdata/redacted-sq-v1/)  
 - [x] Pilot evidence-library intake → [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md) · [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv)  
+- [x] Subprocessors + pilot data flow (solicitor pack) → [`../security-and-legal/subprocessors-and-data-flow.md`](../security-and-legal/subprocessors-and-data-flow.md)  
 
 ## Primary founder action (today)
 
