@@ -1,0 +1,60 @@
+# Concierge pilot runbook (Supplier Desk)
+
+**Epic:** [#2](https://github.com/thesnjk/BidHarbour/issues/2)  
+**Design:** [`../research/pilot-design.md`](../research/pilot-design.md)  
+**Offer:** [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md)  
+**Metrics:** [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
+**Dry-run fixture:** [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/)
+
+**Product name:** Supplier Desk  
+**Delivery:** founder-operated; AI may draft only — **Approver** signs every export.
+
+## Preconditions
+
+| Check | Dry-run | Live pack |
+|-------|---------|-----------|
+| Named Approver with authority | Yes (second person OK) | Required |
+| Pilot MSA + DPA solicitor-cleared and signed | No | **Required** |
+| Fee received (or waiver logged) | N/A | Per offer sheet |
+| Encrypted transfer path; access limited to named accounts | Local folder OK | Required |
+| No model training on customer content | N/A | Required |
+
+**Do not** start a live pack until the Live column is satisfied.
+
+## Path A — Dry-run (ship first)
+
+1. Open [`../testdata/redacted-pqq-v1/questionnaire.md`](../testdata/redacted-pqq-v1/questionnaire.md).  
+2. Copy [`../testdata/redacted-pqq-v1/evidence-checklist.md`](../testdata/redacted-pqq-v1/evidence-checklist.md) to a working copy (do not invent evidence).  
+3. Start timer. For each question: attach a fictional source **or** mark **MISSING**.  
+4. Hand draft to Approver; record rework loops.  
+5. Export only after Approver approval or explicit waiver.  
+6. Stop timer; fill one row in [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) (`mode=dry_run`).
+
+## Path B — Live pack (after legal clearance)
+
+1. **Intake:** receive pack + evidence folder; log pack_id, customer, received_at in metrics CSV.  
+2. **Checklist:** extract requirements into a per-pack checklist (same shape as the fixture).  
+3. **Match:** map each requirement to approved library answers / evidence; flag expired, conflicting, customer-specific gaps.  
+4. **MISSING queue:** send customer the MISSING list; wait ≤3 business days per pilot design.  
+5. **Approver gate:** Approver reviews every statement; block export until approved/waived.  
+6. **Export:** deliver agreed formats only; no portal auto-submit.  
+7. **Log:** minutes, missing count at first draft, rework loops, support minutes → metrics CSV.  
+8. **Close pack:** store activity note; no win-rate claims in customer comms.
+
+Repeat for up to **3** packs in the 4-week window.
+
+## Metrics ritual
+
+After each pack (dry-run or live), one CSV row:
+
+- `minutes_to_first_draft`, `missing_fields_first_draft`, `rework_loops`, `support_minutes`, `export_approved` (yes/no)
+
+Friday: roll metrics into [`../research/validation-scorecard.md`](../research/validation-scorecard.md) only when they are real pilot results (not dry-run alone for GO criteria).
+
+## Stop rules
+
+- Never invent certifications, insurance, financials, or capabilities.  
+- Never claim bid-win or qualification rates.  
+- Never process live packs on uncleared MSA/DPA stubs.  
+- Never start production auth/database (pre-GO).  
+- Never commit live customer files to git.
