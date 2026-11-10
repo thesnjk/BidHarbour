@@ -4,7 +4,7 @@
 **Design:** [`../research/pilot-design.md`](../research/pilot-design.md)  
 **Offer:** [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md)  
 **Metrics:** [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
-**Dry-run fixture:** [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/)  
+**Dry-run fixtures:** [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/) (PQQ) · [`../testdata/redacted-sq-v1/`](../testdata/redacted-sq-v1/) (SQ, second buyer)  
 **Completed dry-run:** [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (DRY-001)
 
 **Product name:** Supplier Desk  
