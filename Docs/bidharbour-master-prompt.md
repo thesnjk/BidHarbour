@@ -120,7 +120,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 |---|--------|-------|------|
 | 1 | **done** | Redacted PQQ fixture + dry-run kit → `testdata/redacted-pqq-v1/` | #2 |
 | 2 | **done** | Concierge pilot runbook + metrics stub → `operations/concierge-pilot-runbook.md` linked from `research/pilot-design.md` | #2 |
-| 3 | todo | CRM A11–A20 public contact enrichment (same pattern as A01–A10) | #6 |
+| 3 | **done** | CRM A11–A20 public contact enrichment (same pattern as A01–A10) | #6 |
 | 4 | todo | Competitor matrix honesty pass — public pages only → `research/competitors.md` | #1 |
 | 5 | todo | Observation kit one-pager for NAAME/Hethel → wire to scorecard | #1 |
 | 6 | todo | Brand clearance execution checklist (IPO/domain steps, no spend) → `strategy/` | #3 |
