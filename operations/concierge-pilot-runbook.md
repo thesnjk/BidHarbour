@@ -4,7 +4,8 @@
 **Design:** [`../research/pilot-design.md`](../research/pilot-design.md)  
 **Offer:** [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md)  
 **Metrics:** [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
-**Dry-run fixture:** [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/)
+**Dry-run fixture:** [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/)  
+**Completed dry-run:** [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (DRY-001)
 
 **Product name:** Supplier Desk  
 **Delivery:** founder-operated; AI may draft only — **Approver** signs every export.
@@ -29,6 +30,8 @@
 4. Hand draft to Approver; record rework loops.  
 5. Export only after Approver approval or explicit waiver.  
 6. Stop timer; fill one row in [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) (`mode=dry_run`).
+
+**Done (2026-11-10):** empty-library DRY-001 → [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (22 MISSING; export blocked; metrics row filled).
 
 ## Path B — Live pack (after legal clearance)
 
