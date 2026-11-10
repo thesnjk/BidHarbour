@@ -5,6 +5,7 @@
 **CRM:** [`crm-accounts.csv`](crm-accounts.csv)  
 **Send log:** [`week1-send-log.csv`](week1-send-log.csv)  
 **Replies:** [`reply-booking-scripts.md`](reply-booking-scripts.md)  
+**Non-responders:** [`week1-nonresponder-followups.md`](week1-nonresponder-followups.md) (Day 3 / 7 / 14)  
 **Epics:** [#1](https://github.com/thesnjk/BidHarbour/issues/1) · [#6](https://github.com/thesnjk/BidHarbour/issues/6)
 
 **Product name in every email:** Supplier Desk  
@@ -15,7 +16,7 @@
 1. Fill [`../strategy/founder-scenarios.md`](../strategy/founder-scenarios.md) constraints form (scenario A/B/C).  
 2. Open CRM CSV + outreach pack side by side.  
 3. Prepare signature: name, phone, email (no auction/`bidharbour.com` branding).  
-4. Calendar: block follow-up reminders for **Day 3, 7, 14** after today’s send date.  
+4. Calendar: block follow-up reminders for **Day 3, 7, 14** after today’s send date — copy from [`week1-nonresponder-followups.md`](week1-nonresponder-followups.md).  
 5. Optional parallel: queue solicitor cover ([`../security-and-legal/solicitor-cover-email.md`](../security-and-legal/solicitor-cover-email.md)).
 
 ## Per account (repeat A01 → A10)

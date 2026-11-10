@@ -5,11 +5,7 @@
 **Email 1 — research ask**  
 See `research/customer-discovery-programme.md`.
 
-**Email 2 — artefact ask**  
-“When we speak, could we look at the structure of the last questionnaire (redacted is fine)? I’m mapping where time actually goes.”
-
-**Email 3 — breakup**  
-“Closing the loop — if customer packs aren’t a pain right now, that’s useful data too. Happy to reconnect in 6 months.”
+**Email 2 — artefact ask** · **Email 3 — breakup** · Day 3 bump: copy-ready Week-1 scripts for A01–A20 → [`week1-nonresponder-followups.md`](week1-nonresponder-followups.md).
 
 ## Pilot sequence (post pain confirmation)
 
