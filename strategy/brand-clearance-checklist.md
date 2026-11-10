@@ -75,8 +75,10 @@ Do **not** run paid ads or print logo merchandise under BidHarbour until steps a
 
 ## Founder next actions (brand)
 
+Execute the ordered runbook → [`brand-clearance-execution.md`](brand-clearance-execution.md).
+
 - [x] Operating decision recorded → [`brand-decision-memo.md`](brand-decision-memo.md)  
 - [ ] Run IPO text search; save PDF/screenshots locally (not in git)  
-- [ ] Nominet lookup / register HarbourResponse `.co.uk` (and `.com` if free)  
+- [ ] Nominet lookup / register HarbourResponse `.co.uk` (and `.com` if free) — **founder spend only**  
 - [ ] Revisit rename only at Week-4 gate (or sooner if IPO conflict)  
 - [ ] If incorporating, solicitor review before filing under chosen name

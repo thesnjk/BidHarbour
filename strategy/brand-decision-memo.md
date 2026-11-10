@@ -3,7 +3,8 @@
 **Date:** 9 November 2025  
 **Epic:** [#3 Brand clearance](https://github.com/thesnjk/BidHarbour/issues/3)  
 **Status:** Operating decision for customer discovery — **not** professional legal clearance  
-**Evidence base:** [`brand-clearance-checklist.md`](brand-clearance-checklist.md)
+**Evidence base:** [`brand-clearance-checklist.md`](brand-clearance-checklist.md)  
+**Execute next:** [`brand-clearance-execution.md`](brand-clearance-execution.md)
 
 ## Decision (validation period — through Week-4 / Week-8 gates)
 
@@ -30,6 +31,8 @@
 - No endorsement that BidHarbour is safe to trademark.
 
 ## Founder checklist (brand)
+
+Full step table → [`brand-clearance-execution.md`](brand-clearance-execution.md).
 
 - [ ] Run UK IPO Exact + Similar for BIDHARBOUR, BID HARBOUR, SUPPLIER DESK, HARBOURRESPONSE (classes 9, 35, 42); save screenshots locally (not in git)  
 - [ ] Companies House search for BidHarbour / Harbour Response / Supplier Desk  
