@@ -132,7 +132,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 12 | **done** | CRM A21–A30 public contact enrichment (same pattern as A11–A20) | #6 |
 | 13 | **done** | Week-1 non-responder follow-up scripts (A01–A20) → `commercial/` | #6 |
 | 14 | **done** | DRY-002 empty-library dry-run on `testdata/redacted-sq-v1/` → metrics + method note | #2 |
-| 15 | todo | Interview synthesis template (blank Actuals) wired to scorecard → `research/` | #1 |
+| 15 | **done** | Interview synthesis template (blank Actuals) wired to scorecard → `research/` | #1 |
 | 16 | todo | When 13–15 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)

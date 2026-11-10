@@ -3,6 +3,7 @@
 **Programme start:** _[founder fills date]_  
 **Targets (proposed, not proof):** 30 interviews (~10 AME / 10 marine / 10 construction control); ≥3 observations in lead niche; 3 paid pilots after week-4 gate.  
 **Scorecard:** [`validation-scorecard.md`](validation-scorecard.md) · [`validation-scorecard.xlsx`](validation-scorecard.xlsx)  
+**Synthesis (pain convergence):** [`interview-synthesis.md`](interview-synthesis.md)  
 **CRM:** [`../commercial/crm-accounts.csv`](../commercial/crm-accounts.csv)  
 **Week-1 send pack:** [`../commercial/week1-outreach-pack.md`](../commercial/week1-outreach-pack.md) (CRM A01–A10)  
 **Week-1 send log:** [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv) (fill on send; link booked slots here)  
@@ -50,9 +51,9 @@ Add rows as needed. **Week 1 acceptance:** ≥5 conversations booked ([`../strat
 
 ## Scorecard update ritual (every Friday)
 
-1. Count interviews by niche; compute same-pain %.  
+1. Fill new rows in [`interview-synthesis.md`](interview-synthesis.md); count by niche; compute same-pain %.  
 2. Append negative findings.  
-3. Update Actual column in scorecard.  
+3. Update Actual column in scorecard from synthesis tally only.  
 4. If week 4 or 8: record gate outcome in scorecard + this file.
 
 ## Week-4 decision log

@@ -24,6 +24,7 @@
 - [x] A21–A30 public contact hints → [`../commercial/a21-a30-contact-hints.md`](../commercial/a21-a30-contact-hints.md)  
 - [x] Week-1 non-responder follow-ups (Day 3/7/14) → [`../commercial/week1-nonresponder-followups.md`](../commercial/week1-nonresponder-followups.md)  
 - [x] Pack dry-run DRY-002 (SQ empty library) → [`pack-dry-run-dry-002.md`](pack-dry-run-dry-002.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
+- [x] Interview synthesis template → [`../research/interview-synthesis.md`](../research/interview-synthesis.md)  
 
 ## Primary founder action (today)
 
