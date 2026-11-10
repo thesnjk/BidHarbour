@@ -1,0 +1,27 @@
+doc_key,category,title,expected_evidence_type,applies_to,owner_role,expiry_required,status,received_at,expiry_or_review_date,version_label,storage_path_local,notes
+identity_ch,identity,Companies House extract / letterhead,Companies House extract or letterhead,both,Admin,no,not_received,,,,
+identity_address,identity,Registered + trading address proof,Letterhead / lease / CH filing,both,Admin,no,not_received,,,,
+identity_fte,identity,FTE count + year established,Internal HR note or accounts,both,Admin,no,not_received,,,,
+hseq_iso9001,hseq,ISO 9001 certificate,Certificate PDF (number scope expiry),both,HSEQ,yes,not_received,,,,
+hseq_iso14001_45001,hseq,ISO 14001 / 45001 or not-held note,Certificate PDF or not-held statement,both,HSEQ,yes,not_received,,,,
+hseq_riddor,hseq,RIDDOR summary (2 years),HSEQ log redacted,pqq,HSEQ,no,not_received,,,,
+hseq_lead,hseq,HSEQ lead CV / role,CV or role description,both,HSEQ,no,not_received,,,,
+ins_el,insurance,Employers liability schedule,Broker schedule,both,Admin,yes,not_received,,,,
+ins_pl,insurance,Public / products liability schedule,Broker schedule,both,Admin,yes,not_received,,,,
+ins_pi,insurance,Professional indemnity or N/A rationale,Broker schedule or N/A note,pqq,Admin,yes,not_received,,,,
+cap_processes,capability,Core processes statement,Capability statement,pqq,Ops,no,not_received,,,,
+cap_envelope,capability,Unit weight / envelope capacity,Shop specs or photos,both,Ops,no,not_received,,,,
+cap_subcontractors,capability,Approved vendor list / subcontractor control,AVL + control procedure,both,Ops,no,not_received,,,,
+cap_case_study,capability,Redacted multi-site case study,Redacted project note,pqq,Ops,no,not_received,,,,
+ethics_msa,ethics,Modern slavery statement or threshold note,Statement URL or threshold note,both,Admin,no,not_received,,,,
+ethics_dual_use,ethics,Dual-use / conflict minerals note,Policy or N/A rationale,pqq,Admin,no,not_received,,,,
+cyber_ce,cyber,Cyber Essentials or not-held,Certificate or not-held,both,IT,yes,not_received,,,,
+commercial_terms,commercial,Standard payment terms,Standard T&Cs,pqq,Admin,no,not_received,,,,
+commercial_quality_ack_generic,commercial,Generic quality plan / right-to-audit ack,Signed acknowledgement,pqq,Quality,no,not_received,,,,
+decl_adverse,declarations,Adverse / insolvency declarations,Director declaration,pqq,Director,no,not_received,,,,
+sq_otd_kpi,sq_performance,On-time delivery KPI export,ERP export or customer scorecard,sq,Ops,no,not_received,,,,Broads-class or equivalent
+sq_capa_open,sq_performance,Open NCR / CAPA count,Quality log extract,sq,Quality,no,not_received,,,,
+sq_capa_sample,sq_performance,Redacted CAPA sample (24 months),Redacted CAPA record,sq,Quality,no,not_received,,,,
+sq_site_visit,sq_site,Site-visit readiness note,Calendar / access constraints,sq,Ops,no,not_received,,,,
+sq_broads_qp_ack,sq_commercial,Broads OEM quality plan acknowledgement,Signed buyer-specific acknowledgement,sq,Quality,no,not_received,,,,Buyer-specific — not Harbour Wind
+decl_conflicts_buyer,declarations,Conflicts of interest (per buyer),Declaration form,both,Director,no,not_received,,,,Must name the active buyer

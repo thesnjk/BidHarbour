@@ -127,7 +127,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 7 | **done** | Re-rank from open epics + competitive gaps; append rows 8–12 | — |
 | 8 | **done** | Pack dry-run: walk `testdata/redacted-pqq-v1` → checklist/MISSING/Approver; fill DRY-001 in `operations/pilot-metrics-stub.csv` + short method note | #2 |
 | 9 | **done** | Second redacted fixture `testdata/redacted-sq-v1/` (different buyer / SQ-style) for multi-customer thesis | #2 |
-| 10 | todo | Pilot evidence-library intake CSV + instructions → `operations/` | #2 |
+| 10 | **done** | Pilot evidence-library intake CSV + instructions → `operations/` | #2 |
 | 11 | todo | Subprocessor inventory + data-flow one-pager for solicitor → `security-and-legal/` | #5 |
 | 12 | todo | CRM A21–A30 public contact enrichment (same pattern as A11–A20) | #6 |
 

@@ -5,7 +5,8 @@
 **Offer:** [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md)  
 **Metrics:** [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 **Dry-run fixtures:** [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/) (PQQ) · [`../testdata/redacted-sq-v1/`](../testdata/redacted-sq-v1/) (SQ, second buyer)  
-**Completed dry-run:** [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (DRY-001)
+**Completed dry-run:** [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (DRY-001)  
+**Evidence intake:** [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md) · [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv)
 
 **Product name:** Supplier Desk  
 **Delivery:** founder-operated; AI may draft only — **Approver** signs every export.
@@ -35,9 +36,9 @@
 
 ## Path B — Live pack (after legal clearance)
 
-1. **Intake:** receive pack + evidence folder; log pack_id, customer, received_at in metrics CSV.  
+1. **Intake:** receive pack + evidence folder; log pack_id, customer, received_at in metrics CSV; update a **local** copy of [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv) per [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md).  
 2. **Checklist:** extract requirements into a per-pack checklist (same shape as the fixture).  
-3. **Match:** map each requirement to approved library answers / evidence; flag expired, conflicting, customer-specific gaps.  
+3. **Match:** map each requirement to intake `doc_key`s / approved library answers; flag expired, conflicting, customer-specific gaps; anything `not_received` → **MISSING**.  
 4. **MISSING queue:** send customer the MISSING list; wait ≤3 business days per pilot design.  
 5. **Approver gate:** Approver reviews every statement; block export until approved/waived.  
 6. **Export:** deliver agreed formats only; no portal auto-submit.  
