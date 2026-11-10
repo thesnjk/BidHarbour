@@ -22,6 +22,7 @@
 - [x] Pilot evidence-library intake → [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md) · [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv)  
 - [x] Subprocessors + pilot data flow (solicitor pack) → [`../security-and-legal/subprocessors-and-data-flow.md`](../security-and-legal/subprocessors-and-data-flow.md)  
 - [x] A21–A30 public contact hints → [`../commercial/a21-a30-contact-hints.md`](../commercial/a21-a30-contact-hints.md)  
+- [x] Week-1 non-responder follow-ups (Day 3/7/14) → [`../commercial/week1-nonresponder-followups.md`](../commercial/week1-nonresponder-followups.md)  
 
 ## Primary founder action (today)
 

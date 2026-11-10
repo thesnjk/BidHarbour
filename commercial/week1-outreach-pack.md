@@ -13,7 +13,7 @@
 
 ## Shared follow-up (Day 3 / 7 / 14)
 
-Use after Email 1 if no reply — see [`outreach-sequences.md`](outreach-sequences.md).
+Use after Email 1 if no reply — full copy-ready scripts: [`week1-nonresponder-followups.md`](week1-nonresponder-followups.md) (summary also in [`outreach-sequences.md`](outreach-sequences.md)).
 
 **Day 3 (LinkedIn note):**  
 “Hi {{Name}} — emailed about how Norfolk suppliers handle customer qualification packs. Would 25 minutes on your last pack help my research? Happy to share anonymised patterns back.”
