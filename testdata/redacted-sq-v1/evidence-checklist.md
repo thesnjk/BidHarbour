@@ -26,9 +26,11 @@
 
 ## Dry-run scoring (fill after attempt)
 
+Completed **DRY-002** (empty library) — see [`../../operations/pack-dry-run-dry-002.md`](../../operations/pack-dry-run-dry-002.md).
+
 | Metric | Value |
 |--------|-------|
-| Minutes to first complete draft | |
-| Fields MISSING at first draft | /18 |
-| Rework loops after Approver review | |
-| Export blocked until Approver sign-off? (yes/no) | |
+| Minutes to first complete draft | 1 |
+| Fields MISSING at first draft | 18/18 |
+| Rework loops after Approver review | 1 |
+| Export blocked until Approver sign-off? (yes/no) | yes (export_approved=no; no waiver) |

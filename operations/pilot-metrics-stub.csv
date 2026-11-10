@@ -1,5 +1,6 @@
 pack_id,mode,customer_or_fixture,received_at,completed_at,minutes_to_first_draft,missing_fields_first_draft,rework_loops,support_minutes,export_approved,notes
 DRY-001,dry_run,testdata/redacted-pqq-v1,2026-11-10T19:04:05Z,2026-11-10T19:04:35Z,1,22,1,0,no,empty-library Path A; see pack-dry-run-dry-001.md
+DRY-002,dry_run,testdata/redacted-sq-v1,2026-11-10T21:56:00Z,2026-11-10T21:56:08Z,1,18,1,0,no,empty-library Path A Broads SQ; see pack-dry-run-dry-002.md
 P01,live,,,,,,,,
 P02,live,,,,,,,,
 P03,live,,,,,,,,

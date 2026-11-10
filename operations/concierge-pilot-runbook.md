@@ -5,7 +5,7 @@
 **Offer:** [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md)  
 **Metrics:** [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 **Dry-run fixtures:** [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/) (PQQ) · [`../testdata/redacted-sq-v1/`](../testdata/redacted-sq-v1/) (SQ, second buyer)  
-**Completed dry-run:** [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (DRY-001)  
+**Completed dry-runs:** [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (DRY-001 PQQ) · [`pack-dry-run-dry-002.md`](pack-dry-run-dry-002.md) (DRY-002 SQ)  
 **Evidence intake:** [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md) · [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv)
 
 **Product name:** Supplier Desk  
@@ -32,7 +32,8 @@
 5. Export only after Approver approval or explicit waiver.  
 6. Stop timer; fill one row in [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) (`mode=dry_run`).
 
-**Done (2026-11-10):** empty-library DRY-001 → [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (22 MISSING; export blocked; metrics row filled).
+**Done (2026-11-10):** empty-library DRY-001 → [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (22 MISSING; export blocked).  
+**Done (2026-11-10):** empty-library DRY-002 → [`pack-dry-run-dry-002.md`](pack-dry-run-dry-002.md) (18 MISSING Broads SQ; export blocked; multi-customer thesis).
 
 ## Path B — Live pack (after legal clearance)
 
