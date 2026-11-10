@@ -14,6 +14,10 @@ Concierge pilot operable **before** full development.
 | Delivery | Founder-operated concierge using library + checklist + human approve |
 | Fee | **£250–£750 ex VAT** *(Proposed experiment)* — suggest £500 mid |
 
+## Dry-run fixture (before real packs)
+
+Use synthetic kit [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/) to rehearse checklist → MISSING → Approver → export. **No** live customer documents until MSA/DPA cleared.
+
 ## Baseline measurements (week 0)
 
 - Minutes for last comparable pack (participant estimate + any timesheets)  

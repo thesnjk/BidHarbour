@@ -10,6 +10,7 @@
 - [x] Week-1 send runbook + reply scripts → [`../commercial/week1-send-runbook.md`](../commercial/week1-send-runbook.md) · [`../commercial/reply-booking-scripts.md`](../commercial/reply-booking-scripts.md)  
 - [x] A01–A10 public contact hints → [`../commercial/a01-a10-contact-hints.md`](../commercial/a01-a10-contact-hints.md)  
 - [x] Week-1 send outcomes log → [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv)  
+- [x] Redacted PQQ dry-run fixture → [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/)  
 
 ## Primary founder action (today)
 

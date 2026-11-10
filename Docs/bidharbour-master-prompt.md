@@ -93,7 +93,8 @@ Do **not** invent interviews, survey results, quotations, competitor prices, mar
 | `commercial/` | GTM scripts, outreach, CRM stages |
 | `finance/` | 24-month model, pricing notes |
 | `operations/` | Runbooks, KPIs, onboarding |
-| `Docs/` | developer-map, architecture, legal-data-policy |
+| `Docs/` | developer-map, architecture, legal-data-policy, master prompt |
+| `testdata/` | Redacted synthetic fixtures only (no live customer packs) |
 | `.firecrawl/` | Local competitive research dumps (gitignored) |
 
 Read `Docs/developer-map.md` first. For deep context pull one of:
@@ -107,16 +108,29 @@ Read `Docs/developer-map.md` first. For deep context pull one of:
 
 ### Shipped first-wave artefacts (keep honest)
 
-On `main` via PRs **#7–#15**: Week-1 outreach pack, brand decision (Supplier Desk / HarbourResponse reserve), solicitor cover, send runbook + reply scripts, A01–A10 contact hints, Week-1 send outcomes log, tracked agent master prompt + shipped-band sync (#13–#15). Epics #1–#6 still open on GitHub.
+Week-1 commercial pack, brand decision, solicitor cover, contact hints, send log, tracked master prompt (PRs **#7–#16**+). Epics #1–#6 still open. Do **not** open a PR solely to renumber this band.
 
-**Next critical path (founder, not agent filler PRs):** execute `commercial/week1-send-runbook.md` → fill `commercial/week1-send-log.csv` → book `research/interview-grid-8wk.md` → update scorecard Actuals only after completed interviews.
+**Founder parallel track (does not block the agent):** execute `commercial/week1-send-runbook.md` → fill `commercial/week1-send-log.csv` → book `research/interview-grid-8wk.md` → update scorecard Actuals only after completed interviews.
+
+### Self-service agent backlog (ordered — never idle)
+
+On every bare continue / attach of this file: pick the **first unfinished** row, implement it end-to-end on a feature branch, open a PR, print `gh pr merge <n> --squash`, and mark the row **done** in this table in the **same** PR. Never ask the user what to do next. Never stop because the founder has not sent email yet.
+
+| # | Status | Slice | Epic |
+|---|--------|-------|------|
+| 1 | **done** | Redacted PQQ fixture + dry-run kit → `testdata/redacted-pqq-v1/` | #2 |
+| 2 | todo | Concierge pilot runbook + metrics stub → `operations/concierge-pilot-runbook.md` linked from `research/pilot-design.md` | #2 |
+| 3 | todo | CRM A11–A20 public contact enrichment (same pattern as A01–A10) | #6 |
+| 4 | todo | Competitor matrix honesty pass — public pages only → `research/competitors.md` | #1 |
+| 5 | todo | Observation kit one-pager for NAAME/Hethel → wire to scorecard | #1 |
+| 6 | todo | Brand clearance execution checklist (IPO/domain steps, no spend) → `strategy/` | #3 |
+| 7 | todo | When 1–6 done: re-rank from open epics #1–#6 + competitive gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 
 - No production auth/database / SaaS scaffold until validation scorecard **GO**.
 - Never invent personal emails or interview/scorecard Actuals; published company general inboxes OK; prefer LinkedIn for named people.
-- Do not invent filler commercial strategy docs when Week-1 pack is complete and scorecard Actual is still 0 — founder send is the bottleneck.
-- Do **not** open a PR solely to renumber the Shipped band after meta prompt syncs; only patch this file when Next critical path, gates, or posture change — or the user names a track. Bare continue with scorecard 0 / empty send log → **no PR**.
+- Do **not** open a PR solely to renumber the Shipped band or idle-hold; always advance the self-service backlog instead.
 - A08 Osprey: Bristol HQ — weak Norfolk ICP; consider skip. Size-check A03/A09; verify A07 directory contacts.
 - Do not process real customer packs until solicitor-cleared MSA/DPA.
 - Do not silent-pivot to holiday-property ops; RFQ only if PQQ validation fails.
@@ -131,11 +145,11 @@ When the user only attached this file (or said “continue” / “go”) and th
 2. **Surface matrix** — For each BidHarbour surface note Lead / Parity / Gap with one evidence path. Prefer `research/competitor-matrix.md`.
 3. **Diff** — Compare against scorecard and backlog. Do not invent features from marketing fluff.
 4. **Personas** — Re-rank for: Norfolk fab MD, quality coordinator, marine services ops lead.
-5. **Re-rank** — Prefer agent-doable work that closes a real **supplier-side pack assembly** gap.
+5. **Re-rank** — Prefer agent-doable work that closes a real **supplier-side pack assembly** gap; append winners to the self-service backlog if empty.
 6. **Gates** — Skip work needing paid API keys or customer confidential documents the user has not provided. Prefer redacted fixtures.
 7. **Bias** — Prefer validation evidence and pilot metrics over brochure features. State a one-line competitive rationale in the plan and handoff.
 
-**Pre-validation default:** prioritize interviews, observations and concierge pilots over feature epics. Prefer agent-doable ungated artefacts only when they shorten founder send → book → scorecard; otherwise wait for founder outcomes or a user-named track.
+**Pre-validation default:** prioritize interviews, observations and concierge-pilot **artefacts** (fixtures, runbooks, CRM enrichment) over SaaS. Founder outreach runs in parallel — it does **not** pause the self-service backlog.
 
 ---
 
@@ -181,14 +195,14 @@ Honor `Docs/legal-data-policy.md`:
 
 ## Default session loop
 
-1. **Orient** — `git status` / recent commits; read `Docs/developer-map.md` + one active doc; check scorecard / send log.
-2. **Goal** — if the user stated a goal, own it; if “continue,” pre-GO → discovery/pilot or user-named track (not filler commercial PRs); post-GO → competitive loop then highest-value ungated track.
+1. **Orient** — `git status` / recent commits; read self-service backlog + `Docs/developer-map.md`.
+2. **Goal** — if the user stated a goal, own it; if “continue,” take the first **todo** backlog row (post-GO: competitive re-rank first, then backlog or new rows). Never idle.
 3. **Plan** — short plan; no blocking Q&A unless irreversible/costly/secret. Prefer issue-linked PR workflow.
-4. **Implement** — docs, templates, research artefacts, or code on a feature branch; keep secrets and customer files out.
+4. **Implement** — docs, fixtures, research artefacts, or code on a feature branch; keep secrets and customer files out.
 5. **Verify** — pilot metrics / tests / scorecard honesty; fix failures you caused.
 6. **Docs honesty** — update touched committed Docs in the same PR when behaviour/process artefacts change.
-7. **Self-improve** — apply **Self-improving standing orders** (surgical edit to this file) when durable facts changed; include those edits in the same PR when shipping related work.
-8. **Handoff** — summarize what changed; open/update the PR when appropriate; leave a substantive review note; **print merge commands** for the user (unless they asked you to merge).
+7. **Self-improve** — mark the backlog row **done**; append new rows if exhausted; include prompt edits in the same PR.
+8. **Handoff** — summarize what changed; open/update the PR; leave a substantive review note; **print merge commands** for the user (unless they asked you to merge).
 
 ---
 
@@ -266,14 +280,13 @@ This prompt is living standing orders for **this** BidHarbour project (tracked i
 
 If the user attached only this file (or said “continue” / “go”), immediately:
 
-1. Inspect workspace / scorecard / send log / recent PRs.
-2. If pre-GO: advance **agent-doable** discovery/pilot artefacts when ungated — **not** production SaaS. If Week-1 commercial pack is complete and scorecard Actual is 0, do **not** open filler commercial PRs; critical path is founder send unless the user names another track or pastes send outcomes.
-3. If post-GO: run competitive sweep, then highest-value ungated MVP track with issue-linked PR.
-4. Plan and execute on a feature branch without waiting for more questions unless irreversible/costly/secret.
-5. Open/update a PR with Summary + Test plan when there is product work; leave a substantive review note; **print merge commands**:
+1. Inspect workspace; read **Self-service agent backlog**.
+2. Pre-GO: take the first **todo** backlog row — **not** production SaaS. Post-GO: competitive sweep, then backlog or newly appended ungated MVP track.
+3. Plan and execute on a feature branch without waiting for more questions unless irreversible/costly/secret. Do not ask what next. Do not idle-hold.
+4. Open/update a PR with Summary + Test plan; leave a substantive review note; **print merge commands**:
 
 ```bash
 gh pr merge <n> --squash
 ```
 
-6. Apply **Self-improving standing orders** — surgical patch to this file in the PR when a durable BidHarbour lesson emerged.
+5. In that PR: mark the backlog row **done** (Self-improving standing orders). If the backlog is empty, append the next 3–5 agent-doable slices from open epics before ending.
