@@ -11,7 +11,8 @@
 | 2 | [`dpa-stub.md`](dpa-stub.md) | Processor DPA outline |
 | 3 | [`tos-privacy-stubs.md`](tos-privacy-stubs.md) | Privacy / ToS / AUP headings |
 | 4 | [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md) | Commercial offer context (£500 mid, 3 packs, 4 weeks) |
-| 5 | Optional: [`security-privacy-legal.md`](security-privacy-legal.md) | Control classification map |
+| 5 | [`subprocessors-and-data-flow.md`](subprocessors-and-data-flow.md) | Subprocessor inventory + concierge data flow |
+| 6 | Optional: [`security-privacy-legal.md`](security-privacy-legal.md) | Control classification map |
 
 ## Cover email
 

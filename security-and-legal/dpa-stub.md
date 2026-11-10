@@ -29,7 +29,8 @@ Instructions; confidentiality; security measures; subprocessors; international t
 
 ## Subprocessors
 
-List hosting, OCR, LLM, email, payments — update URL.
+Working inventory + pilot data flow → [`subprocessors-and-data-flow.md`](subprocessors-and-data-flow.md).  
+Replace with solicitor-approved annex before customer use.
 
 ## Liability / indemnity
 

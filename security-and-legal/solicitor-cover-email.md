@@ -37,6 +37,7 @@ Before any real customer document packs are processed, I need you to review and 
 - `pilot-msa-stub.md`  
 - `dpa-stub.md`  
 - `tos-privacy-stubs.md`  
+- `subprocessors-and-data-flow.md` (working subprocessor list + pilot data flow)  
 - `pilot-offer-sheet.md` (commercial offer — for context)  
 
 **Please return**
