@@ -18,6 +18,7 @@
 - [x] Brand clearance execution checklist → [`../strategy/brand-clearance-execution.md`](../strategy/brand-clearance-execution.md)  
 - [x] Backlog re-rank: rows 8–12 queued (dry-run metrics, SQ fixture, evidence intake, subprocessors, CRM A21–A30) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Pack dry-run DRY-001 (empty library) → [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
+- [x] Redacted SQ fixture (second buyer) → [`../testdata/redacted-sq-v1/`](../testdata/redacted-sq-v1/)  
 
 ## Primary founder action (today)
 

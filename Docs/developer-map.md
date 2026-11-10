@@ -24,7 +24,7 @@ Scorecard: `research/validation-scorecard.md`
 | `finance/` | Model and pricing | `model-24mo.xlsx`, `pricing.md` |
 | `operations/` | Run model | KPIs, RACI, runbooks |
 | `Docs/` | Committed thin docs | this file, architecture, legal-data-policy, master prompt |
-| `testdata/` | Redacted synthetic fixtures only | `redacted-pqq-v1/` |
+| `testdata/` | Redacted synthetic fixtures only | `redacted-pqq-v1/`, `redacted-sq-v1/` |
 | `.firecrawl/` | Local research dumps | **gitignored** |
 
 ## Agent standing orders
