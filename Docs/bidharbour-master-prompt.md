@@ -108,7 +108,7 @@ Read `Docs/developer-map.md` first. For deep context pull one of:
 
 ### Shipped first-wave artefacts (keep honest)
 
-Week-1 commercial pack, brand decision, solicitor cover, contact hints, send log, tracked master prompt (PRs **#7–#16**+). Epics #1–#6 still open. Do **not** open a PR solely to renumber this band.
+Week-1 commercial pack, brand decision + clearance execution checklist, solicitor cover, contact hints, send log, tracked master prompt (PRs **#7–#22**+). Epics #2–#6 open (#1 closed on GitHub; scorecard Actuals still 0). Do **not** open a PR solely to renumber this band.
 
 **Founder parallel track (does not block the agent):** execute `commercial/week1-send-runbook.md` → fill `commercial/week1-send-log.csv` → book `research/interview-grid-8wk.md` → update scorecard Actuals only after completed interviews.
 
@@ -124,7 +124,12 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 4 | **done** | Competitor matrix honesty pass — public pages only → `research/competitors.md` | #1 |
 | 5 | **done** | Observation kit one-pager for NAAME/Hethel → wire to scorecard | #1 |
 | 6 | **done** | Brand clearance execution checklist (IPO/domain steps, no spend) → `strategy/` | #3 |
-| 7 | todo | When 1–6 done: re-rank from open epics #1–#6 + competitive gaps; append new rows surgically | — |
+| 7 | **done** | Re-rank from open epics + competitive gaps; append rows 8–12 | — |
+| 8 | todo | Pack dry-run: walk `testdata/redacted-pqq-v1` → checklist/MISSING/Approver; fill DRY-001 in `operations/pilot-metrics-stub.csv` + short method note | #2 |
+| 9 | todo | Second redacted fixture `testdata/redacted-sq-v1/` (different buyer / SQ-style) for multi-customer thesis | #2 |
+| 10 | todo | Pilot evidence-library intake CSV + instructions → `operations/` | #2 |
+| 11 | todo | Subprocessor inventory + data-flow one-pager for solicitor → `security-and-legal/` | #5 |
+| 12 | todo | CRM A21–A30 public contact enrichment (same pattern as A11–A20) | #6 |
 
 ### Known gates / failed approaches (do not repeat)
 
