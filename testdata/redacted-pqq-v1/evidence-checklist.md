@@ -1,0 +1,37 @@
+# Evidence checklist — redacted-pqq-v1
+
+**Rules:** Each row must end as `draft` (source cited), `approved`, `waived`, or `MISSING`. Never silent-fill.
+
+| Q | Topic | Expected evidence type | Status | Notes / gap |
+|---|-------|------------------------|--------|-------------|
+| 1 | Legal name / CH number | Companies House extract or letterhead | MISSING | |
+| 2 | Addresses | Letterhead / lease / CH filing | MISSING | |
+| 3 | Group structure | Org chart or CH PSC | MISSING | |
+| 4 | FTE / founded | Internal HR note or accounts | MISSING | |
+| 5 | ISO 9001 | Certificate PDF (number, scope, expiry) | MISSING | |
+| 6 | ISO 14001 / 45001 | Certificate PDF or “not held” | MISSING | |
+| 7 | RIDDOR | HSEQ log (redacted) | MISSING | |
+| 8 | HSEQ lead | CV / role description | MISSING | |
+| 9 | EL insurance | Broker schedule | MISSING | |
+| 10 | PL insurance | Broker schedule | MISSING | |
+| 11 | PI insurance | Broker schedule or N/A rationale | MISSING | |
+| 12 | Core processes | Capability statement | MISSING | |
+| 13 | Capacity envelope | Shop specs / photos | MISSING | |
+| 14 | Subcontractors | Approved vendor list | MISSING | |
+| 15 | Case study | Redacted project note | MISSING | |
+| 16 | Modern slavery | Statement URL or threshold note | MISSING | |
+| 17 | Dual-use / minerals | Policy or N/A rationale | MISSING | |
+| 18 | Cyber Essentials | Certificate or “not held” | MISSING | |
+| 19 | Payment terms | Standard T&Cs | MISSING | |
+| 20 | Quality plan / audit | Signed acknowledgement | MISSING | |
+| 21 | Adverse declarations | Director declaration | MISSING | |
+| 22 | Conflicts | Declaration form | MISSING | |
+
+## Dry-run scoring (fill after attempt)
+
+| Metric | Value |
+|--------|-------|
+| Minutes to first complete draft | |
+| Fields MISSING at first draft | /22 |
+| Rework loops after Approver review | |
+| Export blocked until Approver sign-off? (yes/no) | |
