@@ -14,8 +14,8 @@ Targets are **proposed research targets**, not statistical proof.
 
 ## Recruitment methods
 
-1. NAAME meeting attend / follow-up (no implied endorsement)  
-2. Hethel Engineering Centre network introductions  
+1. NAAME meeting attend / follow-up (no implied endorsement) — field kit: [`observation-kit-naame-hethel.md`](observation-kit-naame-hethel.md)  
+2. Hethel Engineering Centre network introductions — same kit  
 3. LinkedIn search: Norfolk MD / Quality Manager + fabrication/marine keywords  
 4. EEEZ / ORE Catapult alumni / F4OR company lists (public)  
 5. Warm intros from any founder contacts  
@@ -47,7 +47,7 @@ See `research/interview-guide.md` — recent behaviour and actual documents only
 
 ## Observation checklist
 
-See `research/observation-checklist.md`.
+See [`observation-checklist.md`](observation-checklist.md) and field kit [`observation-kit-naame-hethel.md`](observation-kit-naame-hethel.md).
 
 ## Research recording template
 
