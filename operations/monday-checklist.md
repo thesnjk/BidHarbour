@@ -11,6 +11,7 @@
 - [x] A01–A10 public contact hints → [`../commercial/a01-a10-contact-hints.md`](../commercial/a01-a10-contact-hints.md)  
 - [x] Week-1 send outcomes log → [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv)  
 - [x] Redacted PQQ dry-run fixture → [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/)  
+- [x] Concierge pilot runbook + metrics → [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 
 ## Primary founder action (today)
 

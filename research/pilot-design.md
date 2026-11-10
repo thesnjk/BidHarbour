@@ -18,6 +18,8 @@ Concierge pilot operable **before** full development.
 
 Use synthetic kit [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/) to rehearse checklist → MISSING → Approver → export. **No** live customer documents until MSA/DPA cleared.
 
+**Runbook:** [`../operations/concierge-pilot-runbook.md`](../operations/concierge-pilot-runbook.md) · **Metrics stub:** [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv)
+
 ## Baseline measurements (week 0)
 
 - Minutes for last comparable pack (participant estimate + any timesheets)  
