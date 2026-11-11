@@ -108,7 +108,7 @@ Read `Docs/developer-map.md` first. For deep context pull one of:
 
 ### Shipped first-wave artefacts (keep honest)
 
-Week-1 commercial pack through interview synthesis + DRY-001/002 (PRs **#7–#31**+). Epics #2–#6 open (#1 closed on GitHub; scorecard Actuals still 0). Do **not** open a PR solely to renumber this band.
+Week-1 commercial pack through Week-4 gate checklist + DRY-001/002 + synthetic library (PRs **#7–#36**+). Epics #2–#6 open (#1 closed on GitHub; scorecard Actuals still 0). Do **not** open a PR solely to renumber this band.
 
 **Founder parallel track (does not block the agent):** execute `commercial/week1-send-runbook.md` → fill `commercial/week1-send-log.csv` → book `research/interview-grid-8wk.md` → update scorecard Actuals only after completed interviews.
 
@@ -138,7 +138,12 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 18 | **done** | Synthetic approved-answer / evidence-library stub mapped to intake `doc_key`s → `testdata/` or `operations/` | #2 |
 | 19 | **done** | MISSING-queue customer email + Approver export-manifest templates → `operations/` | #2 |
 | 20 | **done** | Week-4 gate decision checklist wired to scorecard + interview-synthesis → `research/` | #1 |
-| 21 | todo | When 17–20 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 21 | **done** | Re-rank from open epics + gaps; append rows 22–26 | — |
+| 22 | todo | CRM A41–A50 public contact enrichment (complete first-50; same pattern as A31–A40) | #6 |
+| 23 | todo | DRY-003 partial-library dry-run: `redacted-pqq-v1` + `synthetic-evidence-library-v1` → metrics + method note | #2 |
+| 24 | todo | Pilot continuation / close-out scripts (post-export) → `operations/` or `commercial/` | #2 |
+| 25 | todo | Week-8 gate decision checklist stub wired to scorecard → `research/` | #1 |
+| 26 | todo | When 22–25 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 

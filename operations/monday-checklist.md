@@ -30,6 +30,7 @@
 - [x] Synthetic evidence / approved-answer library → [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/)  
 - [x] MISSING-queue email + export manifest → [`missing-queue-email.md`](missing-queue-email.md) · [`export-manifest-template.md`](export-manifest-template.md)  
 - [x] Week-4 gate decision checklist → [`../research/week4-gate-checklist.md`](../research/week4-gate-checklist.md)  
+- [x] Backlog re-rank: rows 22–26 queued (CRM A41–A50, DRY-003 partial-library, pilot close-out, Week-8 gate) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 
 ## Primary founder action (today)
 
