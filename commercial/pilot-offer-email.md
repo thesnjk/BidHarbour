@@ -3,6 +3,7 @@
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
 **Status:** Draft customer copy. **Advice required.** Not legal advice; **not** a substitute for a solicitor-cleared MSA/DPA.  
 **Offer facts:** [`pilot-offer-sheet.md`](pilot-offer-sheet.md) · Kickoff: [`../operations/pilot-kickoff-checklist.md`](../operations/pilot-kickoff-checklist.md) · Fee log: [`../operations/pilot-fee-waiver-log.md`](../operations/pilot-fee-waiver-log.md)  
+**Bridge checklist (discovery/observation → offer):** [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md)  
 **Solicitor pack (separate):** [`../security-and-legal/solicitor-send-checklist.md`](../security-and-legal/solicitor-send-checklist.md)  
 **Product name:** Supplier Desk
 

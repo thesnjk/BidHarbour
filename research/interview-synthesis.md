@@ -3,7 +3,8 @@
 **Purpose:** Roll up completed interviews for Week-4 **pain convergence** and workflow evidence — feeds [`validation-scorecard.md`](validation-scorecard.md).  
 **Per-interview capture:** [`recording-template.md`](recording-template.md) (`INT-YYYYMMDD-##`)  
 **Guide:** [`interview-guide.md`](interview-guide.md)  
-**Disconfirming:** [`negative-findings.md`](negative-findings.md)
+**Disconfirming:** [`negative-findings.md`](negative-findings.md)  
+**Next (pilot conversion):** [`discovery-pilot-offer-bridge.md`](discovery-pilot-offer-bridge.md)
 
 **Evidence label:** Template only until rows are filled from **completed** interviews.  
 **Do not** invent quotes, INT IDs, or scorecard Actuals. Send/reply alone is not evidence.
