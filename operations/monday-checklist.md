@@ -31,6 +31,7 @@
 - [x] MISSING-queue email + export manifest → [`missing-queue-email.md`](missing-queue-email.md) · [`export-manifest-template.md`](export-manifest-template.md)  
 - [x] Week-4 gate decision checklist → [`../research/week4-gate-checklist.md`](../research/week4-gate-checklist.md)  
 - [x] Backlog re-rank: rows 22–26 queued (CRM A41–A50, DRY-003 partial-library, pilot close-out, Week-8 gate) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
+- [x] A41–A50 public contact hints (first-50 complete) → [`../commercial/a41-a50-contact-hints.md`](../commercial/a41-a50-contact-hints.md)  
 
 ## Primary founder action (today)
 
