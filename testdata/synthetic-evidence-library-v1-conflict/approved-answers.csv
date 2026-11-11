@@ -1,0 +1,29 @@
+doc_key,applies_to,approval_status,answer_summary,evidence_label,expiry_or_review_date,notes
+identity_ch,both,approved,"SYNTHETIC: East Anglia Precision Fabrication Ltd — fictional CH 99999999 (not a real company).",SYNTH-CH-LETTERHEAD-v1,2027-06-01,Fixture only
+identity_address,both,approved,"SYNTHETIC: Registered office Unit 1 Harbour Yard, Great Yarmouth NR30 0AA (fictional).",SYNTH-ADDRESS-LETTERHEAD-v1,2027-06-01,
+identity_fte,both,approved,"SYNTHETIC: 28 FTE; established 2009 (fictional HR note).",SYNTH-HR-FTE-v1,2026-12-31,
+identity_group,both,approved,"SYNTHETIC: Standalone company — no parent group; single-entity org note (fictional CH PSC / org chart stub).",SYNTH-GROUP-ORG-v1,2027-06-01,Closes PQQ Q3 gap for future partial-library runs
+hseq_iso9001,both,approved,"SYNTHETIC: ISO 9001:2015 cert SYNTH-UKAS-9001-001; scope fabrication; expiry 2027-03-15.",SYNTH-ISO9001-v1,2027-03-15,Do not treat as real cert
+hseq_iso14001_45001,both,approved,"SYNTHETIC: ISO 14001/45001 not held — written not-held note on file.",SYNTH-ISO-NOTHELD-v1,2027-01-01,
+hseq_riddor,pqq,approved,"SYNTHETIC: 0 RIDDOR reportable incidents in last 24 months (redacted HSEQ log).",SYNTH-RIDDOR-LOG-v1,2026-12-31,
+hseq_lead,both,approved,"SYNTHETIC: HSEQ lead 'Alex Example' — fictional CV / role description only.",SYNTH-HSEQ-CV-v1,2027-06-01,Name is fictional
+ins_el,both,approved,"SYNTHETIC: EL £10m; insurer Example Brokers; policy SYNTH-EL-001; expiry 2026-12-31.",SYNTH-EL-SCHED-v1,2026-12-31,
+ins_pl,both,approved,"SYNTHETIC: PL/products £5m; policy SYNTH-PL-001; expiry 2026-12-31.",SYNTH-PL-SCHED-v1,2026-12-31,
+ins_pl,both,approved,"SYNTHETIC: PL/products £10m; policy SYNTH-PL-002-RNW; expiry 2027-06-30; renewal — prior schedule still in folder.",SYNTH-PL-SCHED-v2-RNW,2027-06-30,DRY-006 — duplicate doc_key; Approver must pick or retire one
+ins_pi,pqq,approved,"SYNTHETIC: PI N/A — no design advice offered (written rationale).",SYNTH-PI-NA-v1,2027-01-01,
+cap_processes,pqq,approved,"SYNTHETIC: CNC, MIG/TIG, powder coat — capability statement stub.",SYNTH-CAPABILITY-v1,2027-06-01,
+cap_envelope,both,approved,"SYNTHETIC: Max 3.5t / 6m length in-house (shop note).",SYNTH-SHOP-SPEC-v1,2027-06-01,
+cap_subcontractors,both,approved,"SYNTHETIC: AVL lists fictional NDT + galvaniser; control procedure stub.",SYNTH-AVL-v1,2027-01-01,
+cap_case_study,pqq,draft,"SYNTHETIC DRAFT: Redacted multi-site pack example — needs Approver before reuse.",SYNTH-CASE-DRAFT-v1,2027-01-01,draft only
+ethics_msa,both,approved,"SYNTHETIC: Turnover below MSA threshold — threshold note on file.",SYNTH-MSA-THRESHOLD-v1,2027-01-01,
+ethics_dual_use,pqq,approved,"SYNTHETIC: Dual-use / conflict minerals N/A for current product mix.",SYNTH-DUALUSE-NA-v1,2027-01-01,
+cyber_ce,both,approved,"SYNTHETIC: Cyber Essentials not held — not-held note.",SYNTH-CE-NOTHELD-v1,2027-01-01,
+commercial_terms,pqq,approved,"SYNTHETIC: Net 30 standard T&Cs stub.",SYNTH-TERMS-v1,2027-06-01,
+commercial_quality_ack_generic,pqq,approved,"SYNTHETIC: Willing to acknowledge generic quality plan / right-to-audit with caveats.",SYNTH-QP-ACK-GENERIC-v1,2027-06-01,
+decl_adverse,pqq,approved,"SYNTHETIC: No insolvency / director disqualification / termination for cause (director declaration stub).",SYNTH-ADVERSE-DECL-v1,2027-01-01,
+sq_otd_kpi,sq,not_held,"",,,"Broads-specific — leave MISSING for multi-customer practice"
+sq_capa_open,sq,not_held,"",,,"Broads-specific"
+sq_capa_sample,sq,not_held,"",,,"SQ delta — not held in reusable library"
+sq_site_visit,sq,not_held,"",,,"SQ delta"
+sq_broads_qp_ack,sq,not_held,"",,,"Buyer-specific Broads OEM — not Harbour Wind"
+decl_conflicts_buyer,both,not_held,"",,,"Must name active buyer — not reusable across packs"

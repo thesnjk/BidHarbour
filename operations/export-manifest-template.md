@@ -3,9 +3,9 @@
 **Epic:** [#2](https://github.com/thesnjk/BidHarbour/issues/2)  
 **Use at:** Path B steps 5–6 in [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md)  
 **Train first:** [`approver-review-training.md`](approver-review-training.md)  
-**Rule:** Export **blocked** while any required row is unapproved or MISSING without an explicit waiver.
+**Rule:** Export **blocked** while any required row is unapproved, **MISSING**, **EXPIRED**, or **CONFLICT** without an explicit waiver / Approver pick.
 
-Copy this page per pack (local only for live customers). Dry-runs may use fixture pack_ids (DRY-001 / DRY-002).
+Copy this page per pack (local only for live customers). Dry-runs may use fixture pack_ids (DRY-001–006).
 
 ## Pack header
 
@@ -21,7 +21,7 @@ Copy this page per pack (local only for live customers). Dry-runs may use fixtur
 
 ## Manifest
 
-Status must be `approved`, `waived`, or `MISSING`. Do not export if required rows are still `MISSING` without waiver.
+Status must be `approved`, `waived`, `MISSING`, `EXPIRED`, or `CONFLICT`. Do not export if required rows are still `MISSING` / `EXPIRED` / `CONFLICT` without waiver or human resolution. For **CONFLICT**, list **both** `evidence_label`s in Notes.
 
 | Req # | Topic / doc_key | evidence_label / version | Status | Approver initials | Date | Notes |
 |-------|-----------------|--------------------------|--------|-------------------|------|-------|
@@ -60,5 +60,7 @@ Approver name: _________________ Signature / mark: _________________ Date: _____
 ## Stop rules
 
 - Never export without Approver approve or documented waiver path.  
+- Never silent-pick one of two conflicting in-date library sources.  
 - Never commit live manifests with customer evidence paths to git.  
-- Live packs: MSA/DPA cleared first.
+- Live packs: MSA/DPA cleared first.  
+- CONFLICT rehearsal: [`pack-dry-run-dry-006.md`](pack-dry-run-dry-006.md).

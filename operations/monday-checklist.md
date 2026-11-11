@@ -69,6 +69,7 @@
 - [x] Discovery → paid pilot offer email stub → [`../commercial/pilot-offer-email.md`](../commercial/pilot-offer-email.md)  
 - [x] Backlog re-rank: rows 58–62 queued (Week-5 bounce, DRY-006 conflict, interview time-study, CRM stage scripts, post-first-50 referral — Lead vs SharePoint inbound-pack / pilot conversion) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Bounce / OOO triage extended to Week-5 send log → [`../commercial/bounce-ooo-triage.md`](../commercial/bounce-ooo-triage.md)  
+- [x] Pack dry-run DRY-006 (conflict library) → [`pack-dry-run-dry-006.md`](pack-dry-run-dry-006.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 
 ## Primary founder action (today)
 

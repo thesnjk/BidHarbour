@@ -62,3 +62,15 @@ See [`../../operations/pack-dry-run-dry-005.md`](../../operations/pack-dry-run-d
 | EXPIRED at first draft | 1/22 (Q9) |
 | Rework loops after Approver review | 1 |
 | Export blocked until Approver sign-off? (yes/no) | yes (export_approved=no; no waiver) |
+
+### DRY-006 — conflict library (`synthetic-evidence-library-v1-conflict`)
+
+See [`../../operations/pack-dry-run-dry-006.md`](../../operations/pack-dry-run-dry-006.md). Working statuses: Q10 **CONFLICT** (`ins_pl` — two in-date schedules); Q22 **MISSING**; other matched rows **draft**. Base v1 library unchanged.
+
+| Metric | Value |
+|--------|-------|
+| Minutes to first complete draft | 1 |
+| Fields MISSING at first draft | 1/22 |
+| CONFLICT at first draft | 1/22 (Q10) |
+| Rework loops after Approver review | 1 |
+| Export blocked until Approver sign-off? (yes/no) | yes (export_approved=no; no waiver) |

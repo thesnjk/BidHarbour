@@ -185,7 +185,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 56 | **done** | Discovery → paid pilot offer email stub (solicitor-gated; no win-rate claims) → `commercial/` | #6 |
 | 57 | **done** | When 52–56 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 58 | **done** | Extend bounce / OOO triage to Week-5 send log → `commercial/` | #6 |
-| 59 | todo | DRY-006 dry-run: conflicting library answers → CONFLICT + block export; metrics + method note → `operations/` | #2 |
+| 59 | **done** | DRY-006 dry-run: conflicting library answers → CONFLICT + block export; metrics + method note → `operations/` | #2 |
 | 60 | todo | Interview SharePoint / inbound-pack time-study capture (blank Actuals) wired to synthesis + baseline contrast → `research/` | #1 |
 | 61 | todo | CRM stage transition scripts + notes conventions (Discovery → pilot offer → Pilot; fee + continuation) → `commercial/` | #6 |
 | 62 | todo | Post–first-50 referral / rebook wave runbook (warm intros + selective non-responder recycle) → `commercial/` | #6 |
