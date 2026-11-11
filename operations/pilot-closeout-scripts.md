@@ -12,7 +12,7 @@
 | Script | Trigger |
 |--------|---------|
 | **A** Pack delivered | Export approved; formats + manifest sent |
-| **B** Next pack in window | Customer has capacity for pack 2 or 3 inside 4-week pilot |
+| **B** Next pack in window | Customer has capacity for pack 2 or 3 inside 4-week pilot — operator playbook → [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md) |
 | **C** Results review invite | Pilot window ending or all packs done |
 | **D** Willingness to continue | After results review — written yes/no |
 | **E** Close-out / data return | Stop or no continuation; ≤30 days after pilot end |
@@ -45,6 +45,8 @@ Supplier Desk (BidHarbour pilot)
 ---
 
 ## B — Next pack in window
+
+**Operator sequence (when / fee / FO7 / metrics):** [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md).
 
 **Subject:** Supplier Desk pilot — ready for pack {{next_pack_id}}?
 

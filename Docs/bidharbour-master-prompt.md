@@ -206,7 +206,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 76 | **done** | NAAME / Hethel / Great Yarmouth network peer-intro pack (event + LinkedIn warm intros; referral density; not a new cold-50) → `commercial/naame-hethel-gy-network-peer-intro-pack.md` | #6 |
 | 77 | **done** | When 75–76 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 78 | **done** | DRY-008 dual-buyer pilot-window dry-run (Harbour Wind PQQ → Broads SQ; shared + FO7 scoped; export gates) → `operations/pack-dry-run-dry-008.md` | #2 |
-| 79 | todo | Pilot pack-2/3 in-window playbook (Path B repeat; wires closeout B, fee/waiver, metrics) → `operations/` | #2 |
+| 79 | **done** | Pilot pack-2/3 in-window playbook (Path B repeat; wires closeout B, fee/waiver, metrics) → `operations/pilot-repeat-pack-playbook.md` | #2 |
 | 80 | todo | Pilot results review agenda + continuation decision (blank Actuals; wires minutes rollup, closeout C→D, continuation log) → `operations/` | #2 |
 | 81 | todo | Supplier Desk competitive objection sheet (Constructionline, SharePoint, tender-AI, Complys — abstain + Approver; no win-rate) → `commercial/` | #6 |
 | 82 | todo | Pre-pilot legal readiness gate (solicitor send, cleared MSA/DPA, named access; no pilot-offer send until pass) → `operations/` | #5 |
