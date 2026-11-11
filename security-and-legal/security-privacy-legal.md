@@ -18,7 +18,7 @@
 | Encryption in transit / at rest | Recommended / expected | TLS + storage encryption |
 | Audit logging | Recommended | Approvals, exports, access |
 | Backup / recovery | Recommended | Tested restore |
-| Incident handling | Legal obligation (breach) | See incident runbook |
+| Incident handling | Legal obligation (breach) | [`../operations/incident-runbook.md`](../operations/incident-runbook.md) · customer draft → [`customer-breach-notification-draft.md`](customer-breach-notification-draft.md) |
 | Confidential commercial documents | Contractual + trust | Beyond personal data |
 | Terms of service | Contractual + Advice required | No win guarantees |
 | Privacy notice | Legal obligation | |

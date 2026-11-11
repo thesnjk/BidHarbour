@@ -55,6 +55,7 @@
 - [x] Master prompt niche profit + self-improve upgrade → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Bounce / OOO / wrong-entity triage → [`../commercial/bounce-ooo-triage.md`](../commercial/bounce-ooo-triage.md)  
 - [x] Pilot refund / cancellation email stub → [`pilot-refund-cancellation-email.md`](pilot-refund-cancellation-email.md)  
+- [x] Customer breach-notification draft stub → [`../security-and-legal/customer-breach-notification-draft.md`](../security-and-legal/customer-breach-notification-draft.md)  
 
 ## Primary founder action (today)
 

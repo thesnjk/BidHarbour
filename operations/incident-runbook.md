@@ -6,8 +6,8 @@
 
 | Sev | Example | Response |
 |-----|---------|----------|
-| S1 | Suspected cross-tenant access or data breach | Founder owns; revoke access; notify counsel; UK GDPR assessment |
-| S2 | Wrong evidence exported to customer | Halt exports; notify customer org; root cause |
+| S1 | Suspected cross-tenant access or data breach | Founder owns; revoke access; notify counsel; UK GDPR assessment; customer draft → [`../security-and-legal/customer-breach-notification-draft.md`](../security-and-legal/customer-breach-notification-draft.md) |
+| S2 | Wrong evidence exported to customer | Halt exports; notify customer org; root cause; draft → [`../security-and-legal/customer-breach-notification-draft.md`](../security-and-legal/customer-breach-notification-draft.md) (S2) |
 | S3 | AI mismatch caught before export | Log; improve matcher; no customer notify required |
 | S4 | Billing/login friction | Support queue |
 
