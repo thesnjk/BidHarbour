@@ -9,7 +9,8 @@
 **Evidence intake:** [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md) · [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv)  
 **Synthetic library:** [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/) (partial-library dry-runs)  
 **MISSING queue email:** [`missing-queue-email.md`](missing-queue-email.md)  
-**Export manifest:** [`export-manifest-template.md`](export-manifest-template.md)
+**Export manifest:** [`export-manifest-template.md`](export-manifest-template.md)  
+**Post-export scripts:** [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md)
 
 **Product name:** Supplier Desk  
 **Delivery:** founder-operated; AI may draft only — **Approver** signs every export.
@@ -48,7 +49,8 @@
 5. **Approver gate:** Approver reviews every statement on [`export-manifest-template.md`](export-manifest-template.md); block export until approved/waived.  
 6. **Export:** deliver agreed formats + completed manifest only; no portal auto-submit.  
 7. **Log:** minutes, missing count at first draft, rework loops, support minutes → metrics CSV.  
-8. **Close pack:** store activity note; no win-rate claims in customer comms.
+8. **Close pack:** send script **A** (pack delivered) from [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md); store activity note; no win-rate claims.  
+9. **Continue or close pilot:** script **B** for packs 2–3 in-window; at window end use **C → D → E** (and optional **F**).
 
 Repeat for up to **3** packs in the 4-week window.
 

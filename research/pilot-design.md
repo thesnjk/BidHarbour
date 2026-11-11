@@ -77,4 +77,6 @@ Draft commercial intent only:
 1. Results review meeting with metrics  
 2. Offer setup + subscription **or** stop  
 3. Capture testimonial only with written permission  
-4. Update scorecard
+4. Update scorecard  
+
+**Scripts:** [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) (post-export A–F).

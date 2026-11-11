@@ -33,6 +33,7 @@
 - [x] Backlog re-rank: rows 22–26 queued (CRM A41–A50, DRY-003 partial-library, pilot close-out, Week-8 gate) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] A41–A50 public contact hints (first-50 complete) → [`../commercial/a41-a50-contact-hints.md`](../commercial/a41-a50-contact-hints.md)  
 - [x] DRY-003 partial-library dry-run → [`pack-dry-run-dry-003.md`](pack-dry-run-dry-003.md)  
+- [x] Pilot continuation / close-out scripts → [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md)  
 
 ## Primary founder action (today)
 

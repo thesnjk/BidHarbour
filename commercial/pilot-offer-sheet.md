@@ -50,6 +50,8 @@ Target threshold (management rule): median **≥90 minutes saved** per pack **or
 
 Results review → offer setup (£300–£1,000 ex VAT band) + subscription (£99–£249/mo band hypotheses) **or** stop cleanly with data deletion/return per DPA.
 
+**Scripts:** [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) (pack delivered → next pack → results review → yes/no → data return → optional testimonial).
+
 ## How to start
 
 1. Solicitor-cleared MSA/DPA  
