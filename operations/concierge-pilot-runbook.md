@@ -12,7 +12,8 @@
 **Export manifest:** [`export-manifest-template.md`](export-manifest-template.md)  
 **Approver training:** [`approver-review-training.md`](approver-review-training.md)  
 **Kickoff (Path B-0):** [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md)  
-**Post-export scripts:** [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md)
+**Post-export scripts:** [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md)  
+**Retention / deletion:** [`pilot-data-retention-schedule.md`](pilot-data-retention-schedule.md)
 
 **Product name:** Supplier Desk  
 **Delivery:** founder-operated; AI may draft only — **Approver** signs every export.

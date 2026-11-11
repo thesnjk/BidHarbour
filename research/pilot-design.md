@@ -62,7 +62,7 @@ Use synthetic kit [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/)
 
 - DPA + pilot MSA in force before real packs  
 - Encrypted transfer; access limited to named founder accounts  
-- Delete or return within 30 days of pilot end unless subscription continues  
+- Delete or return within 30 days of pilot end unless subscription continues → [`../operations/pilot-data-retention-schedule.md`](../operations/pilot-data-retention-schedule.md)  
 - No model training on customer content  
 
 ## Fees, refund, cancellation *(for legal review — Advice required)*
