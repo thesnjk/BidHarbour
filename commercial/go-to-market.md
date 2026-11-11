@@ -12,7 +12,7 @@ No paid advertising until message and pilot conversion validated (target ≥30% 
 5. Mentions of ISO / SSIP / Constructionline / quality on website *(optional signal)*  
 6. Reachable decision-maker (MD, Ops, Quality)  
 
-Sources: NAAME, Hethel tenants, EEEZ matrix companies, local directories — **no implied partnership**.
+Sources: NAAME, Hethel tenants, EEEZ matrix companies, local directories — **no implied partnership**. Network peer-intro orchestration (event + LinkedIn; not a new cold-50): [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md).
 
 ## Buyer titles
 
@@ -75,7 +75,8 @@ Open to a 20-minute look at your last pack and whether a paid 4-week pilot (£50
 
 After successful pack: ask for 2 peer intros; offer one free pack credit on annual plan *(hypothesis)*.  
 Scripts: [`referral-ask-script.md`](referral-ask-script.md) (post-interview, soft-decline, post-pilot, warm-intro outbound).  
-Post–first-50 orchestration: [`post-first50-referral-wave.md`](post-first50-referral-wave.md) (warm intros + selective rebook).
+Post–first-50 orchestration: [`post-first50-referral-wave.md`](post-first50-referral-wave.md) (warm intros + selective rebook).  
+Network venues (NAAME / Hethel / GY): [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md).
 
 ## CRM stages
 

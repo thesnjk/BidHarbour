@@ -203,7 +203,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 73 | **done** | Discovery / observation → paid pilot offer bridge checklist (solicitor-gated; wires observation kit, synthesis, pilot-offer email, Path B-0 kickoff) → `research/` | #1 |
 | 74 | **done** | Senior writeup upgrade — invariants, state machine, match algebra, threat model, contracts, epistemology + Apps F–J → `Docs/project-writeup.md` | — |
 | 75 | **done** | Solicitor pack: pilot privacy notice issue-spotter + international transfers decision-tree annex stub (counsel-gated; no customer send) → `security-and-legal/pilot-privacy-notice-issue-spotter.md` + `international-transfers-decision-tree-annex-stub.md` | #5 |
-| 76 | todo | NAAME / Hethel / Great Yarmouth network peer-intro pack (event + LinkedIn warm intros; referral density; not a new cold-50) → `commercial/` | #6 |
+| 76 | **done** | NAAME / Hethel / Great Yarmouth network peer-intro pack (event + LinkedIn warm intros; referral density; not a new cold-50) → `commercial/naame-hethel-gy-network-peer-intro-pack.md` | #6 |
 | 77 | todo | When 75–76 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
