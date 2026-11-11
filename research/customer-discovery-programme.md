@@ -71,6 +71,6 @@ See `research/validation-scorecard.md` and week-4 / week-8 gates in `strategy/ro
 
 ## Stop / pivot criteria
 
-- Week 4: &lt;4/10 in lead niche confirm recurring pain → test RFQ+compliance hybrid **or** STOP  
-- Week 8: &lt;3 paid pilots → STOP or major pivot  
+- Week 4: &lt;4/10 in lead niche confirm recurring pain → test RFQ+compliance hybrid **or** STOP — run [`week4-gate-checklist.md`](week4-gate-checklist.md)  
+- Week 8: &lt;3 paid pilots → STOP or major pivot — run [`week8-gate-checklist.md`](week8-gate-checklist.md)  
 - Confidentiality blocks all real packs → STOP SaaS thesis or redesign delivery model

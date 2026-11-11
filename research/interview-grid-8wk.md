@@ -70,6 +70,8 @@ Run [`week4-gate-checklist.md`](week4-gate-checklist.md), then record:
 
 ## Week-8 decision log
 
+Run [`week8-gate-checklist.md`](week8-gate-checklist.md), then record:
+
 | Field | Value |
 |-------|-------|
 | Date | |
