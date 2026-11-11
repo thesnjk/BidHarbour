@@ -88,6 +88,7 @@
 - [x] Pilot privacy notice issue-spotter + international transfers decision-tree annex (counsel-gated); NAAME peer-intro pack remains queue head → [`../security-and-legal/pilot-privacy-notice-issue-spotter.md`](../security-and-legal/pilot-privacy-notice-issue-spotter.md) · [`../security-and-legal/international-transfers-decision-tree-annex-stub.md`](../security-and-legal/international-transfers-decision-tree-annex-stub.md)  
 - [x] NAAME / Hethel / GY network peer-intro pack (event + LinkedIn; not a new cold-50); re-rank remains queue head → [`../commercial/naame-hethel-gy-network-peer-intro-pack.md`](../commercial/naame-hethel-gy-network-peer-intro-pack.md)  
 - [x] Backlog re-rank: rows 78–82 queued (DRY-008 dual-buyer, pack-2/3 playbook, results review + continuation, competitive objection sheet, pre-pilot legal gate — Lead: multi-customer / MISSING vs tender-AI / SharePoint time+continuation / pilot legal gate) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
+- [x] Pack dry-run DRY-008 (dual-buyer window Harbour Wind PQQ → Broads SQ; FO7 isolation; both exports blocked) → [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
  
 
 ## Primary founder action (today)

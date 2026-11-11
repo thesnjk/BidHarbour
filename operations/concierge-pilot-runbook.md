@@ -8,7 +8,7 @@
 **Completed dry-runs:** [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (DRY-001 PQQ) · [`pack-dry-run-dry-002.md`](pack-dry-run-dry-002.md) (DRY-002 SQ)  
 **Evidence intake:** [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md) · [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv)  
 **Synthetic library:** [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/) (partial-library dry-runs)  
-**Customer-scoped answers (FO7):** [`../testdata/synthetic-customer-scoped-answers-v1/`](../testdata/synthetic-customer-scoped-answers-v1/) (DRY-007)  
+**Customer-scoped answers (FO7):** [`../testdata/synthetic-customer-scoped-answers-v1/`](../testdata/synthetic-customer-scoped-answers-v1/) (DRY-007 / DRY-008)  
 **MISSING queue email:** [`missing-queue-email.md`](missing-queue-email.md)  
 **Export manifest:** [`export-manifest-template.md`](export-manifest-template.md)  
 **Approver training:** [`approver-review-training.md`](approver-review-training.md)  
@@ -47,7 +47,8 @@
 **Done (2026-11-11):** partial-library DRY-004 → [`pack-dry-run-dry-004.md`](pack-dry-run-dry-004.md) (6 MISSING vs 18 empty Broads SQ; export still blocked; multi-customer thesis).  
 **Done (2026-11-11):** expired-library DRY-005 → [`pack-dry-run-dry-005.md`](pack-dry-run-dry-005.md) (Q9 `ins_el` EXPIRED + Q22 MISSING; export blocked; base v1 untouched).  
 **Done (2026-11-11):** conflict-library DRY-006 → [`pack-dry-run-dry-006.md`](pack-dry-run-dry-006.md) (Q10 `ins_pl` CONFLICT + Q22 MISSING; export blocked; base v1 untouched).  
-**Done (2026-11-11):** customer-scoped promotion DRY-007 → [`pack-dry-run-dry-007.md`](pack-dry-run-dry-007.md) (FO7 Broads promotions; shared library untouched; Harbour Wind control).
+**Done (2026-11-11):** customer-scoped promotion DRY-007 → [`pack-dry-run-dry-007.md`](pack-dry-run-dry-007.md) (FO7 Broads promotions; shared library untouched; Harbour Wind control).  
+**Done (2026-11-11):** dual-buyer pilot-window DRY-008 → [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md) (Harbour Wind PQQ → Broads SQ; FO7 isolation; both exports blocked).
 
 ## Path B — Live pack (after legal clearance)
 

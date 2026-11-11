@@ -1006,6 +1006,7 @@ Pre-GO, the **system** is not a deployed service — it is a **versioned control
 | DRY-005 | Expired library — PQQ | `redacted-pqq-v1` | `synthetic-evidence-library-v1-expired` | 1 EXPIRED (EL); 1 MISSING; draft-only | **no** | [`../operations/pack-dry-run-dry-005.md`](../operations/pack-dry-run-dry-005.md) |
 | DRY-006 | Conflict library — PQQ | `redacted-pqq-v1` | `synthetic-evidence-library-v1-conflict` | 1 CONFLICT (PL £5m vs £10m); 1 MISSING; draft-only | **no** | [`../operations/pack-dry-run-dry-006.md`](../operations/pack-dry-run-dry-006.md) |
 | DRY-007 | FO7 customer-scoped promotion | `redacted-sq-v1` + scoped answers | shared v1 **unchanged** + `synthetic-customer-scoped-answers-v1` | Broads MISSING 6→3; Harbour Wind must not cite Broads-scoped | **no** | [`../operations/pack-dry-run-dry-007.md`](../operations/pack-dry-run-dry-007.md) |
+| DRY-008 | Dual-buyer pilot-window | `redacted-pqq-v1` → `redacted-sq-v1` | shared v1 + Broads scoped (Pack 2 only) | Pack1 HW 2 MISSING / no Broads-scoped; Pack2 Broads 3 MISSING + FO7; both blocked | **no** | [`../operations/pack-dry-run-dry-008.md`](../operations/pack-dry-run-dry-008.md) |
 
 Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv) (`export_approved=no` for each dry_run).
 
@@ -1019,7 +1020,8 @@ Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metri
 | EXPIRED blocks export (no silent renewal invent) | DRY-005 |
 | CONFLICT blocks export (no newest-wins) | DRY-006 |
 | FO7 scoped promote without shared pollution | DRY-007 |
-| Draft-only / unapproved ≠ export | DRY-003–007 |
+| Dual-buyer in-window (PQQ then SQ; FO7 isolation) | DRY-008 |
+| Draft-only / unapproved ≠ export | DRY-003–008 |
 | Approver rework loop recorded | All DRY method sections |
 | Waiver not used to fake pass | All DRY `export_approved=no` |
 
