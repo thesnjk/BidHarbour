@@ -7,7 +7,9 @@
 **Dry-run fixtures:** [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/) (PQQ) · [`../testdata/redacted-sq-v1/`](../testdata/redacted-sq-v1/) (SQ, second buyer)  
 **Completed dry-runs:** [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (DRY-001 PQQ) · [`pack-dry-run-dry-002.md`](pack-dry-run-dry-002.md) (DRY-002 SQ)  
 **Evidence intake:** [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md) · [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv)  
-**Synthetic library:** [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/) (partial-library dry-runs)
+**Synthetic library:** [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/) (partial-library dry-runs)  
+**MISSING queue email:** [`missing-queue-email.md`](missing-queue-email.md)  
+**Export manifest:** [`export-manifest-template.md`](export-manifest-template.md)
 
 **Product name:** Supplier Desk  
 **Delivery:** founder-operated; AI may draft only — **Approver** signs every export.
@@ -41,9 +43,9 @@
 1. **Intake:** receive pack + evidence folder; log pack_id, customer, received_at in metrics CSV; update a **local** copy of [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv) per [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md).  
 2. **Checklist:** extract requirements into a per-pack checklist (same shape as the fixture).  
 3. **Match:** map each requirement to intake `doc_key`s / approved library answers; flag expired, conflicting, customer-specific gaps; anything `not_received` → **MISSING**.  
-4. **MISSING queue:** send customer the MISSING list; wait ≤3 business days per pilot design.  
-5. **Approver gate:** Approver reviews every statement; block export until approved/waived.  
-6. **Export:** deliver agreed formats only; no portal auto-submit.  
+4. **MISSING queue:** send customer the MISSING list using [`missing-queue-email.md`](missing-queue-email.md); wait ≤3 business days per pilot design.  
+5. **Approver gate:** Approver reviews every statement on [`export-manifest-template.md`](export-manifest-template.md); block export until approved/waived.  
+6. **Export:** deliver agreed formats + completed manifest only; no portal auto-submit.  
 7. **Log:** minutes, missing count at first draft, rework loops, support minutes → metrics CSV.  
 8. **Close pack:** store activity note; no win-rate claims in customer comms.
 
