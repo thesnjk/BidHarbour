@@ -56,6 +56,7 @@
 - [x] Bounce / OOO / wrong-entity triage → [`../commercial/bounce-ooo-triage.md`](../commercial/bounce-ooo-triage.md)  
 - [x] Pilot refund / cancellation email stub → [`pilot-refund-cancellation-email.md`](pilot-refund-cancellation-email.md)  
 - [x] Customer breach-notification draft stub → [`../security-and-legal/customer-breach-notification-draft.md`](../security-and-legal/customer-breach-notification-draft.md)  
+- [x] Backlog re-rank: rows 47–51 queued (Week-4 outreach, referral, baseline minutes, named-access — Lead vs SharePoint inbound-pack) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 
 ## Primary founder action (today)
 
