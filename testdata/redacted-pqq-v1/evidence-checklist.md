@@ -29,11 +29,24 @@
 
 ## Dry-run scoring (fill after attempt)
 
-Completed **DRY-001** (empty library) — see [`../../operations/pack-dry-run-dry-001.md`](../../operations/pack-dry-run-dry-001.md).
+### DRY-001 — empty library
+
+See [`../../operations/pack-dry-run-dry-001.md`](../../operations/pack-dry-run-dry-001.md).
 
 | Metric | Value |
 |--------|-------|
 | Minutes to first complete draft | 1 |
 | Fields MISSING at first draft | 22/22 |
+| Rework loops after Approver review | 1 |
+| Export blocked until Approver sign-off? (yes/no) | yes (export_approved=no; no waiver) |
+
+### DRY-003 — partial library (`synthetic-evidence-library-v1`)
+
+See [`../../operations/pack-dry-run-dry-003.md`](../../operations/pack-dry-run-dry-003.md). Working statuses for that run: Q1–Q2/Q4–Q21 **draft** (library cite); Q3 + Q22 **MISSING**. Template table above stays blank for new Path A copies.
+
+| Metric | Value |
+|--------|-------|
+| Minutes to first complete draft | 1 |
+| Fields MISSING at first draft | 2/22 |
 | Rework loops after Approver review | 1 |
 | Export blocked until Approver sign-off? (yes/no) | yes (export_approved=no; no waiver) |

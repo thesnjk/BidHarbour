@@ -36,7 +36,8 @@
 6. Stop timer; fill one row in [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) (`mode=dry_run`).
 
 **Done (2026-11-10):** empty-library DRY-001 → [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (22 MISSING; export blocked).  
-**Done (2026-11-10):** empty-library DRY-002 → [`pack-dry-run-dry-002.md`](pack-dry-run-dry-002.md) (18 MISSING Broads SQ; export blocked; multi-customer thesis).
+**Done (2026-11-10):** empty-library DRY-002 → [`pack-dry-run-dry-002.md`](pack-dry-run-dry-002.md) (18 MISSING Broads SQ; export blocked; multi-customer thesis).  
+**Done (2026-11-11):** partial-library DRY-003 → [`pack-dry-run-dry-003.md`](pack-dry-run-dry-003.md) (2 MISSING vs 22 empty; export still blocked; synthetic library).
 
 ## Path B — Live pack (after legal clearance)
 
