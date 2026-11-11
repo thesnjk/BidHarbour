@@ -43,6 +43,7 @@
 - [x] Backlog re-rank: rows 32–36 queued (follow-ups A41–A50, pilot kickoff, retention schedule, observation log) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Week-1 non-responder follow-ups A41–A50 → [`../commercial/week1-nonresponder-followups-a41-a50.md`](../commercial/week1-nonresponder-followups-a41-a50.md)  
 - [x] Pilot kickoff agenda + checklist (Path B-0) → [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md)  
+- [x] Pilot data retention / deletion schedule → [`pilot-data-retention-schedule.md`](pilot-data-retention-schedule.md)  
 
 ## Primary founder action (today)
 

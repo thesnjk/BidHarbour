@@ -13,7 +13,8 @@ Processing of documents and related personal data uploaded to Supplier Desk / co
 
 ## Duration
 
-Term of pilot/subscription + retention period, then deletion/return.
+Term of pilot/subscription + retention period, then deletion/return.  
+Operational companion (pilot clock, asset classes, founder checklist) → [`../operations/pilot-data-retention-schedule.md`](../operations/pilot-data-retention-schedule.md). Solicitor annex prevails when cleared.
 
 ## Nature / purpose
 

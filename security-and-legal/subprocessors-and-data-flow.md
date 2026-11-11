@@ -48,7 +48,9 @@ Draft checklist / answers (MISSING if unsupported)
 Export pack → Customer
     |
     +--> retention then deletion/return per DPA
+         (ops schedule → [`../operations/pilot-data-retention-schedule.md`](../operations/pilot-data-retention-schedule.md))
 ```
+
 
 ### Processing rules (product + legal posture)
 

@@ -28,7 +28,7 @@
 | 4 | Intake walkthrough | Local copy of [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv) — never commit live fills to git |
 | 5 | MISSING SLA | Customer replies ≤ **3 business days** ([`missing-queue-email.md`](missing-queue-email.md)) |
 | 6 | Export | Formats agreed; Approver uses [`export-manifest-template.md`](export-manifest-template.md) |
-| 7 | Close-out preview | Scripts A–F in [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md); data return ≤30 days if stop |
+| 7 | Close-out preview | Scripts A–F in [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md); data return ≤30 days if stop → [`pilot-data-retention-schedule.md`](pilot-data-retention-schedule.md) |
 | 8 | First pack timing | Aim for pack 1 within week 1 of pilot window |
 
 ## 3. Evidence-folder transfer checklist

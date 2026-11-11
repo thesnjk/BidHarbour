@@ -108,6 +108,8 @@ Supplier Desk (BidHarbour pilot)
 
 ## E — Close-out / data return
 
+**Schedule:** execute per [`pilot-data-retention-schedule.md`](pilot-data-retention-schedule.md) (T+30 from `pilot_end_date`; return or secure delete).
+
 **Subject:** Supplier Desk pilot — close-out and data return
 
 ```text
@@ -126,6 +128,7 @@ Thanks,
 {{Founder}}
 Supplier Desk (BidHarbour pilot)
 ```
+
 
 ---
 
