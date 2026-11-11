@@ -44,7 +44,8 @@ No implied endorsement by NAAME, Hethel, or any host.
 2. Add a completed row to [`observation-session-log.md`](observation-session-log.md) (`OBS-YYYYMMDD-##`); mark the booking on [`interview-grid-8wk.md`](interview-grid-8wk.md) if used.  
 3. Negative findings → [`negative-findings.md`](negative-findings.md) same day.  
 4. Update scorecard **Workflow evidence** Actual from the session-log tally **only** after a real observation completed (never invent).  
-5. CRM: `stage` / notes updated.
+5. CRM: `stage` / notes updated.  
+6. Peer intros / LinkedIn warm follow-ups → [`../commercial/naame-hethel-gy-network-peer-intro-pack.md`](../commercial/naame-hethel-gy-network-peer-intro-pack.md).
 
 ## Stop rules
 

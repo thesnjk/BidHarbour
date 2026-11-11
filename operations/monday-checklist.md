@@ -86,6 +86,7 @@
 - [x] Discovery / observation → paid pilot offer bridge checklist → [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md)  
 - [x] Senior writeup upgrade (invariants, state machine, match algebra, threat model, epistemology; Apps F–J); privacy + NAAME remain queued → [`../Docs/project-writeup.md`](../Docs/project-writeup.md)  
 - [x] Pilot privacy notice issue-spotter + international transfers decision-tree annex (counsel-gated); NAAME peer-intro pack remains queue head → [`../security-and-legal/pilot-privacy-notice-issue-spotter.md`](../security-and-legal/pilot-privacy-notice-issue-spotter.md) · [`../security-and-legal/international-transfers-decision-tree-annex-stub.md`](../security-and-legal/international-transfers-decision-tree-annex-stub.md)  
+- [x] NAAME / Hethel / GY network peer-intro pack (event + LinkedIn; not a new cold-50); re-rank remains queue head → [`../commercial/naame-hethel-gy-network-peer-intro-pack.md`](../commercial/naame-hethel-gy-network-peer-intro-pack.md)  
 
 ## Primary founder action (today)
 

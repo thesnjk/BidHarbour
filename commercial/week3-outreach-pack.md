@@ -95,6 +95,8 @@ Supplier Desk (research) · Norfolk
 
 ## A25 — Hethel Engineering Centre (network intro — not a customer)
 
+Ongoing event + LinkedIn peer intros (not a new cold-50): [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md).
+
 **To:** Centre / tenant intro contact  
 **Subject:** Intro request — Norfolk suppliers and qualification packs
 
@@ -111,6 +113,8 @@ Supplier Desk (research) · Norfolk
 ---
 
 ## A26 — NAAME (network intro — not a customer)
+
+Ongoing event + LinkedIn peer intros: [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md).
 
 **To:** Published NAAME contact (do not invent member emails)  
 **Subject:** Intro request — manufacturing members and qualification packs

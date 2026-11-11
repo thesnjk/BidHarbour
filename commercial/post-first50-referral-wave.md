@@ -7,7 +7,7 @@
 **Grid:** [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md)  
 **Product name:** Supplier Desk
 
-**Rule:** Keep research framing. No win-rate claims. Do **not** invent named intros, personal emails, or send Actuals. Prefer Norfolk **AME / marine** lead ICP. Do **not** scrape a new cold 50-list in this wave.
+**Rule:** Keep research framing. No win-rate claims. Do **not** invent named intros, personal emails, or send Actuals. Prefer Norfolk **AME / marine** lead ICP. Do **not** scrape a new cold 50-list in this wave. Parallel network path (events + LinkedIn warm intros, also not a new cold-50): [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md).
 
 ## Goal
 

@@ -20,7 +20,7 @@ Scorecard: `research/validation-scorecard.md`
 | `design/` | UX / IA | `ux-ia.md` |
 | `engineering/` | Post-GO code (empty until GO) | apps/, packages/ later |
 | `security-and-legal/` | Controls and stubs | `security-privacy-legal.md`, DPA stub, privacy issue-spotter, transfers annex |
-| `commercial/` | GTM | outreach, first actions, CRM |
+| `commercial/` | GTM | outreach, first actions, CRM, NAAME/Hethel/GY peer-intro pack |
 | `finance/` | Model and pricing | `model-24mo.xlsx`, `pricing.md` |
 | `operations/` | Run model | KPIs, RACI, runbooks |
 | `Docs/` | Committed thin docs | this file, [`project-writeup.md`](project-writeup.md) (living narrative), architecture, legal-data-policy, master prompt |

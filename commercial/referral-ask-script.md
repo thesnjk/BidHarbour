@@ -2,7 +2,7 @@
 
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
 **Product name:** Supplier Desk  
-**Use with:** [`reply-booking-scripts.md`](reply-booking-scripts.md) · [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) · [`go-to-market.md`](go-to-market.md) · [`crm-readme.md`](crm-readme.md) · post–first-50 wave: [`post-first50-referral-wave.md`](post-first50-referral-wave.md)
+**Use with:** [`reply-booking-scripts.md`](reply-booking-scripts.md) · [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) · [`go-to-market.md`](go-to-market.md) · [`crm-readme.md`](crm-readme.md) · post–first-50 wave: [`post-first50-referral-wave.md`](post-first50-referral-wave.md) · network venues: [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md)
 
 **Rule:** Keep Supplier Desk research / pilot framing. No win-rate or qualification claims. Do **not** invent named intros, personal emails, or CRM Actuals. Prefer Norfolk **AME / marine** peers who run multi-customer inbound PQQ/SQ packs.
 
