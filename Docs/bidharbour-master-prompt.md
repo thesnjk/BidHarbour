@@ -217,7 +217,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 87 | **done** | Solicitor return / counsel clearance intake checklist (vault, PASS/FAIL, Script A unlock; wire legal gate) → `security-and-legal/solicitor-return-intake-checklist.md` | #5 |
 | 88 | **done** | Pilot referral evidence packet template (blank Actuals; anonymised minutes/gates bullets; post–results-review referral) → `commercial/pilot-referral-evidence-packet.md` | #6 |
 | 89 | **done** | When 84–88 done: re-rank from open epics + gaps; append new rows surgically | — |
-| 90 | todo | Path B first live pack intake worksheet (blank; wires kickoff + runbook Path B; no confidential content in git) → `operations/` | #2 |
+| 90 | **done** | Path B first live pack intake worksheet (blank; wires kickoff + runbook Path B; no confidential content in git) → `operations/path-b-first-live-pack-intake.md` | #2 |
 | 91 | todo | DRY-010 waiver discipline dry-run (recorded waiver does not unlock export without Approver; fixture-only; no live Actuals) → `operations/` | #2 |
 | 92 | todo | Pilot support-burden log (blank Actuals; wires scorecard Support effort + metrics) → `operations/` | #2 |
 | 93 | todo | Warm-intro CRM intake checklist (blank; wires referral evidence packet + CRM stages; no invented emails) → `commercial/` | #6 |

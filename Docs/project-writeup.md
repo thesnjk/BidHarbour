@@ -909,6 +909,7 @@ Thin index: [`developer-map.md`](developer-map.md).
 |------------|----------|-------|
 | End-to-end Path A runbook | [`../operations/concierge-pilot-runbook.md`](../operations/concierge-pilot-runbook.md) | Intake → match → Approver → export |
 | Kickoff (Path B-0 gates) | [`../operations/pilot-kickoff-checklist.md`](../operations/pilot-kickoff-checklist.md) | MSA/DPA, fee, Approver, baseline, named access |
+| First live pack intake | [`../operations/path-b-first-live-pack-intake.md`](../operations/path-b-first-live-pack-intake.md) | P01 worksheet; blank Actuals; no confidential content in git |
 | Library intake | [`../operations/pilot-evidence-library-intake.md`](../operations/pilot-evidence-library-intake.md) + CSV | Taxonomy / approval_status / expiry |
 | Missing queue email | [`../operations/missing-queue-email.md`](../operations/missing-queue-email.md) | Customer gap chase |
 | Approver training | [`../operations/approver-review-training.md`](../operations/approver-review-training.md) | Export gate behaviour |
@@ -1314,6 +1315,7 @@ External statistics and competitor pricing in this writeup are cited **as record
 | Ref | Path |
 |-----|------|
 | Concierge pilot runbook | [`../operations/concierge-pilot-runbook.md`](../operations/concierge-pilot-runbook.md) |
+| Path B first live pack intake | [`../operations/path-b-first-live-pack-intake.md`](../operations/path-b-first-live-pack-intake.md) |
 | DRY-001 … DRY-006 | [`../operations/pack-dry-run-dry-001.md`](../operations/pack-dry-run-dry-001.md) … [`pack-dry-run-dry-006.md`](../operations/pack-dry-run-dry-006.md) |
 | Pilot metrics stub | [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv) |
 | Monday checklist | [`../operations/monday-checklist.md`](../operations/monday-checklist.md) |

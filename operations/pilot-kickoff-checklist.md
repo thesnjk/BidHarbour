@@ -52,7 +52,7 @@ All of the following before opening pack_id P01 (or next live id):
 - [ ] Evidence folder accessible locally  
 - [ ] Approver contact details on file  
 
-Then proceed to runbook **Path B step 1 — Intake**.
+Then proceed to [`path-b-first-live-pack-intake.md`](path-b-first-live-pack-intake.md) (runbook **Path B step 1 — Intake**).
 
 ## Stop rules
 
