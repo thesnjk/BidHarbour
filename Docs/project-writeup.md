@@ -2,10 +2,10 @@
 
 **As of:** 11 November 2026  
 **Product:** BidHarbour / first product **Supplier Desk**  
-**Document standard:** NEA-grade comprehensive professional project documentation (Analysis → Design → Implementation → Testing → Evaluation → Operator guide → Bibliography → Appendices), filled iteratively from existing repo sources.  
+**Document standard:** NEA spine (Analysis → … → Appendices) **plus** senior full-stack / research-monograph technical depth — formal invariants, state machines, match algebra, threat model, data contracts, and evaluation epistemology. Filled iteratively from existing repo sources. *(Rigor of method — not a degree claim.)*  
 **Posture:** **INVESTIGATE FURTHER** — validate Norfolk SME PQQ/SQ pack assembly via concierge pilots **before** production SaaS. Scorecard Actuals remain blank until founder interviews and paid pilots land real evidence.
 
-This file is the single scrollable project narrative. It does **not** invent interviews, client quotes, sends, partnerships, or scorecard Actuals. Where live client evaluation is absent, that gap is stated explicitly and provisional evidence is limited to desk research and Path A synthetic dry-runs.
+This file is the single scrollable project narrative. It does **not** invent interviews, client quotes, sends, partnerships, or scorecard Actuals. Where live client evaluation is absent, that gap is stated explicitly and provisional evidence is limited to desk research and Path A synthetic dry-runs. Path B SaaS sections are **design intent only**.
 
 ---
 
@@ -26,13 +26,13 @@ Label material claims as **Verified fact**, **Reasoned inference**, **Working as
 | 0 | How to read / evidence rules | **Filled** — 11 Nov 2026 |
 | 1 | Executive summary & decision posture | **Filled** — 11 Nov 2026 |
 | 2 | Analysis | **Filled** — 11 Nov 2026 |
-| 3 | Design | **Filled** — 11 Nov 2026 |
-| 4 | Implementation (shipped artefacts & fixtures) | **Filled** — 11 Nov 2026 |
-| 5 | Testing (incl. DRY-001–006 formal evidence) | **Filled** — 11 Nov 2026 |
-| 6 | Evaluation | **Filled** — 11 Nov 2026 |
+| 3 | Design (+ §§3.8–3.12 senior deepen) | **Filled** — 11 Nov 2026 |
+| 4 | Implementation (+ §4.7 control plane) | **Filled** — 11 Nov 2026 |
+| 5 | Testing (DRY-001–007 + §5.6 properties) | **Filled** — 11 Nov 2026 |
+| 6 | Evaluation (+ §§6.7–6.8 epistemology) | **Filled** — 11 Nov 2026 |
 | 7 | Operator / user guide | **Filled** — 11 Nov 2026 |
 | 8 | Bibliography | **Filled** — 11 Nov 2026 |
-| 9 | Appendices | **Filled** — 11 Nov 2026 |
+| 9 | Appendices (A–E + F–J senior) | **Filled** — 11 Nov 2026 |
 
 ---
 
@@ -59,7 +59,7 @@ Label material claims as **Verified fact**, **Reasoned inference**, **Working as
 |-----------------------------|------------------------------|
 | Runbooks, CRM packs A01–A50, Week 1–5 outreach, bounce triage, referral / rebook wave | Real outreach sends and reply logs |
 | Path B kickoff / fee-waiver / retention / DSR / Approver / close-out artefacts | Live MSA/DPA with customers; solicitor clearance |
-| DRY-001–006 pack dry-runs on redacted / synthetic fixtures | Paid pilot packs; minutes-saved Actuals |
+| DRY-001–007 pack dry-runs on redacted / synthetic fixtures | Paid pilot packs; minutes-saved Actuals |
 | Interview / observation / time-study **templates** (blank Actuals) | Completed interviews; scorecard Actuals |
 | Brand clearance checklists and decision memos | IPO / domain spend; HarbourResponse reserve actions |
 
@@ -772,6 +772,101 @@ Conceptual fields for design/traceability — not a live schema dump.
 | NFO6 SME usability | ux-ia journeys; empty states |
 | NFO7 Extensibility | Entity model + gap types; Path A→B continuity |
 
+### 3.8 Domain invariants (safety properties)
+
+Design-time predicates that must hold for any correct Path A run or Path B implementation. Notation: English predicates over domain state *(working assumptions until encoded in tests)*.
+
+| ID | Invariant | Informal predicate |
+|----|-----------|-------------------|
+| I1 | No invent | ∀ requirement: draft text ⇒ provenance EvidenceLink ∨ status ∈ {MISSING, EXPIRED, CONFLICT, CUSTOMER_SPECIFIC, abstain} |
+| I2 | Hard export gate | Export.export_approved = true ⇒ ¬∃ required requirement with unresolved hard gap ∧ Approver recorded |
+| I3 | Approver non-bypass | Export ⇒ ∃ Approval by Role=Approver (or explicit waiver record) |
+| I4 | Tenant isolation | ∀ records r: r.organisation_id = session.org (Path B); Path A = named-access register |
+| I5 | FO7 scope | Cite(customer-scoped answer, request) ⇒ answer.customer_id = request.customer_id |
+| I6 | Shared promotion | SharedLib ← ScopedAnswer only via Approver + applies_to change (DRY-007 method) |
+| I7 | Audit append-only | AuditEvent never updated/deleted in place (Path B intent) |
+| I8 | Expiry honesty | as_of > expiry_or_review_date ⇒ status ≠ OK for that cite |
+
+Violation of I1–I3 or I5 in ops is a **process defect**; in SaaS it must be a **hard test failure**.
+
+### 3.9 Request lifecycle state machine
+
+```mermaid
+stateDiagram-v2
+  [*] --> Received
+  Received --> ChecklistReady: checklist_curated
+  ChecklistReady --> Matching: match_started
+  Matching --> GapsOpen: gaps_classified
+  GapsOpen --> InReview: ready_for_approver
+  InReview --> Approved: all_required_approved_or_waived
+  InReview --> Blocked: hard_gap_or_reject
+  Blocked --> GapsOpen: rework
+  Blocked --> InReview: rework
+  Approved --> Exported: export_manifest_written
+  Exported --> Closed: closeout_logged
+  GapsOpen --> Matching: library_updated
+  Closed --> [*]
+```
+
+**Illegal transitions (must reject):** `Exported` ← from `GapsOpen` / `Blocked` without Approver; `Matching` → `Exported` skipping review; any transition that invents evidence to clear MISSING.
+
+Full transition table: Appendix F.
+
+### 3.10 Match algebra
+
+Treat matching as a pure function (Path A: operator applies by hand; Path B: matcher worker):
+
+```
+Match(req, sharedLib, scopedLib?, customerId, as_of) →
+  { status, cites[], reason }
+```
+
+**Lookup order**
+
+1. `sharedLib` rows with `approval_status=approved` and `applies_to` compatible with pack type.  
+2. If `scopedLib` present: rows with `customer_id = customerId` and `scope=customer` only (FO7 / I5).  
+3. Never read another customer’s scoped store.
+
+**Status precedence** (highest wins when multiple conditions apply to the same requirement):
+
+`CONFLICT` ≻ `EXPIRED` ≻ `MISSING` ≻ `CUSTOMER_SPECIFIC` ≻ `OK(draft+cite)`
+
+| Condition | Status |
+|-----------|--------|
+| >1 in-date approved rows, materially different | CONFLICT (cite all; no newest-wins) |
+| Single approved cite with expiry &lt; as_of | EXPIRED |
+| not_held / no key / no usable row | MISSING |
+| Valid only for named buyer template; not promoted | CUSTOMER_SPECIFIC or MISSING until scoped promote |
+| Exactly one clean in-date cite | OK → draft with provenance |
+| AI suggest without provenance | abstain (FO10) |
+
+Worked characterisation: DRY-001–007 (Appendix I). Promotion without shared pollution: DRY-007.
+
+### 3.11 Threat model (STRIDE sketch)
+
+**Trust boundaries:** (1) customer pack contents; (2) operator/Approver workstation; (3) shared encrypted store; (4) optional LLM/OCR provider; (5) Path B app/API/DB/object storage.
+
+| STRIDE | Path A risk | Path B risk | Mitigation (design / stubs) |
+|--------|-------------|-------------|------------------------------|
+| Spoofing | Wrong Approver identity | Stolen session | Named Approver; MFA (Path B buy auth) |
+| Tampering | Quiet edit of draft/manifest | DB/object rewrite | Manifest + audit; append-only AuditEvent intent |
+| Repudiation | “I never approved” | Missing audit | Export manifest initials; AuditEvent |
+| Info disclosure | Pack on laptop / email | Cross-tenant read; LLM train | Named-access; DPA; tenant RLS; no-train contracts |
+| DoS | Operator overload | LLM/OCR quota burn | Caps; Path A default pre-GO |
+| Elevation | Editor exports | Role bypass | Role gate Approver; I3 |
+
+Detail worksheet: Appendix G. Legal stubs remain counsel-gated ([`legal-data-policy.md`](legal-data-policy.md), `security-and-legal/`).
+
+### 3.12 Consistency, idempotency, and contracts
+
+| Concern | Design rule |
+|---------|-------------|
+| Export idempotency | Re-export same approved snapshot → same manifest content hash; new AuditEvent allowed |
+| Approval | Per-requirement decisions; changing library after approve returns request to GapsOpen/InReview |
+| FO7 promotion | Customer-scoped write ≠ shared write; shared promote is explicit second control |
+| Path B resources | Organisation, User, Role, Customer, Request, Requirement, Document, DocumentVersion, ApprovedAnswer, EvidenceLink, Approval, Export, AuditEvent, Subscription — see §3.6 |
+| LLM | Log model/version/prompt hash on assisted steps; never train on customer packs without written terms |
+
 ---
 
 ## Part 4 — Implementation
@@ -785,7 +880,7 @@ Conceptual fields for design/traceability — not a live schema dump.
 |-------|--------|
 | Path A concierge OS (runbooks, worksheets, manifests) | **Shipped** under `operations/` |
 | Redacted / synthetic fixtures | **Shipped** under `testdata/` |
-| Formal Path A dry-runs DRY-001–006 | **Shipped** under `operations/pack-dry-run-dry-*.md` + metrics stub |
+| Formal Path A dry-runs DRY-001–007 | **Shipped** under `operations/pack-dry-run-dry-*.md` + metrics stub |
 | Commercial first-50 + outreach packs | **Shipped** templates under `commercial/` (sends founder-only) |
 | Discovery / interview instruments | **Shipped** blank templates under `research/` |
 | Legal / security stubs | **Shipped** drafts; solicitor clearance founder-only |
@@ -824,7 +919,7 @@ Thin index: [`developer-map.md`](developer-map.md).
 | Close-out scripts | [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) | A–G close |
 | Retention schedule | [`../operations/pilot-data-retention-schedule.md`](../operations/pilot-data-retention-schedule.md) | Align DPA |
 | Metrics stub | [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv) | DRY rows recorded |
-| Dry-run reports | `operations/pack-dry-run-dry-001.md` … `dry-006.md` | Formal Path A evidence (Part 5) |
+| Dry-run reports | `operations/pack-dry-run-dry-001.md` … `dry-007.md` | Formal Path A evidence (Part 5) |
 
 ### 4.4 Fixtures
 
@@ -865,6 +960,21 @@ Thin index: [`developer-map.md`](developer-map.md).
 | FO9 Retention / DSR | Retention schedule + DSR one-pager (security-and-legal) | **Draft shipped**; live clearance founder |
 | FO10 Abstain | Standing rule + DRY no invent / no silent-fill | **Implemented-as-policy + dry-runs** |
 | Path B SaaS FOs | mvp-spec / architecture | **Deferred-SaaS** |
+| FO7 promotion | DRY-007 customer-scoped store | **Demonstrated on fixtures** |
+
+### 4.7 Control plane (system under description)
+
+Pre-GO, the **system** is not a deployed service — it is a **versioned control plane** in git:
+
+| Plane | Role |
+|-------|------|
+| Runbooks / checklists | Executable procedure (human interpreter) |
+| Fixtures + DRY reports | Characterisation harness for Match algebra + gates |
+| Metrics stub + rollup templates | Measurement schema without filled Actuals |
+| CRM / discovery packs | Acquisition state machine outside pack assembly |
+| This writeup | Spec + evaluation epistemology |
+
+**Replay semantics:** Any operator should be able to re-run DRY-00N method sections and obtain the same gate outcomes (MISSING/EXPIRED/CONFLICT/export blocked). Divergence implies procedure drift — treat as a regression on I1–I3 / §3.10.
 
 ---
 
@@ -877,7 +987,7 @@ Thin index: [`developer-map.md`](developer-map.md).
 
 | Layer | Method | Purpose |
 |-------|--------|---------|
-| Characterisation (Path A) | DRY-001–006 on redacted/synthetic fixtures | Prove match/MISSING/EXPIRED/CONFLICT + Approver export gates |
+| Characterisation (Path A) | DRY-001–007 on redacted/synthetic fixtures | Prove match/MISSING/EXPIRED/CONFLICT/FO7 promotion + Approver export gates |
 | Metrics capture | `pilot-metrics-stub.csv` rows per DRY | Repeatable recording shape for future pilots |
 | Regression of procedure | Method sections in each dry-run mirror Part 3 §3.4 | Prevent silent newest-wins / invent |
 | Live pilot / interview tests | Scorecard + Path B after MSA/DPA | **Not executed** — Actuals still 0 |
@@ -895,8 +1005,9 @@ Thin index: [`developer-map.md`](developer-map.md).
 | DRY-004 | Partial library — SQ (Broads) | `redacted-sq-v1` | `synthetic-evidence-library-v1` | 6/18 MISSING (buyer/SQ deltas); 12 cites | **no** | [`../operations/pack-dry-run-dry-004.md`](../operations/pack-dry-run-dry-004.md) |
 | DRY-005 | Expired library — PQQ | `redacted-pqq-v1` | `synthetic-evidence-library-v1-expired` | 1 EXPIRED (EL); 1 MISSING; draft-only | **no** | [`../operations/pack-dry-run-dry-005.md`](../operations/pack-dry-run-dry-005.md) |
 | DRY-006 | Conflict library — PQQ | `redacted-pqq-v1` | `synthetic-evidence-library-v1-conflict` | 1 CONFLICT (PL £5m vs £10m); 1 MISSING; draft-only | **no** | [`../operations/pack-dry-run-dry-006.md`](../operations/pack-dry-run-dry-006.md) |
+| DRY-007 | FO7 customer-scoped promotion | `redacted-sq-v1` + scoped answers | shared v1 **unchanged** + `synthetic-customer-scoped-answers-v1` | Broads MISSING 6→3; Harbour Wind must not cite Broads-scoped | **no** | [`../operations/pack-dry-run-dry-007.md`](../operations/pack-dry-run-dry-007.md) |
 
-Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv) (`export_approved=no` for each).
+Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv) (`export_approved=no` for each dry_run).
 
 ### 5.3 Gate coverage matrix
 
@@ -907,7 +1018,8 @@ Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metri
 | Multi-customer buyer-specific MISSING | DRY-002, DRY-004 |
 | EXPIRED blocks export (no silent renewal invent) | DRY-005 |
 | CONFLICT blocks export (no newest-wins) | DRY-006 |
-| Draft-only / unapproved ≠ export | DRY-003–006 |
+| FO7 scoped promote without shared pollution | DRY-007 |
+| Draft-only / unapproved ≠ export | DRY-003–007 |
 | Approver rework loop recorded | All DRY method sections |
 | Waiver not used to fake pass | All DRY `export_approved=no` |
 
@@ -928,18 +1040,32 @@ Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metri
 | FO4 Match + gaps | Empty/partial/expired/conflict paths demonstrated | Live customer libraries |
 | FO5 Approver + block export | Export blocked on every DRY | Live Approver behaviour |
 | FO6 Export + audit | Manifest template + dry-run reports | Live export to real buyer |
-| FO7 Multi-customer | DRY-002/004 | Live multi-OEM packs |
+| FO7 Multi-customer | DRY-002/004/007 | Live multi-OEM packs |
 | FO10 Abstain | No invent across DRY methods | LLM assist under load |
 | FO8 / scorecard time & WTP | Instruments only | Interviews, paid pilots (Actuals 0) |
 | NFO1 live legal | Drafts only | Solicitor-cleared MSA/DPA with customer |
 | Path B SaaS correctness | — | Entire automated suite deferred |
+| Invariants I1–I3, I5 | DRY gate outcomes | Encoded automated tests post-GO |
+
+### 5.6 Property intents (post-GO test design)
+
+| Property | Intent | Pre-GO evidence |
+|----------|--------|-----------------|
+| P-export-gate | No export while hard gaps open | All DRY `export_approved=no` |
+| P-no-newest-wins | CONFLICT lists both cites | DRY-006 |
+| P-no-silent-renew | EXPIRED ≠ OK | DRY-005 |
+| P-tenant-FO7 | No cross-customer scoped cite | DRY-007 |
+| P-no-invent | not_held → MISSING | DRY-001–004 |
+| P-approver-required | Manifest / role gate | Approver training + DRY rework |
+
+These become automated regression targets only after Path B exists — **not claimed implemented**.
 
 ---
 
 ## Part 6 — Evaluation
 
 **Last updated:** 11 November 2026  
-**Honesty:** No live client evaluation, interview transcripts, or UAT quotes are claimed. Judgement rests on desk research (Parts 1–2), design intent (Part 3), shipped Path A artefacts (Part 4), and DRY-001–006 characterisation tests (Part 5). Scorecard Actuals remain **0 / blank**.
+**Honesty:** No live client evaluation, interview transcripts, or UAT quotes are claimed. Judgement rests on desk research (Parts 1–2), design intent (Part 3), shipped Path A artefacts (Part 4), and DRY-001–007 characterisation tests (Part 5). Scorecard Actuals remain **0 / blank**.
 
 ### 6.0 Evaluation method
 
@@ -947,7 +1073,7 @@ Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metri
 |--------|-------|------|
 | Desk research synthesis | Yes | Problem, ICP, alternatives, constraints |
 | Developer-led design review | Yes | FO/NFO ↔ Path A/B design |
-| Fixture dry-runs (DRY-001–006) | Yes | Characterise match/export gates |
+| Fixture dry-runs (DRY-001–007) | Yes | Characterise match/export/FO7 gates |
 | Live client interviews / UAT | **No** | Instruments exist; Actuals 0 |
 | Paid pilot metrics | **No** | Metrics stub shape only |
 | Automated SaaS test suite | **No** | Path B unbuilt |
@@ -1025,9 +1151,25 @@ They **do not** prove the commercial thesis. Adjacent tender/compliance tools sh
 | Time/value | ≥90 min or ≥£150/pack | — | No |
 | Admin minutes ≥40% reduction | Proposed experiment | — | No |
 | 100% requirements mapped or flagged | Product promise | **Provisional on fixtures only** | Fixture-level yes; live no |
-| Export gates | Block on MISSING/EXPIRED/CONFLICT | DRY-001–006 all blocked | Fixture-level yes |
+| Export gates | Block on MISSING/EXPIRED/CONFLICT | DRY-001–007 all blocked | Fixture-level yes |
 
 **Overall evaluation verdict:** Path A **process and gates are ready for training and legal-cleared pilots**; the **business validation verdict remains INVESTIGATE FURTHER / not yet GO** for production SaaS.
+
+### 6.7 Epistemology and false-GO risk
+
+| Claim type | What fixture DRY can support | What only live evidence can support |
+|------------|------------------------------|-------------------------------------|
+| Gate/procedure correctness | High (characterisation) | Confirmation under real packs |
+| Multi-customer isolation (FO7) | Medium (DRY-007 synthetic) | High (live two-buyer libraries) |
+| Minutes saved / WTP | **None** (DRY minutes ≠ customer baseline) | Interviews + baseline + live metrics rollup |
+| Retention / willingness to continue | None | Paid pilots + continuation log |
+| SaaS tenancy / MFA / scale | None | Post-GO engineering + security tests |
+
+**False-GO:** Declaring production SaaS GO because dry-runs pass and docs are thick. Mitigate with scorecard Actual thresholds (Part 2 §2.6.4) and explicit separation in Part 0 (shipped vs founder Actuals).
+
+### 6.8 Construct validity — minutes-saved
+
+The Time/value construct is **admin minutes (or £ equivalent) on inbound pack assembly**, not generic busyness and not dry-run wall-clock. Valid measurement path: interview time-study → kickoff baseline → live `pilot-metrics-stub` rows → [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md). Using DRY `minutes_to_first_draft` as GO evidence is a **construct invalid** use.
 
 ---
 
@@ -1257,15 +1399,82 @@ From Part 2 §2.6 (titles only).
 | 0 | How to read / evidence rules |
 | 1 | Executive summary & decision posture |
 | 2 | Analysis |
-| 3 | Design |
-| 4 | Implementation (shipped artefacts & fixtures) |
-| 5 | Testing (incl. DRY-001–006 formal evidence) |
-| 6 | Evaluation |
+| 3 | Design (incl. §§3.8–3.12) |
+| 4 | Implementation (incl. §4.7) |
+| 5 | Testing (DRY-001–007; §5.6) |
+| 6 | Evaluation (incl. §§6.7–6.8) |
 | 7 | Operator / user guide |
 | 8 | Bibliography |
-| 9 | Appendices |
+| 9 | Appendices A–J |
 
-**Writeup status:** Parts **0–9 complete** as of 11 Nov 2026 (living document; changelog continues on later edits). Next backlog meta after this band: item **70** re-rank.
+**Writeup status:** Parts **0–9** complete; **senior deepen** §§3.8–3.12, 4.7, 5.6, 6.7–6.8 + Appendices **F–J** as of 11 Nov 2026.
+
+### Appendix F — Request lifecycle transition table
+
+| From | Event | To | Guard |
+|------|-------|----|-------|
+| Received | checklist_curated | ChecklistReady | Checklist editable; pack versioned |
+| ChecklistReady | match_started | Matching | — |
+| Matching | gaps_classified | GapsOpen | Every req has status |
+| GapsOpen | ready_for_approver | InReview | Draft complete (cites or gaps) |
+| InReview | all_required_approved_or_waived | Approved | I2, I3 |
+| InReview | hard_gap_or_reject | Blocked | — |
+| Blocked | rework | GapsOpen or InReview | No invent |
+| Approved | export_manifest_written | Exported | I2 |
+| Exported | closeout_logged | Closed | Metrics/continuation as applicable |
+| GapsOpen | library_updated | Matching | Re-match after intake/promote |
+
+Forbidden: any path to Exported that skips Approver or leaves unresolved hard gaps without waiver.
+
+### Appendix G — Threat-model worksheet
+
+| Boundary | Assets | Primary threats | Controls |
+|----------|--------|-----------------|----------|
+| Operator laptop / email | Pack files, drafts | Disclosure, tampering | Named-access register; encrypted path; no git of live packs |
+| Approver channel | Approval decisions | Spoofing, repudiation | Named Approver; manifest initials |
+| Shared library store | Evidence versions | Pollution, wrong cite | FO7 scoped store; Approver promote |
+| LLM/OCR (optional) | Pack text | Training/disclosure | DPA; no-train; abstain without provenance |
+| Path B API/DB/object | All tenant data | Cross-tenant, elevation | org_id + RLS intent; roles; MFA |
+
+STRIDE summary: §3.11.
+
+### Appendix H — Entity field constraints / invariants checklist
+
+| Entity | Constraint | Invariant |
+|--------|------------|-----------|
+| DocumentVersion | expiry_or_review_date optional but checked when present | I8 |
+| ApprovedAnswer | requires evidence link or explicit policy-owned flag (mvp-spec) | I1 |
+| EvidenceLink | points at one answer or document version | I1 |
+| Approval | approver has Approver role | I3 |
+| Export | blocked unless hard gates clear or waiver | I2 |
+| Customer-scoped answer | customer_id required; scope=customer | I5, I6 |
+| AuditEvent | append-only | I7 |
+
+### Appendix I — Match worked examples → DRY-001–007
+
+| Example | DRY | Algebra point |
+|---------|-----|---------------|
+| Empty lib → all MISSING | 001, 002 | MISSING branch |
+| Partial shared cites | 003, 004 | OK + residual MISSING |
+| Multi-customer deltas | 002, 004 | Buyer-specific MISSING |
+| EXPIRED precedence | 005 | EXPIRED ≻ OK |
+| CONFLICT precedence | 006 | CONFLICT ≻ OK; no newest-wins |
+| Scoped promote FO7 | 007 | scopedLib lookup; shared unchanged |
+
+### Appendix J — Post-GO engineering readiness checklist
+
+Still **no build** until scorecard GO. When GO:
+
+- [ ] Encode I1–I8 as automated tests  
+- [ ] Implement §3.9 states in Request aggregate  
+- [ ] Matcher implements §3.10 precedence + FO7  
+- [ ] Tenant RLS + MFA smoke tests  
+- [ ] Export gate property tests (Appendix §5.6)  
+- [ ] Subprocessor DPA + no-train contracts live  
+- [ ] Staging ≠ production data  
+- [ ] Support runbook + privacy notice in force  
+
+Intent refs: [`architecture.md`](architecture.md), [`../product/mvp-spec.md`](../product/mvp-spec.md), [`../product/backlog.md`](../product/backlog.md).
 
 ---
 
@@ -1280,3 +1489,4 @@ From Part 2 §2.6 (titles only).
 | 11 Nov 2026 | Filled Parts 4–5 — Implementation (artefact/fixture mapping) + Testing (DRY-001–006 formal evidence); no invented UAT. |
 | 11 Nov 2026 | Filled Parts 6–7 — Evaluation (FO/NFO; no live clients) + Operator/user guide. |
 | 11 Nov 2026 | Filled Parts 8–9 — Bibliography + Appendices; NEA-grade Parts 0–9 complete. |
+| 11 Nov 2026 | Senior full-stack upgrade: §§3.8–3.12, 4.7, 5.6, 6.7–6.8; DRY-007 in test tables; Appendices F–J (invariants, state machine, threat model, match algebra, epistemology). |

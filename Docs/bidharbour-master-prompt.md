@@ -201,9 +201,10 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 71 | **done** | Pilot minutes-saved contrast rollup (blank Actuals): wire baseline worksheet + metrics stub + SharePoint time-study → scorecard Time/value → `operations/` | #2 |
 | 72 | **done** | DRY-007 dry-run: buyer-specific approved-answer promotion after Pack 1 without polluting shared library (FO7); metrics + method note → `operations/` | #2 |
 | 73 | **done** | Discovery / observation → paid pilot offer bridge checklist (solicitor-gated; wires observation kit, synthesis, pilot-offer email, Path B-0 kickoff) → `research/` | #1 |
-| 74 | todo | Solicitor pack: pilot privacy notice issue-spotter draft + international transfers decision-tree annex stub (counsel-gated; no customer send) → `security-and-legal/` | #5 |
-| 75 | todo | NAAME / Hethel / Great Yarmouth network peer-intro pack (event + LinkedIn warm intros; referral density; not a new cold-50) → `commercial/` | #6 |
-| 76 | todo | When 71–75 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 74 | **done** | Senior writeup upgrade — invariants, state machine, match algebra, threat model, contracts, epistemology + Apps F–J → `Docs/project-writeup.md` | — |
+| 75 | todo | Solicitor pack: pilot privacy notice issue-spotter draft + international transfers decision-tree annex stub (counsel-gated; no customer send) → `security-and-legal/` | #5 |
+| 76 | todo | NAAME / Hethel / Great Yarmouth network peer-intro pack (event + LinkedIn warm intros; referral density; not a new cold-50) → `commercial/` | #6 |
+| 77 | todo | When 75–76 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 
