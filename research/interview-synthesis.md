@@ -59,4 +59,5 @@ Scorecard: Workflow evidence ≥3 businesses. Tick only with distinct firms + IN
 2. Recompute tally.  
 3. Update [`validation-scorecard.md`](validation-scorecard.md) Actuals **only if** numbers changed from real completions.  
 4. Log negatives the same day.  
-5. At Week 4: run [`week4-gate-checklist.md`](week4-gate-checklist.md) from this tally — do not invent rows to pass.
+5. At Week 4: run [`week4-gate-checklist.md`](week4-gate-checklist.md) from this tally — do not invent rows to pass.  
+6. At Week 8: run [`week8-gate-checklist.md`](week8-gate-checklist.md) from scorecard + live pilot metrics — dry-runs alone are not GO evidence.
