@@ -46,6 +46,7 @@
 - [x] Pilot data retention / deletion schedule → [`pilot-data-retention-schedule.md`](pilot-data-retention-schedule.md)  
 - [x] Observation session log stub (blank Actuals) → [`../research/observation-session-log.md`](../research/observation-session-log.md)  
 - [x] Backlog re-rank: rows 37–41 queued (Week-2 outreach, fee/waiver log, observation consent, DSR) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
+- [x] Week-2 outreach pack A11–A20 → [`../commercial/week2-outreach-pack.md`](../commercial/week2-outreach-pack.md) · [`../commercial/week2-send-runbook.md`](../commercial/week2-send-runbook.md)  
 
 ## Primary founder action (today)
 
@@ -54,7 +55,8 @@
 
 ## Also this week
 
-3. Fill founder constraints form (scenario A/B/C).  
-4. Send solicitor cover email (before any real pack upload).  
-5. IPO / HarbourResponse domain steps → [`../strategy/brand-clearance-execution.md`](../strategy/brand-clearance-execution.md) (founder spend only).  
-6. **Do not** start auth/database code; **do not** use uncleared MSA/DPA stubs with customers.
+3. When Week-1 send log is filled: execute [`../commercial/week2-send-runbook.md`](../commercial/week2-send-runbook.md) (A11–A20) → [`../commercial/week2-outreach-pack.md`](../commercial/week2-outreach-pack.md).  
+4. Fill founder constraints form (scenario A/B/C).  
+5. Send solicitor cover email (before any real pack upload).  
+6. IPO / HarbourResponse domain steps → [`../strategy/brand-clearance-execution.md`](../strategy/brand-clearance-execution.md) (founder spend only).  
+7. **Do not** start auth/database code; **do not** use uncleared MSA/DPA stubs with customers.
