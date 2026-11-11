@@ -82,6 +82,7 @@
 - [x] Project writeup Parts 8–9 Bibliography + Appendices; NEA-grade Parts 0–9 complete → [`../Docs/project-writeup.md`](../Docs/project-writeup.md)  
 - [x] Backlog re-rank: rows 71–75 queued (minutes contrast, DRY-007 promotion, discovery→pilot bridge, privacy/transfers stubs, NAAME network intros — Lead vs SharePoint / multi-customer / pilot conversion) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Minutes-saved contrast rollup (blank Actuals; wires baseline + metrics + time-study → scorecard Time/value) → [`minutes-saved-contrast-rollup.md`](minutes-saved-contrast-rollup.md)  
+- [x] Pack dry-run DRY-007 (FO7 customer-scoped promotion; shared library untouched) → [`pack-dry-run-dry-007.md`](pack-dry-run-dry-007.md) · [`../testdata/synthetic-customer-scoped-answers-v1/`](../testdata/synthetic-customer-scoped-answers-v1/) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 
 ## Primary founder action (today)
 

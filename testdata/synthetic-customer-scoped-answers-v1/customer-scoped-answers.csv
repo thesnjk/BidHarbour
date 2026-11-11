@@ -1,0 +1,4 @@
+doc_key,customer_id,scope,applies_to,approval_status,answer_summary,evidence_label,expiry_or_review_date,promoted_from_pack,notes
+sq_otd_kpi,broads-oem,customer,sq,approved,"SYNTHETIC: Broads OEM OTD 97.2% trailing 12 months (fictional ERP export summary).",SYNTH-BROADS-OTD-v1,2027-01-31,DRY-004,"Promoted after Pack 1 Approver — Broads only; not in shared library"
+sq_site_visit,broads-oem,customer,sq,approved,"SYNTHETIC: Site-visit readiness ack for Broads OEM SQ — fictional shop-floor access note.",SYNTH-BROADS-SITE-v1,2027-06-01,DRY-004,"Customer-scoped; do not cite for Harbour Wind"
+sq_broads_qp_ack,broads-oem,customer,sq,approved,"SYNTHETIC: Acknowledged Broads OEM supplier quality plan rev B (fictional signed ack).",SYNTH-BROADS-QP-ACK-v1,2027-06-01,DRY-004,"Buyer-specific promotion — shared library still not_held"
