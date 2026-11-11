@@ -29,8 +29,8 @@ Label material claims as **Verified fact**, **Reasoned inference**, **Working as
 | 3 | Design | **Filled** — 11 Nov 2026 |
 | 4 | Implementation (shipped artefacts & fixtures) | **Filled** — 11 Nov 2026 |
 | 5 | Testing (incl. DRY-001–006 formal evidence) | **Filled** — 11 Nov 2026 |
-| 6 | Evaluation | *(pending — backlog #68)* |
-| 7 | Operator / user guide | *(pending — backlog #68)* |
+| 6 | Evaluation | **Filled** — 11 Nov 2026 |
+| 7 | Operator / user guide | **Filled** — 11 Nov 2026 |
 | 8 | Bibliography | *(pending — backlog #69)* |
 | 9 | Appendices | *(pending — backlog #69)* |
 
@@ -936,11 +936,189 @@ Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metri
 
 ---
 
-## Parts 6–9 (bodies pending)
+## Part 6 — Evaluation
+
+**Last updated:** 11 November 2026  
+**Honesty:** No live client evaluation, interview transcripts, or UAT quotes are claimed. Judgement rests on desk research (Parts 1–2), design intent (Part 3), shipped Path A artefacts (Part 4), and DRY-001–006 characterisation tests (Part 5). Scorecard Actuals remain **0 / blank**.
+
+### 6.0 Evaluation method
+
+| Method | Used? | Role |
+|--------|-------|------|
+| Desk research synthesis | Yes | Problem, ICP, alternatives, constraints |
+| Developer-led design review | Yes | FO/NFO ↔ Path A/B design |
+| Fixture dry-runs (DRY-001–006) | Yes | Characterise match/export gates |
+| Live client interviews / UAT | **No** | Instruments exist; Actuals 0 |
+| Paid pilot metrics | **No** | Metrics stub shape only |
+| Automated SaaS test suite | **No** | Path B unbuilt |
+
+**Limitation of method:** Fixture success does **not** prove willingness-to-pay, pack frequency, or retention. Those require founder fieldwork and paid pilots per [`../research/validation-scorecard.md`](../research/validation-scorecard.md).
+
+### 6.1 Evaluation against functional objectives
+
+| FO | Verdict (pre-GO) | Evidence | Residual gap |
+|----|------------------|----------|--------------|
+| FO1 Ingest + checklist | **Met (ops)** | Concierge runbook + redacted fixtures | Live pack upload UX (SaaS) |
+| FO2 Evidence library + expiry | **Met (ops)** | Intake + synthetic libraries incl. expired | Live library at customer scale |
+| FO3 Approved answers | **Met (ops)** | Library approval_status / answer_summary pattern | Productised answer bank UI |
+| FO4 Match + gap flags | **Met (fixture)** | DRY-001–006 cover empty/partial/EXPIRED/CONFLICT | Live libraries; LLM assist load |
+| FO5 Approver + block export | **Met (ops/fixture)** | Approver training; all DRY `export_approved=no` | Live Approver behaviour |
+| FO6 Export + audit | **Met (ops)** | Manifest template + dry-run reports | Live buyer delivery |
+| FO7 Multi-customer | **Met (fixture)** | DRY-002/004 Broads vs Harbour Wind | Live multi-OEM packs |
+| FO8 Minutes proof | **Partial** | Baseline worksheet + metrics columns | No measured Actuals yet |
+| FO9 Retention / DSR | **Partial** | Draft schedules/one-pagers | Solicitor-cleared live process |
+| FO10 Abstain | **Met (policy + fixture)** | Standing rule; DRY no invent / no silent-fill | Production LLM under DPA |
+
+### 6.2 Evaluation against non-functional objectives
+
+| NFO | Verdict (pre-GO) | Evidence | Residual gap |
+|-----|------------------|----------|--------------|
+| NFO1 Trust / confidentiality | **Partial** | Legal-data policy + stubs; Path A named-access register | Cleared MSA/DPA with real customer |
+| NFO2 Auditability | **Met (ops)** | Manifest + dry-run provenance cites | Append-only SaaS AuditEvent |
+| NFO3 Maintainable ops | **Met (ops)** | Runbooks + monday ledger | Operator load at >3 concurrent pilots |
+| NFO4 Cost control | **Met (by design)** | Path A default; no always-on SaaS | Path B quota design unproven in prod |
+| NFO5 Honest validation | **Met** | Blank Actuals; no invented UAT in this writeup | Discipline must continue under pressure |
+| NFO6 SME usability | **Partial** | IA designed; Path A human-operated | No SaaS usability test |
+| NFO7 Extensibility | **Met (design)** | Shared §3.4 procedure Path A→B | Build risk post-GO |
+
+### 6.3 Limitations of the current solution
+
+1. **No primary customer evidence** — interviews 0/10; observations 0; paid pilots 0; continuations 0.  
+2. **Path B SaaS unbuilt** — cannot claim production performance, tenancy, or UI acceptance.  
+3. **Legal uncleared for live packs** — MSA/DPA solicitor path required before real customer documents.  
+4. **Brand risk** — `bidharbour.com` conflict noted; HarbourResponse reserve / IPO steps founder-owned.  
+5. **DRY ≠ pilot** — synthetic fixtures cannot measure real SharePoint baseline minutes or WTP.  
+6. **Founder capacity unknown** — execution scenarios exist; not evaluated here as a pass/fail.
+
+### 6.4 Critical reflection
+
+DRY-001–006 **do** prove that the designed decision procedure can:
+
+- force **MISSING** on empty/partial libraries without inventing evidence;  
+- force **EXPIRED** and **CONFLICT** blocks without silent-fill or newest-wins;  
+- keep **export blocked** until Approver approval/waiver;  
+- differentiate **multi-customer** buyer-specific rows.
+
+They **do not** prove the commercial thesis. Adjacent tender/compliance tools show spend exists in the market, but Supplier Desk’s Lead surfaces remain a **hypothesis** until pilots measure ≥90 minutes saved (or ≥£150/pack value) and ≥2 continuations.
+
+**Do not silent-pivot** to holiday-property ops or RFQ estimating while PQQ validation is incomplete (Part 1 fallback stance).
+
+### 6.5 Future improvements
+
+| Priority | Action | Owner |
+|----------|--------|-------|
+| P0 | Execute Week-1 send runbook; book interviews; fill scorecard only after completed interviews | Founder |
+| P0 | Solicitor-clear MSA/DPA before any live pack | Founder + counsel |
+| P1 | Run ≥3 Path B paid pilots; log baseline minutes, continuation yes/no | Founder + operator |
+| P1 | Week 4 / Week 8 gate decisions (GO / NARROW / PIVOT / STOP) | Founder |
+| P2 | Only after scorecard GO: build Path B SaaS per Part 3; automated tests | Engineering |
+| P2 | Brand clearance / rename decision before brand spend | Founder |
+
+### 6.6 Summary vs measurable success criteria
+
+| Criterion | Threshold | Actual | Pass? |
+|-----------|-----------|--------|-------|
+| Interview pain convergence | ≥6/10 | 0/10 | No |
+| Workflow observations | ≥3 | 0 | No |
+| Paid pilots | 3 | 0 | No |
+| Continuations | ≥2 | 0 | No |
+| Time/value | ≥90 min or ≥£150/pack | — | No |
+| Admin minutes ≥40% reduction | Proposed experiment | — | No |
+| 100% requirements mapped or flagged | Product promise | **Provisional on fixtures only** | Fixture-level yes; live no |
+| Export gates | Block on MISSING/EXPIRED/CONFLICT | DRY-001–006 all blocked | Fixture-level yes |
+
+**Overall evaluation verdict:** Path A **process and gates are ready for training and legal-cleared pilots**; the **business validation verdict remains INVESTIGATE FURTHER / not yet GO** for production SaaS.
+
+---
+
+## Part 7 — Operator / user guide
+
+**Last updated:** 11 November 2026  
+**Product name:** Supplier Desk (BidHarbour)
+
+### 7.1 Audience
+
+| Role | This guide is for |
+|------|-------------------|
+| Concierge operator | Runs Path A / Path B pack assembly |
+| Named Approver | Signs or blocks every export |
+| Founder | Discovery outreach + legal gates |
+
+This is **not** an end-customer SaaS user manual (Path B UI unbuilt). Post-GO IA intent lives in Part 3 §3.5 / [`../design/ux-ia.md`](../design/ux-ia.md).
+
+### 7.2 Path A / Path B happy path (operator)
+
+Canonical detail: [`../operations/concierge-pilot-runbook.md`](../operations/concierge-pilot-runbook.md).
+
+1. **Kickoff gates (live only):** MSA/DPA signed, fee/waiver logged, named Approver, baseline minutes worksheet started, named-access register, no model training on customer content — [`../operations/pilot-kickoff-checklist.md`](../operations/pilot-kickoff-checklist.md).  
+2. **Library intake:** Capture documents with owner, approval_status, expiry/review — [`../operations/pilot-evidence-library-intake.md`](../operations/pilot-evidence-library-intake.md).  
+3. **Receive pack:** Version the inbound PQQ/SQ; confirm buyer/customer.  
+4. **Checklist:** Build/edit requirement list from the pack (do not invent asks).  
+5. **Match:** Apply Part 3 §3.4 — cite library or mark MISSING / EXPIRED / CONFLICT / CUSTOMER_SPECIFIC.  
+6. **MISSING queue:** Chase customer gaps — [`../operations/missing-queue-email.md`](../operations/missing-queue-email.md).  
+7. **Approver review:** Hand draft + manifest; record rework loops — §7.3.  
+8. **Export or block:** Fill [`../operations/export-manifest-template.md`](../operations/export-manifest-template.md); export only if gates pass or waiver recorded.  
+9. **Metrics:** One row in [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv).  
+10. **Close-out / continuation:** [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) + [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md).  
+11. **Retention:** Follow [`../operations/pilot-data-retention-schedule.md`](../operations/pilot-data-retention-schedule.md).
+
+**Dry-run shortcut:** Skip live legal/fee; use `testdata/` fixtures only; still enforce Approver gate.
+
+### 7.3 Approver checklist
+
+From [`../operations/approver-review-training.md`](../operations/approver-review-training.md):
+
+- [ ] Every required row is `approved`, `waived` (with note), or still MISSING / EXPIRED / CONFLICT with export **blocked**  
+- [ ] Each cited evidence label/version matches the document reviewed  
+- [ ] Expiry/review dates checked; expired → EXPIRED block (or renew)  
+- [ ] Conflicting in-date matches → CONFLICT; list both; pick or retire before approve  
+- [ ] No silent-fill; MISSING queue sent if customer still owes evidence  
+- [ ] Buyer-specific rows not copied from another buyer’s pack  
+- [ ] No portal auto-submit by BidHarbour  
+- [ ] You are named on the manifest and authorised for this org  
+
+| Situation | Action |
+|-----------|--------|
+| Evidence on file, accurate, in date | Approve row |
+| Customer confirmed not held / N/A | May waive (record rationale) |
+| Still MISSING / EXPIRED / CONFLICT | **Block** export |
+
+### 7.4 Dry-run practice (training)
+
+1. Pick a DRY ID from Part 5 §5.2.  
+2. Open the cited pack fixture + library (if any) under `testdata/`.  
+3. Follow the method section in `operations/pack-dry-run-dry-00N.md`.  
+4. Confirm export stays blocked for the documented reasons.  
+5. Compare your outcome to the report table — do not “improve” results by inventing evidence.
+
+Recommended training order: DRY-001 → 003 → 005 → 006 (PQQ gates), then DRY-002 → 004 (multi-customer SQ).
+
+### 7.5 Founder discovery track
+
+Parallel to ops training — **does not** invent sends or interview Actuals:
+
+1. Primary action: [`../commercial/week1-send-runbook.md`](../commercial/week1-send-runbook.md) using A01–A10 contact hints; fill send log per real send.  
+2. On replies: booking scripts → interview grid; update scorecard **only after** completed interviews.  
+3. Continue Weeks 2–5 / referral wave per [`../operations/monday-checklist.md`](../operations/monday-checklist.md).  
+4. After discovery: solicitor cover email before any real pack upload.
+
+### 7.6 Hard stops
+
+| Stop | Rule |
+|------|------|
+| Live customer packs | Forbidden until solicitor-cleared MSA/DPA signed |
+| Invented compliance | Never — mark MISSING instead |
+| Scorecard inflation | Do not increment Actuals from dry-runs or unsent outreach |
+| Silent pivot | No holiday ops; RFQ only if PQQ validation fails |
+| SaaS build | No production auth/database until scorecard GO |
+| Git hygiene | No live customer files, secrets, or credentials in the repo |
+
+---
+
+## Parts 8–9 (bodies pending)
 
 | Part | Backlog | Scope |
 |------|---------|--------|
-| 6–7 Evaluation + Operator guide | #68 | FO/NFO evaluation (honest no live clients); operator/user guide |
 | 8–9 Bibliography + Appendices | #69 | Sources list; artefact index; dry-run pointers; blank discovery template index |
 
 ---
@@ -954,3 +1132,4 @@ Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metri
 | 11 Nov 2026 | Reframed document to NEA-grade Parts 0–9; filled Part 2 Analysis in full (no invented clients); re-queued Design→Appendices as backlog #66–#69. |
 | 11 Nov 2026 | Filled Part 3 Design (goals, architecture Path A/B, data model, match/MISSING algorithm, IA, data dictionary, FO/NFO traceability); SaaS not claimed implemented. |
 | 11 Nov 2026 | Filled Parts 4–5 — Implementation (artefact/fixture mapping) + Testing (DRY-001–006 formal evidence); no invented UAT. |
+| 11 Nov 2026 | Filled Parts 6–7 — Evaluation (FO/NFO; no live clients) + Operator/user guide. |

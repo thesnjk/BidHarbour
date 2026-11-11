@@ -195,7 +195,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 65 | **done** | Project writeup Part 2 — NEA-grade Analysis (no invented clients) → `Docs/project-writeup.md` | — |
 | 66 | **done** | Project writeup Part 3 — Design (goals, architecture intent, data/class design, match/MISSING algorithm, IA, data dictionary, objective traceability) → `Docs/project-writeup.md` | — |
 | 67 | **done** | Project writeup Parts 4–5 — Implementation (shipped artefacts/fixtures mapping) + Testing (strategy + DRY-001–006 as formal test evidence) → `Docs/project-writeup.md` | — |
-| 68 | todo | Project writeup Parts 6–7 — Evaluation against FO/NFO (honest no live clients; dry-run + desk evidence) + Operator/user guide → `Docs/project-writeup.md` | — |
+| 68 | **done** | Project writeup Parts 6–7 — Evaluation against FO/NFO (honest no live clients; dry-run + desk evidence) + Operator/user guide → `Docs/project-writeup.md` | — |
 | 69 | todo | Project writeup Parts 8–9 — Bibliography + Appendices (artefact index, dry-run evidence pointers, blank discovery templates index) → `Docs/project-writeup.md` | — |
 | 70 | todo | When 66–69 done: re-rank from open epics + gaps; append new rows surgically | — |
 
