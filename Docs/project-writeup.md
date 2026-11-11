@@ -1306,6 +1306,8 @@ External statistics and competitor pricing in this writeup are cited **as record
 | UX / IA | [`../design/ux-ia.md`](../design/ux-ia.md) |
 | Architecture | [`architecture.md`](architecture.md) |
 | Legal & data policy | [`legal-data-policy.md`](legal-data-policy.md) |
+| Solicitor send / return intake | [`../security-and-legal/solicitor-send-checklist.md`](../security-and-legal/solicitor-send-checklist.md) · [`../security-and-legal/solicitor-return-intake-checklist.md`](../security-and-legal/solicitor-return-intake-checklist.md) |
+| Pre-pilot legal readiness gate | [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md) |
 
 ### 8.4 Operations / dry-runs / commercial
 

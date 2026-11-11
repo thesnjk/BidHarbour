@@ -35,7 +35,7 @@ Use [`solicitor-cover-email.md`](solicitor-cover-email.md).
 - [ ] Do **not** start paid pilots with real packs until cleared drafts exist  
 - [ ] Concierge discovery interviews without uploading third-party customer packs may continue  
 - [ ] Customer discovery→pilot offer email ([`../commercial/pilot-offer-email.md`](../commercial/pilot-offer-email.md)) is **separate** from this solicitor cover — still no packs until cleared  
-- [ ] When drafts return: store cleared versions outside git or in a private vault; update stubs only with non-confidential summaries if needed  
+- [ ] When drafts return: run [`solicitor-return-intake-checklist.md`](solicitor-return-intake-checklist.md) (vault MSA/DPA; PASS/FAIL; Script A unlock)  
 - [ ] Track exit on [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md) — Script **A** only after PASS  
 
 ## Related

@@ -3,6 +3,7 @@
 **Epic:** [#5](https://github.com/thesnjk/BidHarbour/issues/5)  
 **Use before:** Script **A** paid-pilot outline ([`../commercial/pilot-offer-email.md`](../commercial/pilot-offer-email.md)) and any confidential pack acceptance path  
 **Solicitor outbound:** [`../security-and-legal/solicitor-send-checklist.md`](../security-and-legal/solicitor-send-checklist.md) · [`../security-and-legal/solicitor-cover-email.md`](../security-and-legal/solicitor-cover-email.md)  
+**Solicitor return intake:** [`../security-and-legal/solicitor-return-intake-checklist.md`](../security-and-legal/solicitor-return-intake-checklist.md)  
 **Named access readiness:** [`../security-and-legal/pilot-named-access-register.md`](../security-and-legal/pilot-named-access-register.md)  
 **After PASS + customer interest:** [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md) (Path B-0)  
 **Bridge:** [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md)  
@@ -50,6 +51,8 @@ flowchart TD
 - [ ] Date + firm logged in **private** notes (not git if sensitive)
 
 ## 2. Counsel return (PASS inputs)
+
+Run [`../security-and-legal/solicitor-return-intake-checklist.md`](../security-and-legal/solicitor-return-intake-checklist.md) when drafts come back, then confirm:
 
 - [ ] Cleared **pilot MSA** stored outside git / vault  
 - [ ] Cleared **DPA** stored outside git / vault  
@@ -99,4 +102,5 @@ Tally: **0** PASS · **0** pending (keep zero until founder fills privately or a
 ## Related
 
 - Legal policy spine: [`../Docs/legal-data-policy.md`](../Docs/legal-data-policy.md)  
+- Solicitor return intake: [`../security-and-legal/solicitor-return-intake-checklist.md`](../security-and-legal/solicitor-return-intake-checklist.md)  
 - Live runbook preconditions: [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md)

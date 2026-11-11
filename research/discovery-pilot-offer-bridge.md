@@ -24,7 +24,7 @@
 - [ ] Synthesis row started or complete for this firm ([`interview-synthesis.md`](interview-synthesis.md))  
 - [ ] No win-rate claims; no invented certs in the offer  
 - [ ] Founder ready to send (this checklist does not invent sends)  
-- [ ] **Legal readiness gate PASS** → [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md)
+- [ ] **Legal readiness gate PASS** → [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md) (counsel return via [`../security-and-legal/solicitor-return-intake-checklist.md`](../security-and-legal/solicitor-return-intake-checklist.md) before Script A unlock)
 
 If gate FAIL/pending (MSA/DPA not solicitor-cleared yet) → use Script B deferral only (`pilot_offer_held_legal`).
 
@@ -74,4 +74,5 @@ flowchart LR
 - Offer sheet: [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md)  
 - Fee / waiver: [`../operations/pilot-fee-waiver-log.md`](../operations/pilot-fee-waiver-log.md)  
 - Solicitor send checklist: [`../security-and-legal/solicitor-send-checklist.md`](../security-and-legal/solicitor-send-checklist.md)  
+- Solicitor return intake: [`../security-and-legal/solicitor-return-intake-checklist.md`](../security-and-legal/solicitor-return-intake-checklist.md)  
 - Referral after soft decline: [`../commercial/referral-ask-script.md`](../commercial/referral-ask-script.md)  
