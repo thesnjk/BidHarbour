@@ -28,6 +28,8 @@
 
 `applies_to`: `pqq` = Harbour Wind–style fixture, `sq` = Broads OEM–style fixture, `both` = reusable across buyers (still verify buyer-specific declarations).
 
+Identity band includes `identity_group` (group structure / org chart or CH PSC) — see synthetic library `SYNTH-GROUP-ORG-v1`.
+
 ## Status values
 
 | status | Meaning |

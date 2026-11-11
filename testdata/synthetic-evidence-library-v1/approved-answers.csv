@@ -2,6 +2,7 @@ doc_key,applies_to,approval_status,answer_summary,evidence_label,expiry_or_revie
 identity_ch,both,approved,"SYNTHETIC: East Anglia Precision Fabrication Ltd — fictional CH 99999999 (not a real company).",SYNTH-CH-LETTERHEAD-v1,2027-06-01,Fixture only
 identity_address,both,approved,"SYNTHETIC: Registered office Unit 1 Harbour Yard, Great Yarmouth NR30 0AA (fictional).",SYNTH-ADDRESS-LETTERHEAD-v1,2027-06-01,
 identity_fte,both,approved,"SYNTHETIC: 28 FTE; established 2009 (fictional HR note).",SYNTH-HR-FTE-v1,2026-12-31,
+identity_group,both,approved,"SYNTHETIC: Standalone company — no parent group; single-entity org note (fictional CH PSC / org chart stub).",SYNTH-GROUP-ORG-v1,2027-06-01,Closes PQQ Q3 gap for future partial-library runs
 hseq_iso9001,both,approved,"SYNTHETIC: ISO 9001:2015 cert SYNTH-UKAS-9001-001; scope fabrication; expiry 2027-03-15.",SYNTH-ISO9001-v1,2027-03-15,Do not treat as real cert
 hseq_iso14001_45001,both,approved,"SYNTHETIC: ISO 14001/45001 not held — written not-held note on file.",SYNTH-ISO-NOTHELD-v1,2027-01-01,
 hseq_riddor,pqq,approved,"SYNTHETIC: 0 RIDDOR reportable incidents in last 24 months (redacted HSEQ log).",SYNTH-RIDDOR-LOG-v1,2026-12-31,
