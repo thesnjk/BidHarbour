@@ -92,6 +92,7 @@
 - [x] Pilot pack-2/3 in-window playbook (Path B repeat; closeout B + fee posture + FO7 handoff) → [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md)  
 - [x] Pilot results review agenda + continuation bridge (C→D; minutes rollup; blank Actuals) → [`pilot-results-review-agenda.md`](pilot-results-review-agenda.md)  
 - [x] Competitive objection sheet (Constructionline / SharePoint / tender-AI / Complys; abstain + Approver; no win-rate) → [`../commercial/competitive-objection-sheet.md`](../commercial/competitive-objection-sheet.md)  
+- [x] Pre-pilot legal readiness gate (solicitor send + cleared MSA/DPA + named-access readiness; Script A only after PASS) → [`pre-pilot-legal-readiness-gate.md`](pre-pilot-legal-readiness-gate.md)  
  
 
 ## Primary founder action (today)

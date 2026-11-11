@@ -30,7 +30,7 @@
 | Encrypted transfer path; access limited to named accounts | Local folder OK | Required → [`../security-and-legal/pilot-named-access-register.md`](../security-and-legal/pilot-named-access-register.md) |
 | No model training on customer content | N/A | Required |
 
-**Do not** start a live pack until the Live column is satisfied.
+**Do not** start a live pack until the Live column is satisfied. Org-level legal readiness (solicitor cleared + founder access procedure) must **PASS** [`pre-pilot-legal-readiness-gate.md`](pre-pilot-legal-readiness-gate.md) before Script A and before kickoff; kickoff still owns customer signatures, fee, Approver, and per-customer access.
 
 ## Path A — Dry-run (ship first)
 

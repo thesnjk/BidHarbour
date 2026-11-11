@@ -36,6 +36,7 @@ Use [`solicitor-cover-email.md`](solicitor-cover-email.md).
 - [ ] Concierge discovery interviews without uploading third-party customer packs may continue  
 - [ ] Customer discovery→pilot offer email ([`../commercial/pilot-offer-email.md`](../commercial/pilot-offer-email.md)) is **separate** from this solicitor cover — still no packs until cleared  
 - [ ] When drafts return: store cleared versions outside git or in a private vault; update stubs only with non-confidential summaries if needed  
+- [ ] Track exit on [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md) — Script **A** only after PASS  
 
 ## Related
 

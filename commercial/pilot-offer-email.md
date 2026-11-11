@@ -7,17 +7,18 @@
 **Solicitor pack (separate):** [`../security-and-legal/solicitor-send-checklist.md`](../security-and-legal/solicitor-send-checklist.md)  
 **Product name:** Supplier Desk
 
-**Solicitor gate:** Do **not** attach uncleared MSA/DPA stubs as customer contracts. Do **not** accept confidential packs until cleared terms are signed, fee/waiver is logged, and Path B-0 kickoff is complete. Do not invent offer/send Actuals in git.
+**Solicitor gate:** Do **not** attach uncleared MSA/DPA stubs as customer contracts. Do **not** accept confidential packs until cleared terms are signed, fee/waiver is logged, and Path B-0 kickoff is complete. Do not invent offer/send Actuals in git.  
+**Legal readiness:** Script **A** requires PASS on [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md); Script **B** is the legal-hold path while pending.
 
 ## When to send
 
 | Moment | Use |
 |--------|-----|
-| After discovery interview (pain confirmed) | **Primary** — Script A |
-| Clear “want a pilot” reply after research call booked/done | Script A |
+| After discovery interview (pain confirmed) **and** legal gate PASS | **Primary** — Script A |
+| Clear “want a pilot” reply after research call booked/done **and** legal gate PASS | Script A |
 | They ask for pilot **before** research call | Hold Script A; use [`reply-booking-scripts.md`](reply-booking-scripts.md) two-track reply first |
 | Cold Email 1 / Week packs | **Do not** send this — discovery first |
-| Legal not cleared yet | Script B (deferral) — keep relationship; no packs |
+| Legal gate FAIL/pending | Script B (deferral) — keep relationship; no packs |
 
 ---
 
