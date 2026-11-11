@@ -2,7 +2,7 @@
 
 **Epic:** [#5](https://github.com/thesnjk/BidHarbour/issues/5)  
 **Status:** Draft operational schedule for founder-run Supplier Desk pilots. **Advice required.** Not legal advice; **not** a substitute for a solicitor-cleared DPA/MSA.  
-**Aligns with:** script **E** in [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md) · [`../research/pilot-design.md`](../research/pilot-design.md) data-handling · [`../security-and-legal/dpa-stub.md`](../security-and-legal/dpa-stub.md)  
+**Aligns with:** script **E** in [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md) · [`../research/pilot-design.md`](../research/pilot-design.md) data-handling · [`../security-and-legal/dpa-stub.md`](../security-and-legal/dpa-stub.md) · DSRs: [`../security-and-legal/pilot-dsr-handling.md`](../security-and-legal/pilot-dsr-handling.md)  
 **Product name:** Supplier Desk
 
 **Rule:** Do not invent deletion/return Actuals in git. Live packs require cleared MSA/DPA. Customer evidence stays on local / encrypted paths — **never** committed.
@@ -49,4 +49,5 @@ If no reply by `reply_by`, founder follows the preference stated at kickoff / DP
 - No model training on customer content.  
 - No committing live customer files or filled intake CSVs.  
 - No inventing “deletion complete” Actuals in the repo.  
+- Mid-pilot access/erasure requests → [`../security-and-legal/pilot-dsr-handling.md`](../security-and-legal/pilot-dsr-handling.md) (not only close-out E).  
 - Dry-run fixtures alone are not scorecard GO evidence.
