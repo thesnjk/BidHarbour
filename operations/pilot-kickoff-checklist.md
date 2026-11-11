@@ -2,13 +2,14 @@
 
 **Epic:** [#2](https://github.com/thesnjk/BidHarbour/issues/2)  
 **Use before:** Path B step 1 (first live pack intake) in [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md)  
-**Offer:** [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md) · Design: [`../research/pilot-design.md`](../research/pilot-design.md)  
+**Offer:** [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md) · Offer email: [`../commercial/pilot-offer-email.md`](../commercial/pilot-offer-email.md) · Design: [`../research/pilot-design.md`](../research/pilot-design.md)  
 **Product name:** Supplier Desk
 
-**Rule:** Live packs require solicitor-cleared MSA/DPA. Do **not** invent fee receipts, signatures, or scorecard Actuals. Optional Path A dry-run rehearsal (DRY-001–004) does not replace kickoff.
+**Rule:** Live packs require solicitor-cleared MSA/DPA. Do **not** invent fee receipts, signatures, or scorecard Actuals. Optional Path A dry-run rehearsal (DRY-001–005) does not replace kickoff.
 
 ## 1. Preconditions (all required for live)
 
+- [ ] Customer accepted paid pilot outline (post-discovery) → [`../commercial/pilot-offer-email.md`](../commercial/pilot-offer-email.md)  
 - [ ] Pilot MSA solicitor-cleared and signed  
 - [ ] DPA solicitor-cleared and signed  
 - [ ] Fee received **or** explicit waiver logged → [`pilot-fee-waiver-log.md`](pilot-fee-waiver-log.md)  

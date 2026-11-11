@@ -66,6 +66,7 @@
 - [x] Bounce / OOO triage extended to Week-4 send log → [`../commercial/bounce-ooo-triage.md`](../commercial/bounce-ooo-triage.md)  
 - [x] Pilot continuation yes/no capture log → [`pilot-continuation-log.md`](pilot-continuation-log.md)  
 - [x] Pack dry-run DRY-005 (expired library) → [`pack-dry-run-dry-005.md`](pack-dry-run-dry-005.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
+- [x] Discovery → paid pilot offer email stub → [`../commercial/pilot-offer-email.md`](../commercial/pilot-offer-email.md)  
 
 ## Primary founder action (today)
 
