@@ -39,6 +39,7 @@
 - [x] DRY-004 partial-library dry-run (SQ) → [`pack-dry-run-dry-004.md`](pack-dry-run-dry-004.md)  
 - [x] Synthetic library `identity_group` enrichment → [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/)  
 - [x] Approver review training one-pager → [`approver-review-training.md`](approver-review-training.md)  
+- [x] Week-1 non-responder follow-ups A21–A40 → [`../commercial/week1-nonresponder-followups-a21-a40.md`](../commercial/week1-nonresponder-followups-a21-a40.md)  
 
 ## Primary founder action (today)
 

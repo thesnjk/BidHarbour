@@ -1,6 +1,7 @@
 # Week-1 non-responder follow-ups (A01–A20)
 
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
+**A21–A40 companion:** [`week1-nonresponder-followups-a21-a40.md`](week1-nonresponder-followups-a21-a40.md)  
 **Use after:** Email 1 sent via [`week1-send-runbook.md`](week1-send-runbook.md) / [`week1-outreach-pack.md`](week1-outreach-pack.md)  
 **Responders:** use [`reply-booking-scripts.md`](reply-booking-scripts.md) instead  
 **Product name:** Supplier Desk  
@@ -17,7 +18,7 @@
 
 Calendar holds: **Day 3, Day 7, Day 14** from `sent_date` (runbook already schedules these).
 
-Applies to CRM **A01–A20** (extend A21–A30 only after those first touches are sent).
+Applies to CRM **A01–A20**. For **A21–A40** after those first touches are sent → [`week1-nonresponder-followups-a21-a40.md`](week1-nonresponder-followups-a21-a40.md).
 
 ## Day 3 — short bump
 
