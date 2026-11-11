@@ -13,6 +13,7 @@
 | Condition | Action |
 |-----------|--------|
 | `outreach_status=sent`, no reply, not bounced | Run Day 3 → 7 → 14 sequence |
+| Hard bounce / wrong entity | **Do not** run this sequence → [`bounce-ooo-triage.md`](bounce-ooo-triage.md) |
 | They replied (any tone) | Stop this sequence; use reply scripts |
 | `declined` / `Disqualified` / anti-persona skip | Do not follow up |
 | Size / network / control caution (below) | Prefer skip or soft Day 3 only — do not burn Day 7/14 as lead ICP |

@@ -1,6 +1,7 @@
 # Reply and booking scripts (Week-1)
 
-Use after discovery outreach. Keep **Supplier Desk** research framing. No win-rate claims.
+Use after discovery outreach. Keep **Supplier Desk** research framing. No win-rate claims.  
+**Bounce / OOO / wrong entity:** [`bounce-ooo-triage.md`](bounce-ooo-triage.md) (not this file).
 
 ## They say yes / “happy to talk”
 
