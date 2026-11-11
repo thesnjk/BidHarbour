@@ -79,6 +79,7 @@ Expanded sheet: [`competitive-objection-sheet.md`](competitive-objection-sheet.m
 
 After successful pack: ask for 2 peer intros; offer one free pack credit on annual plan *(hypothesis)*.  
 Scripts: [`referral-ask-script.md`](referral-ask-script.md) (post-interview, soft-decline, post-pilot, warm-intro outbound).  
+Post–results-review evidence packet (anonymised minutes/gates; blank Actuals): [`pilot-referral-evidence-packet.md`](pilot-referral-evidence-packet.md).  
 Post–first-50 orchestration: [`post-first50-referral-wave.md`](post-first50-referral-wave.md) (warm intros + selective rebook).  
 Network venues (NAAME / Hethel / GY): [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md).
 

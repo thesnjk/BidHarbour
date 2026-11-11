@@ -215,7 +215,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 85 | **done** | DRY-009: filled export manifest + Approver discipline dry-run (partial library; gate story; no live approval Actuals) → `operations/pack-dry-run-dry-009.md` + `export-manifest-dry-009-filled.md` | #2 |
 | 86 | **done** | Complys / tender-AI copycat quarterly monitor stub (public-page checklist; wires objection sheet; no full scrape) → `research/copycat-monitor-quarterly.md` | #1 |
 | 87 | **done** | Solicitor return / counsel clearance intake checklist (vault, PASS/FAIL, Script A unlock; wire legal gate) → `security-and-legal/solicitor-return-intake-checklist.md` | #5 |
-| 88 | todo | Pilot referral evidence packet template (blank Actuals; anonymised minutes/gates bullets; post–results-review referral) → `commercial/` | #6 |
+| 88 | **done** | Pilot referral evidence packet template (blank Actuals; anonymised minutes/gates bullets; post–results-review referral) → `commercial/pilot-referral-evidence-packet.md` | #6 |
 | 89 | todo | When 84–88 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
