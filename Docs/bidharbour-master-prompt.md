@@ -108,7 +108,7 @@ Read `Docs/developer-map.md` first. For deep context pull one of:
 
 ### Shipped first-wave artefacts (keep honest)
 
-Week-1 commercial pack through Week-4 gate checklist + DRY-001/002 + synthetic library (PRs **#7–#36**+). Epics #2–#6 open (#1 closed on GitHub; scorecard Actuals still 0). Do **not** open a PR solely to renumber this band.
+Week-1 commercial pack through Week-8 gate stub + DRY-001/002/003 + first-50 CRM + close-out scripts (PRs **#7–#41**+). Epics #2–#6 open (#1 closed on GitHub; scorecard Actuals still 0). Do **not** open a PR solely to renumber this band.
 
 **Founder parallel track (does not block the agent):** execute `commercial/week1-send-runbook.md` → fill `commercial/week1-send-log.csv` → book `research/interview-grid-8wk.md` → update scorecard Actuals only after completed interviews.
 
@@ -143,7 +143,12 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 23 | **done** | DRY-003 partial-library dry-run: `redacted-pqq-v1` + `synthetic-evidence-library-v1` → metrics + method note | #2 |
 | 24 | **done** | Pilot continuation / close-out scripts (post-export) → `operations/` or `commercial/` | #2 |
 | 25 | **done** | Week-8 gate decision checklist stub wired to scorecard → `research/` | #1 |
-| 26 | todo | When 22–25 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 26 | **done** | Re-rank from open epics + gaps; append rows 27–31 | — |
+| 27 | todo | DRY-004 partial-library dry-run: `redacted-sq-v1` + `synthetic-evidence-library-v1` → metrics + method note | #2 |
+| 28 | todo | Enrich synthetic evidence library: add `identity_group` (and intake row) so PQQ Q3 can leave MISSING intentionally only for buyer-specific gaps | #2 |
+| 29 | todo | Approver review training one-pager (checklist before sign-off) → `operations/` | #2 |
+| 30 | todo | Week-1 non-responder follow-up scripts A21–A40 (same pattern as A01–A20) → `commercial/` | #6 |
+| 31 | todo | When 27–30 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 
