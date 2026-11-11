@@ -3,7 +3,7 @@
 **Epic:** [#2](https://github.com/thesnjk/BidHarbour/issues/2)  
 **Use at:** Path B-0 kickoff — [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md) §2 Baseline workshop  
 **Pre-kickoff (optional):** interview capture [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md) for the same firm — carry forward minutes/tools when available (never invent)  
-**Contrast later with:** [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) · Design targets: [`../research/pilot-design.md`](../research/pilot-design.md)  
+**Contrast later with:** [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) · Rollup home: [`minutes-saved-contrast-rollup.md`](minutes-saved-contrast-rollup.md) · Design targets: [`../research/pilot-design.md`](../research/pilot-design.md)  
 **Product name:** Supplier Desk
 
 **Evidence label:** Template only until filled from a **real** kickoff.  
@@ -15,7 +15,7 @@
 2. Participant estimate is OK; attach timesheet numbers only when the customer volunteers them.  
 3. Dry-runs DRY-001–004 are **not** customer baseline — do not copy their minute columns into this sheet as Actuals.  
 4. Live fills stay local; do **not** commit filled worksheets or banking/identity PII to git.  
-5. Success contrast later: ≥40% reduction **or** ≥90 min saved vs this baseline (pilot-design) — compute only with real pilot metrics.
+5. Success contrast later: ≥40% reduction **or** ≥90 min saved vs this baseline (pilot-design) — compute only with real pilot metrics in [`minutes-saved-contrast-rollup.md`](minutes-saved-contrast-rollup.md).
 
 ## Header (blank until real)
 

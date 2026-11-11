@@ -9,7 +9,7 @@ Update weekly during the 8-week programme.
 | Workflow evidence | ≥3 businesses | 0 | | |
 | Paid pilots | 3 | 0 | | |
 | Continuations | ≥2 | 0 | | [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) (real `yes` only) |
-| Time/value | ≥90 min saved median or ≥£150/pack value | — | | Pre-pilot: [`interview-sharepoint-time-study.md`](interview-sharepoint-time-study.md); pilot contrast: [`../operations/baseline-minutes-worksheet.md`](../operations/baseline-minutes-worksheet.md) |
+| Time/value | ≥90 min saved median or ≥£150/pack value | — | | Pre-pilot: [`interview-sharepoint-time-study.md`](interview-sharepoint-time-study.md); pilot contrast: [`../operations/baseline-minutes-worksheet.md`](../operations/baseline-minutes-worksheet.md); rollup: [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) |
 | Repeat usage | ≥2 packs / continuing customer / 60d | — | | |
 | Support effort | &lt;45 min/customer/mo | — | | |
 | Contribution margin | Positive by customer #6 | — | | |
