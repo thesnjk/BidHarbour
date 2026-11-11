@@ -63,6 +63,7 @@
 - [x] Named-accounts access register (pilot encrypted paths) → [`../security-and-legal/pilot-named-access-register.md`](../security-and-legal/pilot-named-access-register.md)  
 - [x] Backlog re-rank: rows 52–56 queued (Week-5 A41–A50, Week-4 bounce, continuation log, DRY-005 expired, pilot-offer email — Lead vs SharePoint inbound-pack / pilot conversion) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Week-5 outreach pack A41–A50 → [`../commercial/week5-outreach-pack.md`](../commercial/week5-outreach-pack.md) · [`../commercial/week5-send-runbook.md`](../commercial/week5-send-runbook.md)  
+- [x] Bounce / OOO triage extended to Week-4 send log → [`../commercial/bounce-ooo-triage.md`](../commercial/bounce-ooo-triage.md)  
 
 ## Primary founder action (today)
 
