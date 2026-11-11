@@ -13,6 +13,8 @@
 | 4 | [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md) | Commercial offer context (£500 mid, 3 packs, 4 weeks) |
 | 5 | [`subprocessors-and-data-flow.md`](subprocessors-and-data-flow.md) | Subprocessor inventory + concierge data flow |
 | 6 | Optional: [`security-privacy-legal.md`](security-privacy-legal.md) | Control classification map |
+| 7 | [`pilot-privacy-notice-issue-spotter.md`](pilot-privacy-notice-issue-spotter.md) | Pilot privacy notice issue-spotter (**counsel-only; no customer send**) |
+| 8 | [`international-transfers-decision-tree-annex-stub.md`](international-transfers-decision-tree-annex-stub.md) | Transfers decision-tree DPA annex stub (**counsel-only; no customer send**) |
 
 ## Cover email
 

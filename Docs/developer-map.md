@@ -19,7 +19,7 @@ Scorecard: `research/validation-scorecard.md`
 | `product/` | MVP and backlog | `mvp-spec.md`, `backlog.md` |
 | `design/` | UX / IA | `ux-ia.md` |
 | `engineering/` | Post-GO code (empty until GO) | apps/, packages/ later |
-| `security-and-legal/` | Controls and stubs | `security-privacy-legal.md`, DPA stub |
+| `security-and-legal/` | Controls and stubs | `security-privacy-legal.md`, DPA stub, privacy issue-spotter, transfers annex |
 | `commercial/` | GTM | outreach, first actions, CRM |
 | `finance/` | Model and pricing | `model-24mo.xlsx`, `pricing.md` |
 | `operations/` | Run model | KPIs, RACI, runbooks |

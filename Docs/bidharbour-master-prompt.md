@@ -202,7 +202,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 72 | **done** | DRY-007 dry-run: buyer-specific approved-answer promotion after Pack 1 without polluting shared library (FO7); metrics + method note → `operations/` | #2 |
 | 73 | **done** | Discovery / observation → paid pilot offer bridge checklist (solicitor-gated; wires observation kit, synthesis, pilot-offer email, Path B-0 kickoff) → `research/` | #1 |
 | 74 | **done** | Senior writeup upgrade — invariants, state machine, match algebra, threat model, contracts, epistemology + Apps F–J → `Docs/project-writeup.md` | — |
-| 75 | todo | Solicitor pack: pilot privacy notice issue-spotter draft + international transfers decision-tree annex stub (counsel-gated; no customer send) → `security-and-legal/` | #5 |
+| 75 | **done** | Solicitor pack: pilot privacy notice issue-spotter + international transfers decision-tree annex stub (counsel-gated; no customer send) → `security-and-legal/pilot-privacy-notice-issue-spotter.md` + `international-transfers-decision-tree-annex-stub.md` | #5 |
 | 76 | todo | NAAME / Hethel / Great Yarmouth network peer-intro pack (event + LinkedIn warm intros; referral density; not a new cold-50) → `commercial/` | #6 |
 | 77 | todo | When 75–76 done: re-rank from open epics + gaps; append new rows surgically | — |
 
@@ -217,6 +217,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 - Do not run Day 3/7/14 non-responder follow-ups on hard bounces — triage via `commercial/bounce-ooo-triage.md` first.
 - Do not send pilot refund/cancellation emails under uncleared MSA — draft only in `operations/pilot-refund-cancellation-email.md`.
 - Do not send customer breach-notification emails without counsel — draft only in `security-and-legal/customer-breach-notification-draft.md`.
+- Do not send privacy notices or treat transfers stubs as approved mechanisms — drafts only in `security-and-legal/pilot-privacy-notice-issue-spotter.md` and `international-transfers-decision-tree-annex-stub.md`.
 
 ---
 

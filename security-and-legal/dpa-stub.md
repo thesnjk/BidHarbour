@@ -35,6 +35,11 @@ Customer breach-notification draft (counsel-gated) → [`customer-breach-notific
 Working inventory + pilot data flow → [`subprocessors-and-data-flow.md`](subprocessors-and-data-flow.md).  
 Replace with solicitor-approved annex before customer use.
 
+## International transfers
+
+Decision-tree annex stub (UK/EEA vs third country; adequacy / UK IDTA / SCCs branches) → [`international-transfers-decision-tree-annex-stub.md`](international-transfers-decision-tree-annex-stub.md).  
+**Not** an approved transfer mechanism. Solicitor annex prevails when cleared.
+
 ## Liability / indemnity
 
 **Advice required.**

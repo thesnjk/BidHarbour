@@ -85,6 +85,7 @@
 - [x] Pack dry-run DRY-007 (FO7 customer-scoped promotion; shared library untouched) → [`pack-dry-run-dry-007.md`](pack-dry-run-dry-007.md) · [`../testdata/synthetic-customer-scoped-answers-v1/`](../testdata/synthetic-customer-scoped-answers-v1/) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 - [x] Discovery / observation → paid pilot offer bridge checklist → [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md)  
 - [x] Senior writeup upgrade (invariants, state machine, match algebra, threat model, epistemology; Apps F–J); privacy + NAAME remain queued → [`../Docs/project-writeup.md`](../Docs/project-writeup.md)  
+- [x] Pilot privacy notice issue-spotter + international transfers decision-tree annex (counsel-gated); NAAME peer-intro pack remains queue head → [`../security-and-legal/pilot-privacy-notice-issue-spotter.md`](../security-and-legal/pilot-privacy-notice-issue-spotter.md) · [`../security-and-legal/international-transfers-decision-tree-annex-stub.md`](../security-and-legal/international-transfers-decision-tree-annex-stub.md)  
 
 ## Primary founder action (today)
 

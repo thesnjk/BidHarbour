@@ -58,7 +58,7 @@ Export pack → Customer
 2. AI may draft; **only** authorised humans approve statements before export.  
 3. Unsupported facts → **MISSING** — never invent certifications/insurance/financials.  
 4. No foundation-model training on customer content without written agreement.  
-5. International transfers (if any subprocessor outside UK/EEA): document SCCs / UK IDTA — **Advice required**.  
+5. International transfers (if any subprocessor outside UK/EEA): document SCCs / UK IDTA — **Advice required**. Decision-tree annex stub → [`international-transfers-decision-tree-annex-stub.md`](international-transfers-decision-tree-annex-stub.md).  
 6. Live packs blocked until solicitor-cleared MSA + DPA are signed.
 
 ## Founder actions before live packs
