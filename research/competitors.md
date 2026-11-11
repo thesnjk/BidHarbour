@@ -59,7 +59,8 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 1. **Underserved job (hypothesis):** inbound, customer-specific qualification pack with approved evidence graph + human approval export at SME price.  
 2. **Differentiation valuable enough to buy?** Unproven — must show time saved vs SharePoint in paid pilots (scorecard Actual still 0).  
 3. **Service vs SaaS:** Concierge + light software first; pure SaaS only after retention / GO.  
-4. **Most likely copycat:** Complys or a tender-AI vendor adding “customer pack importer.” Monitor quarterly. Copycat-awareness talk track (queued, not a tender scrape): backlog **#81** → `commercial/competitive-objection-sheet.md` (Constructionline / SharePoint / tender-AI / Complys — abstain + Approver; no win-rate).  
+4. **Most likely copycat:** Complys or a tender-AI vendor adding “customer pack importer.” Monitor quarterly. Copycat-awareness talk track (not a tender scrape): [`../commercial/competitive-objection-sheet.md`](../commercial/competitive-objection-sheet.md) (Constructionline / SharePoint / tender-AI / Complys — abstain + Approver; no win-rate).  
+ 
  
 5. **2026-11-10 delta:** Velstrian mid-tier clarified as Pro **£149** (not a flat £49–£549 smear); Evidash dual USD/GBP Core cites documented; Complys/KimonBids tiers unchanged vs prior pass.
 
