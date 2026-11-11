@@ -35,6 +35,7 @@
 - [x] DRY-003 partial-library dry-run → [`pack-dry-run-dry-003.md`](pack-dry-run-dry-003.md)  
 - [x] Pilot continuation / close-out scripts → [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md)  
 - [x] Week-8 gate decision checklist stub → [`../research/week8-gate-checklist.md`](../research/week8-gate-checklist.md)  
+- [x] Backlog re-rank: rows 27–31 queued (DRY-004 SQ partial, library identity_group, Approver training, follow-ups A21–A40) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 
 ## Primary founder action (today)
 
