@@ -38,6 +38,7 @@
 
 - [ ] Send close-out **D** after results review  
 - [ ] On reply: add row above (or local private copy if identity is sensitive)  
+- [ ] CRM `notes`: `continuation_yes` or `continuation_no`; stage Active / Churned per [`../commercial/crm-stage-scripts.md`](../commercial/crm-stage-scripts.md)  
 - [ ] If `yes`: arrange commercial outline + legal review before any further packs  
 - [ ] If `no` / stop: run **E**; optional **G** referral ask (clean no only)  
 - [ ] Update scorecard Continuations Actual only from real `yes` count  

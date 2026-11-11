@@ -78,7 +78,9 @@ Scripts: [`referral-ask-script.md`](referral-ask-script.md) (post-interview, sof
 
 ## CRM stages
 
-Identified → Contacted → Discovery → Pilot → Active → Churned/Disqualified
+Identified → Contacted → Discovery → Pilot → Active → Churned/Disqualified  
+
+Transition scripts + `notes` tags: [`crm-stage-scripts.md`](crm-stage-scripts.md).
 
 ## Conversion metrics (track weekly)
 

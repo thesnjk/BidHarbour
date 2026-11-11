@@ -29,6 +29,8 @@ Brief consent: I’ll take notes for research; we can stop anytime; I won’t na
 Talk soon,  
 {{Founder}}
 
+**CRM:** on confirm → `stage=Discovery`, `outreach_status=booked` → [`crm-stage-scripts.md`](crm-stage-scripts.md) transition A.
+
 ---
 
 ## They ask “what is this / are you selling?”

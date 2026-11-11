@@ -37,6 +37,7 @@
 
 - [ ] Agree fee (or waiver) at/before kickoff  
 - [ ] Add row above (or local private copy if banking detail is sensitive)  
+- [ ] CRM `notes`: `fee_received` or `fee_waived` (or `fee_pending`) → [`../commercial/crm-stage-scripts.md`](../commercial/crm-stage-scripts.md)  
 - [ ] Tick kickoff precondition “Fee received or explicit waiver logged”  
 - [ ] Do not start pack 1 while status is `pending`  
 

@@ -71,6 +71,7 @@
 - [x] Bounce / OOO triage extended to Week-5 send log → [`../commercial/bounce-ooo-triage.md`](../commercial/bounce-ooo-triage.md)  
 - [x] Pack dry-run DRY-006 (conflict library) → [`pack-dry-run-dry-006.md`](pack-dry-run-dry-006.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 - [x] Interview SharePoint / inbound-pack time-study → [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md)  
+- [x] CRM stage transition scripts (Discovery → Pilot) → [`../commercial/crm-stage-scripts.md`](../commercial/crm-stage-scripts.md)  
 
 ## Primary founder action (today)
 
