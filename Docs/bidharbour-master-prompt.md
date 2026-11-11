@@ -134,7 +134,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 14 | **done** | DRY-002 empty-library dry-run on `testdata/redacted-sq-v1/` → metrics + method note | #2 |
 | 15 | **done** | Interview synthesis template (blank Actuals) wired to scorecard → `research/` | #1 |
 | 16 | **done** | Re-rank from open epics + gaps; append rows 17–21 | — |
-| 17 | todo | CRM A31–A40 public contact enrichment (construction-control + Norfolk blanks; same pattern as A21–A30) | #6 |
+| 17 | **done** | CRM A31–A40 public contact enrichment (construction-control + Norfolk blanks; same pattern as A21–A30) | #6 |
 | 18 | todo | Synthetic approved-answer / evidence-library stub mapped to intake `doc_key`s → `testdata/` or `operations/` | #2 |
 | 19 | todo | MISSING-queue customer email + Approver export-manifest templates → `operations/` | #2 |
 | 20 | todo | Week-4 gate decision checklist wired to scorecard + interview-synthesis → `research/` | #1 |
