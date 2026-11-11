@@ -2,7 +2,7 @@
 
 **As-of desk check:** 10 November 2026  
 **Rule:** Only public website / published general enquiries. **Do not invent personal emails.** Prefer LinkedIn for a named MD after opening the contact page.  
-**Use with:** [`crm-accounts.csv`](crm-accounts.csv) · [`week1-send-runbook.md`](week1-send-runbook.md) (same send discipline as A01–A20)
+**Use with:** [`crm-accounts.csv`](crm-accounts.csv) · [`week3-send-runbook.md`](week3-send-runbook.md) · [`week3-outreach-pack.md`](week3-outreach-pack.md) (same send discipline as Weeks 1–2)
 
 | ID | Company | Contact page | Published general inbox (site) | Phone (site) | Send caution |
 |----|---------|--------------|--------------------------------|--------------|--------------|
