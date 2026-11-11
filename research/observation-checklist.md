@@ -35,4 +35,5 @@
 - [ ] Confirm estimated total minutes with participant  
 - [ ] Ask what they would refuse to upload to a vendor  
 - [ ] Log negative finding  
+- [ ] Add `OBS-YYYYMMDD-##` row in [`observation-session-log.md`](observation-session-log.md)  
 - [ ] File note using `recording-template.md` — **do not commit PII**

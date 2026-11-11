@@ -7,7 +7,8 @@
 **CRM:** [`../commercial/crm-accounts.csv`](../commercial/crm-accounts.csv)  
 **Week-1 send pack:** [`../commercial/week1-outreach-pack.md`](../commercial/week1-outreach-pack.md) (CRM A01–A10)  
 **Week-1 send log:** [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv) (fill on send; link booked slots here)  
-**Observation kit (NAAME/Hethel):** [`observation-kit-naame-hethel.md`](observation-kit-naame-hethel.md)
+**Observation kit (NAAME/Hethel):** [`observation-kit-naame-hethel.md`](observation-kit-naame-hethel.md)  
+**Observation session log:** [`observation-session-log.md`](observation-session-log.md)
 
 ## Niche mix
 

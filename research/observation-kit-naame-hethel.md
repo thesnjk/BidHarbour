@@ -3,6 +3,7 @@
 **Purpose:** Capture **workflow evidence** (how packs actually get done) at network events — not a SaaS pitch.  
 **Epic:** [#1](https://github.com/thesnjk/BidHarbour/issues/1)  
 **Detail checklist:** [`observation-checklist.md`](observation-checklist.md)  
+**Session log (blank Actuals):** [`observation-session-log.md`](observation-session-log.md)  
 **Scorecard:** [`validation-scorecard.md`](validation-scorecard.md) → row *Workflow evidence*  
 **CRM:** [`../commercial/crm-accounts.csv`](../commercial/crm-accounts.csv)
 
@@ -38,9 +39,9 @@ No implied endorsement by NAAME, Hethel, or any host.
 ## After the event (same day)
 
 1. Write notes under a private folder — **do not** commit live customer packs to git.  
-2. Log observation date + niche + CRM ID in [`interview-grid-8wk.md`](interview-grid-8wk.md) (add an Observations log row if needed).  
+2. Add a completed row to [`observation-session-log.md`](observation-session-log.md) (`OBS-YYYYMMDD-##`); mark the booking on [`interview-grid-8wk.md`](interview-grid-8wk.md) if used.  
 3. Negative findings → [`negative-findings.md`](negative-findings.md) same day.  
-4. Update scorecard **Workflow evidence** Actual **only** after a real observation completed (never invent).  
+4. Update scorecard **Workflow evidence** Actual from the session-log tally **only** after a real observation completed (never invent).  
 5. CRM: `stage` / notes updated.
 
 ## Stop rules

@@ -27,7 +27,7 @@ Executable Week-8 checklist → [`week8-gate-checklist.md`](week8-gate-checklist
 
 ## Pipeline evidence path
 
-Week-1 outreach outcomes → [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv) → booked slots in [`interview-grid-8wk.md`](interview-grid-8wk.md) → per-interview [`recording-template.md`](recording-template.md) → rollup [`interview-synthesis.md`](interview-synthesis.md) → Actuals above. **Do not** increment Actual until interviews are completed (send/reply alone is not evidence).
+Week-1 outreach outcomes → [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv) → booked slots in [`interview-grid-8wk.md`](interview-grid-8wk.md) → per-interview [`recording-template.md`](recording-template.md) → rollup [`interview-synthesis.md`](interview-synthesis.md) → Actuals above. **Workflow evidence:** completed rows in [`observation-session-log.md`](observation-session-log.md) (`OBS-*`) → scorecard tally (kit: [`observation-kit-naame-hethel.md`](observation-kit-naame-hethel.md)). **Do not** increment Actual until interviews/observations are completed (send/reply alone is not evidence).
 
 ## Current recommendation
 

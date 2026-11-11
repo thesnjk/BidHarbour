@@ -44,6 +44,8 @@
 - [x] Week-1 non-responder follow-ups A41–A50 → [`../commercial/week1-nonresponder-followups-a41-a50.md`](../commercial/week1-nonresponder-followups-a41-a50.md)  
 - [x] Pilot kickoff agenda + checklist (Path B-0) → [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md)  
 - [x] Pilot data retention / deletion schedule → [`pilot-data-retention-schedule.md`](pilot-data-retention-schedule.md)  
+- [x] Observation session log stub (blank Actuals) → [`../research/observation-session-log.md`](../research/observation-session-log.md)  
+
 
 ## Primary founder action (today)
 
