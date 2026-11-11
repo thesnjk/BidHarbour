@@ -39,7 +39,7 @@ Worksheet: [`../operations/baseline-minutes-worksheet.md`](../operations/baselin
 | Human review effort | Measured; not unbounded |
 | Support effort | Founder time logged |
 | Repeat usage | Customer requests ≥2nd pack in window if available |
-| Willingness to continue | Written yes/no to paid continuation |
+| Willingness to continue | Written yes/no to paid continuation → [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) |
 
 **Do not claim** increased bid-win rates.
 

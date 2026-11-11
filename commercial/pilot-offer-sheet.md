@@ -42,7 +42,7 @@ See [`../security-and-legal/pilot-msa-stub.md`](../security-and-legal/pilot-msa-
 - Missing-field rate (all mapped or marked missing)  
 - Rework loops after approver review  
 - Reviewer minutes; founder support minutes  
-- Willingness to continue on subscription (**yes/no**)
+- Willingness to continue on subscription (**yes/no**) → [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md)
 
 Target threshold (management rule): median **≥90 minutes saved** per pack **or** stated value ≥£150/pack.
 

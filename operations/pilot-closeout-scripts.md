@@ -89,6 +89,8 @@ Supplier Desk (BidHarbour pilot)
 
 ## D — Willingness to continue
 
+**Capture:** log written yes/no in [`pilot-continuation-log.md`](pilot-continuation-log.md) (blank Actuals until real).
+
 **Subject:** Supplier Desk — written yes/no on continuation
 
 ```text
@@ -163,7 +165,7 @@ Peer-intro scripts (post-pack / post-continuation) live in [`../commercial/refer
 ## After send
 
 1. Log which script (A–G) and date in pack / pilot notes.  
-2. On **D**: record written yes/no for scorecard Actuals only when real (never invent).  
+2. On **D**: record written yes/no in [`pilot-continuation-log.md`](pilot-continuation-log.md); update scorecard Continuations Actual only when real (never invent).  
 3. On **E**: diary the 30-day delete/return; confirm completion to customer.  
 4. On **F**: store approved wording only; discard if declined.  
 5. On **G**: add CRM referral row before warm outbound; never invent personal emails.
