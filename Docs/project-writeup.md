@@ -23,7 +23,7 @@ Label material claims as **Verified fact**, **Reasoned inference**, **Working as
 | Ch | Title | Status |
 |----|--------|--------|
 | 0 | How to read this | **Filled** — 11 Nov 2026 |
-| 1 | Executive summary & decision posture | *(pending — backlog #64)* |
+| 1 | Executive summary & decision posture | **Filled** — 11 Nov 2026 |
 | 2 | Market, ICP, Norfolk AME wedge | *(pending — backlog #65)* |
 | 3 | Problem workflow & product promise | *(pending — backlog #65)* |
 | 4 | Competition & differentiation | *(pending — backlog #66)* |
@@ -79,9 +79,63 @@ Hypothesis Lead vs SharePoint / inbound-pack scatter (see [`../research/competit
 
 ---
 
-## Chapters 1–12 (bodies pending)
+## Chapter 1 — Executive summary & decision posture
 
-Bodies land in backlog rows **64–68**. Until then, use the spine links above and the Monday checklist for artefact discovery.
+**Last updated:** 11 November 2026  
+**Primary sources:** [`../strategy/executive-decision.md`](../strategy/executive-decision.md) (as-of 9 Nov 2025), [`../research/validation-scorecard.md`](../research/validation-scorecard.md), [`../README.md`](../README.md). Synthesis only — no new claims.
+
+### Product thesis
+
+BidHarbour’s first product, **Supplier Desk**, helps small UK suppliers turn each incoming customer questionnaire or document pack into a reviewer-approved response pack backed by their own evidence library. AI may extract, match, and draft; **only authorised humans approve** statements and submissions. Where evidence is unavailable, mark **MISSING** — never invent compliance answers. (See also “what this product is not” in Chapter 0 / README.)
+
+### Exact proposed first customer (ICP)
+
+Owner-managed **subcontract engineering, fabrication, or marine/offshore services firm** in **Norfolk** (Norwich, Great Yarmouth, King’s Lynn corridors), **5–75 employees**, selling to **multiple OEMs, tier-1s, or asset operators** that each send **different** qualification templates — not only public-sector tenders.  
+*(From executive decision; firm-level demand unverified until interviews.)*
+
+### Recurring problem & promised outcome
+
+| Element | Statement | Label |
+|---------|-----------|--------|
+| Problem | Each new or renewed customer sends a PQQ/SQ/assurance pack; staff re-hunt certificates, policies, insurance, H&S answers, and case studies across email, SharePoint, and desktops — **2–8+ hours per pack**, with expiry/conflict risk. | Working assumption — must be measured in pilots |
+| Promise | **≥40% reduction in admin minutes** from pack receipt to first complete human-approved draft, with **100% requirements mapped** to evidence or explicit missing flags. | Proposed experiment threshold |
+
+### Decision posture
+
+| Decision | Status |
+|----------|--------|
+| 8-week customer discovery + concierge pilots | **GO** |
+| Production SaaS development | **NO-GO until scorecard** |
+| Overall | **INVESTIGATE FURTHER** |
+
+Live scorecard Actuals (interviews, observations, paid pilots, continuations) are still **0 / blank** until founder field work lands — see [`../research/validation-scorecard.md`](../research/validation-scorecard.md). Do not treat shipped runbooks as validation proof.
+
+### Proof bar before significant SaaS spend
+
+From the executive decision (thresholds mirrored on the scorecard):
+
+- ≥6/10 interviews report the same recurring pain in **one** niche  
+- ≥3 workflow observations with real redacted packs  
+- **3 paid pilots**; **≥2** convert to paid continuation  
+- Median **≥90 min saved** per pack vs baseline *(or customer-stated equivalent value ≥£150/pack)*
+
+### Revenue model (hypothesis only)
+
+Paid concierge pilot (**£250–£750** ex VAT) → setup/import → subscription band (**£99–£249**/mo). Hybrid managed-service + software acceptable if onboarding stays bounded. *(Proposed experiment — not validated prices.)*
+
+### Fallback stance (do not silent-pivot)
+
+Keep BidHarbour PQQ/SQ response assembly as primary. RFQ quoting is secondary **only if** PQQ validation fails. Holiday-property ops rejected for Norfolk entry. Narrowest entry: private inbound supply-chain packs for Norfolk AME + marine/offshore fabricators — exclude public tender writing as v1.
+
+### Shipped vs founder Actuals
+
+Agent/docs track has seeded ops, CRM, and dry-run artefacts in git. Founder still owns sends, interviews, solicitor-cleared MSA/DPA, and scorecard Actuals. See Chapter 0 table.
+
+---
+
+## Chapters 2–12 (bodies pending)
+
+Bodies for Ch 2–10 land in backlog rows **65–68**. Until then, use the spine links in Chapter 0 and the Monday checklist for artefact discovery.
 
 ---
 
@@ -90,3 +144,4 @@ Bodies land in backlog rows **64–68**. Until then, use the spine links above a
 | Date | Change |
 |------|--------|
 | 11 Nov 2026 | Seeded living writeup: evidence rules, TOC, Chapter 0 navigational spine; chapters 1–10 queued as backlog #64–#68. |
+| 11 Nov 2026 | Filled Chapter 1 — executive summary & decision posture (synthesis from executive-decision + scorecard; Actuals unchanged). |

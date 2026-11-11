@@ -191,7 +191,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 61 | **done** | CRM stage transition scripts + notes conventions (Discovery → pilot offer → Pilot; fee + continuation) → `commercial/` | #6 |
 | 62 | **done** | Post–first-50 referral / rebook wave runbook (warm intros + selective non-responder recycle) → `commercial/` | #6 |
 | 63 | **done** | When 58–62 done: re-rank from open epics + gaps; append new rows surgically | — |
-| 64 | todo | Project writeup Ch 1 — executive summary & decision posture → `Docs/project-writeup.md` | — |
+| 64 | **done** | Project writeup Ch 1 — executive summary & decision posture → `Docs/project-writeup.md` | — |
 | 65 | todo | Project writeup Ch 2–3 — market/ICP/Norfolk wedge + problem workflow & promise → `Docs/project-writeup.md` | — |
 | 66 | todo | Project writeup Ch 4–5 — competition matrix narrative + validation scorecard/gates → `Docs/project-writeup.md` | — |
 | 67 | todo | Project writeup Ch 6–7 — Path A/B pilot OS + DRY-001–006 results table → `Docs/project-writeup.md` | — |
