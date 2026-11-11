@@ -2,7 +2,7 @@
 
 **As-of desk check:** 11 November 2026  
 **Rule:** Only public website / published general enquiries. **Do not invent personal emails.** Prefer LinkedIn for a named MD after opening the contact page.  
-**Use with:** [`crm-accounts.csv`](crm-accounts.csv) · [`week1-send-runbook.md`](week1-send-runbook.md)
+**Use with:** [`crm-accounts.csv`](crm-accounts.csv) · [`week4-send-runbook.md`](week4-send-runbook.md) · [`week4-outreach-pack.md`](week4-outreach-pack.md) (same send discipline as Weeks 1–3)
 
 **Niche note:** A31–A35 are **construction control** (scaffolding / groundworks) — useful for contrast vs fab/marine lead ICP, not automatic Week-1 priority. A36–A40 are additional AME/fab fills (avoid duplicates of A01–A30; C3 Engineering is already A05).
 
