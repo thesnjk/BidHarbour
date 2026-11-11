@@ -141,7 +141,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 21 | **done** | Re-rank from open epics + gaps; append rows 22–26 | — |
 | 22 | **done** | CRM A41–A50 public contact enrichment (complete first-50; same pattern as A31–A40) | #6 |
 | 23 | **done** | DRY-003 partial-library dry-run: `redacted-pqq-v1` + `synthetic-evidence-library-v1` → metrics + method note | #2 |
-| 24 | todo | Pilot continuation / close-out scripts (post-export) → `operations/` or `commercial/` | #2 |
+| 24 | **done** | Pilot continuation / close-out scripts (post-export) → `operations/` or `commercial/` | #2 |
 | 25 | todo | Week-8 gate decision checklist stub wired to scorecard → `research/` | #1 |
 | 26 | todo | When 22–25 done: re-rank from open epics + gaps; append new rows surgically | — |
 
