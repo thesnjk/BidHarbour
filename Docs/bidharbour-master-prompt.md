@@ -102,12 +102,13 @@ Do **not** invent interviews, survey results, quotations, competitor prices, mar
 | `commercial/` | GTM scripts, outreach, CRM stages |
 | `finance/` | 24-month model, pricing notes |
 | `operations/` | Runbooks, KPIs, onboarding |
-| `Docs/` | developer-map, architecture, legal-data-policy, master prompt |
+| `Docs/` | developer-map, project-writeup (living narrative), architecture, legal-data-policy, master prompt |
 | `testdata/` | Redacted synthetic fixtures only (no live customer packs) |
 | `.firecrawl/` | Local competitive research dumps (gitignored) |
 
 Read `Docs/developer-map.md` first. For deep context pull one of:
 
+- Living writeup: `Docs/project-writeup.md`
 - Strategy: `strategy/business-plan.md`
 - Validation: `research/validation-scorecard.md` / `research/customer-discovery-programme.md`
 - Product: `product/mvp-spec.md`
@@ -189,7 +190,13 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 60 | **done** | Interview SharePoint / inbound-pack time-study capture (blank Actuals) wired to synthesis + baseline contrast → `research/` | #1 |
 | 61 | **done** | CRM stage transition scripts + notes conventions (Discovery → pilot offer → Pilot; fee + continuation) → `commercial/` | #6 |
 | 62 | **done** | Post–first-50 referral / rebook wave runbook (warm intros + selective non-responder recycle) → `commercial/` | #6 |
-| 63 | todo | When 58–62 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 63 | **done** | When 58–62 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 64 | todo | Project writeup Ch 1 — executive summary & decision posture → `Docs/project-writeup.md` | — |
+| 65 | todo | Project writeup Ch 2–3 — market/ICP/Norfolk wedge + problem workflow & promise → `Docs/project-writeup.md` | — |
+| 66 | todo | Project writeup Ch 4–5 — competition matrix narrative + validation scorecard/gates → `Docs/project-writeup.md` | — |
+| 67 | todo | Project writeup Ch 6–7 — Path A/B pilot OS + DRY-001–006 results table → `Docs/project-writeup.md` | — |
+| 68 | todo | Project writeup Ch 8–10 — CRM A01–A50/waves + legal/security + brand/finance/risks → `Docs/project-writeup.md` | — |
+| 69 | todo | When 64–68 done: re-rank from open epics + gaps; append new rows surgically (may resume non-writeup Lead/gap slices) | — |
 
 ### Known gates / failed approaches (do not repeat)
 
