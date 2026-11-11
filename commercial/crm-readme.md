@@ -38,4 +38,5 @@ Public websites, ORE Catapult F4OR listings, and prior BidHarbour desk research 
 5. Send discovery emails as **Supplier Desk**; update `stage` / `outreach_status` the same day.  
 6. Stage transitions (Discovery → pilot offer → Pilot; fee + continuation tags) → [`crm-stage-scripts.md`](crm-stage-scripts.md).  
 7. Referral intros: [`referral-ask-script.md`](referral-ask-script.md) — new row → Identified → queue warm outbound; note source as referral; prefer lead AME/marine; do not invent personal emails.  
-8. Do **not** invent personal emails; published `sales@` / `enquiries@` from company sites are OK as first reach. Keep extra PII in a private CRM copy if needed.
+8. After first-50 waves: [`post-first50-referral-wave.md`](post-first50-referral-wave.md) — warm intros + selective soft rebook (no new cold scrape).  
+9. Do **not** invent personal emails; published `sales@` / `enquiries@` from company sites are OK as first reach. Keep extra PII in a private CRM copy if needed.
