@@ -63,7 +63,7 @@ Worksheet: [`../operations/baseline-minutes-worksheet.md`](../operations/baselin
 ## Data-handling rules
 
 - DPA + pilot MSA in force before real packs  
-- Encrypted transfer; access limited to named founder accounts  
+- Encrypted transfer; access limited to named founder accounts → [`../security-and-legal/pilot-named-access-register.md`](../security-and-legal/pilot-named-access-register.md)  
 - Delete or return within 30 days of pilot end unless subscription continues → [`../operations/pilot-data-retention-schedule.md`](../operations/pilot-data-retention-schedule.md)  
 - No model training on customer content  
 

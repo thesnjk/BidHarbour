@@ -176,7 +176,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 47 | **done** | Week-4 outreach pack for CRM A31–A40 (same pattern as Week-3 A21–A30) → `commercial/` | #6 |
 | 48 | **done** | Referral ask script (post-interview / post-pilot) → `commercial/` | #6 |
 | 49 | **done** | Baseline minutes capture worksheet for Path B-0 kickoff / metrics (minutes-saved proof) → `operations/` | #2 |
-| 50 | todo | Named-accounts access register stub for pilot encrypted paths → `security-and-legal/` or `operations/` | #5 |
+| 50 | **done** | Named-accounts access register stub for pilot encrypted paths → `security-and-legal/` or `operations/` | #5 |
 | 51 | todo | When 47–50 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)

@@ -14,8 +14,8 @@
 - [ ] Fee received **or** explicit waiver logged → [`pilot-fee-waiver-log.md`](pilot-fee-waiver-log.md)  
 - [ ] Named Approver with authority (second person OK)  
 - [ ] Approver has read [`approver-review-training.md`](approver-review-training.md)  
-- [ ] MFA on founder accounts used for the pilot  
-- [ ] Encrypted transfer path agreed; access limited to named accounts  
+- [ ] MFA on founder accounts used for the pilot → [`../security-and-legal/pilot-named-access-register.md`](../security-and-legal/pilot-named-access-register.md)  
+- [ ] Encrypted transfer path agreed; access limited to named accounts → [`../security-and-legal/pilot-named-access-register.md`](../security-and-legal/pilot-named-access-register.md)  
 - [ ] Customer understands: no portal auto-submit; no win-rate / qualification claims  
 
 ## 2. Kickoff agenda (≈30–45 min)

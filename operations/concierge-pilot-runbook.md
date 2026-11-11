@@ -26,7 +26,7 @@
 | Named Approver with authority | Yes (second person OK) | Required |
 | Pilot MSA + DPA solicitor-cleared and signed | No | **Required** |
 | Fee received (or waiver logged) | N/A | Per offer sheet → [`pilot-fee-waiver-log.md`](pilot-fee-waiver-log.md) |
-| Encrypted transfer path; access limited to named accounts | Local folder OK | Required |
+| Encrypted transfer path; access limited to named accounts | Local folder OK | Required → [`../security-and-legal/pilot-named-access-register.md`](../security-and-legal/pilot-named-access-register.md) |
 | No model training on customer content | N/A | Required |
 
 **Do not** start a live pack until the Live column is satisfied.
@@ -47,7 +47,7 @@
 
 ## Path B — Live pack (after legal clearance)
 
-0. **Kickoff (Path B-0):** complete [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md) before first live pack (MSA/DPA, fee/waiver, Approver, baseline → [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md), evidence transfer).  
+0. **Kickoff (Path B-0):** complete [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md) before first live pack (MSA/DPA, fee/waiver, Approver, baseline → [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md), named access → [`../security-and-legal/pilot-named-access-register.md`](../security-and-legal/pilot-named-access-register.md), evidence transfer).  
 1. **Intake:** receive pack + evidence folder; log pack_id, customer, received_at in metrics CSV; update a **local** copy of [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv) per [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md).  
 2. **Checklist:** extract requirements into a per-pack checklist (same shape as the fixture).  
 3. **Match:** map each requirement to intake `doc_key`s / approved library answers; flag expired, conflicting, customer-specific gaps; anything `not_received` → **MISSING**.  

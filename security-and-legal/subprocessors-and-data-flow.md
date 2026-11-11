@@ -19,7 +19,7 @@
 
 | Function | Provider (working) | Status | Customer pack content? | Notes |
 |----------|-------------------|--------|------------------------|-------|
-| Local evidence store | Founder encrypted disk / folder | `in_use_pilot` | Yes (at rest locally) | No multi-tenant SaaS yet; access limited to named accounts |
+| Local evidence store | Founder encrypted disk / folder | `in_use_pilot` | Yes (at rest locally) | No multi-tenant SaaS yet; access limited to named accounts → [`pilot-named-access-register.md`](pilot-named-access-register.md) |
 | Email / scheduling | Founder mailbox (Google Workspace **or** Microsoft 365 — TBC) | `in_use_pilot` | Possible in attachments/threads | Prefer links to encrypted share over emailing full packs |
 | Fee collection | Bank transfer | `in_use_pilot` | No | Default for early pilots |
 | Fee collection | Stripe | `candidate_post_go` | No (billing PII only) | Only if online cards needed |
