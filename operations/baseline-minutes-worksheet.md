@@ -63,7 +63,7 @@ For each live `pack_id` row in [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv
 2. Take pilot `minutes_to_first_draft` + `support_minutes` (and note `rework_loops`).  
 3. Absolute minutes saved ≈ `baseline_total − (minutes_to_first_draft + support_minutes)` *(adjust if kickoff agreed a different definition)*.  
 4. % reduction ≈ `minutes_saved / baseline_total × 100`.  
-5. Pass bar: ≥40% reduction **or** ≥90 min saved — record in results review only when numbers are real.  
+5. Pass bar: ≥40% reduction **or** ≥90 min saved — present in results review via [`pilot-results-review-agenda.md`](pilot-results-review-agenda.md) only when numbers are real.  
 6. Present at close-out script **C** with [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md); no win-rate claims.
 
 | Live pack_id | Baseline minutes used | Pilot minutes used | Minutes saved | % reduction | Pass? |

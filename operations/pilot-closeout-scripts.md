@@ -68,6 +68,8 @@ Supplier Desk (BidHarbour pilot)
 
 ## C — Results review invite
 
+**Full founder agenda + continuation bridge:** [`pilot-results-review-agenda.md`](pilot-results-review-agenda.md).
+
 **Subject:** Supplier Desk pilot — results review (30 min)
 
 ```text
@@ -91,6 +93,7 @@ Supplier Desk (BidHarbour pilot)
 
 ## D — Willingness to continue
 
+**After results review:** run [`pilot-results-review-agenda.md`](pilot-results-review-agenda.md) continuation bridge first.  
 **Capture:** log written yes/no in [`pilot-continuation-log.md`](pilot-continuation-log.md) (blank Actuals until real).
 
 **Subject:** Supplier Desk — written yes/no on continuation

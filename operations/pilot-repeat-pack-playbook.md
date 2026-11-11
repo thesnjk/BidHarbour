@@ -23,7 +23,7 @@ Raise **second-pack velocity** inside the paid window (multi-customer repeat aft
 |-----------|--------|
 | Pack N exported; customer sends next questionnaire | Intake as `P02`/`P03` — Path B steps 1–8; script **B** optional |
 | Pack N closed; capacity remains; nothing inbound | Send script **B** (nudge) — see [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md) §B |
-| Packs completed = 3 **or** window ending | Skip further B; move to script **C** (results review invite) — agenda artefact is backlog **#80** |
+| Packs completed = 3 **or** window ending | Skip further B; move to script **C** → [`pilot-results-review-agenda.md`](pilot-results-review-agenda.md) |
 | Fee still `pending` for pack 1 | **Block** — resolve [`pilot-fee-waiver-log.md`](pilot-fee-waiver-log.md) before any live intake |
 | Window closed / continuation only | Do not open new pack_ids; use C → D → E |
 

@@ -90,6 +90,7 @@
 - [x] Backlog re-rank: rows 78–82 queued (DRY-008 dual-buyer, pack-2/3 playbook, results review + continuation, competitive objection sheet, pre-pilot legal gate — Lead: multi-customer / MISSING vs tender-AI / SharePoint time+continuation / pilot legal gate) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Pack dry-run DRY-008 (dual-buyer window Harbour Wind PQQ → Broads SQ; FO7 isolation; both exports blocked) → [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 - [x] Pilot pack-2/3 in-window playbook (Path B repeat; closeout B + fee posture + FO7 handoff) → [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md)  
+- [x] Pilot results review agenda + continuation bridge (C→D; minutes rollup; blank Actuals) → [`pilot-results-review-agenda.md`](pilot-results-review-agenda.md)  
  
 
 ## Primary founder action (today)
