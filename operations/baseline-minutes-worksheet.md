@@ -2,6 +2,7 @@
 
 **Epic:** [#2](https://github.com/thesnjk/BidHarbour/issues/2)  
 **Use at:** Path B-0 kickoff — [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md) §2 Baseline workshop  
+**Pre-kickoff (optional):** interview capture [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md) for the same firm — carry forward minutes/tools when available (never invent)  
 **Contrast later with:** [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) · Design targets: [`../research/pilot-design.md`](../research/pilot-design.md)  
 **Product name:** Supplier Desk
 
