@@ -31,8 +31,8 @@ Label material claims as **Verified fact**, **Reasoned inference**, **Working as
 | 5 | Testing (incl. DRY-001–006 formal evidence) | **Filled** — 11 Nov 2026 |
 | 6 | Evaluation | **Filled** — 11 Nov 2026 |
 | 7 | Operator / user guide | **Filled** — 11 Nov 2026 |
-| 8 | Bibliography | *(pending — backlog #69)* |
-| 9 | Appendices | *(pending — backlog #69)* |
+| 8 | Bibliography | **Filled** — 11 Nov 2026 |
+| 9 | Appendices | **Filled** — 11 Nov 2026 |
 
 ---
 
@@ -1115,11 +1115,157 @@ Parallel to ops training — **does not** invent sends or interview Actuals:
 
 ---
 
-## Parts 8–9 (bodies pending)
+## Part 8 — Bibliography
 
-| Part | Backlog | Scope |
-|------|---------|--------|
-| 8–9 Bibliography + Appendices | #69 | Sources list; artefact index; dry-run pointers; blank discovery template index |
+**Last updated:** 11 November 2026  
+
+External statistics and competitor pricing in this writeup are cited **as recorded in the repo sources below** (with those files’ as-of dates). Open the linked file for primary URLs and evidence labels. This bibliography does **not** invent new scrapes or interview citations.
+
+### 8.1 Strategy / decision
+
+| Ref | Path | As-of (in file) |
+|-----|------|-----------------|
+| Executive decision | [`../strategy/executive-decision.md`](../strategy/executive-decision.md) | 9 Nov 2025 |
+| Business plan index | [`../strategy/business-plan.md`](../strategy/business-plan.md) | — |
+| Norfolk market map | [`../strategy/norfolk-market-map.md`](../strategy/norfolk-market-map.md) | 9 Nov 2025 |
+| Customer segmentation | [`../strategy/customer-segmentation.md`](../strategy/customer-segmentation.md) | 9 Nov 2025 |
+| Market size | [`../strategy/market-size.md`](../strategy/market-size.md) | 9 Nov 2025 |
+| Workflow map | [`../strategy/workflow-map.md`](../strategy/workflow-map.md) | 9 Nov 2025 |
+| Brand & positioning | [`../strategy/brand-and-positioning.md`](../strategy/brand-and-positioning.md) | — |
+| Founder scenarios | [`../strategy/founder-scenarios.md`](../strategy/founder-scenarios.md) | — |
+| Risk register | [`../strategy/risk-register.md`](../strategy/risk-register.md) | — |
+| Roadmap | [`../strategy/roadmap.md`](../strategy/roadmap.md) | — |
+
+### 8.2 Research / validation
+
+| Ref | Path | Notes |
+|-----|------|-------|
+| Competitors & substitutes | [`../research/competitors.md`](../research/competitors.md) | Pricing observations dated 9 Nov 2025 / 10 Nov 2026 in-file |
+| Validation scorecard | [`../research/validation-scorecard.md`](../research/validation-scorecard.md) | Actuals blank until founder evidence |
+| Week 4 / Week 8 gates | [`../research/week4-gate-checklist.md`](../research/week4-gate-checklist.md), [`../research/week8-gate-checklist.md`](../research/week8-gate-checklist.md) | — |
+| Interview grid | [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md) | Template |
+| Recording / synthesis | `research/recording-template.md`, `research/interview-synthesis.md` | Templates |
+| Observation kit / log | `research/observation-kit-naame-hethel.md`, `research/observation-session-log.md` | Templates |
+| SharePoint time-study | [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md) | Blank Actuals |
+| Pilot design | [`../research/pilot-design.md`](../research/pilot-design.md) | — |
+| Customer discovery programme | `research/customer-discovery-programme.md` | — |
+
+### 8.3 Product / design / architecture / legal
+
+| Ref | Path |
+|-----|------|
+| MVP spec | [`../product/mvp-spec.md`](../product/mvp-spec.md) |
+| Product backlog | [`../product/backlog.md`](../product/backlog.md) |
+| UX / IA | [`../design/ux-ia.md`](../design/ux-ia.md) |
+| Architecture | [`architecture.md`](architecture.md) |
+| Legal & data policy | [`legal-data-policy.md`](legal-data-policy.md) |
+
+### 8.4 Operations / dry-runs / commercial
+
+| Ref | Path |
+|-----|------|
+| Concierge pilot runbook | [`../operations/concierge-pilot-runbook.md`](../operations/concierge-pilot-runbook.md) |
+| DRY-001 … DRY-006 | [`../operations/pack-dry-run-dry-001.md`](../operations/pack-dry-run-dry-001.md) … [`pack-dry-run-dry-006.md`](../operations/pack-dry-run-dry-006.md) |
+| Pilot metrics stub | [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv) |
+| Monday checklist | [`../operations/monday-checklist.md`](../operations/monday-checklist.md) |
+| Approver training / export manifest / kickoff / intake / close-out / continuation / baseline / retention | See Part 4 §4.3 |
+| Fixtures | `testdata/redacted-pqq-v1/`, `redacted-sq-v1/`, `synthetic-evidence-library-v1/` (+ expired / conflict) |
+| CRM / outreach | [`../commercial/crm-readme.md`](../commercial/crm-readme.md); Week 1–5 packs/runbooks; bounce; referral; stage scripts; pilot-offer email |
+
+### 8.5 Standing orders / indexes
+
+| Ref | Path |
+|-----|------|
+| Agent master prompt | [`bidharbour-master-prompt.md`](bidharbour-master-prompt.md) |
+| README | [`../README.md`](../README.md) |
+| Developer map | [`developer-map.md`](developer-map.md) |
+| This writeup | [`project-writeup.md`](project-writeup.md) |
+
+---
+
+## Part 9 — Appendices
+
+**Last updated:** 11 November 2026
+
+### Appendix A — Artefact index
+
+Condensed pointer; full ops ledger: [`../operations/monday-checklist.md`](../operations/monday-checklist.md). Narrative map: Part 4.
+
+| Area | Where |
+|------|-------|
+| Concierge OS | `operations/` (runbook, kickoff, intake, Approver, manifest, close-out, metrics, DRY reports) |
+| Fixtures | `testdata/` (redacted packs + synthetic libraries) |
+| Commercial | `commercial/` (CRM A01–A50, Week 1–5, bounce, referral, stages) |
+| Research instruments | `research/` (scorecard, grid, observation, time-study) |
+| Security / legal stubs | `security-and-legal/` + `Docs/legal-data-policy.md` |
+| Design intent | `product/`, `design/`, `Docs/architecture.md` |
+| Docs / writeup | `Docs/` including this file |
+
+### Appendix B — Dry-run evidence index
+
+Full outcomes table: **Part 5 §5.2**. Do not treat as scorecard Actuals.
+
+| ID | One-line | Report |
+|----|----------|--------|
+| DRY-001 | Empty library PQQ — 22 MISSING; export blocked | [`../operations/pack-dry-run-dry-001.md`](../operations/pack-dry-run-dry-001.md) |
+| DRY-002 | Empty library SQ (Broads) — 18 MISSING; export blocked | [`../operations/pack-dry-run-dry-002.md`](../operations/pack-dry-run-dry-002.md) |
+| DRY-003 | Partial library PQQ — residual MISSING; export blocked | [`../operations/pack-dry-run-dry-003.md`](../operations/pack-dry-run-dry-003.md) |
+| DRY-004 | Partial library SQ — buyer deltas MISSING; export blocked | [`../operations/pack-dry-run-dry-004.md`](../operations/pack-dry-run-dry-004.md) |
+| DRY-005 | Expired library PQQ — EXPIRED gate; export blocked | [`../operations/pack-dry-run-dry-005.md`](../operations/pack-dry-run-dry-005.md) |
+| DRY-006 | Conflict library PQQ — CONFLICT gate; export blocked | [`../operations/pack-dry-run-dry-006.md`](../operations/pack-dry-run-dry-006.md) |
+
+### Appendix C — Blank discovery templates index
+
+| Instrument | Path | Status |
+|------------|------|--------|
+| Validation scorecard | [`../research/validation-scorecard.md`](../research/validation-scorecard.md) | Actuals **0 / blank** |
+| Interview grid 8wk | [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md) | Template |
+| Recording / synthesis | `research/recording-template.md`, `interview-synthesis.md` | Templates |
+| Observation kit / session log | `research/observation-kit-naame-hethel.md`, `observation-session-log.md` | Templates |
+| SharePoint / inbound time-study | [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md) | Blank Actuals |
+| Week send logs | `commercial/week1-send-log.csv` … Week-5 | Blank until founder sends |
+| Continuation / fee-waiver logs | `operations/pilot-continuation-log.md`, `pilot-fee-waiver-log.md` | Blank Actuals |
+
+### Appendix D — FO / NFO quick reference
+
+From Part 2 §2.6 (titles only).
+
+| ID | Title |
+|----|--------|
+| FO1 | Ingest pack → editable checklist |
+| FO2 | Approved evidence library + expiry/review |
+| FO3 | Approved reusable answers linked to evidence |
+| FO4 | Match + MISSING / EXPIRED / CONFLICT / CUSTOMER_SPECIFIC |
+| FO5 | Human Approver; block export until gates pass |
+| FO6 | Export pack + evidence-version manifest + audit |
+| FO7 | Multi-customer isolation / no silent library pollution |
+| FO8 | Baseline vs post-pack minutes capture |
+| FO9 | Retention, deletion, DSR obligations |
+| FO10 | Abstain rather than invent compliance facts |
+| NFO1 | Trust / confidentiality |
+| NFO2 | Auditability |
+| NFO3 | Maintainability of ops |
+| NFO4 | Cost control pre-GO |
+| NFO5 | Honesty of validation |
+| NFO6 | Usability for SME admins |
+| NFO7 | Extensibility Path A→B |
+
+### Appendix E — Document map (Parts 0–9)
+
+| Part | Title |
+|------|--------|
+| 0 | How to read / evidence rules |
+| 1 | Executive summary & decision posture |
+| 2 | Analysis |
+| 3 | Design |
+| 4 | Implementation (shipped artefacts & fixtures) |
+| 5 | Testing (incl. DRY-001–006 formal evidence) |
+| 6 | Evaluation |
+| 7 | Operator / user guide |
+| 8 | Bibliography |
+| 9 | Appendices |
+
+**Writeup status:** Parts **0–9 complete** as of 11 Nov 2026 (living document; changelog continues on later edits). Next backlog meta after this band: item **70** re-rank.
 
 ---
 
@@ -1133,3 +1279,4 @@ Parallel to ops training — **does not** invent sends or interview Actuals:
 | 11 Nov 2026 | Filled Part 3 Design (goals, architecture Path A/B, data model, match/MISSING algorithm, IA, data dictionary, FO/NFO traceability); SaaS not claimed implemented. |
 | 11 Nov 2026 | Filled Parts 4–5 — Implementation (artefact/fixture mapping) + Testing (DRY-001–006 formal evidence); no invented UAT. |
 | 11 Nov 2026 | Filled Parts 6–7 — Evaluation (FO/NFO; no live clients) + Operator/user guide. |
+| 11 Nov 2026 | Filled Parts 8–9 — Bibliography + Appendices; NEA-grade Parts 0–9 complete. |

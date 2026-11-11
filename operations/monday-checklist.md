@@ -79,6 +79,7 @@
 - [x] Project writeup Part 3 Design (Path A/B intent; match/MISSING; IA; traceability) → [`../Docs/project-writeup.md`](../Docs/project-writeup.md)  
 - [x] Project writeup Parts 4–5 Implementation + Testing (DRY-001–006 formal evidence) → [`../Docs/project-writeup.md`](../Docs/project-writeup.md)  
 - [x] Project writeup Parts 6–7 Evaluation + Operator guide (no invented client UAT) → [`../Docs/project-writeup.md`](../Docs/project-writeup.md)  
+- [x] Project writeup Parts 8–9 Bibliography + Appendices; NEA-grade Parts 0–9 complete → [`../Docs/project-writeup.md`](../Docs/project-writeup.md)  
 
 ## Primary founder action (today)
 
