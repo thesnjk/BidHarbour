@@ -73,6 +73,7 @@
 - [x] Interview SharePoint / inbound-pack time-study → [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md)  
 - [x] CRM stage transition scripts (Discovery → Pilot) → [`../commercial/crm-stage-scripts.md`](../commercial/crm-stage-scripts.md)  
 - [x] Post–first-50 referral / rebook wave → [`../commercial/post-first50-referral-wave.md`](../commercial/post-first50-referral-wave.md)  
+- [x] Living project writeup seeded; chapters 64–68 queued (Lead narrative consolidation vs SharePoint/inbound-pack story scatter) → [`../Docs/project-writeup.md`](../Docs/project-writeup.md) · [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 
 ## Primary founder action (today)
 

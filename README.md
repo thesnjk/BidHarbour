@@ -11,10 +11,11 @@ Practical supplier-side administrative assistance for small UK businesses prepar
 Start here:
 
 1. [`Docs/developer-map.md`](Docs/developer-map.md)  
-2. [`strategy/executive-decision.md`](strategy/executive-decision.md)  
-3. [`strategy/business-plan.md`](strategy/business-plan.md)  
-4. [`operations/monday-checklist.md`](operations/monday-checklist.md)  
-5. [`research/validation-scorecard.md`](research/validation-scorecard.md)
+2. [`Docs/project-writeup.md`](Docs/project-writeup.md) — living project narrative  
+3. [`strategy/executive-decision.md`](strategy/executive-decision.md)  
+4. [`strategy/business-plan.md`](strategy/business-plan.md)  
+5. [`operations/monday-checklist.md`](operations/monday-checklist.md)  
+6. [`research/validation-scorecard.md`](research/validation-scorecard.md)
 
 Agent standing orders (local-only, not committed): `Docs/bidharbour-master-prompt.md`
 

@@ -23,13 +23,14 @@ Scorecard: `research/validation-scorecard.md`
 | `commercial/` | GTM | outreach, first actions, CRM |
 | `finance/` | Model and pricing | `model-24mo.xlsx`, `pricing.md` |
 | `operations/` | Run model | KPIs, RACI, runbooks |
-| `Docs/` | Committed thin docs | this file, architecture, legal-data-policy, master prompt |
+| `Docs/` | Committed thin docs | this file, [`project-writeup.md`](project-writeup.md) (living narrative), architecture, legal-data-policy, master prompt |
 | `testdata/` | Redacted synthetic fixtures only | `redacted-pqq-v1/`, `redacted-sq-v1/`, `synthetic-evidence-library-v1/` |
 | `.firecrawl/` | Local research dumps | **gitignored** |
 
 ## Agent standing orders
 
 Tracked: [`bidharbour-master-prompt.md`](bidharbour-master-prompt.md) (attach at chat start).  
+Living narrative: [`project-writeup.md`](project-writeup.md) (chapters fill via self-service backlog).  
 Evidence labels required on material claims.  
 Human approval before any submission statement.  
 No customer confidential files in git.
