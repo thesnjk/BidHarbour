@@ -49,6 +49,7 @@
 - [x] Week-2 outreach pack A11–A20 → [`../commercial/week2-outreach-pack.md`](../commercial/week2-outreach-pack.md) · [`../commercial/week2-send-runbook.md`](../commercial/week2-send-runbook.md)  
 - [x] Pilot fee / waiver log template (blank Actuals) → [`pilot-fee-waiver-log.md`](pilot-fee-waiver-log.md)  
 - [x] Observation / screenshare consent email stub → [`../research/observation-consent-email.md`](../research/observation-consent-email.md)  
+- [x] Pilot DSR handling one-pager → [`../security-and-legal/pilot-dsr-handling.md`](../security-and-legal/pilot-dsr-handling.md)  
 
 ## Primary founder action (today)
 

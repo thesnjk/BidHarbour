@@ -12,7 +12,8 @@
 | DPA with customers | Legal / contractual | Required before paid pilots with real packs |
 | Subprocessor list | Legal / contractual | Hosting, OCR, LLM, email, payments |
 | International transfers | Legal + Advice required | Document mechanism if outside UK/EEA |
-| Retention / deletion | Legal + contractual | MVP must-have workflow |
+| Retention / deletion | Legal + contractual | MVP must-have workflow → [`../operations/pilot-data-retention-schedule.md`](../operations/pilot-data-retention-schedule.md) |
+| Data subject rights (DSR) | Legal + Advice required | Pilot intake/assist → [`pilot-dsr-handling.md`](pilot-dsr-handling.md) |
 | Access control + MFA | Recommended (often contractual) | All users |
 | Encryption in transit / at rest | Recommended / expected | TLS + storage encryption |
 | Audit logging | Recommended | Approvals, exports, access |
