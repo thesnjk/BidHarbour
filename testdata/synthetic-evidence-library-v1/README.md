@@ -15,6 +15,8 @@ Partial-library dry-runs against [`../redacted-pqq-v1/`](../redacted-pqq-v1/) an
 |------|------|
 | [`approved-answers.csv`](approved-answers.csv) | One row per intake `doc_key` with synthetic answer + evidence label |
 
+**Identity keys:** `identity_ch`, `identity_address`, `identity_fte`, `identity_group` (`SYNTH-GROUP-ORG-v1` — standalone / no parent group). Maps to PQQ Q3 group structure for **future** partial-library runs. DRY-003 recorded Q3 MISSING before this key existed — leave that historical metric as-of; do not rewrite.
+
 ## How to use (Path A partial-library)
 
 1. Open a fixture checklist.  
@@ -27,4 +29,4 @@ Partial-library dry-runs against [`../redacted-pqq-v1/`](../redacted-pqq-v1/) an
 
 - Never commit live customer certificates or filled real intake CSVs here.  
 - Approver gate still applies; library ≠ export approval.  
-- Buyer-specific declarations (`decl_conflicts_buyer`, Broads QP ack) stay `not_held` until a buyer-named synthetic row is added.
+- Intentional MISSING after this enrichment: buyer-specific declarations (`decl_conflicts_buyer`, Broads `sq_*` / QP ack) — not identity/group gaps.

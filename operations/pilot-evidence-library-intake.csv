@@ -2,6 +2,7 @@ doc_key,category,title,expected_evidence_type,applies_to,owner_role,expiry_requi
 identity_ch,identity,Companies House extract / letterhead,Companies House extract or letterhead,both,Admin,no,not_received,,,,
 identity_address,identity,Registered + trading address proof,Letterhead / lease / CH filing,both,Admin,no,not_received,,,,
 identity_fte,identity,FTE count + year established,Internal HR note or accounts,both,Admin,no,not_received,,,,
+identity_group,identity,Group structure / org chart or CH PSC,Org chart or Companies House PSC extract,both,Admin,no,not_received,,,,PQQ Q3; reusable unless buyer asks for named affiliates
 hseq_iso9001,hseq,ISO 9001 certificate,Certificate PDF (number scope expiry),both,HSEQ,yes,not_received,,,,
 hseq_iso14001_45001,hseq,ISO 14001 / 45001 or not-held note,Certificate PDF or not-held statement,both,HSEQ,yes,not_received,,,,
 hseq_riddor,hseq,RIDDOR summary (2 years),HSEQ log redacted,pqq,HSEQ,no,not_received,,,,
