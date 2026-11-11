@@ -11,6 +11,7 @@
 **MISSING queue email:** [`missing-queue-email.md`](missing-queue-email.md)  
 **Export manifest:** [`export-manifest-template.md`](export-manifest-template.md)  
 **Approver training:** [`approver-review-training.md`](approver-review-training.md)  
+**Kickoff (Path B-0):** [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md)  
 **Post-export scripts:** [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md)
 
 **Product name:** Supplier Desk  
@@ -44,6 +45,7 @@
 
 ## Path B — Live pack (after legal clearance)
 
+0. **Kickoff (Path B-0):** complete [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md) before first live pack (MSA/DPA, fee/waiver, Approver, baseline, evidence transfer).  
 1. **Intake:** receive pack + evidence folder; log pack_id, customer, received_at in metrics CSV; update a **local** copy of [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv) per [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md).  
 2. **Checklist:** extract requirements into a per-pack checklist (same shape as the fixture).  
 3. **Match:** map each requirement to intake `doc_key`s / approved library answers; flag expired, conflicting, customer-specific gaps; anything `not_received` → **MISSING**.  
