@@ -74,7 +74,7 @@ Supplier Desk (BidHarbour)
 
 ## After send
 
-1. CRM: stage **Pilot** only after written interest **and** when kickoff preconditions are in motion — otherwise leave **Discovery** + note.  
+1. CRM stage/notes → [`crm-stage-scripts.md`](crm-stage-scripts.md): Script A → keep **Discovery** + `pilot_offer_sent`; stage **Pilot** only after written interest **and** kickoff preconditions in motion.  
 2. Do not mark scorecard Paid pilots Actual until a real Path B pilot starts.  
 3. On acceptance path: solicitor-cleared MSA/DPA → [`../operations/pilot-fee-waiver-log.md`](../operations/pilot-fee-waiver-log.md) → [`../operations/pilot-kickoff-checklist.md`](../operations/pilot-kickoff-checklist.md).  
 4. Dry-runs (DRY-00x) are not paid pilots.

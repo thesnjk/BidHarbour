@@ -36,5 +36,6 @@ Public websites, ORE Catapult F4OR listings, and prior BidHarbour desk research 
 3. Send waves: Week-1 [`week1-send-runbook.md`](week1-send-runbook.md) (A01–A10) → Week-2 [`week2-send-runbook.md`](week2-send-runbook.md) (A11–A20) → Week-3 [`week3-send-runbook.md`](week3-send-runbook.md) (A21–A30) → Week-4 [`week4-send-runbook.md`](week4-send-runbook.md) (A31–A40) → Week-5 [`week5-send-runbook.md`](week5-send-runbook.md) (A41–A50).  
 4. First-50 complete — verify before send; prioritise lead ICP over construction-control / leisure / large-group / non-customer rows.  
 5. Send discovery emails as **Supplier Desk**; update `stage` / `outreach_status` the same day.  
-6. Referral intros: [`referral-ask-script.md`](referral-ask-script.md) — new row → Identified → queue warm outbound; note source as referral; prefer lead AME/marine; do not invent personal emails.  
-7. Do **not** invent personal emails; published `sales@` / `enquiries@` from company sites are OK as first reach. Keep extra PII in a private CRM copy if needed.
+6. Stage transitions (Discovery → pilot offer → Pilot; fee + continuation tags) → [`crm-stage-scripts.md`](crm-stage-scripts.md).  
+7. Referral intros: [`referral-ask-script.md`](referral-ask-script.md) — new row → Identified → queue warm outbound; note source as referral; prefer lead AME/marine; do not invent personal emails.  
+8. Do **not** invent personal emails; published `sales@` / `enquiries@` from company sites are OK as first reach. Keep extra PII in a private CRM copy if needed.
