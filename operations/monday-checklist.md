@@ -50,6 +50,7 @@
 - [x] Pilot fee / waiver log template (blank Actuals) → [`pilot-fee-waiver-log.md`](pilot-fee-waiver-log.md)  
 - [x] Observation / screenshare consent email stub → [`../research/observation-consent-email.md`](../research/observation-consent-email.md)  
 - [x] Pilot DSR handling one-pager → [`../security-and-legal/pilot-dsr-handling.md`](../security-and-legal/pilot-dsr-handling.md)  
+- [x] Backlog re-rank: rows 42–46 queued (Week-3 outreach, bounce triage, refund email, breach notify) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 
 ## Primary founder action (today)
 
