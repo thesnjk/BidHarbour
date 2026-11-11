@@ -61,9 +61,9 @@
 6. **Export:** deliver agreed formats + completed manifest only; no portal auto-submit.  
 7. **Log:** minutes, missing count at first draft, rework loops, support minutes → metrics CSV; contrast vs kickoff [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) at results review (never invent).  
 8. **Close pack:** send script **A** (pack delivered) from [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md); store activity note; no win-rate claims.  
-9. **Continue or close pilot:** script **B** for packs 2–3 in-window; at window end use **C → D → E** (and optional **F**).
+9. **Continue or close pilot:** packs 2–3 in-window → [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md) (script **B** + Path B 1–8); at window end use **C → D → E** (and optional **F**).
 
-Repeat for up to **3** packs in the 4-week window.
+Repeat for up to **3** packs in the 4-week window — operator checklist: [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md).
 
 ## Metrics ritual
 

@@ -15,7 +15,8 @@
 2. Status must be `received` **or** `waived` before live Path B intake; `pending` blocks pack 1.  
 3. A waiver requires an **explicit** reason (e.g. discovery-for-credit, founder courtesy) and who authorised it.  
 4. Cleared MSA/DPA are still required for live packs — fee/waiver does not replace legal clearance.  
-5. Band reference: £250–£750 ex VAT (mid anchor £500) per offer sheet — record the agreed figure privately if needed; this log may use band only.
+5. Band reference: £250–£750 ex VAT (mid anchor £500) per offer sheet — record the agreed figure privately if needed; this log may use band only.  
+6. **Packs 2–3 in-window:** no second fee by default (same pilot window / max 3 packs) unless solicitor-cleared offer or MSA says otherwise — see [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md).
 
 ## Log (blank until real)
 

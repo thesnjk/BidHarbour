@@ -12,7 +12,7 @@
 | Script | Trigger |
 |--------|---------|
 | **A** Pack delivered | Export approved; formats + manifest sent |
-| **B** Next pack in window | Customer has capacity for pack 2 or 3 inside 4-week pilot |
+| **B** Next pack in window | Customer has capacity for pack 2 or 3 inside 4-week pilot — operator playbook → [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md) |
 | **C** Results review invite | Pilot window ending or all packs done |
 | **D** Willingness to continue | After results review — written yes/no |
 | **E** Close-out / data return | Stop or no continuation; ≤30 days after pilot end |
@@ -45,6 +45,8 @@ Supplier Desk (BidHarbour pilot)
 ---
 
 ## B — Next pack in window
+
+**Operator sequence (when / fee / FO7 / metrics):** [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md).
 
 **Subject:** Supplier Desk pilot — ready for pack {{next_pack_id}}?
 
@@ -165,10 +167,11 @@ Peer-intro scripts (post-pack / post-continuation) live in [`../commercial/refer
 ## After send
 
 1. Log which script (A–G) and date in pack / pilot notes.  
-2. On **D**: record written yes/no in [`pilot-continuation-log.md`](pilot-continuation-log.md); update scorecard Continuations Actual only when real (never invent).  
-3. On **E**: diary the 30-day delete/return; confirm completion to customer.  
-4. On **F**: store approved wording only; discard if declined.  
-5. On **G**: add CRM referral row before warm outbound; never invent personal emails.
+2. On **B**: follow [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md) for intake / FO7 / metrics (or skip to **C** at window end).  
+3. On **D**: record written yes/no in [`pilot-continuation-log.md`](pilot-continuation-log.md); update scorecard Continuations Actual only when real (never invent).  
+4. On **E**: diary the 30-day delete/return; confirm completion to customer.  
+5. On **F**: store approved wording only; discard if declined.  
+6. On **G**: add CRM referral row before warm outbound; never invent personal emails.
 
 ## Stop rules
 
