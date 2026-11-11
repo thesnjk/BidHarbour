@@ -17,6 +17,7 @@
 | **D** Willingness to continue | After results review — written yes/no |
 | **E** Close-out / data return | Stop or no continuation; ≤30 days after pilot end |
 | **F** Testimonial ask | Optional; only after written permission |
+| **G** Referral ask | After pack delivered or continuation yes/clean no — not during refund/cancel → [`../commercial/referral-ask-script.md`](../commercial/referral-ask-script.md) |
 | **Refund / cancel** | Convenience / after-work / fault refund → [`pilot-refund-cancellation-email.md`](pilot-refund-cancellation-email.md) (then **E**) |
 
 ---
@@ -151,12 +152,21 @@ Supplier Desk (BidHarbour pilot)
 
 ---
 
+---
+
+## G — Referral ask
+
+Peer-intro scripts (post-pack / post-continuation) live in [`../commercial/referral-ask-script.md`](../commercial/referral-ask-script.md). Keep separate from **F** (testimonial). Do not ask during refund/cancel friction.
+
+---
+
 ## After send
 
-1. Log which script (A–F) and date in pack / pilot notes.  
+1. Log which script (A–G) and date in pack / pilot notes.  
 2. On **D**: record written yes/no for scorecard Actuals only when real (never invent).  
 3. On **E**: diary the 30-day delete/return; confirm completion to customer.  
-4. On **F**: store approved wording only; discard if declined.
+4. On **F**: store approved wording only; discard if declined.  
+5. On **G**: add CRM referral row before warm outbound; never invent personal emails.
 
 ## Stop rules
 
