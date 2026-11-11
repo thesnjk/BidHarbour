@@ -1,9 +1,9 @@
 # Bounce / OOO / wrong-entity triage
 
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
-**Use with:** [`week1-send-runbook.md`](week1-send-runbook.md) · [`week2-send-runbook.md`](week2-send-runbook.md) · [`week3-send-runbook.md`](week3-send-runbook.md) · [`week4-send-runbook.md`](week4-send-runbook.md)  
-**Logs:** [`week1-send-log.csv`](week1-send-log.csv) · [`week2-send-log.csv`](week2-send-log.csv) · [`week3-send-log.csv`](week3-send-log.csv) · [`week4-send-log.csv`](week4-send-log.csv)  
-**Contact hints (retry):** A01–A10 → [`a01-a10-contact-hints.md`](a01-a10-contact-hints.md) · A11–A20 → [`a11-a20-contact-hints.md`](a11-a20-contact-hints.md) · A21–A30 → [`a21-a30-contact-hints.md`](a21-a30-contact-hints.md) · A31–A40 → [`a31-a40-contact-hints.md`](a31-a40-contact-hints.md)  
+**Use with:** [`week1-send-runbook.md`](week1-send-runbook.md) · [`week2-send-runbook.md`](week2-send-runbook.md) · [`week3-send-runbook.md`](week3-send-runbook.md) · [`week4-send-runbook.md`](week4-send-runbook.md) · [`week5-send-runbook.md`](week5-send-runbook.md)  
+**Logs:** [`week1-send-log.csv`](week1-send-log.csv) · [`week2-send-log.csv`](week2-send-log.csv) · [`week3-send-log.csv`](week3-send-log.csv) · [`week4-send-log.csv`](week4-send-log.csv) · [`week5-send-log.csv`](week5-send-log.csv)  
+**Contact hints (retry):** A01–A10 → [`a01-a10-contact-hints.md`](a01-a10-contact-hints.md) · A11–A20 → [`a11-a20-contact-hints.md`](a11-a20-contact-hints.md) · A21–A30 → [`a21-a30-contact-hints.md`](a21-a30-contact-hints.md) · A31–A40 → [`a31-a40-contact-hints.md`](a31-a40-contact-hints.md) · A41–A50 → [`a41-a50-contact-hints.md`](a41-a50-contact-hints.md)  
 **Replies (human):** [`reply-booking-scripts.md`](reply-booking-scripts.md)  
 **Product name:** Supplier Desk
 
@@ -57,7 +57,7 @@ Thanks,
 
 ### Internal retry note (founder — do not invent addresses)
 
-Before a second send: open the contact-hints file for that CRM band (A31–A40 → [`a31-a40-contact-hints.md`](a31-a40-contact-hints.md)) → use only a **different published** general inbox or LinkedIn InMail to a verified role. Log channel = `email` or `linkedin` on the matching week send log. If none, set `Disqualified` + `hard_bounce`.
+Before a second send: open the contact-hints file for that CRM band (A31–A40 → [`a31-a40-contact-hints.md`](a31-a40-contact-hints.md); A41–A50 → [`a41-a50-contact-hints.md`](a41-a50-contact-hints.md)) → use only a **different published** general inbox or LinkedIn InMail to a verified role. Log channel = `email` or `linkedin` on the matching week send log. If none, set `Disqualified` + `hard_bounce`.
 
 ## Stop rules
 
