@@ -50,3 +50,15 @@ See [`../../operations/pack-dry-run-dry-003.md`](../../operations/pack-dry-run-d
 | Fields MISSING at first draft | 2/22 |
 | Rework loops after Approver review | 1 |
 | Export blocked until Approver sign-off? (yes/no) | yes (export_approved=no; no waiver) |
+
+### DRY-005 — expired library (`synthetic-evidence-library-v1-expired`)
+
+See [`../../operations/pack-dry-run-dry-005.md`](../../operations/pack-dry-run-dry-005.md). Working statuses: Q9 **EXPIRED** (`ins_el`); Q22 **MISSING**; other matched rows **draft**. Base v1 library unchanged.
+
+| Metric | Value |
+|--------|-------|
+| Minutes to first complete draft | 1 |
+| Fields MISSING at first draft | 1/22 |
+| EXPIRED at first draft | 1/22 (Q9) |
+| Rework loops after Approver review | 1 |
+| Export blocked until Approver sign-off? (yes/no) | yes (export_approved=no; no waiver) |

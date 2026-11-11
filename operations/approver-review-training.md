@@ -42,7 +42,7 @@ Target: ≤**1** major rework loop after your first review ([`../research/pilot-
 
 ## Practice (dry-run)
 
-Rehearse on fixture packs (DRY-001–004) with [`../testdata/`](../testdata/) — synthetic only. Dry-runs do **not** count as scorecard GO evidence.
+Rehearse on fixture packs (DRY-001–005) with [`../testdata/`](../testdata/) — synthetic only. **EXPIRED** rehearsal: [`pack-dry-run-dry-005.md`](pack-dry-run-dry-005.md). Dry-runs do **not** count as scorecard GO evidence.
 
 ## Stop rules
 

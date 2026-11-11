@@ -3,6 +3,7 @@ DRY-001,dry_run,testdata/redacted-pqq-v1,2026-11-10T19:04:05Z,2026-11-10T19:04:3
 DRY-002,dry_run,testdata/redacted-sq-v1,2026-11-10T21:56:00Z,2026-11-10T21:56:08Z,1,18,1,0,no,empty-library Path A Broads SQ; see pack-dry-run-dry-002.md
 DRY-003,dry_run,testdata/redacted-pqq-v1,2026-11-11T11:55:51Z,2026-11-11T11:56:20Z,1,2,1,0,no,partial-library Path A + synthetic-evidence-library-v1; see pack-dry-run-dry-003.md
 DRY-004,dry_run,testdata/redacted-sq-v1,2026-11-11T12:14:48Z,2026-11-11T12:15:15Z,1,6,1,0,no,partial-library Path A Broads SQ + synthetic-evidence-library-v1; see pack-dry-run-dry-004.md
+DRY-005,dry_run,testdata/redacted-pqq-v1,2026-11-11T15:58:00Z,2026-11-11T15:58:28Z,1,1,1,0,no,expired-library Path A + synthetic-evidence-library-v1-expired; Q9 ins_el EXPIRED blocks export; see pack-dry-run-dry-005.md
 P01,live,,,,,,,,
 P02,live,,,,,,,,
 P03,live,,,,,,,,
