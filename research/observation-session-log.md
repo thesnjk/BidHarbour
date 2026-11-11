@@ -13,7 +13,7 @@
 
 ## Rules
 
-1. Add a row only after an observation is finished (on-site or screenshare) with consent + redaction noted.  
+1. Add a row only after an observation is finished (on-site or screenshare) with consent + redaction noted (email stub: [`observation-consent-email.md`](observation-consent-email.md)).  
 2. IDs: `OBS-YYYYMMDD-##` (local sequence that day).  
 3. Distinct businesses only count toward ≥3 — one firm, one OBS for the scorecard tally (repeat packs on same firm stay logged but do not inflate the count).  
 4. Private detailed notes stay off-git; this log holds non-sensitive fields only.  

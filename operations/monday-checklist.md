@@ -48,6 +48,7 @@
 - [x] Backlog re-rank: rows 37–41 queued (Week-2 outreach, fee/waiver log, observation consent, DSR) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Week-2 outreach pack A11–A20 → [`../commercial/week2-outreach-pack.md`](../commercial/week2-outreach-pack.md) · [`../commercial/week2-send-runbook.md`](../commercial/week2-send-runbook.md)  
 - [x] Pilot fee / waiver log template (blank Actuals) → [`pilot-fee-waiver-log.md`](pilot-fee-waiver-log.md)  
+- [x] Observation / screenshare consent email stub → [`../research/observation-consent-email.md`](../research/observation-consent-email.md)  
 
 ## Primary founder action (today)
 
