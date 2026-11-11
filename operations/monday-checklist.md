@@ -84,6 +84,7 @@
 - [x] Minutes-saved contrast rollup (blank Actuals; wires baseline + metrics + time-study → scorecard Time/value) → [`minutes-saved-contrast-rollup.md`](minutes-saved-contrast-rollup.md)  
 - [x] Pack dry-run DRY-007 (FO7 customer-scoped promotion; shared library untouched) → [`pack-dry-run-dry-007.md`](pack-dry-run-dry-007.md) · [`../testdata/synthetic-customer-scoped-answers-v1/`](../testdata/synthetic-customer-scoped-answers-v1/) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 - [x] Discovery / observation → paid pilot offer bridge checklist → [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md)  
+- [x] Senior writeup upgrade (invariants, state machine, match algebra, threat model, epistemology; Apps F–J); privacy + NAAME remain queued → [`../Docs/project-writeup.md`](../Docs/project-writeup.md)  
 
 ## Primary founder action (today)
 
