@@ -98,6 +98,7 @@
 - [x] Pack dry-run DRY-009 (filled export manifest + Approver Block; partial library) → [`pack-dry-run-dry-009.md`](pack-dry-run-dry-009.md) · [`export-manifest-dry-009-filled.md`](export-manifest-dry-009-filled.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 - [x] Copycat quarterly monitor stub (Complys / tender-AI public-page checklist; no full scrape) → [`../research/copycat-monitor-quarterly.md`](../research/copycat-monitor-quarterly.md)  
 - [x] Solicitor return / counsel clearance intake (vault, PASS/FAIL, Script A unlock) → [`../security-and-legal/solicitor-return-intake-checklist.md`](../security-and-legal/solicitor-return-intake-checklist.md)  
+- [x] Pilot referral evidence packet (blank Actuals; post–results-review → **G**) → [`../commercial/pilot-referral-evidence-packet.md`](../commercial/pilot-referral-evidence-packet.md)  
 
  
 

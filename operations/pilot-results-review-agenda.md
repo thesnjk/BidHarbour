@@ -51,6 +51,7 @@ Results review (this agenda)
     → on reply: yes | no
          ├─ yes → commercial outline + solicitor-cleared continuation terms (no packs until cleared)
          └─ no  → script E (data return) · optional G referral if rapport
+                    (fill [`../commercial/pilot-referral-evidence-packet.md`](../commercial/pilot-referral-evidence-packet.md) locally first)
 ```
 
 | Step | Action |
@@ -60,6 +61,7 @@ Results review (this agenda)
 | 3 | Add [`pilot-continuation-log.md`](pilot-continuation-log.md) row `pending` (real pilots only) |
 | 4 | On reply: set `yes`/`no`; CRM stage per [`../commercial/crm-stage-scripts.md`](../commercial/crm-stage-scripts.md) |
 | 5 | Scorecard Continuations / Time/value Actuals **only** from real rollup + real `yes` rows |
+| 6 | Before optional **G**: fill [`../commercial/pilot-referral-evidence-packet.md`](../commercial/pilot-referral-evidence-packet.md) locally (anonymised; no invent) → [`../commercial/referral-ask-script.md`](../commercial/referral-ask-script.md) |
 
 ## Founder checklist
 
@@ -70,6 +72,7 @@ Results review (this agenda)
 - [ ] On `no`/timeout: script **E** diaried  
 - [ ] On `yes`: legal/commercial path — still no packs until cleared  
 - [ ] Optional **F** / **G** only after rapport and not during refund friction  
+- [ ] Before **G**: local [`../commercial/pilot-referral-evidence-packet.md`](../commercial/pilot-referral-evidence-packet.md) filled from live rollup  
 - [ ] Scorecard cells left blank until real evidence  
 
 ## Stop rules

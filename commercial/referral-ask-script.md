@@ -2,7 +2,7 @@
 
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
 **Product name:** Supplier Desk  
-**Use with:** [`reply-booking-scripts.md`](reply-booking-scripts.md) · [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) · [`go-to-market.md`](go-to-market.md) · [`crm-readme.md`](crm-readme.md) · post–first-50 wave: [`post-first50-referral-wave.md`](post-first50-referral-wave.md) · network venues: [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md)
+**Use with:** [`reply-booking-scripts.md`](reply-booking-scripts.md) · [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) · [`go-to-market.md`](go-to-market.md) · [`crm-readme.md`](crm-readme.md) · post–first-50 wave: [`post-first50-referral-wave.md`](post-first50-referral-wave.md) · network venues: [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md) · post–results-review packet: [`pilot-referral-evidence-packet.md`](pilot-referral-evidence-packet.md)
 
 **Rule:** Keep Supplier Desk research / pilot framing. No win-rate or qualification claims. Do **not** invent named intros, personal emails, or CRM Actuals. Prefer Norfolk **AME / marine** peers who run multi-customer inbound PQQ/SQ packs.
 
@@ -12,7 +12,7 @@
 |--------|---------|-----|
 | **Post-interview** | End of discovery call (consent already covered) | Up to **2** peer intros |
 | **Soft decline** | “Not interested / no time” on outreach reply | **1** intro, no pitch |
-| **Post-pilot** | After pack delivered (**A**) or after written continuation **yes** / clean **no** (**D**) | Up to **2** peer intros |
+| **Post-pilot** | After pack delivered (**A**) or after written continuation **yes** / clean **no** (**D**); fill [`pilot-referral-evidence-packet.md`](pilot-referral-evidence-packet.md) locally first | Up to **2** peer intros |
 | **Do not ask** | Mid refund/cancel friction; hard bounce; uncleared MSA dispute; testimonial-only thread without rapport | — |
 
 Testimonial ask stays separate → close-out **F**. Referral ask is close-out **G** (this file).
@@ -71,7 +71,7 @@ Thanks,
 Supplier Desk (BidHarbour pilot)
 ```
 
-**Timing:** after successful pack delivery, or after continuation **yes** / clean **no**. Skip during refund/cancel paths ([`../operations/pilot-refund-cancellation-email.md`](../operations/pilot-refund-cancellation-email.md)).
+**Timing:** after successful pack delivery, or after continuation **yes** / clean **no**. Fill [`pilot-referral-evidence-packet.md`](pilot-referral-evidence-packet.md) locally first (anonymised minutes/gates). Skip during refund/cancel paths ([`../operations/pilot-refund-cancellation-email.md`](../operations/pilot-refund-cancellation-email.md)).
 
 ---
 
