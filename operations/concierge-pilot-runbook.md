@@ -55,7 +55,7 @@
 ## Path B — Live pack (after legal clearance)
 
 0. **Kickoff (Path B-0):** complete [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md) before first live pack (MSA/DPA, fee/waiver, Approver, baseline → [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md), named access → [`../security-and-legal/pilot-named-access-register.md`](../security-and-legal/pilot-named-access-register.md), evidence transfer).  
-1. **Intake:** receive pack + evidence folder; log pack_id, customer, received_at in metrics CSV; update a **local** copy of [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv) per [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md).  
+1. **Intake:** first live pack → [`path-b-first-live-pack-intake.md`](path-b-first-live-pack-intake.md) (receive folder; local evidence CSV; metrics `mode=live` row; checklist extract). Packs 2–3: same intake shape via [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md).  
 2. **Checklist:** extract requirements into a per-pack checklist (same shape as the fixture).  
 3. **Match:** map each requirement to intake `doc_key`s / approved library answers; flag expired, conflicting, customer-specific gaps; anything `not_received` → **MISSING**.  
 4. **MISSING queue:** send customer the MISSING list using [`missing-queue-email.md`](missing-queue-email.md); wait ≤3 business days per pilot design.  

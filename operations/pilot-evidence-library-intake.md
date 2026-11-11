@@ -17,7 +17,7 @@
 |------|-----------------|
 | Path A empty-library dry-run | No (everything stays MISSING) |
 | Path A partial-library dry-run | Yes — use [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/); mark matching intake rows `received` locally; do not commit secrets |
-| Path B live pack | **Yes** — fill before / during intake; keep CSV + files in local encrypted folder |
+| Path B live pack | **Yes** — fill before / during intake via [`path-b-first-live-pack-intake.md`](path-b-first-live-pack-intake.md); keep CSV + files in local encrypted folder |
 
 ## How to fill
 
