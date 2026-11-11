@@ -27,7 +27,8 @@ Account data; documents that may include names, contact details, insurance, HR/t
 ## Obligations (headings for counsel)
 
 Instructions; confidentiality; security measures; subprocessors; international transfers; assistance with data subject rights; breach notice; deletion/return; audits.  
-Operational companion for pilot DSRs → [`pilot-dsr-handling.md`](pilot-dsr-handling.md). Solicitor annex prevails when cleared.
+Operational companion for pilot DSRs → [`pilot-dsr-handling.md`](pilot-dsr-handling.md).  
+Customer breach-notification draft (counsel-gated) → [`customer-breach-notification-draft.md`](customer-breach-notification-draft.md). Solicitor annex prevails when cleared.
 
 ## Subprocessors
 
