@@ -154,7 +154,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 34 | **done** | Pilot data retention / deletion schedule one-pager (align close-out E + DPA) → `operations/` or `security-and-legal/` | #5 |
 | 35 | **done** | Observation session log stub (blank Actuals) wired to observation kit + scorecard → `research/` | #1 |
 | 36 | **done** | Re-rank from open epics + gaps; append rows 37–41 | — |
-| 37 | todo | Week-2 outreach pack for CRM A11–A20 (same pattern as Week-1 A01–A10) → `commercial/` | #6 |
+| 37 | **done** | Week-2 outreach pack for CRM A11–A20 (same pattern as Week-1 A01–A10) → `commercial/` | #6 |
 | 38 | todo | Pilot fee / waiver log template (blank Actuals) wired to Path B-0 kickoff → `operations/` | #2 |
 | 39 | todo | Observation / screenshare consent email stub wired to observation kit → `research/` | #1 |
 | 40 | todo | Pilot data-subject request (DSR) handling one-pager (align DPA obligations) → `security-and-legal/` | #5 |

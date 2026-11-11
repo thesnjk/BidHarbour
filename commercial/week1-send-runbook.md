@@ -62,6 +62,10 @@ After call: [`../research/recording-template.md`](../research/recording-template
 | Interviews completed | ≥3 |
 | Scorecard Friday | Actuals updated |
 
+## Next wave
+
+When Week-1 log rows are filled: run [`week2-send-runbook.md`](week2-send-runbook.md) (CRM A11–A20) with [`week2-outreach-pack.md`](week2-outreach-pack.md).
+
 ## Stop rules
 
 - Do not pitch SaaS hard-sell on discovery calls.  
