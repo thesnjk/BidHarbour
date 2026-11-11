@@ -51,6 +51,7 @@
 - [x] Observation / screenshare consent email stub → [`../research/observation-consent-email.md`](../research/observation-consent-email.md)  
 - [x] Pilot DSR handling one-pager → [`../security-and-legal/pilot-dsr-handling.md`](../security-and-legal/pilot-dsr-handling.md)  
 - [x] Backlog re-rank: rows 42–46 queued (Week-3 outreach, bounce triage, refund email, breach notify) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
+- [x] Week-3 outreach pack A21–A30 → [`../commercial/week3-outreach-pack.md`](../commercial/week3-outreach-pack.md) · [`../commercial/week3-send-runbook.md`](../commercial/week3-send-runbook.md)  
 
 ## Primary founder action (today)
 
@@ -60,7 +61,8 @@
 ## Also this week
 
 3. When Week-1 send log is filled: execute [`../commercial/week2-send-runbook.md`](../commercial/week2-send-runbook.md) (A11–A20) → [`../commercial/week2-outreach-pack.md`](../commercial/week2-outreach-pack.md).  
-4. Fill founder constraints form (scenario A/B/C).  
-5. Send solicitor cover email (before any real pack upload).  
-6. IPO / HarbourResponse domain steps → [`../strategy/brand-clearance-execution.md`](../strategy/brand-clearance-execution.md) (founder spend only).  
-7. **Do not** start auth/database code; **do not** use uncleared MSA/DPA stubs with customers.
+4. When Week-2 send log is filled: execute [`../commercial/week3-send-runbook.md`](../commercial/week3-send-runbook.md) (A21–A30) → [`../commercial/week3-outreach-pack.md`](../commercial/week3-outreach-pack.md).  
+5. Fill founder constraints form (scenario A/B/C).  
+6. Send solicitor cover email (before any real pack upload).  
+7. IPO / HarbourResponse domain steps → [`../strategy/brand-clearance-execution.md`](../strategy/brand-clearance-execution.md) (founder spend only).  
+8. **Do not** start auth/database code; **do not** use uncleared MSA/DPA stubs with customers.
