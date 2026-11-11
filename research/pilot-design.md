@@ -43,6 +43,7 @@ Use synthetic kit [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/)
 
 ## Manual work (founder)
 
+- Path B-0 kickoff before first live pack → [`../operations/pilot-kickoff-checklist.md`](../operations/pilot-kickoff-checklist.md)  
 - Checklist curation  
 - Library tagging  
 - Match review  
@@ -51,6 +52,7 @@ Use synthetic kit [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/)
 
 ## Customer responsibilities
 
+- Attend kickoff (or async equivalent) → [`../operations/pilot-kickoff-checklist.md`](../operations/pilot-kickoff-checklist.md)  
 - Provide evidence folder promptly  
 - Name an Approver with authority  
 - Respond to MISSING queue within 3 business days  

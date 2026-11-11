@@ -150,7 +150,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 30 | **done** | Week-1 non-responder follow-up scripts A21–A40 (same pattern as A01–A20) → `commercial/` | #6 |
 | 31 | **done** | Re-rank from open epics + gaps; append rows 32–36 | — |
 | 32 | **done** | Week-1 non-responder follow-up scripts A41–A50 (same pattern as A21–A40) → `commercial/` | #6 |
-| 33 | todo | Pilot kickoff agenda + checklist (Path B pre-pack-1) → `operations/` | #2 |
+| 33 | **done** | Pilot kickoff agenda + checklist (Path B pre-pack-1) → `operations/` | #2 |
 | 34 | todo | Pilot data retention / deletion schedule one-pager (align close-out E + DPA) → `operations/` or `security-and-legal/` | #5 |
 | 35 | todo | Observation session log stub (blank Actuals) wired to observation kit + scorecard → `research/` | #1 |
 | 36 | todo | When 32–35 done: re-rank from open epics + gaps; append new rows surgically | — |
