@@ -47,7 +47,7 @@ Use synthetic kit [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/)
 - Library tagging  
 - Match review  
 - Export formatting within agreed templates  
-- Training approver on review checklist  
+- Training approver on review checklist → [`../operations/approver-review-training.md`](../operations/approver-review-training.md)  
 
 ## Customer responsibilities
 

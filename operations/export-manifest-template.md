@@ -2,6 +2,7 @@
 
 **Epic:** [#2](https://github.com/thesnjk/BidHarbour/issues/2)  
 **Use at:** Path B steps 5–6 in [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md)  
+**Train first:** [`approver-review-training.md`](approver-review-training.md)  
 **Rule:** Export **blocked** while any required row is unapproved or MISSING without an explicit waiver.
 
 Copy this page per pack (local only for live customers). Dry-runs may use fixture pack_ids (DRY-001 / DRY-002).

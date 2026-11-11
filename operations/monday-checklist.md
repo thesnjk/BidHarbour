@@ -38,6 +38,7 @@
 - [x] Backlog re-rank: rows 27–31 queued (DRY-004 SQ partial, library identity_group, Approver training, follow-ups A21–A40) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] DRY-004 partial-library dry-run (SQ) → [`pack-dry-run-dry-004.md`](pack-dry-run-dry-004.md)  
 - [x] Synthetic library `identity_group` enrichment → [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/)  
+- [x] Approver review training one-pager → [`approver-review-training.md`](approver-review-training.md)  
 
 ## Primary founder action (today)
 
