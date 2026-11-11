@@ -136,7 +136,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 16 | **done** | Re-rank from open epics + gaps; append rows 17–21 | — |
 | 17 | **done** | CRM A31–A40 public contact enrichment (construction-control + Norfolk blanks; same pattern as A21–A30) | #6 |
 | 18 | **done** | Synthetic approved-answer / evidence-library stub mapped to intake `doc_key`s → `testdata/` or `operations/` | #2 |
-| 19 | todo | MISSING-queue customer email + Approver export-manifest templates → `operations/` | #2 |
+| 19 | **done** | MISSING-queue customer email + Approver export-manifest templates → `operations/` | #2 |
 | 20 | todo | Week-4 gate decision checklist wired to scorecard + interview-synthesis → `research/` | #1 |
 | 21 | todo | When 17–20 done: re-rank from open epics + gaps; append new rows surgically | — |
 
