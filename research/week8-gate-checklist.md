@@ -13,7 +13,7 @@
 - [ ] Scorecard Actuals updated from real interviews + live pilot packs only  
 - [ ] Paid pilots used solicitor-cleared MSA/DPA (Path B)  
 - [ ] Pilot metrics rows filled for live packs (not dry-run masquerading as P01+)  
-- [ ] Continuations recorded as written yes/no (close-out script D) — never invented  
+- [ ] Continuations recorded as written yes/no (close-out script D) → [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) — never invented  
 - [ ] Negative findings reviewed same week  
 
 ## 2. Tally (copy from scorecard / metrics — blank until data)

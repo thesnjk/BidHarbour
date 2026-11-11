@@ -180,7 +180,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 51 | **done** | When 47–50 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 52 | **done** | Week-5 outreach pack for CRM A41–A50 (same pattern as Week-4 A31–A40) → `commercial/` | #6 |
 | 53 | **done** | Extend bounce / OOO triage to Week-4 send log → `commercial/` | #6 |
-| 54 | todo | Pilot continuation yes/no capture log (blank Actuals) wired to close-out D + scorecard → `operations/` | #2 |
+| 54 | **done** | Pilot continuation yes/no capture log (blank Actuals) wired to close-out D + scorecard → `operations/` | #2 |
 | 55 | todo | DRY-005 dry-run: expired (or conflicting) library evidence → block export; metrics + method note → `operations/` | #2 |
 | 56 | todo | Discovery → paid pilot offer email stub (solicitor-gated; no win-rate claims) → `commercial/` | #6 |
 | 57 | todo | When 52–56 done: re-rank from open epics + gaps; append new rows surgically | — |
