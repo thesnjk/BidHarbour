@@ -72,7 +72,8 @@ Draft commercial intent only:
 - Fee due before pack 1 processing  
 - If BidHarbour misses agreed turnaround on 2+ packs due to its fault → refund unused portion  
 - Customer may cancel for convenience within 5 days unused → full refund; after work starts → fee non-refundable except fault clause  
-- **Solicitor must review before use.**
+- **Solicitor must review before use.**  
+- Customer email stubs → [`../operations/pilot-refund-cancellation-email.md`](../operations/pilot-refund-cancellation-email.md)
 
 ## After the pilot
 

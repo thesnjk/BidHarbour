@@ -17,6 +17,7 @@
 | **D** Willingness to continue | After results review — written yes/no |
 | **E** Close-out / data return | Stop or no continuation; ≤30 days after pilot end |
 | **F** Testimonial ask | Optional; only after written permission |
+| **Refund / cancel** | Convenience / after-work / fault refund → [`pilot-refund-cancellation-email.md`](pilot-refund-cancellation-email.md) (then **E**) |
 
 ---
 
@@ -95,7 +96,7 @@ Hi {{Name}},
 Following our results review, please reply with a clear **yes** or **no** on paid continuation under Supplier Desk (setup + subscription bands on the offer sheet are hypotheses — solicitor-cleared terms required before any further confidential packs).
 
 - **Yes** — I will send the current commercial outline and arrange legal review before kickoff.
-- **No** — we will run close-out / data return (script E) and stop.
+- **No** — we will run close-out / data return (script E) and stop. If a fee refund/cancel path applies, use [`pilot-refund-cancellation-email.md`](pilot-refund-cancellation-email.md) before or with **E**.
 
 Either answer is useful for our validation scorecard. No win-rate claims either way.
 

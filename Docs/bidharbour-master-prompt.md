@@ -170,7 +170,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 41 | **done** | Re-rank from open epics + gaps; append rows 42–46 | — |
 | 42 | **done** | Week-3 outreach pack for CRM A21–A30 (same pattern as Week-2 A11–A20) → `commercial/` | #6 |
 | 43 | **done** | Bounce / OOO / wrong-entity triage scripts wired to Week-1/2 send logs → `commercial/` | #6 |
-| 44 | todo | Pilot refund / cancellation customer email stub (align pilot-design fees) → `operations/` | #2 |
+| 44 | **done** | Pilot refund / cancellation customer email stub (align pilot-design fees) → `operations/` | #2 |
 | 45 | todo | Customer breach-notification draft stub (align incident runbook S1) → `security-and-legal/` | #5 |
 | 46 | todo | When 42–45 done: re-rank from open epics + gaps; append new rows surgically | — |
 
@@ -183,6 +183,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 - Do not process real customer packs until solicitor-cleared MSA/DPA.
 - Do not silent-pivot to holiday-property ops; RFQ only if PQQ validation fails.
 - Do not run Day 3/7/14 non-responder follow-ups on hard bounces — triage via `commercial/bounce-ooo-triage.md` first.
+- Do not send pilot refund/cancellation emails under uncleared MSA — draft only in `operations/pilot-refund-cancellation-email.md`.
 
 ---
 
