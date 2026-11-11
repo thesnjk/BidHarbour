@@ -58,11 +58,13 @@
 - [x] Customer breach-notification draft stub → [`../security-and-legal/customer-breach-notification-draft.md`](../security-and-legal/customer-breach-notification-draft.md)  
 - [x] Backlog re-rank: rows 47–51 queued (Week-4 outreach, referral, baseline minutes, named-access — Lead vs SharePoint inbound-pack) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Week-4 outreach pack A31–A40 → [`../commercial/week4-outreach-pack.md`](../commercial/week4-outreach-pack.md) · [`../commercial/week4-send-runbook.md`](../commercial/week4-send-runbook.md)  
+- [x] Referral ask script (post-interview / post-pilot) → [`../commercial/referral-ask-script.md`](../commercial/referral-ask-script.md)  
 
 ## Primary founder action (today)
 
 1. **Execute** [`../commercial/week1-send-runbook.md`](../commercial/week1-send-runbook.md) — use [`../commercial/a01-a10-contact-hints.md`](../commercial/a01-a10-contact-hints.md); send A01–A10 as **Supplier Desk** (consider skip A08); fill [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv) per send.  
 2. On replies, use [`../commercial/reply-booking-scripts.md`](../commercial/reply-booking-scripts.md); book ≥5 slots on the interview grid; set `reply_date` / `booked_slot` on the send log; update scorecard only after completed interviews.  
+2b. After interviews / pilots (or soft declines): peer-intro ask → [`../commercial/referral-ask-script.md`](../commercial/referral-ask-script.md).  
 
 ## Also this week
 

@@ -39,6 +39,8 @@ Straight answer: this call is **customer discovery research** for Supplier Desk 
 
 ## They say not interested / no time
 
+Full soft-decline + one-intro ask → [`referral-ask-script.md`](referral-ask-script.md).
+
 Thanks for the straight answer — helpful. If a colleague at a similar Norfolk fab/marine firm might spare 25 minutes on how they handle customer questionnaires, a name/intro would be gold. Either way, appreciate it.
 
 *(CRM: `outreach_status=declined` or leave Contacted + note; log in negative-findings if they say “not a problem for us”.)*
@@ -46,6 +48,8 @@ Thanks for the straight answer — helpful. If a colleague at a similar Norfolk 
 ---
 
 ## They refer someone
+
+Full confirm + CRM + warm-intro outbound → [`referral-ask-script.md`](referral-ask-script.md).
 
 Thanks — I’ll reach out to {{Referral}} and mention you suggested it. OK to use your name?
 
