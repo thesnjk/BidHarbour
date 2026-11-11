@@ -11,7 +11,7 @@
 
 - [ ] Pilot MSA solicitor-cleared and signed  
 - [ ] DPA solicitor-cleared and signed  
-- [ ] Fee received **or** explicit waiver logged (offer sheet)  
+- [ ] Fee received **or** explicit waiver logged → [`pilot-fee-waiver-log.md`](pilot-fee-waiver-log.md)  
 - [ ] Named Approver with authority (second person OK)  
 - [ ] Approver has read [`approver-review-training.md`](approver-review-training.md)  
 - [ ] MFA on founder accounts used for the pilot  

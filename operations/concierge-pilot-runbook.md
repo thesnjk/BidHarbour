@@ -12,6 +12,7 @@
 **Export manifest:** [`export-manifest-template.md`](export-manifest-template.md)  
 **Approver training:** [`approver-review-training.md`](approver-review-training.md)  
 **Kickoff (Path B-0):** [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md)  
+**Fee / waiver log:** [`pilot-fee-waiver-log.md`](pilot-fee-waiver-log.md)  
 **Post-export scripts:** [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md)  
 **Retention / deletion:** [`pilot-data-retention-schedule.md`](pilot-data-retention-schedule.md)
 
@@ -24,7 +25,7 @@
 |-------|---------|-----------|
 | Named Approver with authority | Yes (second person OK) | Required |
 | Pilot MSA + DPA solicitor-cleared and signed | No | **Required** |
-| Fee received (or waiver logged) | N/A | Per offer sheet |
+| Fee received (or waiver logged) | N/A | Per offer sheet → [`pilot-fee-waiver-log.md`](pilot-fee-waiver-log.md) |
 | Encrypted transfer path; access limited to named accounts | Local folder OK | Required |
 | No model training on customer content | N/A | Required |
 

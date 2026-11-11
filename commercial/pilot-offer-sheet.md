@@ -55,7 +55,8 @@ Results review → offer setup (£300–£1,000 ex VAT band) + subscription (£9
 ## How to start
 
 1. Solicitor-cleared MSA/DPA  
-2. Kickoff call + evidence folder transfer → [`../operations/pilot-kickoff-checklist.md`](../operations/pilot-kickoff-checklist.md)  
-3. First pack within week 1 of pilot window  
+2. Fee received or explicit waiver logged → [`../operations/pilot-fee-waiver-log.md`](../operations/pilot-fee-waiver-log.md)  
+3. Kickoff call + evidence folder transfer → [`../operations/pilot-kickoff-checklist.md`](../operations/pilot-kickoff-checklist.md)  
+4. First pack within week 1 of pilot window  
 
 **Contact:** _[Founder]_
