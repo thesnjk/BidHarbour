@@ -5,7 +5,7 @@
 **Runbook:** [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md)  
 **Fixtures:** [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/) · [`../testdata/redacted-sq-v1/`](../testdata/redacted-sq-v1/)  
 **Synthetic library (partial-library dry-runs):** [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/)  
-**Customer-scoped answers (FO7 promotion):** [`../testdata/synthetic-customer-scoped-answers-v1/`](../testdata/synthetic-customer-scoped-answers-v1/) — Broads-only; do **not** merge into shared library without Approver + `applies_to` change (see DRY-007)
+**Customer-scoped answers (FO7 promotion):** [`../testdata/synthetic-customer-scoped-answers-v1/`](../testdata/synthetic-customer-scoped-answers-v1/) — Broads-only; do **not** merge into shared library without Approver + `applies_to` change (see DRY-007). Dual-buyer in-window sequence → [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md).
 
 **Purpose:** Track which evidence documents a pilot SME has provided before matching a PQQ/SQ checklist. Concierge Path B intake — not a SaaS library.
 
