@@ -32,7 +32,8 @@ As-of: 9 November 2025.
 
 1. Pilot agreement / MSA stub → solicitor review (**Advice required**)  
 2. Data processing agreement (DPA)  
-3. Privacy notice  
+3. Privacy notice — Path A issue-spotter → [`../security-and-legal/pilot-privacy-notice-issue-spotter.md`](../security-and-legal/pilot-privacy-notice-issue-spotter.md) (**Advice required**; no customer send until counsel)  
+ 
 4. Acceptable use policy  
 5. Subprocessor list (LLM, OCR, hosting, email, payments)  
 6. Incident response outline  
@@ -63,7 +64,7 @@ As-of: 9 November 2025.
 
 ## International transfers
 
-If any subprocessor stores or processes outside UK/EEA, document transfer mechanism (e.g. SCCs / UK IDTA) — **Legal obligation + Advice required**.
+If any subprocessor stores or processes outside UK/EEA, document transfer mechanism (e.g. SCCs / UK IDTA) — **Legal obligation + Advice required**. Decision-tree annex stub → [`../security-and-legal/international-transfers-decision-tree-annex-stub.md`](../security-and-legal/international-transfers-decision-tree-annex-stub.md).
 
 ## Retention and deletion
 

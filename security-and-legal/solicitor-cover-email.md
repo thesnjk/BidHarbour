@@ -38,6 +38,8 @@ Before any real customer document packs are processed, I need you to review and 
 - `dpa-stub.md`  
 - `tos-privacy-stubs.md`  
 - `subprocessors-and-data-flow.md` (working subprocessor list + pilot data flow)  
+- `pilot-privacy-notice-issue-spotter.md` (pilot privacy notice issue-spotter — counsel-only)  
+- `international-transfers-decision-tree-annex-stub.md` (transfers DPA annex stub — counsel-only)  
 - `pilot-offer-sheet.md` (commercial offer — for context)  
 
 **Please return**

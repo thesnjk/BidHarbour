@@ -2,6 +2,8 @@
 
 **Not legal advice.** Expand with solicitor before production SaaS.
 
+Expanded Path A pilot issue-spotter → [`pilot-privacy-notice-issue-spotter.md`](pilot-privacy-notice-issue-spotter.md) (counsel-gated; no customer send). Transfers decision-tree annex → [`international-transfers-decision-tree-annex-stub.md`](international-transfers-decision-tree-annex-stub.md).
+
 ## Privacy notice headings
 
 - Who we are  
