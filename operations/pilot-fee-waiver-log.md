@@ -3,6 +3,7 @@
 **Epic:** [#2](https://github.com/thesnjk/BidHarbour/issues/2)  
 **Use at:** Path B-0 kickoff — [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md)  
 **Offer:** [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md) · Design fees: [`../research/pilot-design.md`](../research/pilot-design.md)  
+**Refund / cancel emails:** [`pilot-refund-cancellation-email.md`](pilot-refund-cancellation-email.md)  
 **Product name:** Supplier Desk
 
 **Evidence label:** Template only until rows are filled from **real** pilots.  
