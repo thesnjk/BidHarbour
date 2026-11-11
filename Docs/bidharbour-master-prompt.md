@@ -210,7 +210,13 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 80 | **done** | Pilot results review agenda + continuation decision (blank Actuals; wires minutes rollup, closeout C→D, continuation log) → `operations/pilot-results-review-agenda.md` | #2 |
 | 81 | **done** | Supplier Desk competitive objection sheet (Constructionline, SharePoint, tender-AI, Complys — abstain + Approver; no win-rate) → `commercial/competitive-objection-sheet.md` | #6 |
 | 82 | **done** | Pre-pilot legal readiness gate (solicitor send, cleared MSA/DPA, named access; Script A only after PASS; Script B hold OK) → `operations/pre-pilot-legal-readiness-gate.md` | #5 |
-| 83 | todo | When 78–82 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 83 | **done** | When 78–82 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 84 | todo | Concierge discovery demo runbook (15 min; redacted PQQ fixture; checklist→MISSING→Approver; no SaaS) → `commercial/` | #6 |
+| 85 | todo | DRY-009: filled export manifest + Approver discipline dry-run (partial library; gate story; no live approval Actuals) → `operations/` | #2 |
+| 86 | todo | Complys / tender-AI copycat quarterly monitor stub (public-page checklist; wires objection sheet; no full scrape) → `research/` | #1 |
+| 87 | todo | Solicitor return / counsel clearance intake checklist (vault, PASS/FAIL, Script A unlock; wire legal gate) → `security-and-legal/` | #5 |
+| 88 | todo | Pilot referral evidence packet template (blank Actuals; anonymised minutes/gates bullets; post–results-review referral) → `commercial/` | #6 |
+| 89 | todo | When 84–88 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 

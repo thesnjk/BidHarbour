@@ -93,6 +93,8 @@
 - [x] Pilot results review agenda + continuation bridge (C→D; minutes rollup; blank Actuals) → [`pilot-results-review-agenda.md`](pilot-results-review-agenda.md)  
 - [x] Competitive objection sheet (Constructionline / SharePoint / tender-AI / Complys; abstain + Approver; no win-rate) → [`../commercial/competitive-objection-sheet.md`](../commercial/competitive-objection-sheet.md)  
 - [x] Pre-pilot legal readiness gate (solicitor send + cleared MSA/DPA + named-access readiness; Script A only after PASS) → [`pre-pilot-legal-readiness-gate.md`](pre-pilot-legal-readiness-gate.md)  
+- [x] Backlog re-rank: rows 84–88 queued (concierge discovery demo, DRY-009 Approver manifest, copycat quarterly monitor, solicitor return intake, pilot referral evidence packet — Lead: SharePoint demo / Approver export / copycat monitor / solicitor return / referral density) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
+ 
  
 
 ## Primary founder action (today)

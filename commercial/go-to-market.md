@@ -57,6 +57,8 @@ Open to a 20-minute look at your last pack and whether a paid 4-week pilot (£50
 3. Security/approval principle (3 min)  
 4. Pilot terms (2 min)  
 
+Fixture-led runbook (queued backlog **#84**): `concierge-discovery-demo-runbook.md` — redacted PQQ; checklist→MISSING→Approver; no SaaS. 
+
 ## Paid-pilot offer
 
 4 weeks · max 3 packs · £250–£750 ex VAT · DPA required · see `research/pilot-design.md`.
