@@ -172,7 +172,12 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 43 | **done** | Bounce / OOO / wrong-entity triage scripts wired to Week-1/2 send logs → `commercial/` | #6 |
 | 44 | **done** | Pilot refund / cancellation customer email stub (align pilot-design fees) → `operations/` | #2 |
 | 45 | **done** | Customer breach-notification draft stub (align incident runbook S1) → `security-and-legal/` | #5 |
-| 46 | todo | When 42–45 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 46 | **done** | Re-rank from open epics + gaps; append rows 47–51 | — |
+| 47 | todo | Week-4 outreach pack for CRM A31–A40 (same pattern as Week-3 A21–A30) → `commercial/` | #6 |
+| 48 | todo | Referral ask script (post-interview / post-pilot) → `commercial/` | #6 |
+| 49 | todo | Baseline minutes capture worksheet for Path B-0 kickoff / metrics (minutes-saved proof) → `operations/` | #2 |
+| 50 | todo | Named-accounts access register stub for pilot encrypted paths → `security-and-legal/` or `operations/` | #5 |
+| 51 | todo | When 47–50 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 
