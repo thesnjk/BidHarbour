@@ -26,7 +26,7 @@ Label material claims as **Verified fact**, **Reasoned inference**, **Working as
 | 0 | How to read / evidence rules | **Filled** — 11 Nov 2026 |
 | 1 | Executive summary & decision posture | **Filled** — 11 Nov 2026 |
 | 2 | Analysis | **Filled** — 11 Nov 2026 |
-| 3 | Design | *(pending — backlog #66)* |
+| 3 | Design | **Filled** — 11 Nov 2026 |
 | 4 | Implementation (shipped artefacts & fixtures) | *(pending — backlog #67)* |
 | 5 | Testing (incl. DRY-001–006 formal evidence) | *(pending — backlog #67)* |
 | 6 | Evaluation | *(pending — backlog #68)* |
@@ -468,11 +468,316 @@ Derivation is **traceable and revisable**: if interviews falsify pack frequency 
 
 ---
 
-## Parts 3–9 (bodies pending)
+## Part 3 — Design
+
+**Last updated:** 11 November 2026  
+**Status:** Design **intent** only. Path A (concierge / low-code) is the default now. Path B lean SaaS is specified for post-scorecard-GO build — **not claimed as implemented**.  
+**Primary sources:** [`architecture.md`](architecture.md), [`../product/mvp-spec.md`](../product/mvp-spec.md), [`../design/ux-ia.md`](../design/ux-ia.md), Part 2 FO/NFO, DRY method notes under `operations/pack-dry-run-dry-*.md`.
+
+### 3.1 Design goals / rationale
+
+| Goal | Rationale | Maps to |
+|------|-----------|---------|
+| G1 Dual-path architecture | Prove the job with Path A before SaaS spend; keep Path B entity model aligned so pilots do not invent a dead-end process | NFO4, A6, FO1–FO7 |
+| G2 Evidence-first matching | Every draft answer requires provenance; otherwise abstain | FO4, FO10, NFO2 |
+| G3 Hard export gates | Export blocked on open MISSING / EXPIRED / CONFLICT / unapproved sections unless recorded waiver | FO5, FO6 |
+| G4 Human Approver as a first-class role | Liability and trust; AI never silent-submits | FO5, NFO1 |
+| G5 Multi-customer isolation | Shared library ≠ automatic customer-specific answers | FO7 |
+| G6 SME-simple IA | Avoid procurement-suite complexity; empty states over fake dashboards | NFO6 |
+| G7 Buy commodity, build the job | Auth/OCR/LLM/storage/billing bought; pack loop owned | NFO4, NFO7 |
+| G8 Auditability | Append-only audit of AI assist, approvals, exports | NFO2, FO6 |
+| G9 Honest validation surface | Design does not depend on invented interview Actuals | NFO5 |
+
+#### Path A vs Path B trade-off
+
+| Concern | Path A (now) | Path B (post-GO) |
+|---------|--------------|------------------|
+| Intake | Email + shared drive / Notion | Web upload → object storage |
+| Checklist | Human-curated (± LLM assist) | Worker extract → editable checklist |
+| Library | Approved PDF folder + answer bank sheet | Document / DocumentVersion / ApprovedAnswer |
+| Approval | Named reviewer via email checklist | Approvals inbox + role enforcement |
+| Export | Assembled ZIP/PDF + change log / manifest | Gated Export + AuditEvent |
+| Cost | No always-on infra; pay-per-LLM | Caps, extract-once, staging/prod split |
+
+**Trade-off accepted:** Path A is slower operationally and less productised, but it validates FO/NFO without premature SaaS. Path B reuses the same decision procedure (§3.4) and entities (§3.3).
+
+#### Technology selection (Path B — working assumptions)
+
+| Concern | Buy / use | Why |
+|---------|-----------|-----|
+| Auth | Clerk / Auth0 | MFA, later SSO; less custom risk |
+| OCR | AWS Textract / Google Document AI | Table accuracy |
+| LLM | Azure OpenAI or OpenAI with DPA | Abstain + audit; contractual no-train preferred |
+| Object storage | S3 / R2 UK/EU | Cost + region |
+| Email | Resend / SES | Notifications |
+| Billing | Stripe | Standard SaaS |
+| Observability | OpenTelemetry + provider | Cost control |
+
+**Avoid in MVP:** microservices, Kubernetes, multiple primary databases, multi-region active-active.
+
+### 3.2 System architecture
+
+#### 3.2.1 Path A — concierge / low-code (default now)
+
+```mermaid
+flowchart LR
+  PackIn[InboundPack] --> Operator[ConciergeOperator]
+  Operator --> Checklist[EditableChecklist]
+  Lib[EvidenceFolderAndAnswerBank] --> Operator
+  Operator --> GapQueue[GapQueue]
+  GapQueue --> Approver[NamedApprover]
+  Operator --> Approver
+  Approver --> Manifest[ExportManifestAndPack]
+```
+
+Operators follow [`../operations/concierge-pilot-runbook.md`](../operations/concierge-pilot-runbook.md). Fixtures under `testdata/` exercise the loop without live customer packs.
+
+#### 3.2.2 Path B — lean SaaS MVP (after GO)
+
+```
+Web (Next.js) → API (Node or Rails) → Postgres
+                     ↓
+              Background worker → OCR / parser → LLM (abstain-capable)
+                     ↓
+              Object storage (per-org prefix)
+```
+
+```mermaid
+flowchart TB
+  subgraph client [WebApp]
+    UI[Next.js_UI]
+  end
+  subgraph api [API]
+    App[API]
+    Worker[BackgroundWorker]
+  end
+  subgraph data [Data]
+    PG[(Postgres)]
+    S3[ObjectStorage]
+  end
+  subgraph ai [AI]
+    Parser[DocumentParser]
+    LLM[LLM_with_abstain]
+  end
+  UI --> App
+  App --> PG
+  App --> S3
+  Worker --> Parser
+  Worker --> LLM
+  Worker --> PG
+```
+
+#### 3.2.3 End-to-end processing sequence (Path B intent)
+
+1. Upload Request pack (PDF/DOCX/XLSX allowlist).  
+2. Virus scan + type check; store under `org/{id}/requests/{requestId}/`.  
+3. Worker extracts text/tables → editable Requirement checklist.  
+4. Matcher links Requirements to ApprovedAnswer / DocumentVersion via EvidenceLink.  
+5. Classify gaps: MISSING / EXPIRED / CONFLICT / CUSTOMER_SPECIFIC.  
+6. Draft suggestions only with source links; otherwise abstain.  
+7. Approver reviews per section → Approval records.  
+8. Export only if hard gates pass; write Export + AuditEvent.  
+9. Log model name/version and prompt hash on AI-assisted steps.
+
+#### 3.2.4 Domain boundaries
+
+| Domain | Responsibility |
+|--------|----------------|
+| Identity | Auth, roles, MFA |
+| Library | Documents, versions, approved answers, expiry |
+| Requests | Upload, checklist, match, gaps |
+| Approval | Review workflow, export gates |
+| Billing | Stripe subscription, usage meters |
+| Audit | Append-only AuditEvent stream |
+
+#### 3.2.5 Error handling, safety, extensibility
+
+| Concern | Design response |
+|---------|-----------------|
+| Unsafe AI prose | Abstain without provenance; uncertain extraction banner |
+| Export of incomplete packs | Hard gates + optional recorded waiver only |
+| Cross-tenant leakage | `organisation_id` on tenant tables; storage prefix; prefer RLS; no cross-tenant search indexes |
+| Quota blow-ups | Per-org page/credit caps; hard stop; extract-once |
+| Extensibility | New gap types / customer overrides without changing Approver gate |
+| Staging safety | Separate projects; no production customer data in staging without redaction |
+
+### 3.3 Data / class design
+
+#### 3.3.1 Core entities
+
+Organisation, User, Role, Customer, Request, Requirement, Document, DocumentVersion, ApprovedAnswer, EvidenceLink, Approval, Export, AuditEvent, Subscription.
+
+**Shared company evidence** lives under Organisation.  
+**Customer-specific submissions** live under Customer + Request and must not pollute the shared library without explicit promotion + approval.
+
+#### 3.3.2 Conceptual relationships
+
+```mermaid
+flowchart TB
+  Org[Organisation] --> User[User_Role]
+  Org --> LibDoc[Document_DocumentVersion]
+  Org --> Answer[ApprovedAnswer]
+  Org --> Cust[Customer]
+  Cust --> Req[Request]
+  Req --> Requirement[Requirement]
+  Requirement --> Link[EvidenceLink]
+  Link --> Answer
+  Link --> LibDoc
+  Requirement --> Approval[Approval]
+  Req --> Export[Export]
+  Export --> Audit[AuditEvent]
+```
+
+#### 3.3.3 Tenant isolation
+
+- `organisation_id` on all tenant tables  
+- Storage key prefix per organisation  
+- Prefer Postgres Row Level Security  
+- No cross-tenant search indexes  
+- Separate encryption envelope optional at higher tier  
+
+#### 3.3.4 Roles (mvp-spec)
+
+Admin, Editor, Approver, Viewer — Approver required for approve/export; MFA available (post-GO).
+
+### 3.4 Match / MISSING algorithm
+
+This is the **decision procedure** shared by Path A operators and Path B matcher. It is an ops/algorithm design, not a claim of shipped SaaS code. Formal fixture evidence: DRY-001–006 (`operations/pack-dry-run-dry-*.md`).
+
+#### 3.4.1 Inputs
+
+- Editable checklist of Requirements for one Request  
+- Organisation evidence library (documents + approval_status + expiry/review dates + doc keys)  
+- Approved answer bank (optional)  
+- As-of date for expiry comparison  
+
+#### 3.4.2 Procedure (per requirement)
+
+1. Attempt match on `doc_key` / semantic answer key against library rows with `approval_status=approved`.  
+2. If no key or `not_held` → status **MISSING**; do not invent content.  
+3. If matched approved row has `expiry_or_review_date` &lt; as_of → **EXPIRED**; cite label; do **not** silent-fill a fresh cert.  
+4. If &gt;1 in-date approved row for the same key with materially different labels/summaries → **CONFLICT**; cite **both**; no newest-wins silent pick.  
+5. If answer is valid only for a named buyer / template → **CUSTOMER_SPECIFIC**; do not promote to shared library without Approver.  
+6. If single clean match → draft with provenance (document title, version, section if known, retrieved date, expiry).  
+7. If AI assist used without adequate provenance → **abstain** (FO10).  
+8. First complete draft = every requirement reviewed with cite, MISSING, EXPIRED, CONFLICT, or CUSTOMER_SPECIFIC.  
+9. Approver reviews; Export blocked while hard gaps or unapproved required sections remain (unless recorded waiver).  
+10. On export: write manifest of evidence versions + audit trail.
+
+#### 3.4.3 Export hard gates
+
+| Gate | Block export when |
+|------|-------------------|
+| MISSING | Required item has no evidence |
+| EXPIRED | Cited evidence past review/expiry |
+| CONFLICT | Unresolved dual answers |
+| Draft-only / unapproved | Approver not signed off |
+| Waiver | Only if explicit waiver recorded (pilot policy) |
+
+#### 3.4.4 Complexity note
+
+For Path A, cost is linear in checklist size × library lookup time (human or sheet filter). For Path B, design prefers extract-once per DocumentVersion and cached retrieval — **working assumption** until built. Do not invent benchmark timings.
+
+### 3.5 Interface design / information architecture
+
+**Label:** [`../design/ux-ia.md`](../design/ux-ia.md) describes the **post-GO SaaS** IA. Path A mirrors the same journeys with folders, checklists, and email Approver loops.
+
+#### 3.5.1 Primary user journeys
+
+1. Onboard evidence library  
+2. Create / upload new request  
+3. Resolve missing / expired / conflicts  
+4. Approver review  
+5. Export pack  
+6. Offboard / export-delete data  
+
+#### 3.5.2 Navigation structure (SaaS intent)
+
+```
+Home (Requests)
+Library (Documents | Approved answers)
+Customers
+Approvals (inbox)
+Settings (Users | Billing | Security | Data export)
+```
+
+#### 3.5.3 Screen map
+
+| Screen | Purpose |
+|--------|---------|
+| Request list | Status, due dates, gaps count |
+| Request detail | Checklist + match + evidence + approval |
+| Library document | Versions, expiry, owner |
+| Answer bank | Approved text + links |
+| Approval inbox | Items awaiting named Approver |
+| Export viewer | Manifest + download |
+| Empty states | CTA to upload first library / first request — no fake dashboards |
+
+#### 3.5.4 Approval flow
+
+Editor marks Ready for review → Approver sees per-requirement Approve / Reject / Request change → Export enabled only when gates pass → AuditEvent written.
+
+#### 3.5.5 States, device, accessibility
+
+| Topic | Design |
+|-------|--------|
+| Empty / loading / error / permission | Plain CTA; skeletons; recoverable errors; explain missing role |
+| Desktop vs mobile | Desktop authoring; mobile approve/reject + notifications |
+| Accessibility | WCAG 2.2 AA target: keyboard order; status not by colour alone; labelled inputs; contrast; no drag-only actions |
+| Provenance display | Title, version, page/section, retrieved date, expiry; uncertain banner: “Model suggestion — verify against source.” |
+
+#### 3.5.6 Conflict / gap presentation (illustrative)
+
+Request detail shows per-requirement Match / Evidence / Status (OK, MISSING, CONFLICT, …) with **Export blocked** summary when open items remain — same information model as Path A dry-run worksheets.
+
+### 3.6 Data dictionary (key fields)
+
+Conceptual fields for design/traceability — not a live schema dump.
+
+| Entity | Key fields | Notes |
+|--------|------------|-------|
+| Organisation | id, name, region_prefs | Tenant root |
+| User / Role | user_id, org_id, role ∈ {Admin,Editor,Approver,Viewer} | Enforce approve/export |
+| Customer | id, org_id, name | Multi-buyer axis |
+| Request | id, customer_id, received_at, status, as_of_date | One inbound pack |
+| Requirement | id, request_id, ref_code, question_text, status | Checklist row |
+| Document | id, org_id, title, owner | Logical doc |
+| DocumentVersion | id, document_id, version, expiry_or_review_date, storage_key, approval_status | Provenance + expiry |
+| ApprovedAnswer | id, org_id, key, text, evidence_document_version_id | Reusable statement |
+| EvidenceLink | requirement_id, answer_id or document_version_id, link_type | Match record |
+| Approval | requirement_id, approver_id, decision, decided_at | Section gate |
+| Export | request_id, manifest_json, exported_at, export_approved | Hard-gated |
+| AuditEvent | id, org_id, actor, action, payload, created_at | Append-only |
+| Subscription | org_id, plan, status | Post-GO billing |
+
+### 3.7 Objective traceability matrix
+
+| Objective | Design element |
+|-----------|----------------|
+| FO1 Ingest + checklist | Path A intake; Path B upload + worker extract; Request / Requirement |
+| FO2 Evidence library + expiry | DocumentVersion.expiry_or_review_date; library screens |
+| FO3 Approved answers | ApprovedAnswer + EvidenceLink |
+| FO4 Match + gap flags | §3.4 procedure; gap queue UI |
+| FO5 Human Approver + block export | Approval domain; Approvals inbox; hard gates |
+| FO6 Export + audit | Export + AuditEvent; manifest |
+| FO7 Multi-customer | Customer entity; no silent library pollution |
+| FO8 Minutes proof | Baseline worksheet / metrics stub (ops); future meters |
+| FO9 Retention / DSR | Settings data export/delete; legal artefacts |
+| FO10 Abstain | Matcher abstain; uncertain banner; no invent |
+| NFO1 Trust | DPA path; MFA; tenant isolation |
+| NFO2 Auditability | AuditEvent; provenance display |
+| NFO3 Maintainable ops | Path A runbooks; domain boundaries |
+| NFO4 Cost control | Path A default; Path B caps / buy-not-build |
+| NFO5 Honest validation | Design independent of invented Actuals |
+| NFO6 SME usability | ux-ia journeys; empty states |
+| NFO7 Extensibility | Entity model + gap types; Path A→B continuity |
+
+---
+
+## Parts 4–9 (bodies pending)
 
 | Part | Backlog | Scope |
 |------|---------|--------|
-| 3 Design | #66 | Goals, architecture intent, data/class design, match/MISSING algorithm, IA, data dictionary, objective traceability |
 | 4–5 Implementation + Testing | #67 | Shipped artefacts/fixtures mapping; test strategy; DRY-001–006 as formal evidence |
 | 6–7 Evaluation + Operator guide | #68 | FO/NFO evaluation (honest no live clients); operator/user guide |
 | 8–9 Bibliography + Appendices | #69 | Sources list; artefact index; dry-run pointers; blank discovery template index |
@@ -486,3 +791,4 @@ Derivation is **traceable and revisable**: if interviews falsify pack frequency 
 | 11 Nov 2026 | Seeded living writeup: evidence rules, TOC, Chapter 0 navigational spine; chapters 1–10 queued as backlog #64–#68. |
 | 11 Nov 2026 | Filled Chapter 1 — executive summary & decision posture (synthesis from executive-decision + scorecard; Actuals unchanged). |
 | 11 Nov 2026 | Reframed document to NEA-grade Parts 0–9; filled Part 2 Analysis in full (no invented clients); re-queued Design→Appendices as backlog #66–#69. |
+| 11 Nov 2026 | Filled Part 3 Design (goals, architecture Path A/B, data model, match/MISSING algorithm, IA, data dictionary, FO/NFO traceability); SaaS not claimed implemented. |
