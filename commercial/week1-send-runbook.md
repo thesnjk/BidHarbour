@@ -5,7 +5,7 @@
 **CRM:** [`crm-accounts.csv`](crm-accounts.csv)  
 **Send log:** [`week1-send-log.csv`](week1-send-log.csv)  
 **Replies:** [`reply-booking-scripts.md`](reply-booking-scripts.md)  
-**Non-responders:** [`week1-nonresponder-followups.md`](week1-nonresponder-followups.md) (A01–A20) · [`week1-nonresponder-followups-a21-a40.md`](week1-nonresponder-followups-a21-a40.md) (A21–A40)  
+**Non-responders:** [`week1-nonresponder-followups.md`](week1-nonresponder-followups.md) (A01–A20) · [`week1-nonresponder-followups-a21-a40.md`](week1-nonresponder-followups-a21-a40.md) (A21–A40) · [`week1-nonresponder-followups-a41-a50.md`](week1-nonresponder-followups-a41-a50.md) (A41–A50)  
 **Epics:** [#1](https://github.com/thesnjk/BidHarbour/issues/1) · [#6](https://github.com/thesnjk/BidHarbour/issues/6)
 
 **Product name in every email:** Supplier Desk  
@@ -16,7 +16,7 @@
 1. Fill [`../strategy/founder-scenarios.md`](../strategy/founder-scenarios.md) constraints form (scenario A/B/C).  
 2. Open CRM CSV + outreach pack side by side.  
 3. Prepare signature: name, phone, email (no auction/`bidharbour.com` branding).  
-4. Calendar: block follow-up reminders for **Day 3, 7, 14** after today’s send date — copy from [`week1-nonresponder-followups.md`](week1-nonresponder-followups.md) (A01–A20) or [`week1-nonresponder-followups-a21-a40.md`](week1-nonresponder-followups-a21-a40.md) when those bands are in flight.  
+4. Calendar: block follow-up reminders for **Day 3, 7, 14** after today’s send date — copy from the matching band: [`week1-nonresponder-followups.md`](week1-nonresponder-followups.md) (A01–A20) · [`week1-nonresponder-followups-a21-a40.md`](week1-nonresponder-followups-a21-a40.md) · [`week1-nonresponder-followups-a41-a50.md`](week1-nonresponder-followups-a41-a50.md).  
 5. Optional parallel: queue solicitor cover ([`../security-and-legal/solicitor-cover-email.md`](../security-and-legal/solicitor-cover-email.md)).
 
 ## Per account (repeat A01 → A10)
