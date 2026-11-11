@@ -38,7 +38,8 @@
 
 **Done (2026-11-10):** empty-library DRY-001 → [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (22 MISSING; export blocked).  
 **Done (2026-11-10):** empty-library DRY-002 → [`pack-dry-run-dry-002.md`](pack-dry-run-dry-002.md) (18 MISSING Broads SQ; export blocked; multi-customer thesis).  
-**Done (2026-11-11):** partial-library DRY-003 → [`pack-dry-run-dry-003.md`](pack-dry-run-dry-003.md) (2 MISSING vs 22 empty; export still blocked; synthetic library).
+**Done (2026-11-11):** partial-library DRY-003 → [`pack-dry-run-dry-003.md`](pack-dry-run-dry-003.md) (2 MISSING vs 22 empty; export still blocked; synthetic library).  
+**Done (2026-11-11):** partial-library DRY-004 → [`pack-dry-run-dry-004.md`](pack-dry-run-dry-004.md) (6 MISSING vs 18 empty Broads SQ; export still blocked; multi-customer thesis).
 
 ## Path B — Live pack (after legal clearance)
 
