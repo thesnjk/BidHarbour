@@ -58,4 +58,5 @@ Scorecard: Workflow evidence ≥3 businesses. Tick only with distinct firms + IN
 1. Pull new INT sheets into the table above.  
 2. Recompute tally.  
 3. Update [`validation-scorecard.md`](validation-scorecard.md) Actuals **only if** numbers changed from real completions.  
-4. Log negatives the same day.
+4. Log negatives the same day.  
+5. At Week 4: run [`week4-gate-checklist.md`](week4-gate-checklist.md) from this tally — do not invent rows to pass.

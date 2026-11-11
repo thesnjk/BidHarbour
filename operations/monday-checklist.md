@@ -29,6 +29,7 @@
 - [x] A31–A40 public contact hints → [`../commercial/a31-a40-contact-hints.md`](../commercial/a31-a40-contact-hints.md)  
 - [x] Synthetic evidence / approved-answer library → [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/)  
 - [x] MISSING-queue email + export manifest → [`missing-queue-email.md`](missing-queue-email.md) · [`export-manifest-template.md`](export-manifest-template.md)  
+- [x] Week-4 gate decision checklist → [`../research/week4-gate-checklist.md`](../research/week4-gate-checklist.md)  
 
 ## Primary founder action (today)
 
