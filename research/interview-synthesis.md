@@ -45,10 +45,10 @@
 
 ## Workflow evidence (≥3 businesses)
 
-Scorecard: Workflow evidence ≥3 businesses. Tick only with distinct firms + INT-IDs:
+Scorecard: Workflow evidence ≥3 businesses. Source of truth for observation rows → [`observation-session-log.md`](observation-session-log.md). Tick only with distinct firms + `OBS-*` (or interview-equivalent INT-IDs):
 
-| # | Firm (or anonymised) | INT-ID | Pack type seen (PQQ/SQ/other) | Done? |
-|---|----------------------|--------|-------------------------------|-------|
+| # | Firm (or anonymised) | OBS-ID / INT-ID | Pack type seen (PQQ/SQ/other) | Done? |
+|---|----------------------|-----------------|-------------------------------|-------|
 | 1 | | | | [ ] |
 | 2 | | | | [ ] |
 | 3 | | | | [ ] |
