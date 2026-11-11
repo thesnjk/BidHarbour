@@ -99,6 +99,7 @@
 - [x] Copycat quarterly monitor stub (Complys / tender-AI public-page checklist; no full scrape) → [`../research/copycat-monitor-quarterly.md`](../research/copycat-monitor-quarterly.md)  
 - [x] Solicitor return / counsel clearance intake (vault, PASS/FAIL, Script A unlock) → [`../security-and-legal/solicitor-return-intake-checklist.md`](../security-and-legal/solicitor-return-intake-checklist.md)  
 - [x] Pilot referral evidence packet (blank Actuals; post–results-review → **G**) → [`../commercial/pilot-referral-evidence-packet.md`](../commercial/pilot-referral-evidence-packet.md)  
+- [x] Backlog re-rank: rows 90–94 queued (Path B live pack intake, DRY-010 waiver discipline, support-burden log, warm-intro CRM intake, scorecard Actuals hygiene — Lead: SharePoint live intake / Approver waiver / support burden / referral CRM / scorecard hygiene) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 
  
 
