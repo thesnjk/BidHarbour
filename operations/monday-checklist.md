@@ -61,6 +61,7 @@
 - [x] Referral ask script (post-interview / post-pilot) → [`../commercial/referral-ask-script.md`](../commercial/referral-ask-script.md)  
 - [x] Baseline minutes capture worksheet (Path B-0) → [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md)  
 - [x] Named-accounts access register (pilot encrypted paths) → [`../security-and-legal/pilot-named-access-register.md`](../security-and-legal/pilot-named-access-register.md)  
+- [x] Backlog re-rank: rows 52–56 queued (Week-5 A41–A50, Week-4 bounce, continuation log, DRY-005 expired, pilot-offer email — Lead vs SharePoint inbound-pack / pilot conversion) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 
 ## Primary founder action (today)
 
