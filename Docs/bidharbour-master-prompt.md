@@ -108,7 +108,7 @@ Read `Docs/developer-map.md` first. For deep context pull one of:
 
 ### Shipped first-wave artefacts (keep honest)
 
-Week-1 commercial pack through Week-8 gate stub + DRY-001/002/003 + first-50 CRM + close-out scripts (PRs **#7–#41**+). Epics #2–#6 open (#1 closed on GitHub; scorecard Actuals still 0). Do **not** open a PR solely to renumber this band.
+Week-1 commercial pack through DRY-001–004 + Approver training + follow-ups A01–A40 + Week-8 gate (PRs **#7–#46**+). Epics #2–#6 open (#1 closed on GitHub; scorecard Actuals still 0). Do **not** open a PR solely to renumber this band.
 
 **Founder parallel track (does not block the agent):** execute `commercial/week1-send-runbook.md` → fill `commercial/week1-send-log.csv` → book `research/interview-grid-8wk.md` → update scorecard Actuals only after completed interviews.
 
@@ -148,7 +148,12 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 28 | **done** | Enrich synthetic evidence library: add `identity_group` (and intake row) so PQQ Q3 can leave MISSING intentionally only for buyer-specific gaps | #2 |
 | 29 | **done** | Approver review training one-pager (checklist before sign-off) → `operations/` | #2 |
 | 30 | **done** | Week-1 non-responder follow-up scripts A21–A40 (same pattern as A01–A20) → `commercial/` | #6 |
-| 31 | todo | When 27–30 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 31 | **done** | Re-rank from open epics + gaps; append rows 32–36 | — |
+| 32 | todo | Week-1 non-responder follow-up scripts A41–A50 (same pattern as A21–A40) → `commercial/` | #6 |
+| 33 | todo | Pilot kickoff agenda + checklist (Path B pre-pack-1) → `operations/` | #2 |
+| 34 | todo | Pilot data retention / deletion schedule one-pager (align close-out E + DPA) → `operations/` or `security-and-legal/` | #5 |
+| 35 | todo | Observation session log stub (blank Actuals) wired to observation kit + scorecard → `research/` | #1 |
+| 36 | todo | When 32–35 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 
