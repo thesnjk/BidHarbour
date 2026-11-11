@@ -192,11 +192,12 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 62 | **done** | Post–first-50 referral / rebook wave runbook (warm intros + selective non-responder recycle) → `commercial/` | #6 |
 | 63 | **done** | When 58–62 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 64 | **done** | Project writeup Ch 1 — executive summary & decision posture → `Docs/project-writeup.md` | — |
-| 65 | todo | Project writeup Ch 2–3 — market/ICP/Norfolk wedge + problem workflow & promise → `Docs/project-writeup.md` | — |
-| 66 | todo | Project writeup Ch 4–5 — competition matrix narrative + validation scorecard/gates → `Docs/project-writeup.md` | — |
-| 67 | todo | Project writeup Ch 6–7 — Path A/B pilot OS + DRY-001–006 results table → `Docs/project-writeup.md` | — |
-| 68 | todo | Project writeup Ch 8–10 — CRM A01–A50/waves + legal/security + brand/finance/risks → `Docs/project-writeup.md` | — |
-| 69 | todo | When 64–68 done: re-rank from open epics + gaps; append new rows surgically (may resume non-writeup Lead/gap slices) | — |
+| 65 | **done** | Project writeup Part 2 — NEA-grade Analysis (no invented clients) → `Docs/project-writeup.md` | — |
+| 66 | todo | Project writeup Part 3 — Design (goals, architecture intent, data/class design, match/MISSING algorithm, IA, data dictionary, objective traceability) → `Docs/project-writeup.md` | — |
+| 67 | todo | Project writeup Parts 4–5 — Implementation (shipped artefacts/fixtures mapping) + Testing (strategy + DRY-001–006 as formal test evidence) → `Docs/project-writeup.md` | — |
+| 68 | todo | Project writeup Parts 6–7 — Evaluation against FO/NFO (honest no live clients; dry-run + desk evidence) + Operator/user guide → `Docs/project-writeup.md` | — |
+| 69 | todo | Project writeup Parts 8–9 — Bibliography + Appendices (artefact index, dry-run evidence pointers, blank discovery templates index) → `Docs/project-writeup.md` | — |
+| 70 | todo | When 66–69 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 
