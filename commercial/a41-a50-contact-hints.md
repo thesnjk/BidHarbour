@@ -2,7 +2,7 @@
 
 **As-of desk check:** 11 November 2026  
 **Rule:** Only public website / published general enquiries. **Do not invent personal emails.** Prefer LinkedIn for a named MD after opening the contact page.  
-**Use with:** [`crm-accounts.csv`](crm-accounts.csv) · [`week1-send-runbook.md`](week1-send-runbook.md)
+**Use with:** [`crm-accounts.csv`](crm-accounts.csv) · [`week5-send-runbook.md`](week5-send-runbook.md) · [`week5-outreach-pack.md`](week5-outreach-pack.md) (same send discipline as Weeks 1–4)
 
 **Niche note:** A41–A45 are **marine fills** (complete first-50; avoid duplicates of A01–A40). A46–A50 are **reserve / referral** — Hethel tenants and network-adjacent orgs; label clearly when not lead ICP or not a customer.
 

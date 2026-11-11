@@ -64,6 +64,10 @@ Scorecard Actuals only from completed interviews.
 | Control niche (A31–A35) | Contrast only — not lead wins |
 | Scorecard Friday | Actuals from real interviews only |
 
+## Next wave
+
+When Week-4 log rows are filled: run [`week5-send-runbook.md`](week5-send-runbook.md) (CRM A41–A50) with [`week5-outreach-pack.md`](week5-outreach-pack.md).
+
 ## Stop rules
 
 - Do not pitch SaaS hard-sell on discovery calls.  
