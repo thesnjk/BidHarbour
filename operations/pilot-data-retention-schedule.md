@@ -39,7 +39,7 @@ If no reply by `reply_by`, founder follows the preference stated at kickoff / DP
 - [ ] Send script **E** with `pilot_end_date` and `reply_by`  
 - [ ] Log return vs delete preference (local activity note — not git)  
 - [ ] Execute return or secure delete by T+30  
-- [ ] Wipe / revoke named founder account access to that customer’s materials  
+- [ ] Wipe / revoke named founder account access to that customer’s materials → [`../security-and-legal/pilot-named-access-register.md`](../security-and-legal/pilot-named-access-register.md) (fill **Access revoked**)  
 - [ ] Write completion note: date, method (return/delete), accounts covered  
 - [ ] Confirm no customer content used for model training  
 
