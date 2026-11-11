@@ -3,6 +3,7 @@
 **Purpose:** Capture **workflow evidence** (how packs actually get done) at network events — not a SaaS pitch.  
 **Epic:** [#1](https://github.com/thesnjk/BidHarbour/issues/1)  
 **Detail checklist:** [`observation-checklist.md`](observation-checklist.md)  
+**Consent email (deferred slots):** [`observation-consent-email.md`](observation-consent-email.md)  
 **Session log (blank Actuals):** [`observation-session-log.md`](observation-session-log.md)  
 **Scorecard:** [`validation-scorecard.md`](validation-scorecard.md) → row *Workflow evidence*  
 **CRM:** [`../commercial/crm-accounts.csv`](../commercial/crm-accounts.csv)
@@ -23,7 +24,7 @@ No implied endorsement by NAAME, Hethel, or any host.
 
 - [ ] Print or phone-open this page + [`observation-checklist.md`](observation-checklist.md)  
 - [ ] List 5 CRM IDs you hope to meet ([`a01-a10-contact-hints.md`](../commercial/a01-a10-contact-hints.md) / [`a11-a20-contact-hints.md`](../commercial/a11-a20-contact-hints.md))  
-- [ ] Consent script ready: “I’d like to watch how the last customer pack was assembled — redacted is fine.”  
+- [ ] Consent script ready: “I’d like to watch how the last customer pack was assembled — redacted is fine.” (deferred slots → [`observation-consent-email.md`](observation-consent-email.md))  
 - [ ] Redaction rule: no photos of certificates with personal data; notes only  
 - [ ] Calendar holds for follow-up slots ([`interview-grid-8wk.md`](interview-grid-8wk.md) S01…)
 
@@ -33,7 +34,7 @@ No implied endorsement by NAAME, Hethel, or any host.
 2. **Qualify (3 min):** multi-customer PQQs/SQs in last 12 months? Rough hours per pack?  
 3. **Ask for observation (5 min):** screenshare later **or** walk through last pack structure on-site with redaction.  
 4. **If yes now:** run [`observation-checklist.md`](observation-checklist.md) checkpoints; stopwatch major steps.  
-5. **If later:** book grid slot; send calendar + consent note same day.  
+5. **If later:** book grid slot; send calendar + [`observation-consent-email.md`](observation-consent-email.md) same day.  
 6. **Close:** thank; optional pilot mention only if pain is clear ([`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md)).
 
 ## After the event (same day)

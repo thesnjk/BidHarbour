@@ -4,7 +4,7 @@
 
 ## Before
 
-- [ ] Consent for observation / screenshare  
+- [ ] Consent for observation / screenshare (verbal **or** [`observation-consent-email.md`](observation-consent-email.md))  
 - [ ] Agree redaction rules  
 - [ ] Confirm this is a recent or in-progress pack  
 

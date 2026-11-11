@@ -156,7 +156,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 36 | **done** | Re-rank from open epics + gaps; append rows 37–41 | — |
 | 37 | **done** | Week-2 outreach pack for CRM A11–A20 (same pattern as Week-1 A01–A10) → `commercial/` | #6 |
 | 38 | **done** | Pilot fee / waiver log template (blank Actuals) wired to Path B-0 kickoff → `operations/` | #2 |
-| 39 | todo | Observation / screenshare consent email stub wired to observation kit → `research/` | #1 |
+| 39 | **done** | Observation / screenshare consent email stub wired to observation kit → `research/` | #1 |
 | 40 | todo | Pilot data-subject request (DSR) handling one-pager (align DPA obligations) → `security-and-legal/` | #5 |
 | 41 | todo | When 37–40 done: re-rank from open epics + gaps; append new rows surgically | — |
 
