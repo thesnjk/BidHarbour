@@ -18,7 +18,8 @@
 **Retention / deletion:** [`pilot-data-retention-schedule.md`](pilot-data-retention-schedule.md)
 
 **Product name:** Supplier Desk  
-**Delivery:** founder-operated; AI may draft only — **Approver** signs every export.
+**Delivery:** founder-operated; AI may draft only — **Approver** signs every export.  
+**Commercial discovery demo (15 min fixture):** [`../commercial/concierge-discovery-demo-runbook.md`](../commercial/concierge-discovery-demo-runbook.md) — DRY-001 empty-library story; not a live pack.
 
 ## Preconditions
 

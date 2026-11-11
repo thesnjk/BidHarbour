@@ -3,7 +3,7 @@
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
 **As-of:** 11 November 2026  
 **Product name:** Supplier Desk  
-**Use with:** [`go-to-market.md`](go-to-market.md) · [`discovery-one-pager.md`](discovery-one-pager.md) · [`pilot-offer-sheet.md`](pilot-offer-sheet.md) · [`crm-stage-scripts.md`](crm-stage-scripts.md) · [`../research/competitors.md`](../research/competitors.md) · [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) · [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md)
+**Use with:** [`go-to-market.md`](go-to-market.md) · [`discovery-one-pager.md`](discovery-one-pager.md) · [`concierge-discovery-demo-runbook.md`](concierge-discovery-demo-runbook.md) · [`pilot-offer-sheet.md`](pilot-offer-sheet.md) · [`crm-stage-scripts.md`](crm-stage-scripts.md) · [`../research/competitors.md`](../research/competitors.md) · [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) · [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md)
 
 **Rule:** Research / discovery framing. **Abstain + named Approver** before export. No win-rate or qualification guarantees. Do **not** invent pilot Actuals or “we beat X by £Y” proof. Competitor prices are **dated context** from [`../research/competitors.md`](../research/competitors.md) only — not BidHarbour differentiation proof. Scorecard Actuals remain blank until founder evidence lands.
 
