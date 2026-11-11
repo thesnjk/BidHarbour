@@ -58,6 +58,8 @@ Add rows as needed. **Week 1 acceptance:** ≥5 conversations booked ([`../strat
 
 ## Week-4 decision log
 
+Run [`week4-gate-checklist.md`](week4-gate-checklist.md), then record:
+
 | Field | Value |
 |-------|-------|
 | Date | |

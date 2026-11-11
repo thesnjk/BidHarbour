@@ -17,6 +17,8 @@ Update weekly during the 8-week programme.
 
 ## Gate decisions
 
+Executable Week-4 checklist → [`week4-gate-checklist.md`](week4-gate-checklist.md).
+
 | Gate | Date | Outcome (GO / NARROW / PIVOT / STOP) | Notes |
 |------|------|--------------------------------------|-------|
 | Week 4 | | | |
