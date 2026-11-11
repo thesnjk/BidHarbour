@@ -72,6 +72,7 @@
 - [x] Pack dry-run DRY-006 (conflict library) → [`pack-dry-run-dry-006.md`](pack-dry-run-dry-006.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 - [x] Interview SharePoint / inbound-pack time-study → [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md)  
 - [x] CRM stage transition scripts (Discovery → Pilot) → [`../commercial/crm-stage-scripts.md`](../commercial/crm-stage-scripts.md)  
+- [x] Post–first-50 referral / rebook wave → [`../commercial/post-first50-referral-wave.md`](../commercial/post-first50-referral-wave.md)  
 
 ## Primary founder action (today)
 
@@ -85,7 +86,8 @@
 4. When Week-2 send log is filled: execute [`../commercial/week3-send-runbook.md`](../commercial/week3-send-runbook.md) (A21–A30) → [`../commercial/week3-outreach-pack.md`](../commercial/week3-outreach-pack.md).  
 5. When Week-3 send log is filled: execute [`../commercial/week4-send-runbook.md`](../commercial/week4-send-runbook.md) (A31–A40) → [`../commercial/week4-outreach-pack.md`](../commercial/week4-outreach-pack.md) (prioritise AME A36–A40; control A31–A35 contrast only).  
 6. When Week-4 send log is filled: execute [`../commercial/week5-send-runbook.md`](../commercial/week5-send-runbook.md) (A41–A50) → [`../commercial/week5-outreach-pack.md`](../commercial/week5-outreach-pack.md) (prioritise marine A42–A43; reserve A46–A50 network only).  
-7. Fill founder constraints form (scenario A/B/C).  
-8. Send solicitor cover email (before any real pack upload).  
-9. IPO / HarbourResponse domain steps → [`../strategy/brand-clearance-execution.md`](../strategy/brand-clearance-execution.md) (founder spend only).  
-10. **Do not** start auth/database code; **do not** use uncleared MSA/DPA stubs with customers.
+7. When Week-5 send log is filled (or in parallel): [`../commercial/post-first50-referral-wave.md`](../commercial/post-first50-referral-wave.md) — warm intros + selective lead ICP rebook.  
+8. Fill founder constraints form (scenario A/B/C).  
+9. Send solicitor cover email (before any real pack upload).  
+10. IPO / HarbourResponse domain steps → [`../strategy/brand-clearance-execution.md`](../strategy/brand-clearance-execution.md) (founder spend only).  
+11. **Do not** start auth/database code; **do not** use uncleared MSA/DPA stubs with customers.

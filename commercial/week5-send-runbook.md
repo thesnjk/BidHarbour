@@ -65,6 +65,10 @@ Referral intros → [`referral-ask-script.md`](referral-ask-script.md).
 | Reserve / non-ICP (A46–A50, soft A48/A49) | Network only — not lead wins |
 | Scorecard Friday | Actuals from real interviews only |
 
+## Next wave
+
+When Week-5 log rows are filled (or in parallel after first sends): run [`post-first50-referral-wave.md`](post-first50-referral-wave.md) — warm referral intros + selective lead ICP rebook (not a new cold 50 scrape).
+
 ## Stop rules
 
 - Do not pitch SaaS hard-sell on discovery calls.  
