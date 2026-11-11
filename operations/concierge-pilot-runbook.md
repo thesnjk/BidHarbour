@@ -61,7 +61,7 @@
 6. **Export:** deliver agreed formats + completed manifest only; no portal auto-submit.  
 7. **Log:** minutes, missing count at first draft, rework loops, support minutes → metrics CSV; contrast vs kickoff [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) at results review (never invent).  
 8. **Close pack:** send script **A** (pack delivered) from [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md); store activity note; no win-rate claims.  
-9. **Continue or close pilot:** packs 2–3 in-window → [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md) (script **B** + Path B 1–8); at window end use **C → D → E** (and optional **F**).
+9. **Continue or close pilot:** packs 2–3 in-window → [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md) (script **B** + Path B 1–8); at window end use **C → D → E** (and optional **F**) — meeting ritual → [`pilot-results-review-agenda.md`](pilot-results-review-agenda.md).
 
 Repeat for up to **3** packs in the 4-week window — operator checklist: [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md).
 
@@ -71,7 +71,7 @@ After each pack (dry-run or live), one CSV row in [`pilot-metrics-stub.csv`](pil
 
 - `minutes_to_first_draft`, `missing_fields_first_draft`, `rework_loops`, `support_minutes`, `export_approved` (yes/no)
 
-Customer baseline (kickoff only): [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) — contrast live rows at results review via [`minutes-saved-contrast-rollup.md`](minutes-saved-contrast-rollup.md); DRY-00x rows are not baseline Actuals.
+Customer baseline (kickoff only): [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) — contrast live rows at results review via [`minutes-saved-contrast-rollup.md`](minutes-saved-contrast-rollup.md) and [`pilot-results-review-agenda.md`](pilot-results-review-agenda.md); DRY-00x rows are not baseline Actuals.
 
 Friday: roll metrics into [`../research/validation-scorecard.md`](../research/validation-scorecard.md) only when they are real pilot results (not dry-run alone for GO criteria).
 
