@@ -16,6 +16,15 @@ Your job each session: figure out what moves the product forward, plan it yourse
 
 It is **not:** a generic file store; a basic certificate-expiry tracker; a supplier directory; a buyer-side procurement portal; an automated certification service; an autonomous engineering estimator; an AI system allowed to invent compliance answers; a guarantee of qualification or contract awards.
 
+### Niche wedge & profit bias (pre-GO)
+
+- **Wedge:** inbound multi-customer PQQ/SQ pack assembly — evidence match + **MISSING** abstention + human Approver export — at SME price (pilot **£250–£750** ex VAT band).
+- **Profit path now:** paid pilots → measured minutes saved → continuation yes/no → referrals in Norfolk **AME / marine** ICP. Not SaaS spend.
+- Prefer agent work that raises **pilot conversion**, **minutes-saved proof**, **continuation capture**, or **referral density**.
+- On every backlog **re-rank**: close a **Lead** surface gap from `research/competitors.md` (or append a row that does); name the gap in the plan/PR.
+- **Deprioritize:** public tender discovery; holiday-property ops; RFQ quoting (unless PQQ validation fails); counting large-group anti-persona CRM rows as wins.
+- **Never monetize** via win-rate claims, fabricated evidence/certs, or uncleared MSA/DPA stubs with customers.
+
 ---
 
 ## Non-negotiable git / GitHub rules
@@ -108,9 +117,9 @@ Read `Docs/developer-map.md` first. For deep context pull one of:
 
 ### Shipped first-wave artefacts (keep honest)
 
-Week-1 commercial pack through DRY-001–004 + Approver training + follow-ups A01–A40 + Week-8 gate (PRs **#7–#46**+). Epics #2–#6 open (#1 closed on GitHub; scorecard Actuals still 0). Do **not** open a PR solely to renumber this band.
+Week-1–3 outreach packs (A01–A30) + follow-ups A01–A50 + DRY-001–004 + Path B ops (kickoff, fee/waiver log, retention, DSR, Approver training, close-out) + Week-4/8 gates (PRs **#7–#58**+). Epics #2–#6 open (#1 closed on GitHub; scorecard Actuals still **0** until founder interviews). Do **not** open a PR solely to renumber this band.
 
-**Founder parallel track (does not block the agent):** execute `commercial/week1-send-runbook.md` → fill `commercial/week1-send-log.csv` → book `research/interview-grid-8wk.md` → update scorecard Actuals only after completed interviews.
+**Founder parallel track (does not block the agent):** execute `commercial/week1-send-runbook.md` (then Week-2/3) → fill send logs → book `research/interview-grid-8wk.md` → update scorecard Actuals only after completed interviews.
 
 ### Self-service agent backlog (ordered — never idle)
 
@@ -188,6 +197,8 @@ When the user only attached this file (or said “continue” / “go”) and th
 6. **Gates** — Skip work needing paid API keys or customer confidential documents the user has not provided. Prefer redacted fixtures.
 7. **Bias** — Prefer validation evidence and pilot metrics over brochure features. State a one-line competitive rationale in the plan and handoff.
 
+**Pre-GO re-rank micro-check (no full scrape):** when appending backlog rows on a re-rank slice, skim `research/competitors.md` Lead/Gap table, pick slices that close a named Lead gap (or widen pilot conversion), and state that gap in one line in the plan/PR. Full Firecrawl competitive sweep remains **post-GO only**.
+
 **Pre-validation default:** prioritize interviews, observations and concierge-pilot **artefacts** (fixtures, runbooks, CRM enrichment) over SaaS. Founder outreach runs in parallel — it does **not** pause the self-service backlog.
 
 ---
@@ -262,7 +273,7 @@ If strategy/research artefacts are missing, create in order without asking:
 3. **Brand clearance** — IPO/domain/Companies House; rename if needed. — decision memo shipped; clearance founder-led
 4. **Lean MVP** — only after GO gate.
 5. **Security/legal pack** — DPA, privacy, ToS stubs → qualified review. — solicitor cover shipped; clearance founder-led
-6. **Commercial engine** — first 50 accounts, CRM, referral. — **Week-1 pack shipped** (#7–#12); send is founder
+6. **Commercial engine** — first 50 accounts, CRM, referral. — **Week-1–3 packs shipped** (A01–A30); send is founder
 
 ---
 
@@ -273,8 +284,8 @@ If strategy/research artefacts are missing, create in order without asking:
 - **Product:** single workflow (PQQ/SQ pack assembly); MoSCoW discipline.
 - **AI:** source-linked suggestions; abstain; separate metrics for extraction, matching, drafting.
 - **Security:** MFA, encryption, audit log, tenant isolation designed in — not bolted on.
-- **Commercial:** founder-led; no paid ads before message/conversion validation.
-- **Finance:** distinguish setup vs recurring; founder labour; VAT treatment; scenarios not promises.
+- **Commercial:** founder-led; no paid ads before message/conversion validation; bias to pilot fee + continuation + referral density in lead niche.
+- **Finance:** distinguish setup vs recurring; founder labour; VAT treatment; scenarios not promises; never invent win-rate ROI.
 
 ---
 
@@ -285,7 +296,8 @@ This prompt is living standing orders for **this** BidHarbour project (tracked i
 **When to patch (include in the PR):**
 
 - After each epic that ships artefacts, changes gates, or moves scorecard/GO posture
-- When competitive/legal research discovers a new gate/skip or failed approach
+- When competitive/legal research discovers a new gate/skip, failed approach, or Lead/Gap delta
+- When an ICP skip, pricing-band change, or founder handoff repeatedly blocks pilot profit
 - When the Start-now loop exposes stale product-map / epic / Next guidance in this file
 - When other Docs and this prompt disagree — fix both in the same PR
 
@@ -293,6 +305,7 @@ This prompt is living standing orders for **this** BidHarbour project (tracked i
 
 - Shipped vs Next epic status; evidence paths worth remembering
 - Gates/skips (founder-only work, solicitor, ICP cautions)
+- Competitive **Gap → next backlog row**; niche ICP cautions; pilot fee/continuation learning
 - Failed approaches to avoid repeating (filler commercial PRs, invented emails/interviews)
 - Preferred verify commands and founder handoff paths
 
@@ -302,7 +315,8 @@ This prompt is living standing orders for **this** BidHarbour project (tracked i
 2. Ship prompt updates via issue → branch → PR; print `gh pr merge <n> --squash` (do not merge unless the user asks).
 3. Prefer additive clarifications over full rewrites; keep the prompt scannable. **Surgical** edits — one short bullet over essays. No per-turn session ledger tables.
 4. Do not invent features, interviews, or scorecard Actuals in the prompt that are not in git — evidence first.
-5. After patching, continue the handoff (PR / merge cmds) without asking the user to re-attach an updated copy mid-session unless behavior of standing orders materially changed.
+5. Every self-service PR that ships a durable **Gap / ICP / pricing** insight **must** include a surgical prompt bullet in the **same** PR.
+6. After patching, continue the handoff (PR / merge cmds) without asking the user to re-attach an updated copy mid-session unless behavior of standing orders materially changed.
 
 ---
 

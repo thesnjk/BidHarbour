@@ -52,6 +52,7 @@
 - [x] Pilot DSR handling one-pager → [`../security-and-legal/pilot-dsr-handling.md`](../security-and-legal/pilot-dsr-handling.md)  
 - [x] Backlog re-rank: rows 42–46 queued (Week-3 outreach, bounce triage, refund email, breach notify) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Week-3 outreach pack A21–A30 → [`../commercial/week3-outreach-pack.md`](../commercial/week3-outreach-pack.md) · [`../commercial/week3-send-runbook.md`](../commercial/week3-send-runbook.md)  
+- [x] Master prompt niche profit + self-improve upgrade → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 
 ## Primary founder action (today)
 
