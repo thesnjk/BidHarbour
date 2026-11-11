@@ -198,7 +198,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 68 | **done** | Project writeup Parts 6–7 — Evaluation against FO/NFO (honest no live clients; dry-run + desk evidence) + Operator/user guide → `Docs/project-writeup.md` | — |
 | 69 | **done** | Project writeup Parts 8–9 — Bibliography + Appendices (artefact index, dry-run evidence pointers, blank discovery templates index) → `Docs/project-writeup.md` | — |
 | 70 | **done** | When 66–69 done: re-rank from open epics + gaps; append new rows surgically | — |
-| 71 | todo | Pilot minutes-saved contrast rollup (blank Actuals): wire baseline worksheet + metrics stub + SharePoint time-study → scorecard Time/value → `operations/` | #2 |
+| 71 | **done** | Pilot minutes-saved contrast rollup (blank Actuals): wire baseline worksheet + metrics stub + SharePoint time-study → scorecard Time/value → `operations/` | #2 |
 | 72 | todo | DRY-007 dry-run: buyer-specific approved-answer promotion after Pack 1 without polluting shared library (FO7); metrics + method note → `operations/` | #2 |
 | 73 | todo | Discovery / observation → paid pilot offer bridge checklist (solicitor-gated; wires observation kit, synthesis, pilot-offer email, Path B-0 kickoff) → `research/` | #1 |
 | 74 | todo | Solicitor pack: pilot privacy notice issue-spotter draft + international transfers decision-tree annex stub (counsel-gated; no customer send) → `security-and-legal/` | #5 |

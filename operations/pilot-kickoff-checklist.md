@@ -24,7 +24,7 @@
 | # | Topic | Notes |
 |---|-------|-------|
 | 1 | Scope | 4 weeks; up to **3** inbound PQQ/SQ / document-request packs |
-| 2 | Baseline workshop | Minutes for last comparable pack → [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) (estimate + any timesheets); tools used |
+| 2 | Baseline workshop | Minutes for last comparable pack → [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) (estimate + any timesheets); tools used; later rollup → [`minutes-saved-contrast-rollup.md`](minutes-saved-contrast-rollup.md) |
 | 3 | Roles | Founder concierge drafts; **Approver** signs every export |
 | 4 | Intake walkthrough | Local copy of [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv) — never commit live fills to git |
 | 5 | MISSING SLA | Customer replies ≤ **3 business days** ([`missing-queue-email.md`](missing-queue-email.md)) |

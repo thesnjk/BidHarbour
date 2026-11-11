@@ -68,7 +68,7 @@ After each pack (dry-run or live), one CSV row in [`pilot-metrics-stub.csv`](pil
 
 - `minutes_to_first_draft`, `missing_fields_first_draft`, `rework_loops`, `support_minutes`, `export_approved` (yes/no)
 
-Customer baseline (kickoff only): [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) — contrast live rows against that sheet at results review; DRY-00x rows are not baseline Actuals.
+Customer baseline (kickoff only): [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) — contrast live rows at results review via [`minutes-saved-contrast-rollup.md`](minutes-saved-contrast-rollup.md); DRY-00x rows are not baseline Actuals.
 
 Friday: roll metrics into [`../research/validation-scorecard.md`](../research/validation-scorecard.md) only when they are real pilot results (not dry-run alone for GO criteria).
 

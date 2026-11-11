@@ -3,7 +3,7 @@
 **Epic:** [#1](https://github.com/thesnjk/BidHarbour/issues/1)  
 **Use during:** discovery interviews — after last-pack walkthrough ([`interview-guide.md`](interview-guide.md))  
 **Companions:** [`recording-template.md`](recording-template.md) · [`interview-synthesis.md`](interview-synthesis.md)  
-**Later contrast:** Path B kickoff [`../operations/baseline-minutes-worksheet.md`](../operations/baseline-minutes-worksheet.md) · pilot metrics  
+**Later contrast:** Path B kickoff [`../operations/baseline-minutes-worksheet.md`](../operations/baseline-minutes-worksheet.md) · pilot metrics · rollup [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md)  
 **Lead gap:** minutes saved vs SharePoint / ad-hoc folders on inbound packs ([`competitors.md`](competitors.md))
 
 **Evidence label:** Template only until filled from a **real** completed interview.  
