@@ -29,7 +29,7 @@
 | 4 | Copy subject + body; replace `{{Name}}` and `{{Founder}}`. | |
 | 5 | Send from your real mailbox. | |
 | 6 | CRM: `outreach_status=sent`, `stage=Contacted`; note date in `notes`. Fill the matching row in [`week1-send-log.csv`](week1-send-log.csv) (`sent_date`, `channel`, `recipient_type`, `outcome`). | |
-| 7 | If bounced / wrong entity / ICP skip: set log `outcome` + `skip_reason`; CRM `Disqualified` or fix and retry once. | |
+| 7 | If bounced / OOO / wrong entity / ICP skip: triage via [`bounce-ooo-triage.md`](bounce-ooo-triage.md); set log `outcome` + `skip_reason`; CRM `Disqualified` or fix and retry once. | |
 
 ## Same-day targets
 
