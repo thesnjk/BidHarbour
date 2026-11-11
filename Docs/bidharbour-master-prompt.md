@@ -144,7 +144,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 24 | **done** | Pilot continuation / close-out scripts (post-export) → `operations/` or `commercial/` | #2 |
 | 25 | **done** | Week-8 gate decision checklist stub wired to scorecard → `research/` | #1 |
 | 26 | **done** | Re-rank from open epics + gaps; append rows 27–31 | — |
-| 27 | todo | DRY-004 partial-library dry-run: `redacted-sq-v1` + `synthetic-evidence-library-v1` → metrics + method note | #2 |
+| 27 | **done** | DRY-004 partial-library dry-run: `redacted-sq-v1` + `synthetic-evidence-library-v1` → metrics + method note | #2 |
 | 28 | todo | Enrich synthetic evidence library: add `identity_group` (and intake row) so PQQ Q3 can leave MISSING intentionally only for buyer-specific gaps | #2 |
 | 29 | todo | Approver review training one-pager (checklist before sign-off) → `operations/` | #2 |
 | 30 | todo | Week-1 non-responder follow-up scripts A21–A40 (same pattern as A01–A20) → `commercial/` | #6 |
