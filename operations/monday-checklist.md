@@ -96,7 +96,8 @@
 - [x] Backlog re-rank: rows 84–88 queued (concierge discovery demo, DRY-009 Approver manifest, copycat quarterly monitor, solicitor return intake, pilot referral evidence packet — Lead: SharePoint demo / Approver export / copycat monitor / solicitor return / referral density) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Concierge discovery demo runbook (15 min; redacted PQQ; MISSING→Approver; no SaaS) → [`../commercial/concierge-discovery-demo-runbook.md`](../commercial/concierge-discovery-demo-runbook.md)  
 - [x] Pack dry-run DRY-009 (filled export manifest + Approver Block; partial library) → [`pack-dry-run-dry-009.md`](pack-dry-run-dry-009.md) · [`export-manifest-dry-009-filled.md`](export-manifest-dry-009-filled.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
- 
+- [x] Copycat quarterly monitor stub (Complys / tender-AI public-page checklist; no full scrape) → [`../research/copycat-monitor-quarterly.md`](../research/copycat-monitor-quarterly.md)  
+
  
 
 ## Primary founder action (today)
