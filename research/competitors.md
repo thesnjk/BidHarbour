@@ -59,7 +59,7 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 1. **Underserved job (hypothesis):** inbound, customer-specific qualification pack with approved evidence graph + human approval export at SME price.  
 2. **Differentiation valuable enough to buy?** Unproven — must show time saved vs SharePoint in paid pilots (scorecard Actual still 0).  
 3. **Service vs SaaS:** Concierge + light software first; pure SaaS only after retention / GO.  
-4. **Most likely copycat:** Complys or a tender-AI vendor adding “customer pack importer.” Monitor quarterly. Copycat-awareness talk track: [`../commercial/competitive-objection-sheet.md`](../commercial/competitive-objection-sheet.md). Quarterly public-page monitor stub (queued backlog **#86**, not a full Firecrawl scrape): `research/copycat-monitor-quarterly.md`.  
+4. **Most likely copycat:** Complys or a tender-AI vendor adding “customer pack importer.” Monitor quarterly. Copycat-awareness talk track: [`../commercial/competitive-objection-sheet.md`](../commercial/competitive-objection-sheet.md). Quarterly public-page monitor stub (not a full Firecrawl scrape): [`copycat-monitor-quarterly.md`](copycat-monitor-quarterly.md).  
  
  
  

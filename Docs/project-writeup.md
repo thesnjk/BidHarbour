@@ -1287,6 +1287,7 @@ External statistics and competitor pricing in this writeup are cited **as record
 | Ref | Path | Notes |
 |-----|------|-------|
 | Competitors & substitutes | [`../research/competitors.md`](../research/competitors.md) | Pricing observations dated 9 Nov 2025 / 10 Nov 2026 in-file |
+| Copycat quarterly monitor | [`../research/copycat-monitor-quarterly.md`](../research/copycat-monitor-quarterly.md) | Public-page checklist; Complys / tender-AI; blank until real pass |
 | Validation scorecard | [`../research/validation-scorecard.md`](../research/validation-scorecard.md) | Actuals blank until founder evidence |
 | Week 4 / Week 8 gates | [`../research/week4-gate-checklist.md`](../research/week4-gate-checklist.md), [`../research/week8-gate-checklist.md`](../research/week8-gate-checklist.md) | — |
 | Interview grid | [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md) | Template |
