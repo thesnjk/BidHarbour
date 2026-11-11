@@ -1,7 +1,7 @@
 # Week-1 non-responder follow-ups (A21–A40)
 
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
-**Companion:** [`week1-nonresponder-followups.md`](week1-nonresponder-followups.md) (A01–A20)  
+**Companions:** [`week1-nonresponder-followups.md`](week1-nonresponder-followups.md) (A01–A20) · [`week1-nonresponder-followups-a41-a50.md`](week1-nonresponder-followups-a41-a50.md) (A41–A50)  
 **Use after:** Email 1 sent (same send discipline as [`week1-send-runbook.md`](week1-send-runbook.md) / outreach pack; contact pages from hints below)  
 **Contact hints:** [`a21-a30-contact-hints.md`](a21-a30-contact-hints.md) · [`a31-a40-contact-hints.md`](a31-a40-contact-hints.md)  
 **Responders:** use [`reply-booking-scripts.md`](reply-booking-scripts.md) instead  

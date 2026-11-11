@@ -41,6 +41,7 @@
 - [x] Approver review training one-pager → [`approver-review-training.md`](approver-review-training.md)  
 - [x] Week-1 non-responder follow-ups A21–A40 → [`../commercial/week1-nonresponder-followups-a21-a40.md`](../commercial/week1-nonresponder-followups-a21-a40.md)  
 - [x] Backlog re-rank: rows 32–36 queued (follow-ups A41–A50, pilot kickoff, retention schedule, observation log) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
+- [x] Week-1 non-responder follow-ups A41–A50 → [`../commercial/week1-nonresponder-followups-a41-a50.md`](../commercial/week1-nonresponder-followups-a41-a50.md)  
 
 ## Primary founder action (today)
 
