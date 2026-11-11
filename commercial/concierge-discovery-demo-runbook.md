@@ -6,7 +6,7 @@
 **Use with:** [`go-to-market.md`](go-to-market.md) · [`discovery-one-pager.md`](discovery-one-pager.md) · [`competitive-objection-sheet.md`](competitive-objection-sheet.md) · [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md) · [`pilot-offer-sheet.md`](pilot-offer-sheet.md) · [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md)  
 **Ops depth:** Path A [`../operations/concierge-pilot-runbook.md`](../operations/concierge-pilot-runbook.md) · empty-library story [`../operations/pack-dry-run-dry-001.md`](../operations/pack-dry-run-dry-001.md) · Approver [`../operations/approver-review-training.md`](../operations/approver-review-training.md) · manifest [`../operations/export-manifest-template.md`](../operations/export-manifest-template.md)
 
-**Rule:** Research / discovery framing. Fixture-only. Do **not** invent scorecard Actuals, win rates, or certifications. DRY-001 is training — not customer minutes-saved proof. Filled-manifest / partial-library demo depth is backlog **#85** (DRY-009) — **not** this runbook.
+**Rule:** Research / discovery framing. Fixture-only. Do **not** invent scorecard Actuals, win rates, or certifications. DRY-001 is training — not customer minutes-saved proof. Filled blocked manifest (ops depth): [`../operations/pack-dry-run-dry-009.md`](../operations/pack-dry-run-dry-009.md) — discovery demo still uses empty-library story only.
 
 ## Lead gap
 
@@ -76,5 +76,5 @@ More rows: [`competitive-objection-sheet.md`](competitive-objection-sheet.md).
 - No live customer packs or uncleared MSA/DPA.  
 - No win-rate / qualification claims.  
 - No scorecard Actuals from DRY-001.  
-- No filled export-manifest dry-run (that is **#85** / DRY-009).  
+- Discovery stays empty-library; filled blocked-manifest depth → [`../operations/pack-dry-run-dry-009.md`](../operations/pack-dry-run-dry-009.md) (optional ops pointer, not this 15-min script).  
 - No portal auto-submit claims.
