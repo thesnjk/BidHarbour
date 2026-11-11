@@ -25,6 +25,10 @@ Partial-library dry-runs against [`../redacted-pqq-v1/`](../redacted-pqq-v1/) an
 4. If `not_held` → mark **MISSING** (Broads-specific SQ rows are intentionally empty for multi-customer practice).  
 5. Do **not** invent certificates beyond this stub.
 
+## Expired variant (DRY-005)
+
+For Path A **EXPIRED** rehearsal (backdated `ins_el` only), use sibling [`../synthetic-evidence-library-v1-expired/`](../synthetic-evidence-library-v1-expired/). Leave this v1 folder unchanged so DRY-003/004 metrics stay valid.
+
 ## Rules
 
 - Never commit live customer certificates or filled real intake CSVs here.  
