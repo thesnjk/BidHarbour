@@ -14,7 +14,7 @@
 | niche | `AME` / `marine` / `construction` |
 | inferred_buyer_title | Starting guess — verify before send |
 | website | Public homepage if known |
-| contact_page | Public contact/about URL (A01–A40 enriched) |
+| contact_page | Public contact/about URL (A01–A50 enriched) |
 | contact_hint | Published general inbox/phone/caution — never invent personal emails |
 | linkedin_search_hint | Query string for LinkedIn |
 | source | Where the name was found |
@@ -27,12 +27,12 @@
 
 Public websites, ORE Catapult F4OR listings, and prior BidHarbour desk research (EEEZ/Norfolk AME). **No implied partnership or endorsement.** Seeded rows are starting points for founder verification (size, fit, contactability).
 
-Blank `to fill` rows pad to **50** for the Days 1–14 target list.
+**First-50 complete** (A01–A50 enriched with public contact hints as of 11 November 2026). Verify size/fit before send; some rows are reserve / referral / sector-caution by design.
 
 ## Founder workflow
 
 1. Verify each seeded company (employees 5–75; multi-customer PQQs likely).  
-2. For A01–A10: use [`a01-a10-contact-hints.md`](a01-a10-contact-hints.md); A11–A20: [`a11-a20-contact-hints.md`](a11-a20-contact-hints.md); A21–A30: [`a21-a30-contact-hints.md`](a21-a30-contact-hints.md); A31–A40: [`a31-a40-contact-hints.md`](a31-a40-contact-hints.md) + [`week1-send-runbook.md`](week1-send-runbook.md).  
-3. Fill blanks A41–A50 from NAAME lists, Hethel tenants, LinkedIn Norfolk fab/marine searches.  
+2. Contact hints: [`a01-a10-contact-hints.md`](a01-a10-contact-hints.md) · [`a11-a20-contact-hints.md`](a11-a20-contact-hints.md) · [`a21-a30-contact-hints.md`](a21-a30-contact-hints.md) · [`a31-a40-contact-hints.md`](a31-a40-contact-hints.md) · [`a41-a50-contact-hints.md`](a41-a50-contact-hints.md) + [`week1-send-runbook.md`](week1-send-runbook.md).  
+3. First-50 complete — verify before send; prioritise lead ICP over construction-control / leisure / large-group / non-customer rows.  
 4. Send discovery emails as **Supplier Desk**; update `stage` / `outreach_status` the same day.  
 5. Do **not** invent personal emails; published `sales@` / `enquiries@` from company sites are OK as first reach. Keep extra PII in a private CRM copy if needed.
