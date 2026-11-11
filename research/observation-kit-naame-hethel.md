@@ -5,6 +5,7 @@
 **Detail checklist:** [`observation-checklist.md`](observation-checklist.md)  
 **Consent email (deferred slots):** [`observation-consent-email.md`](observation-consent-email.md)  
 **Session log (blank Actuals):** [`observation-session-log.md`](observation-session-log.md)  
+**After observation → pilot offer:** [`discovery-pilot-offer-bridge.md`](discovery-pilot-offer-bridge.md)  
 **Scorecard:** [`validation-scorecard.md`](validation-scorecard.md) → row *Workflow evidence*  
 **CRM:** [`../commercial/crm-accounts.csv`](../commercial/crm-accounts.csv)
 
