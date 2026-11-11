@@ -3,7 +3,8 @@
 **Epic:** [#2](https://github.com/thesnjk/BidHarbour/issues/2)  
 **Register:** [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv)  
 **Runbook:** [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md)  
-**Fixtures:** [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/) · [`../testdata/redacted-sq-v1/`](../testdata/redacted-sq-v1/)
+**Fixtures:** [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/) · [`../testdata/redacted-sq-v1/`](../testdata/redacted-sq-v1/)  
+**Synthetic library (partial-library dry-runs):** [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/)
 
 **Purpose:** Track which evidence documents a pilot SME has provided before matching a PQQ/SQ checklist. Concierge Path B intake — not a SaaS library.
 
@@ -14,7 +15,7 @@
 | Mode | Use intake CSV? |
 |------|-----------------|
 | Path A empty-library dry-run | No (everything stays MISSING) |
-| Path A partial-library dry-run | Yes — mark fictional `received` rows locally; do not commit secrets |
+| Path A partial-library dry-run | Yes — use [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/); mark matching intake rows `received` locally; do not commit secrets |
 | Path B live pack | **Yes** — fill before / during intake; keep CSV + files in local encrypted folder |
 
 ## How to fill

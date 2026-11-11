@@ -27,6 +27,7 @@
 - [x] Interview synthesis template → [`../research/interview-synthesis.md`](../research/interview-synthesis.md)  
 - [x] Backlog re-rank: rows 17–21 queued (CRM A31–A40, synthetic answer library, MISSING/export templates, Week-4 gate) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] A31–A40 public contact hints → [`../commercial/a31-a40-contact-hints.md`](../commercial/a31-a40-contact-hints.md)  
+- [x] Synthetic evidence / approved-answer library → [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/)  
 
 ## Primary founder action (today)
 
