@@ -37,6 +37,8 @@
 17. What does that **not** do well for these packs?  
 18. Have you tried tender/bid AI tools? Result?
 
+**Capture:** fill [`interview-sharepoint-time-study.md`](interview-sharepoint-time-study.md) for last-pack minutes + SharePoint/folder gaps (blank Actuals until real).
+
 ## Money and authority (5 min)
 
 19. Who would approve a £150/mo tool for this?  

@@ -22,6 +22,8 @@
 - People:  
 - Failures:  
 
+**Detail (minutes vs SharePoint/folders):** [`interview-sharepoint-time-study.md`](interview-sharepoint-time-study.md) — same INT-ID; do not invent.
+
 ## Frequency
 
 - Packs last 12 months:  
@@ -30,6 +32,8 @@
 ## Substitutes used
 
 -  
+
+*(Also tick tools on the time-study sheet.)*  
 
 ## WTP signals (behavioural)
 
