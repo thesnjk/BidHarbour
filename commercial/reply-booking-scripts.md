@@ -59,7 +59,11 @@ Thanks — I’ll reach out to {{Referral}} and mention you suggested it. OK to 
 
 ## They want a pilot / demo immediately
 
+Full post-discovery offer + deferral stubs → [`pilot-offer-email.md`](pilot-offer-email.md).
+
 Glad there’s interest. Two tracks: (1) 25-min research call on your last pack first so we measure the real workflow; (2) paid pilot only after that, with solicitor-cleared terms — I won’t take confidential packs until those are ready. Shall we book the research call?
+
+*(After the research call: send Script A from the offer email stub — not cold Email 1.)*
 
 ---
 
