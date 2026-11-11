@@ -183,7 +183,13 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 54 | **done** | Pilot continuation yes/no capture log (blank Actuals) wired to close-out D + scorecard → `operations/` | #2 |
 | 55 | **done** | DRY-005 dry-run: expired (or conflicting) library evidence → block export; metrics + method note → `operations/` | #2 |
 | 56 | **done** | Discovery → paid pilot offer email stub (solicitor-gated; no win-rate claims) → `commercial/` | #6 |
-| 57 | todo | When 52–56 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 57 | **done** | When 52–56 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 58 | todo | Extend bounce / OOO triage to Week-5 send log → `commercial/` | #6 |
+| 59 | todo | DRY-006 dry-run: conflicting library answers → CONFLICT + block export; metrics + method note → `operations/` | #2 |
+| 60 | todo | Interview SharePoint / inbound-pack time-study capture (blank Actuals) wired to synthesis + baseline contrast → `research/` | #1 |
+| 61 | todo | CRM stage transition scripts + notes conventions (Discovery → pilot offer → Pilot; fee + continuation) → `commercial/` | #6 |
+| 62 | todo | Post–first-50 referral / rebook wave runbook (warm intros + selective non-responder recycle) → `commercial/` | #6 |
+| 63 | todo | When 58–62 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 
