@@ -62,6 +62,7 @@
 - [x] Baseline minutes capture worksheet (Path B-0) → [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md)  
 - [x] Named-accounts access register (pilot encrypted paths) → [`../security-and-legal/pilot-named-access-register.md`](../security-and-legal/pilot-named-access-register.md)  
 - [x] Backlog re-rank: rows 52–56 queued (Week-5 A41–A50, Week-4 bounce, continuation log, DRY-005 expired, pilot-offer email — Lead vs SharePoint inbound-pack / pilot conversion) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
+- [x] Week-5 outreach pack A41–A50 → [`../commercial/week5-outreach-pack.md`](../commercial/week5-outreach-pack.md) · [`../commercial/week5-send-runbook.md`](../commercial/week5-send-runbook.md)  
 
 ## Primary founder action (today)
 
@@ -74,7 +75,8 @@
 3. When Week-1 send log is filled: execute [`../commercial/week2-send-runbook.md`](../commercial/week2-send-runbook.md) (A11–A20) → [`../commercial/week2-outreach-pack.md`](../commercial/week2-outreach-pack.md).  
 4. When Week-2 send log is filled: execute [`../commercial/week3-send-runbook.md`](../commercial/week3-send-runbook.md) (A21–A30) → [`../commercial/week3-outreach-pack.md`](../commercial/week3-outreach-pack.md).  
 5. When Week-3 send log is filled: execute [`../commercial/week4-send-runbook.md`](../commercial/week4-send-runbook.md) (A31–A40) → [`../commercial/week4-outreach-pack.md`](../commercial/week4-outreach-pack.md) (prioritise AME A36–A40; control A31–A35 contrast only).  
-6. Fill founder constraints form (scenario A/B/C).  
-7. Send solicitor cover email (before any real pack upload).  
-8. IPO / HarbourResponse domain steps → [`../strategy/brand-clearance-execution.md`](../strategy/brand-clearance-execution.md) (founder spend only).  
-9. **Do not** start auth/database code; **do not** use uncleared MSA/DPA stubs with customers.
+6. When Week-4 send log is filled: execute [`../commercial/week5-send-runbook.md`](../commercial/week5-send-runbook.md) (A41–A50) → [`../commercial/week5-outreach-pack.md`](../commercial/week5-outreach-pack.md) (prioritise marine A42–A43; reserve A46–A50 network only).  
+7. Fill founder constraints form (scenario A/B/C).  
+8. Send solicitor cover email (before any real pack upload).  
+9. IPO / HarbourResponse domain steps → [`../strategy/brand-clearance-execution.md`](../strategy/brand-clearance-execution.md) (founder spend only).  
+10. **Do not** start auth/database code; **do not** use uncleared MSA/DPA stubs with customers.
