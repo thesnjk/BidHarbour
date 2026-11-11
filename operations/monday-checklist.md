@@ -59,6 +59,7 @@
 - [x] Backlog re-rank: rows 47–51 queued (Week-4 outreach, referral, baseline minutes, named-access — Lead vs SharePoint inbound-pack) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Week-4 outreach pack A31–A40 → [`../commercial/week4-outreach-pack.md`](../commercial/week4-outreach-pack.md) · [`../commercial/week4-send-runbook.md`](../commercial/week4-send-runbook.md)  
 - [x] Referral ask script (post-interview / post-pilot) → [`../commercial/referral-ask-script.md`](../commercial/referral-ask-script.md)  
+- [x] Baseline minutes capture worksheet (Path B-0) → [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md)  
 
 ## Primary founder action (today)
 

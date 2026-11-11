@@ -74,7 +74,7 @@ Hi {{Name}},
 Ready to close the Supplier Desk pilot loop with a short results review?
 
 Proposed agenda (≈30 min):
-1. Baseline vs pilot minutes / MISSING / rework for packs completed
+1. Baseline vs pilot minutes / MISSING / rework for packs completed — use [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) + [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) (real numbers only)
 2. What worked / what was manual friction
 3. Next step: paid continuation (setup + subscription hypotheses) **or** stop cleanly
 

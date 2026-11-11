@@ -47,14 +47,14 @@
 
 ## Path B — Live pack (after legal clearance)
 
-0. **Kickoff (Path B-0):** complete [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md) before first live pack (MSA/DPA, fee/waiver, Approver, baseline, evidence transfer).  
+0. **Kickoff (Path B-0):** complete [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md) before first live pack (MSA/DPA, fee/waiver, Approver, baseline → [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md), evidence transfer).  
 1. **Intake:** receive pack + evidence folder; log pack_id, customer, received_at in metrics CSV; update a **local** copy of [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv) per [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md).  
 2. **Checklist:** extract requirements into a per-pack checklist (same shape as the fixture).  
 3. **Match:** map each requirement to intake `doc_key`s / approved library answers; flag expired, conflicting, customer-specific gaps; anything `not_received` → **MISSING**.  
 4. **MISSING queue:** send customer the MISSING list using [`missing-queue-email.md`](missing-queue-email.md); wait ≤3 business days per pilot design.  
 5. **Approver gate:** Approver follows [`approver-review-training.md`](approver-review-training.md) and signs [`export-manifest-template.md`](export-manifest-template.md); block export until approved/waived.  
 6. **Export:** deliver agreed formats + completed manifest only; no portal auto-submit.  
-7. **Log:** minutes, missing count at first draft, rework loops, support minutes → metrics CSV.  
+7. **Log:** minutes, missing count at first draft, rework loops, support minutes → metrics CSV; contrast vs kickoff [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) at results review (never invent).  
 8. **Close pack:** send script **A** (pack delivered) from [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md); store activity note; no win-rate claims.  
 9. **Continue or close pilot:** script **B** for packs 2–3 in-window; at window end use **C → D → E** (and optional **F**).
 
@@ -62,9 +62,11 @@ Repeat for up to **3** packs in the 4-week window.
 
 ## Metrics ritual
 
-After each pack (dry-run or live), one CSV row:
+After each pack (dry-run or live), one CSV row in [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv):
 
 - `minutes_to_first_draft`, `missing_fields_first_draft`, `rework_loops`, `support_minutes`, `export_approved` (yes/no)
+
+Customer baseline (kickoff only): [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) — contrast live rows against that sheet at results review; DRY-00x rows are not baseline Actuals.
 
 Friday: roll metrics into [`../research/validation-scorecard.md`](../research/validation-scorecard.md) only when they are real pilot results (not dry-run alone for GO criteria).
 
