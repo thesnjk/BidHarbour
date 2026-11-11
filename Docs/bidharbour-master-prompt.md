@@ -212,7 +212,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 82 | **done** | Pre-pilot legal readiness gate (solicitor send, cleared MSA/DPA, named access; Script A only after PASS; Script B hold OK) → `operations/pre-pilot-legal-readiness-gate.md` | #5 |
 | 83 | **done** | When 78–82 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 84 | **done** | Concierge discovery demo runbook (15 min; redacted PQQ fixture; checklist→MISSING→Approver; no SaaS) → `commercial/concierge-discovery-demo-runbook.md` | #6 |
-| 85 | todo | DRY-009: filled export manifest + Approver discipline dry-run (partial library; gate story; no live approval Actuals) → `operations/` | #2 |
+| 85 | **done** | DRY-009: filled export manifest + Approver discipline dry-run (partial library; gate story; no live approval Actuals) → `operations/pack-dry-run-dry-009.md` + `export-manifest-dry-009-filled.md` | #2 |
 | 86 | todo | Complys / tender-AI copycat quarterly monitor stub (public-page checklist; wires objection sheet; no full scrape) → `research/` | #1 |
 | 87 | todo | Solicitor return / counsel clearance intake checklist (vault, PASS/FAIL, Script A unlock; wire legal gate) → `security-and-legal/` | #5 |
 | 88 | todo | Pilot referral evidence packet template (blank Actuals; anonymised minutes/gates bullets; post–results-review referral) → `commercial/` | #6 |

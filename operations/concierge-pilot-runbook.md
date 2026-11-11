@@ -49,7 +49,8 @@
 **Done (2026-11-11):** expired-library DRY-005 → [`pack-dry-run-dry-005.md`](pack-dry-run-dry-005.md) (Q9 `ins_el` EXPIRED + Q22 MISSING; export blocked; base v1 untouched).  
 **Done (2026-11-11):** conflict-library DRY-006 → [`pack-dry-run-dry-006.md`](pack-dry-run-dry-006.md) (Q10 `ins_pl` CONFLICT + Q22 MISSING; export blocked; base v1 untouched).  
 **Done (2026-11-11):** customer-scoped promotion DRY-007 → [`pack-dry-run-dry-007.md`](pack-dry-run-dry-007.md) (FO7 Broads promotions; shared library untouched; Harbour Wind control).  
-**Done (2026-11-11):** dual-buyer pilot-window DRY-008 → [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md) (Harbour Wind PQQ → Broads SQ; FO7 isolation; both exports blocked).
+**Done (2026-11-11):** dual-buyer pilot-window DRY-008 → [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md) (Harbour Wind PQQ → Broads SQ; FO7 isolation; both exports blocked).  
+**Done (2026-11-11):** filled-manifest Approver discipline DRY-009 → [`pack-dry-run-dry-009.md`](pack-dry-run-dry-009.md) · [`export-manifest-dry-009-filled.md`](export-manifest-dry-009-filled.md) (partial library; Block export).
 
 ## Path B — Live pack (after legal clearance)
 
