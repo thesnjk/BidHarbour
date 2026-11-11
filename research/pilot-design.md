@@ -22,6 +22,8 @@ Use synthetic kit [`../testdata/redacted-pqq-v1/`](../testdata/redacted-pqq-v1/)
 
 ## Baseline measurements (week 0)
 
+Worksheet: [`../operations/baseline-minutes-worksheet.md`](../operations/baseline-minutes-worksheet.md) (Path B-0 kickoff).
+
 - Minutes for last comparable pack (participant estimate + any timesheets)  
 - Tools used  
 - Missing/expired incidents in last 3 packs (recall)  

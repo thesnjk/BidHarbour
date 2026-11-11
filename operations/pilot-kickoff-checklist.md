@@ -23,7 +23,7 @@
 | # | Topic | Notes |
 |---|-------|-------|
 | 1 | Scope | 4 weeks; up to **3** inbound PQQ/SQ / document-request packs |
-| 2 | Baseline workshop | Minutes for last comparable pack (estimate + any timesheets); tools used |
+| 2 | Baseline workshop | Minutes for last comparable pack → [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) (estimate + any timesheets); tools used |
 | 3 | Roles | Founder concierge drafts; **Approver** signs every export |
 | 4 | Intake walkthrough | Local copy of [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv) — never commit live fills to git |
 | 5 | MISSING SLA | Customer replies ≤ **3 business days** ([`missing-queue-email.md`](missing-queue-email.md)) |
@@ -45,7 +45,7 @@ All of the following before opening pack_id P01 (or next live id):
 
 - [ ] Preconditions §1 complete  
 - [ ] Kickoff held (or written async equivalent logged)  
-- [ ] Baseline notes captured for metrics contrast  
+- [ ] Baseline notes captured for metrics contrast → [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md)  
 - [ ] Evidence folder accessible locally  
 - [ ] Approver contact details on file  
 
