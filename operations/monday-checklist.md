@@ -25,6 +25,7 @@
 - [x] Week-1 non-responder follow-ups (Day 3/7/14) → [`../commercial/week1-nonresponder-followups.md`](../commercial/week1-nonresponder-followups.md)  
 - [x] Pack dry-run DRY-002 (SQ empty library) → [`pack-dry-run-dry-002.md`](pack-dry-run-dry-002.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 - [x] Interview synthesis template → [`../research/interview-synthesis.md`](../research/interview-synthesis.md)  
+- [x] Backlog re-rank: rows 17–21 queued (CRM A31–A40, synthetic answer library, MISSING/export templates, Week-4 gate) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 
 ## Primary founder action (today)
 

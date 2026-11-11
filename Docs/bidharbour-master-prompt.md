@@ -108,7 +108,7 @@ Read `Docs/developer-map.md` first. For deep context pull one of:
 
 ### Shipped first-wave artefacts (keep honest)
 
-Week-1 commercial pack, brand decision + clearance execution checklist, solicitor cover, contact hints, send log, tracked master prompt (PRs **#7–#22**+). Epics #2–#6 open (#1 closed on GitHub; scorecard Actuals still 0). Do **not** open a PR solely to renumber this band.
+Week-1 commercial pack through interview synthesis + DRY-001/002 (PRs **#7–#31**+). Epics #2–#6 open (#1 closed on GitHub; scorecard Actuals still 0). Do **not** open a PR solely to renumber this band.
 
 **Founder parallel track (does not block the agent):** execute `commercial/week1-send-runbook.md` → fill `commercial/week1-send-log.csv` → book `research/interview-grid-8wk.md` → update scorecard Actuals only after completed interviews.
 
@@ -133,7 +133,12 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 13 | **done** | Week-1 non-responder follow-up scripts (A01–A20) → `commercial/` | #6 |
 | 14 | **done** | DRY-002 empty-library dry-run on `testdata/redacted-sq-v1/` → metrics + method note | #2 |
 | 15 | **done** | Interview synthesis template (blank Actuals) wired to scorecard → `research/` | #1 |
-| 16 | todo | When 13–15 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 16 | **done** | Re-rank from open epics + gaps; append rows 17–21 | — |
+| 17 | todo | CRM A31–A40 public contact enrichment (construction-control + Norfolk blanks; same pattern as A21–A30) | #6 |
+| 18 | todo | Synthetic approved-answer / evidence-library stub mapped to intake `doc_key`s → `testdata/` or `operations/` | #2 |
+| 19 | todo | MISSING-queue customer email + Approver export-manifest templates → `operations/` | #2 |
+| 20 | todo | Week-4 gate decision checklist wired to scorecard + interview-synthesis → `research/` | #1 |
+| 21 | todo | When 17–20 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 
