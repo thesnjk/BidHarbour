@@ -34,9 +34,10 @@ Reserve / construction-control / non-ICP rows may move stages for honesty — **
 
 1. Keep `Discovery`.  
 2. `notes`: `int={{INT-ID}}` (and time-study if used).  
-3. Follow bridge checklist [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md).  
-4. If pain fits ICP and they are open to a pilot → send [`pilot-offer-email.md`](pilot-offer-email.md) Script A → add `pilot_offer_sent`.  
-5. If legal not ready → Script B deferral; keep Discovery + `pilot_offer_held_legal`.
+3. Follow bridge checklist [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md).
+4. Confirm [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md) **PASS** before Script A.
+5. If pain fits ICP and they are open to a pilot **and** gate PASS → send [`pilot-offer-email.md`](pilot-offer-email.md) Script A → add `pilot_offer_sent`.
+6. If gate FAIL/pending → Script B deferral; keep Discovery + `pilot_offer_held_legal`.
 
 ### C — Written interest in paid pilot
 

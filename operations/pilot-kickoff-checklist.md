@@ -5,10 +5,12 @@
 **Offer:** [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md) · Offer email: [`../commercial/pilot-offer-email.md`](../commercial/pilot-offer-email.md) · Design: [`../research/pilot-design.md`](../research/pilot-design.md)  
 **Product name:** Supplier Desk
 
-**Rule:** Live packs require solicitor-cleared MSA/DPA. Do **not** invent fee receipts, signatures, or scorecard Actuals. Optional Path A dry-run rehearsal (DRY-001–005) does not replace kickoff.
+**Rule:** Live packs require solicitor-cleared MSA/DPA. Do **not** invent fee receipts, signatures, or scorecard Actuals. Optional Path A dry-run rehearsal (DRY-001–005) does not replace kickoff.  
+**Prerequisite:** org legal gate **PASS** → [`pre-pilot-legal-readiness-gate.md`](pre-pilot-legal-readiness-gate.md) (before Script A and before this kickoff).
 
 ## 1. Preconditions (all required for live)
 
+- [ ] Pre-pilot legal readiness gate **PASS** → [`pre-pilot-legal-readiness-gate.md`](pre-pilot-legal-readiness-gate.md)  
 - [ ] Customer accepted paid pilot outline (post-discovery) → [`../commercial/pilot-offer-email.md`](../commercial/pilot-offer-email.md)  
 - [ ] Pilot MSA solicitor-cleared and signed  
 - [ ] DPA solicitor-cleared and signed  
