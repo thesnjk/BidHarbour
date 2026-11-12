@@ -1009,6 +1009,7 @@ Pre-GO, the **system** is not a deployed service — it is a **versioned control
 | DRY-007 | FO7 customer-scoped promotion | `redacted-sq-v1` + scoped answers | shared v1 **unchanged** + `synthetic-customer-scoped-answers-v1` | Broads MISSING 6→3; Harbour Wind must not cite Broads-scoped | **no** | [`../operations/pack-dry-run-dry-007.md`](../operations/pack-dry-run-dry-007.md) |
 | DRY-008 | Dual-buyer pilot-window | `redacted-pqq-v1` → `redacted-sq-v1` | shared v1 + Broads scoped (Pack 2 only) | Pack1 HW 2 MISSING / no Broads-scoped; Pack2 Broads 3 MISSING + FO7; both blocked | **no** | [`../operations/pack-dry-run-dry-008.md`](../operations/pack-dry-run-dry-008.md) |
 | DRY-009 | Filled manifest — Approver block | `redacted-pqq-v1` | `synthetic-evidence-library-v1` | 22/22 manifest rows; 2 MISSING + draft-only Q15; Block export | **no** | [`../operations/pack-dry-run-dry-009.md`](../operations/pack-dry-run-dry-009.md) · [`../operations/export-manifest-dry-009-filled.md`](../operations/export-manifest-dry-009-filled.md) |
+| DRY-010 | Waiver ≠ Approver Approve | `redacted-pqq-v1` | `synthetic-evidence-library-v1` | Q3 operator `waived` without Approve; Q22 MISSING; Q15 draft; Block export | **no** | [`../operations/pack-dry-run-dry-010.md`](../operations/pack-dry-run-dry-010.md) · [`../operations/export-manifest-dry-010-filled.md`](../operations/export-manifest-dry-010-filled.md) |
 
 Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv) (`export_approved=no` for each dry_run).
 
@@ -1024,9 +1025,10 @@ Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metri
 | FO7 scoped promote without shared pollution | DRY-007 |
 | Dual-buyer in-window (PQQ then SQ; FO7 isolation) | DRY-008 |
 | Filled manifest still blocks on hard gaps | DRY-009 |
-| Draft-only / unapproved ≠ export | DRY-003–009 |
+| Recorded waiver without Approver Approve still blocks | DRY-010 |
+| Draft-only / unapproved ≠ export | DRY-003–010 |
 | Approver rework loop recorded | All DRY method sections |
-| Waiver not used to fake pass | All DRY `export_approved=no` |
+| Waiver not used to fake pass | All DRY `export_approved=no` (esp. DRY-010) |
 
 ### 5.4 Edge cases and robustness
 
