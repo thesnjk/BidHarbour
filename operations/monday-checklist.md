@@ -104,6 +104,7 @@
 - [x] Pack dry-run DRY-010 (operator waiver ≠ Approver Approve; Block export) → [`pack-dry-run-dry-010.md`](pack-dry-run-dry-010.md) · [`export-manifest-dry-010-filled.md`](export-manifest-dry-010-filled.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 - [x] Pilot support-burden log (blank Actuals; scorecard Support effort) → [`pilot-support-burden-log.md`](pilot-support-burden-log.md)  
 - [x] Warm-intro CRM intake checklist (blank; no invented emails) → [`../commercial/warm-intro-crm-intake.md`](../commercial/warm-intro-crm-intake.md)  
+- [x] Scorecard Actuals update hygiene (synthesis→scorecard; no invent) → [`../research/scorecard-actuals-hygiene.md`](../research/scorecard-actuals-hygiene.md)  
 
  
 

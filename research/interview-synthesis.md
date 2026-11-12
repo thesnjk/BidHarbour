@@ -58,7 +58,7 @@ Scorecard: Workflow evidence ≥3 businesses. Source of truth for observation ro
 
 1. Pull new INT sheets into the table above.  
 2. Recompute tally.  
-3. Update [`validation-scorecard.md`](validation-scorecard.md) Actuals **only if** numbers changed from real completions.  
+3. Update [`validation-scorecard.md`](validation-scorecard.md) Actuals **only if** numbers changed from real completions — follow [`scorecard-actuals-hygiene.md`](scorecard-actuals-hygiene.md).  
 4. Log negatives the same day.  
 5. Attach any new [`interview-sharepoint-time-study.md`](interview-sharepoint-time-study.md) sheets to Evidence note (INT-ID) — minutes vs SharePoint; do not invent; Time/value Actual stays blank until pilots.  
 6. At Week 4: run [`week4-gate-checklist.md`](week4-gate-checklist.md) from this tally — do not invent rows to pass.  
