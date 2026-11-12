@@ -9,6 +9,7 @@ DRY-007,dry_run,testdata/redacted-sq-v1+synthetic-customer-scoped-answers-v1,202
 DRY-008,dry_run,testdata/redacted-pqq-v1→redacted-sq-v1+synthetic-evidence-library-v1+synthetic-customer-scoped-answers-v1,2026-11-11T20:42:00Z,2026-11-11T20:42:45Z,1,3,1,0,no,dual-buyer pilot-window Pack1 Harbour Wind (2 MISSING no Broads-scoped)→Pack2 Broads (3 MISSING FO7); both export blocked; shared untouched; see pack-dry-run-dry-008.md
 DRY-009,dry_run,testdata/redacted-pqq-v1,2026-11-11T22:40:00Z,2026-11-11T22:40:40Z,1,2,1,0,no,partial-library + filled export manifest Approver block; see pack-dry-run-dry-009.md / export-manifest-dry-009-filled.md
 DRY-010,dry_run,testdata/redacted-pqq-v1,2026-11-12T00:05:00Z,2026-11-12T00:05:40Z,1,2,1,0,no,partial-library + operator Q3 waiver without Approver Approve; Block export; see pack-dry-run-dry-010.md / export-manifest-dry-010-filled.md
+DRY-011,dry_run,testdata/redacted-pqq-v1,2026-11-12T12:50:00Z,2026-11-12T12:50:40Z,1,22,1,0,no,inbound→structured checklist extract 22/22 open-until-match; vs SharePoint 0 Q-rows; see pack-dry-run-dry-011.md / requirement-checklist-dry-011.md
 P01,live,,,,,,,,
 P02,live,,,,,,,,
 P03,live,,,,,,,,

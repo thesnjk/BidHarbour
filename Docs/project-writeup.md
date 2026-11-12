@@ -1014,6 +1014,7 @@ Pre-GO, the **system** is not a deployed service — it is a **versioned control
 | DRY-008 | Dual-buyer pilot-window | `redacted-pqq-v1` → `redacted-sq-v1` | shared v1 + Broads scoped (Pack 2 only) | Pack1 HW 2 MISSING / no Broads-scoped; Pack2 Broads 3 MISSING + FO7; both blocked | **no** | [`../operations/pack-dry-run-dry-008.md`](../operations/pack-dry-run-dry-008.md) |
 | DRY-009 | Filled manifest — Approver block | `redacted-pqq-v1` | `synthetic-evidence-library-v1` | 22/22 manifest rows; 2 MISSING + draft-only Q15; Block export | **no** | [`../operations/pack-dry-run-dry-009.md`](../operations/pack-dry-run-dry-009.md) · [`../operations/export-manifest-dry-009-filled.md`](../operations/export-manifest-dry-009-filled.md) |
 | DRY-010 | Waiver ≠ Approver Approve | `redacted-pqq-v1` | `synthetic-evidence-library-v1` | Q3 operator `waived` without Approve; Q22 MISSING; Q15 draft; Block export | **no** | [`../operations/pack-dry-run-dry-010.md`](../operations/pack-dry-run-dry-010.md) · [`../operations/export-manifest-dry-010-filled.md`](../operations/export-manifest-dry-010-filled.md) |
+| DRY-011 | Inbound → structured checklist | `redacted-pqq-v1` questionnaire | *(extract only — no library rewrite)* | 22/22 Q-rows extracted; vs SharePoint 0; open-until-match | **no** | [`../operations/pack-dry-run-dry-011.md`](../operations/pack-dry-run-dry-011.md) · [`../operations/requirement-checklist-dry-011.md`](../operations/requirement-checklist-dry-011.md) |
 
 Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv) (`export_approved=no` for each dry_run).
 
@@ -1030,7 +1031,8 @@ Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metri
 | Dual-buyer in-window (PQQ then SQ; FO7 isolation) | DRY-008 |
 | Filled manifest still blocks on hard gaps | DRY-009 |
 | Recorded waiver without Approver Approve still blocks | DRY-010 |
-| Draft-only / unapproved ≠ export | DRY-003–010 |
+| Inbound pack → structured checklist (vs SharePoint) | DRY-011 |
+| Draft-only / unapproved ≠ export | DRY-003–011 |
 | Approver rework loop recorded | All DRY method sections |
 | Waiver not used to fake pass | All DRY `export_approved=no` (esp. DRY-010) |
 
