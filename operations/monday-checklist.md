@@ -111,6 +111,7 @@
 - [x] FO7 Path B live scoped-answer write-back playbook (blank; no shared pollution) → [`pilot-fo7-live-writeback-playbook.md`](pilot-fo7-live-writeback-playbook.md)  
 - [x] Discovery no-show / densification rebook checklist (blank; wires grid + reply scripts) → [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md)  
 - [x] Close-out F testimonial capture template (blank quotes; no invent) → [`../commercial/closeout-f-testimonial-capture.md`](../commercial/closeout-f-testimonial-capture.md)  
+- [x] Backlog re-rank: rows 102–106 queued (DRY-011 checklist, Approver attestation, dual-buyer live window, customer MISSING brief, qualified discovery/week tracker — Lead: SharePoint checklist / Approver export / multi-customer live / MISSING vs tender-AI / acquisition densification) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 
  
 
