@@ -109,6 +109,7 @@
 - [x] Minutes-saved customer leave-behind (blank Actuals; vs SharePoint) → [`../commercial/minutes-saved-leave-behind.md`](../commercial/minutes-saved-leave-behind.md)  
 - [x] Repeat-usage tracker log (blank Actuals; ≥2 packs/60d) → [`pilot-repeat-usage-tracker.md`](pilot-repeat-usage-tracker.md)  
 - [x] FO7 Path B live scoped-answer write-back playbook (blank; no shared pollution) → [`pilot-fo7-live-writeback-playbook.md`](pilot-fo7-live-writeback-playbook.md)  
+- [x] Discovery no-show / densification rebook checklist (blank; wires grid + reply scripts) → [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md)  
 
  
 

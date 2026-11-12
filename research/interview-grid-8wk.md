@@ -8,6 +8,7 @@
 **Week-1 send pack:** [`../commercial/week1-outreach-pack.md`](../commercial/week1-outreach-pack.md) (CRM A01–A10)  
 **Week-1 send log:** [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv) (fill on send; link booked slots here)  
 **Post–first-50 referrals / rebooks:** [`../commercial/post-first50-referral-wave.md`](../commercial/post-first50-referral-wave.md) — book those slots here too  
+**No-show / densification rebook:** [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md) — mark Status `No-show` / `Cancelled`; densify toward held interviews  
 **Observation kit (NAAME/Hethel):** [`observation-kit-naame-hethel.md`](observation-kit-naame-hethel.md)  
 **Observation session log:** [`observation-session-log.md`](observation-session-log.md)
 
@@ -49,7 +50,8 @@ Replace with calendar holds. Aim for 25–40 min each.
 | S09 | | | AME | | Call / visit | Open |
 | S10 | | | marine | | Call / visit | Open |
 
-Add rows as needed. **Week 1 acceptance:** ≥5 conversations booked ([`../strategy/roadmap.md`](../strategy/roadmap.md)).
+Add rows as needed. Status values: `Open` / `Booked` / `Held` / `No-show` / `Cancelled`. On miss → [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md).  
+**Week 1 acceptance:** ≥5 conversations booked ([`../strategy/roadmap.md`](../strategy/roadmap.md)).
 
 ## Scorecard update ritual (every Friday)
 

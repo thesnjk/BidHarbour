@@ -80,3 +80,9 @@ Day 3 / 7 / 14 copy lives in [`week1-outreach-pack.md`](week1-outreach-pack.md) 
 “Thanks for the time. Consent to notes as emailed. Walk me through the **last** customer questionnaire or document pack you completed — when, who worked it, how long, what nearly went wrong.”
 
 Then follow [`../research/interview-guide.md`](../research/interview-guide.md).
+
+---
+
+## No-show / late cancel / densification
+
+If they miss the slot or cancel late — or Friday densification when the week has &lt;1 **held** qualified discovery — follow [`discovery-noshow-rebook-checklist.md`](discovery-noshow-rebook-checklist.md). Reuse the “yes / times” pattern above for one polite rebook; do not invent held interviews.
