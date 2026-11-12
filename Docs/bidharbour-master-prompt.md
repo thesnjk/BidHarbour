@@ -232,7 +232,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 102 | **done** | DRY-011 dry-run: inbound pack → structured requirement checklist (fixture-only; vs SharePoint; metrics + method note) → `operations/pack-dry-run-dry-011.md` + `requirement-checklist-dry-011.md` | #2 |
 | 103 | **done** | Live pilot Approver attestation log (blank Actuals; wires export manifest + DRY-009/010; no export without named Approver) → `operations/pilot-approver-attestation-log.md` | #2 |
 | 104 | **done** | Path B dual-buyer live in-window checklist (blank; wires DRY-008, repeat pack, FO7 write-back; no shared pollution) → `operations/pilot-dual-buyer-live-window-checklist.md` | #2 |
-| 105 | todo | Customer MISSING/abstention brief template (blank; post gap-queue; vs tender-AI autofill; no invented prose) → `commercial/customer-missing-abstention-brief.md` | #6 |
+| 105 | **done** | Customer MISSING/abstention brief template (blank; post gap-queue; vs tender-AI autofill; no invented prose) → `commercial/customer-missing-abstention-brief.md` | #6 |
 | 106 | todo | Qualified discovery/week tracker (blank Actuals; held interviews only; wires scorecard Repeatable acquisition + interview grid) → `research/qualified-discovery-week-tracker.md` | #1 |
 | 107 | todo | When 102–106 done: re-rank from open epics + gaps; append new rows surgically | — |
 

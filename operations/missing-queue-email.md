@@ -3,6 +3,7 @@
 **Epic:** [#2](https://github.com/thesnjk/BidHarbour/issues/2)  
 **Use at:** Path B step 4 in [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md)  
 **SLA:** customer reply ≤ **3 business days** ([`../research/pilot-design.md`](../research/pilot-design.md))  
+**Abstention brief (why gaps stay MISSING):** [`../commercial/customer-missing-abstention-brief.md`](../commercial/customer-missing-abstention-brief.md)  
 **Product name:** Supplier Desk
 
 **Rule:** List gaps only. Do **not** invent certifications, insurance, or capabilities. Live packs require solicitor-cleared MSA/DPA.
@@ -40,8 +41,9 @@ Supplier Desk (BidHarbour pilot)
 ## After send
 
 1. Log send time in pack notes / metrics `notes`.  
-2. On receipt: update local intake CSV (`received` / `waived`); rematch checklist.  
-3. Still-MISSING after SLA: Approver may **waive** (recorded) or block export — never silent-fill.
+2. Optionally send / attach [`../commercial/customer-missing-abstention-brief.md`](../commercial/customer-missing-abstention-brief.md) (why we abstain vs autofill).  
+3. On receipt: update local intake CSV (`received` / `waived`); rematch checklist.  
+4. Still-MISSING after SLA: Approver may **waive** (recorded) or block export — never silent-fill.
 
 ## Stop rules
 
