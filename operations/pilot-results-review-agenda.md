@@ -72,6 +72,7 @@ Results review (this agenda)
 - [ ] On `no`/timeout: script **E** diaried  
 - [ ] On `yes`: legal/commercial path — still no packs until cleared  
 - [ ] Optional **F** / **G** only after rapport and not during refund friction  
+- [ ] Optional customer leave-behind: local [`../commercial/minutes-saved-leave-behind.md`](../commercial/minutes-saved-leave-behind.md) from live rollup  
 - [ ] Before **G**: local [`../commercial/pilot-referral-evidence-packet.md`](../commercial/pilot-referral-evidence-packet.md) filled from live rollup  
 - [ ] Scorecard cells left blank until real evidence  
 

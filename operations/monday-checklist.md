@@ -106,6 +106,7 @@
 - [x] Warm-intro CRM intake checklist (blank; no invented emails) → [`../commercial/warm-intro-crm-intake.md`](../commercial/warm-intro-crm-intake.md)  
 - [x] Scorecard Actuals update hygiene (synthesis→scorecard; no invent) → [`../research/scorecard-actuals-hygiene.md`](../research/scorecard-actuals-hygiene.md)  
 - [x] Backlog re-rank: rows 96–100 queued (minutes leave-behind, repeat-usage tracker, FO7 live write-back, discovery no-show densification, close-out F testimonial — Lead: SharePoint leave-behind / repeat usage / FO7 live / acquisition densification / testimonial) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
+- [x] Minutes-saved customer leave-behind (blank Actuals; vs SharePoint) → [`../commercial/minutes-saved-leave-behind.md`](../commercial/minutes-saved-leave-behind.md)  
 
  
 
