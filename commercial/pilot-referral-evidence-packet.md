@@ -76,6 +76,7 @@ No win-rate claims; discovery/pilot framing only.
 - [ ] Continuation path honest (`yes` / `no` / stop) before **G**  
 - [ ] Send [`referral-ask-script.md`](referral-ask-script.md) post-pilot / close-out **G**  
 - [ ] CRM note: referral ask sent; leave intros blank until real  
+- [ ] On confirmed intro: [`warm-intro-crm-intake.md`](warm-intro-crm-intake.md) (Identified → Contacted; no invented emails)  
 - [ ] Optional: venue follow-up via [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md)  
 - [ ] Scorecard Actuals unchanged until real interview/pilot evidence lands  
 
