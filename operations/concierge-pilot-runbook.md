@@ -61,7 +61,7 @@
 2. **Checklist:** extract requirements into a per-pack checklist (same shape as the fixture).  
 3. **Match:** map each requirement to intake `doc_key`s / approved library answers; flag expired, conflicting, customer-specific gaps; anything `not_received` → **MISSING**.  
 4. **MISSING queue:** send customer the MISSING list using [`missing-queue-email.md`](missing-queue-email.md); wait ≤3 business days per pilot design.  
-5. **Approver gate:** Approver follows [`approver-review-training.md`](approver-review-training.md) and signs [`export-manifest-template.md`](export-manifest-template.md); block export until approved/waived.  
+5. **Approver gate:** Approver follows [`approver-review-training.md`](approver-review-training.md) and signs [`export-manifest-template.md`](export-manifest-template.md); block export until approved/waived. Live: log Approve/Block on [`pilot-approver-attestation-log.md`](pilot-approver-attestation-log.md).  
 6. **Export:** deliver agreed formats + completed manifest only; no portal auto-submit.  
 7. **Log:** minutes, missing count at first draft, rework loops, support minutes → metrics CSV; contrast vs kickoff [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) at results review (never invent).  
 8. **Close pack:** send script **A** (pack delivered) from [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md); store activity note; no win-rate claims.  

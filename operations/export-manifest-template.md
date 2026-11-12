@@ -3,9 +3,10 @@
 **Epic:** [#2](https://github.com/thesnjk/BidHarbour/issues/2)  
 **Use at:** Path B steps 5–6 in [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md)  
 **Train first:** [`approver-review-training.md`](approver-review-training.md)  
+**Live attestation log:** [`pilot-approver-attestation-log.md`](pilot-approver-attestation-log.md) (blank Actuals — after Approve/Block)  
 **Rule:** Export **blocked** while any required row is unapproved, **MISSING**, **EXPIRED**, or **CONFLICT** without an explicit waiver / Approver pick.
 
-Copy this page per pack (local only for live customers). Dry-runs may use fixture pack_ids (DRY-001–010). Filled blocked example: [`export-manifest-dry-009-filled.md`](export-manifest-dry-009-filled.md). Waiver ≠ Approve example: [`export-manifest-dry-010-filled.md`](export-manifest-dry-010-filled.md).
+Copy this page per pack (local only for live customers). Dry-runs may use fixture pack_ids (DRY-001–011). Filled blocked example: [`export-manifest-dry-009-filled.md`](export-manifest-dry-009-filled.md). Waiver ≠ Approve example: [`export-manifest-dry-010-filled.md`](export-manifest-dry-010-filled.md).
 
 ## Pack header
 
@@ -56,11 +57,12 @@ Approver name: _________________ Signature / mark: _________________ Date: _____
 | formats delivered | (e.g. PDF pack + manifest) |
 | portal auto-submit | **no** |
 | metrics CSV updated | yes / no |
+| attestation log updated (live) | yes / no → [`pilot-approver-attestation-log.md`](pilot-approver-attestation-log.md) |
 
 ## Stop rules
 
 - Never export without Approver approve or documented waiver path.  
 - Never silent-pick one of two conflicting in-date library sources.  
 - Never commit live manifests with customer evidence paths to git.  
-- Live packs: MSA/DPA cleared first.  
+- Live packs: MSA/DPA cleared first; log Approve/Block on the attestation log.  
 - CONFLICT rehearsal: [`pack-dry-run-dry-006.md`](pack-dry-run-dry-006.md).

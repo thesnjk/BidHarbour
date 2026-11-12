@@ -113,6 +113,7 @@
 - [x] Close-out F testimonial capture template (blank quotes; no invent) → [`../commercial/closeout-f-testimonial-capture.md`](../commercial/closeout-f-testimonial-capture.md)  
 - [x] Backlog re-rank: rows 102–106 queued (DRY-011 checklist, Approver attestation, dual-buyer live window, customer MISSING brief, qualified discovery/week tracker — Lead: SharePoint checklist / Approver export / multi-customer live / MISSING vs tender-AI / acquisition densification) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Pack dry-run DRY-011 (inbound → structured checklist 22/22; vs SharePoint) → [`pack-dry-run-dry-011.md`](pack-dry-run-dry-011.md) · [`requirement-checklist-dry-011.md`](requirement-checklist-dry-011.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
+- [x] Live pilot Approver attestation log (blank Actuals; no export without named Approver) → [`pilot-approver-attestation-log.md`](pilot-approver-attestation-log.md)  
 
  
 
