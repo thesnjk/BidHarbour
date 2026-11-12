@@ -82,7 +82,7 @@ Scripts: [`referral-ask-script.md`](referral-ask-script.md) (post-interview, sof
 Post–results-review evidence packet (anonymised minutes/gates; blank Actuals): [`pilot-referral-evidence-packet.md`](pilot-referral-evidence-packet.md).  
 Warm-intro CRM intake after referral (blank; no invented emails): [`warm-intro-crm-intake.md`](warm-intro-crm-intake.md).  
 Minutes-saved customer leave-behind (blank Actuals; vs SharePoint): [`minutes-saved-leave-behind.md`](minutes-saved-leave-behind.md).  
-Close-out F testimonial capture (queued backlog **#100** — blank quotes; no invent).  
+Close-out F testimonial capture (blank quotes; no invent): [`closeout-f-testimonial-capture.md`](closeout-f-testimonial-capture.md).  
 Post–first-50 orchestration: [`post-first50-referral-wave.md`](post-first50-referral-wave.md) (warm intros + selective rebook).  
 Network venues (NAAME / Hethel / GY): [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md).
 
