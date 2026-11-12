@@ -64,7 +64,7 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
  
  
 5. **2026-11-10 delta:** Velstrian mid-tier clarified as Pro **£149** (not a flat £49–£549 smear); Evidash dual USD/GBP Core cites documented; Complys/KimonBids tiers unchanged vs prior pass.  
-6. **Next agent band (queued, not shipped):** minutes leave-behind + repeat-usage tracker + FO7 Path B live write-back (backlog **#96–#98**) — strengthen SharePoint minutes proof, retention, and multi-customer Lead without inventing feature deltas.
+6. **Next agent band (queued, not shipped):** DRY-011 structured checklist + Approver attestation log + dual-buyer live window + customer MISSING brief + qualified discovery/week tracker (backlog **#102–#106**) — strengthen SharePoint checklist Lead, Approver export, multi-customer live, MISSING vs tender-AI, and acquisition densification without inventing Actuals.
 
 ## Gaps in this research
 

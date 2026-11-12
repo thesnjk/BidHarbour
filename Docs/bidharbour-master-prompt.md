@@ -228,7 +228,13 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 98 | **done** | FO7 Path B live scoped-answer write-back playbook (blank; no shared-library pollution) → `operations/pilot-fo7-live-writeback-playbook.md` | #2 |
 | 99 | **done** | Discovery no-show / densification rebook checklist (blank; wires grid + reply scripts) → `commercial/discovery-noshow-rebook-checklist.md` | #6 |
 | 100 | **done** | Close-out F testimonial capture template (blank quotes; no invent; wires closeout scripts) → `commercial/closeout-f-testimonial-capture.md` | #6 |
-| 101 | todo | When 96–100 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 101 | **done** | When 96–100 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 102 | todo | DRY-011 dry-run: inbound pack → structured requirement checklist (fixture-only; vs SharePoint; metrics + method note) → `operations/pack-dry-run-dry-011.md` | #2 |
+| 103 | todo | Live pilot Approver attestation log (blank Actuals; wires export manifest + DRY-009/010; no export without named Approver) → `operations/pilot-approver-attestation-log.md` | #2 |
+| 104 | todo | Path B dual-buyer live in-window checklist (blank; wires DRY-008, repeat pack, FO7 write-back; no shared pollution) → `operations/pilot-dual-buyer-live-window-checklist.md` | #2 |
+| 105 | todo | Customer MISSING/abstention brief template (blank; post gap-queue; vs tender-AI autofill; no invented prose) → `commercial/customer-missing-abstention-brief.md` | #6 |
+| 106 | todo | Qualified discovery/week tracker (blank Actuals; held interviews only; wires scorecard Repeatable acquisition + interview grid) → `research/qualified-discovery-week-tracker.md` | #1 |
+| 107 | todo | When 102–106 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 
