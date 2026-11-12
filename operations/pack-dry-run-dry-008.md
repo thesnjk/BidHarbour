@@ -11,6 +11,7 @@
 **Customer-scoped store:** [`../testdata/synthetic-customer-scoped-answers-v1/`](../testdata/synthetic-customer-scoped-answers-v1/) (`customer_id=broads-oem`) — Pack 2 only  
 **Runbook:** Path A in [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md) · Intake: [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md) · Approver: [`approver-review-training.md`](approver-review-training.md) · Closeout B intent: [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md)  
 **Live Path B companion (packs 2–3):** [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md) — dry-run ≠ live Actuals  
+**Live dual-buyer window checklist:** [`pilot-dual-buyer-live-window-checklist.md`](pilot-dual-buyer-live-window-checklist.md) — training ≠ live proof  
 **Metrics row:** [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 **Prior:** [`pack-dry-run-dry-003.md`](pack-dry-run-dry-003.md) (Harbour Wind partial) · [`pack-dry-run-dry-007.md`](pack-dry-run-dry-007.md) (FO7 Broads + Harbour Wind control)
 
