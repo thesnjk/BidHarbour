@@ -9,6 +9,7 @@
 **Week-1 send log:** [`../commercial/week1-send-log.csv`](../commercial/week1-send-log.csv) (fill on send; link booked slots here)  
 **Post–first-50 referrals / rebooks:** [`../commercial/post-first50-referral-wave.md`](../commercial/post-first50-referral-wave.md) — book those slots here too  
 **No-show / densification rebook:** [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md) — mark Status `No-show` / `Cancelled`; densify toward held interviews  
+**Qualified discovery / week:** [`qualified-discovery-week-tracker.md`](qualified-discovery-week-tracker.md) — tally **Held** for scorecard Repeatable acquisition  
 **Observation kit (NAAME/Hethel):** [`observation-kit-naame-hethel.md`](observation-kit-naame-hethel.md)  
 **Observation session log:** [`observation-session-log.md`](observation-session-log.md)
 
@@ -57,8 +58,9 @@ Add rows as needed. Status values: `Open` / `Booked` / `Held` / `No-show` / `Can
 
 1. Fill new rows in [`interview-synthesis.md`](interview-synthesis.md); count by niche; compute same-pain %.  
 2. Append negative findings.  
-3. Update Actual column in scorecard from synthesis tally only.  
-4. If week 4 or 8: record gate outcome in scorecard + this file.
+3. Update [`qualified-discovery-week-tracker.md`](qualified-discovery-week-tracker.md) from **Held** slots; densify if week still short.  
+4. Update Actual column in scorecard from synthesis tally + held-week tracker only (never invent).  
+5. If week 4 or 8: record gate outcome in scorecard + this file.
 
 ## Week-4 decision log
 

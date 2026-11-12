@@ -14,7 +14,7 @@ Update weekly during the 8-week programme.
 | Repeat usage | ≥2 packs / continuing customer / 60d | — | | [`../operations/pilot-repeat-usage-tracker.md`](../operations/pilot-repeat-usage-tracker.md) (live packs only) |
 | Support effort | &lt;45 min/customer/mo | — | | [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md) (live months only) |
 | Contribution margin | Positive by customer #6 | — | | |
-| Repeatable acquisition | ≥1 qualified discovery/week | — | | |
+| Repeatable acquisition | ≥1 qualified discovery/week | — | | [`qualified-discovery-week-tracker.md`](qualified-discovery-week-tracker.md) (held only) |
 
 ## Gate decisions
 

@@ -116,6 +116,7 @@
 - [x] Live pilot Approver attestation log (blank Actuals; no export without named Approver) → [`pilot-approver-attestation-log.md`](pilot-approver-attestation-log.md)  
 - [x] Path B dual-buyer live in-window checklist (blank; FO7 isolation) → [`pilot-dual-buyer-live-window-checklist.md`](pilot-dual-buyer-live-window-checklist.md)  
 - [x] Customer MISSING/abstention brief template (blank; vs tender-AI) → [`../commercial/customer-missing-abstention-brief.md`](../commercial/customer-missing-abstention-brief.md)  
+- [x] Qualified discovery/week tracker (blank Actuals; held only) → [`../research/qualified-discovery-week-tracker.md`](../research/qualified-discovery-week-tracker.md)  
 
  
 

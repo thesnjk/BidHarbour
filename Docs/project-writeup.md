@@ -951,7 +951,7 @@ Thin index: [`developer-map.md`](developer-map.md).
 | Minutes leave-behind | [`../commercial/minutes-saved-leave-behind.md`](../commercial/minutes-saved-leave-behind.md) | Post–results-review customer one-pager; blank Actuals |
 | Stage scripts | [`../commercial/crm-stage-scripts.md`](../commercial/crm-stage-scripts.md) | Discovery → pilot offer → Pilot |
 | Pilot offer email | [`../commercial/pilot-offer-email.md`](../commercial/pilot-offer-email.md) | Solicitor-gated; no win-rate claims |
-| Interview / observation | `research/interview-grid-8wk.md`, recording/synthesis templates, observation kit/log, time-study | Blank Actuals |
+| Interview / observation | `research/interview-grid-8wk.md`, [`qualified-discovery-week-tracker.md`](../research/qualified-discovery-week-tracker.md), recording/synthesis templates, observation kit/log, time-study | Blank Actuals |
 
 ### 4.6 FO fulfilment confirmation (pre-GO)
 
@@ -1383,6 +1383,7 @@ Full outcomes table: **Part 5 §5.2**. Do not treat as scorecard Actuals.
 |------------|------|--------|
 | Validation scorecard | [`../research/validation-scorecard.md`](../research/validation-scorecard.md) | Actuals **0 / blank** |
 | Interview grid 8wk | [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md) | Template |
+| Qualified discovery / week tracker | [`../research/qualified-discovery-week-tracker.md`](../research/qualified-discovery-week-tracker.md) | Blank Actuals; held only |
 | Discovery no-show / densification rebook | [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md) | Blank Actuals |
 | Close-out F testimonial capture | [`../commercial/closeout-f-testimonial-capture.md`](../commercial/closeout-f-testimonial-capture.md) | Blank quotes |
 | Customer MISSING / abstention brief | [`../commercial/customer-missing-abstention-brief.md`](../commercial/customer-missing-abstention-brief.md) | Blank; vs tender-AI |

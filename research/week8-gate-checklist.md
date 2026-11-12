@@ -27,7 +27,7 @@
 | Time/value (median ≥90 min saved **or** ≥£150/pack stated value) | pass / fail / — |
 | Repeat usage (≥2 packs / continuing customer) | pass / fail / — *(from [`../operations/pilot-repeat-usage-tracker.md`](../operations/pilot-repeat-usage-tracker.md))* |
 | Support effort (&lt;45 min/customer/mo) | pass / fail / — *(from [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md))* |
-| Repeatable acquisition (≥1 qualified discovery/week) | pass / fail / — |
+| Repeatable acquisition (≥1 qualified discovery/week) | pass / fail / — *(from [`qualified-discovery-week-tracker.md`](qualified-discovery-week-tracker.md))* |
 | Pain convergence still ≥6/10 in lead niche? | yes / no / — |
 | Disconfirming findings that block GO | |
 
