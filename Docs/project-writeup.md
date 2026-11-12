@@ -942,7 +942,7 @@ Thin index: [`developer-map.md`](developer-map.md).
 | CRM first-50 | `commercial/crm-readme.md`, A01–A50 contact-hint packs | Seeding done in git; outreach sends founder-only |
 | Week 1–5 | `weekN-outreach-pack.md` + `weekN-send-runbook.md` + send-log CSVs | Templates/logs blank until founder sends |
 | Bounce / OOO | [`../commercial/bounce-ooo-triage.md`](../commercial/bounce-ooo-triage.md) | Wired through Week-5 |
-| Referral / rebook | `referral-ask-script.md`, `post-first50-referral-wave.md`, [`pilot-referral-evidence-packet.md`](../commercial/pilot-referral-evidence-packet.md) | Post-interview / post-first-50 / post–results-review |
+| Referral / rebook | `referral-ask-script.md`, `post-first50-referral-wave.md`, [`pilot-referral-evidence-packet.md`](../commercial/pilot-referral-evidence-packet.md), [`warm-intro-crm-intake.md`](../commercial/warm-intro-crm-intake.md) | Post-interview / post-first-50 / post–results-review / warm-intro CRM |
 | Stage scripts | [`../commercial/crm-stage-scripts.md`](../commercial/crm-stage-scripts.md) | Discovery → pilot offer → Pilot |
 | Pilot offer email | [`../commercial/pilot-offer-email.md`](../commercial/pilot-offer-email.md) | Solicitor-gated; no win-rate claims |
 | Interview / observation | `research/interview-grid-8wk.md`, recording/synthesis templates, observation kit/log, time-study | Blank Actuals |

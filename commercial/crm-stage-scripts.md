@@ -11,7 +11,7 @@
 
 | Stage | Enter when | Typical `outreach_status` | Required `notes` tags (as applicable) |
 |-------|------------|---------------------------|----------------------------------------|
-| Identified | Seeded / referral created | `not_started` / `queued` | optional `referral_from={{id}}` |
+| Identified | Seeded / referral created | `not_started` / `queued` | optional `referral_from={{id}}` — warm intros: [`warm-intro-crm-intake.md`](warm-intro-crm-intake.md) |
 | Contacted | Email 1 or LinkedIn first touch sent | `sent` | — |
 | Discovery | Reply booked **or** interview completed | `booked` / `replied` | optional `int={{INT-ID}}` |
 | Discovery (offer out) | Post-interview pilot outline sent | keep Discovery | `pilot_offer_sent` |

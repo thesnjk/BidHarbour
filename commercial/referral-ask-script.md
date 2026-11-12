@@ -2,7 +2,7 @@
 
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
 **Product name:** Supplier Desk  
-**Use with:** [`reply-booking-scripts.md`](reply-booking-scripts.md) · [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) · [`go-to-market.md`](go-to-market.md) · [`crm-readme.md`](crm-readme.md) · post–first-50 wave: [`post-first50-referral-wave.md`](post-first50-referral-wave.md) · network venues: [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md) · post–results-review packet: [`pilot-referral-evidence-packet.md`](pilot-referral-evidence-packet.md)
+**Use with:** [`reply-booking-scripts.md`](reply-booking-scripts.md) · [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) · [`go-to-market.md`](go-to-market.md) · [`crm-readme.md`](crm-readme.md) · post–first-50 wave: [`post-first50-referral-wave.md`](post-first50-referral-wave.md) · network venues: [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md) · post–results-review packet: [`pilot-referral-evidence-packet.md`](pilot-referral-evidence-packet.md) · warm-intro CRM intake: [`warm-intro-crm-intake.md`](warm-intro-crm-intake.md)
 
 **Rule:** Keep Supplier Desk research / pilot framing. No win-rate or qualification claims. Do **not** invent named intros, personal emails, or CRM Actuals. Prefer Norfolk **AME / marine** peers who run multi-customer inbound PQQ/SQ packs.
 
@@ -82,12 +82,7 @@ Thanks — I’ll reach out to {{Referral}} at {{ReferralCompany}} and mention y
 OK to use your name? (Reply yes / no is enough.)
 ```
 
-**CRM hygiene (same day):**
-
-1. Add new row (beyond A01–A50 if needed, or note on existing id) — stage **Identified**, `outreach_status=queued`.  
-2. `source` / notes: `Referral from {{Company}} ({{id if known}})`; evidence = founder-confirmed intro, not invented.  
-3. Prefer lead **AME / marine**; do **not** count construction-control / reserve-only / non-ICP as lead wins.  
-4. Queue warm-intro outbound below; do not invent personal emails — use public inbox or LinkedIn for named people.
+**CRM hygiene (same day):** run [`warm-intro-crm-intake.md`](warm-intro-crm-intake.md) — Identified / queued + `referral_from=`; public inbox or LinkedIn only (no invented personal emails); then warm-intro outbound below.
 
 ---
 
