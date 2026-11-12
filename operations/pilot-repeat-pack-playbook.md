@@ -7,6 +7,7 @@
 **Fee / waiver (pack 1 gate):** [`pilot-fee-waiver-log.md`](pilot-fee-waiver-log.md)  
 **Metrics:** [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) (`P02` / `P03`)  
 **Repeat usage (scorecard):** [`pilot-repeat-usage-tracker.md`](pilot-repeat-usage-tracker.md)  
+**FO7 live write-back:** [`pilot-fo7-live-writeback-playbook.md`](pilot-fo7-live-writeback-playbook.md)  
 **Kickoff (once only):** [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md)  
 **Design / offer:** [`../research/pilot-design.md`](../research/pilot-design.md) · [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md) — 4 weeks · max **3** packs  
 **Training (not Actuals):** [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md) dual-buyer / FO7 handoff  
@@ -64,7 +65,8 @@ Pack N closed (A)
 | Promote buyer-specific answers to scoped store after Approver | Newest-wins merge without review |
 | Keep shared CSV clean across the window | Invent evidence to clear MISSING |
 
-Training characterisation: [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md).
+Training characterisation: [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md).  
+Live write-back after Approver: [`pilot-fo7-live-writeback-playbook.md`](pilot-fo7-live-writeback-playbook.md).
 
 ## Founder checklist
 
@@ -74,7 +76,7 @@ Training characterisation: [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md).
 - [ ] New pack_id logged (`P02` / `P03`)  
 - [ ] Metrics row filled after Approver decision (real pilots only)  
 - [ ] Repeat-usage tracker updated → [`pilot-repeat-usage-tracker.md`](pilot-repeat-usage-tracker.md)  
-- [ ] FO7 check: no cross-buyer scoped cites  
+- [ ] FO7 write-back / control check → [`pilot-fo7-live-writeback-playbook.md`](pilot-fo7-live-writeback-playbook.md)  
 - [ ] Fee log still shows pack-1 gate satisfied — no invented second fee row  
 
 ## Stop rules

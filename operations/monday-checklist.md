@@ -108,6 +108,7 @@
 - [x] Backlog re-rank: rows 96–100 queued (minutes leave-behind, repeat-usage tracker, FO7 live write-back, discovery no-show densification, close-out F testimonial — Lead: SharePoint leave-behind / repeat usage / FO7 live / acquisition densification / testimonial) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Minutes-saved customer leave-behind (blank Actuals; vs SharePoint) → [`../commercial/minutes-saved-leave-behind.md`](../commercial/minutes-saved-leave-behind.md)  
 - [x] Repeat-usage tracker log (blank Actuals; ≥2 packs/60d) → [`pilot-repeat-usage-tracker.md`](pilot-repeat-usage-tracker.md)  
+- [x] FO7 Path B live scoped-answer write-back playbook (blank; no shared pollution) → [`pilot-fo7-live-writeback-playbook.md`](pilot-fo7-live-writeback-playbook.md)  
 
  
 
