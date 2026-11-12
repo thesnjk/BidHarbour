@@ -21,7 +21,7 @@ Update [`validation-scorecard.md`](validation-scorecard.md) honestly: each Actua
 | Paid pilots | Live packs completed (kickoff + Path B; metrics `mode=live`) | DRY-00x; unsigned MSA stubs |
 | Continuations | Written `yes` rows in [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) | Verbal interest; pending D |
 | Time/value | Live minutes contrast [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) (+ baseline) | DRY wall-clock; invented £ |
-| Repeat usage | Live packs ≥2 / continuing customer / 60d (real CRM + metrics) | Dry-run pack sequences |
+| Repeat usage | [`../operations/pilot-repeat-usage-tracker.md`](../operations/pilot-repeat-usage-tracker.md) (live packs ≥2 / 60d) | Dry-run pack sequences; continuation yes alone |
 | Support effort | Monthly rows in [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md) | DRY `support_minutes=0` |
 | Contribution margin | Real fee/cost notes (founder private) after customer #6 | Hypotheses only |
 | Repeatable acquisition | ≥1 qualified discovery/week with completed booking → held interview path | Cold sends alone |
