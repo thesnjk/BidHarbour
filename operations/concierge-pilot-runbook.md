@@ -76,7 +76,7 @@ After each pack (dry-run or live), one CSV row in [`pilot-metrics-stub.csv`](pil
 
 Customer baseline (kickoff only): [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) — contrast live rows at results review via [`minutes-saved-contrast-rollup.md`](minutes-saved-contrast-rollup.md) and [`pilot-results-review-agenda.md`](pilot-results-review-agenda.md); DRY-00x rows are not baseline Actuals.
 
-Friday: roll metrics into [`../research/validation-scorecard.md`](../research/validation-scorecard.md) only when they are real pilot results (not dry-run alone for GO criteria).
+Friday: roll metrics into [`../research/validation-scorecard.md`](../research/validation-scorecard.md) only when they are real pilot results (not dry-run alone for GO criteria). Live `support_minutes` → monthly rollup [`pilot-support-burden-log.md`](pilot-support-burden-log.md) (Support effort; DRY rows do not count).
 
 ## Stop rules
 

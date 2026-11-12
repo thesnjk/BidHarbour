@@ -26,7 +26,7 @@
 | Continuations written yes (target ≥2) | /2 |
 | Time/value (median ≥90 min saved **or** ≥£150/pack stated value) | pass / fail / — |
 | Repeat usage (≥2 packs / continuing customer) | pass / fail / — |
-| Support effort (&lt;45 min/customer/mo) | pass / fail / — |
+| Support effort (&lt;45 min/customer/mo) | pass / fail / — *(from [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md))* |
 | Repeatable acquisition (≥1 qualified discovery/week) | pass / fail / — |
 | Pain convergence still ≥6/10 in lead niche? | yes / no / — |
 | Disconfirming findings that block GO | |

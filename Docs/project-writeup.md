@@ -917,6 +917,7 @@ Thin index: [`developer-map.md`](developer-map.md).
 | Baseline minutes | [`../operations/baseline-minutes-worksheet.md`](../operations/baseline-minutes-worksheet.md) | FO8 pre-pilot |
 | Fee / waiver log | [`../operations/pilot-fee-waiver-log.md`](../operations/pilot-fee-waiver-log.md) | Blank Actuals |
 | Continuation log | [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) | Scorecard continuations |
+| Support-burden log | [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md) | Scorecard Support effort; blank Actuals |
 | Close-out scripts | [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) | A–G close |
 | Retention schedule | [`../operations/pilot-data-retention-schedule.md`](../operations/pilot-data-retention-schedule.md) | Align DPA |
 | Metrics stub | [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv) | DRY rows recorded |
@@ -1377,7 +1378,7 @@ Full outcomes table: **Part 5 §5.2**. Do not treat as scorecard Actuals.
 | Observation kit / session log | `research/observation-kit-naame-hethel.md`, `observation-session-log.md` | Templates |
 | SharePoint / inbound time-study | [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md) | Blank Actuals |
 | Week send logs | `commercial/week1-send-log.csv` … Week-5 | Blank until founder sends |
-| Continuation / fee-waiver logs | `operations/pilot-continuation-log.md`, `pilot-fee-waiver-log.md` | Blank Actuals |
+| Continuation / fee-waiver / support-burden logs | `operations/pilot-continuation-log.md`, `pilot-fee-waiver-log.md`, `pilot-support-burden-log.md` | Blank Actuals |
 
 ### Appendix D — FO / NFO quick reference
 
