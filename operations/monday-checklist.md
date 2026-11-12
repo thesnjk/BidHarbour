@@ -115,6 +115,7 @@
 - [x] Pack dry-run DRY-011 (inbound → structured checklist 22/22; vs SharePoint) → [`pack-dry-run-dry-011.md`](pack-dry-run-dry-011.md) · [`requirement-checklist-dry-011.md`](requirement-checklist-dry-011.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 - [x] Live pilot Approver attestation log (blank Actuals; no export without named Approver) → [`pilot-approver-attestation-log.md`](pilot-approver-attestation-log.md)  
 - [x] Path B dual-buyer live in-window checklist (blank; FO7 isolation) → [`pilot-dual-buyer-live-window-checklist.md`](pilot-dual-buyer-live-window-checklist.md)  
+- [x] Customer MISSING/abstention brief template (blank; vs tender-AI) → [`../commercial/customer-missing-abstention-brief.md`](../commercial/customer-missing-abstention-brief.md)  
 
  
 
