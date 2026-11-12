@@ -143,6 +143,8 @@ Supplier Desk (BidHarbour pilot)
 
 ## F — Testimonial ask (optional)
 
+**Capture template:** [`../commercial/closeout-f-testimonial-capture.md`](../commercial/closeout-f-testimonial-capture.md) (blank quotes; consent + attribution).
+
 **Subject:** Supplier Desk — permission to quote?
 
 ```text
@@ -173,7 +175,7 @@ Peer-intro scripts (post-pack / post-continuation) live in [`../commercial/refer
 2. On **B**: follow [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md) for intake / FO7 / metrics (or skip to **C** at window end).  
 3. On **D**: record written yes/no in [`pilot-continuation-log.md`](pilot-continuation-log.md); update scorecard Continuations Actual only when real (never invent).  
 4. On **E**: diary the 30-day delete/return; confirm completion to customer.  
-5. On **F**: store approved wording only; discard if declined.  
+5. On **F**: store approved wording only in [`../commercial/closeout-f-testimonial-capture.md`](../commercial/closeout-f-testimonial-capture.md) (local fill); discard if declined.  
 6. On **G**: add CRM referral row before warm outbound; never invent personal emails.
 
 ## Stop rules

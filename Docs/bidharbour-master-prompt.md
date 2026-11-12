@@ -227,7 +227,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 97 | **done** | Repeat-usage tracker log (blank Actuals; ≥2 packs/60d; wires scorecard Repeat usage) → `operations/pilot-repeat-usage-tracker.md` | #2 |
 | 98 | **done** | FO7 Path B live scoped-answer write-back playbook (blank; no shared-library pollution) → `operations/pilot-fo7-live-writeback-playbook.md` | #2 |
 | 99 | **done** | Discovery no-show / densification rebook checklist (blank; wires grid + reply scripts) → `commercial/discovery-noshow-rebook-checklist.md` | #6 |
-| 100 | todo | Close-out F testimonial capture template (blank quotes; no invent; wires closeout scripts) → `commercial/` | #6 |
+| 100 | **done** | Close-out F testimonial capture template (blank quotes; no invent; wires closeout scripts) → `commercial/closeout-f-testimonial-capture.md` | #6 |
 | 101 | todo | When 96–100 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)

@@ -944,7 +944,7 @@ Thin index: [`developer-map.md`](developer-map.md).
 | CRM first-50 | `commercial/crm-readme.md`, A01–A50 contact-hint packs | Seeding done in git; outreach sends founder-only |
 | Week 1–5 | `weekN-outreach-pack.md` + `weekN-send-runbook.md` + send-log CSVs | Templates/logs blank until founder sends |
 | Bounce / OOO | [`../commercial/bounce-ooo-triage.md`](../commercial/bounce-ooo-triage.md) | Wired through Week-5 |
-| Referral / rebook | `referral-ask-script.md`, `post-first50-referral-wave.md`, [`pilot-referral-evidence-packet.md`](../commercial/pilot-referral-evidence-packet.md), [`warm-intro-crm-intake.md`](../commercial/warm-intro-crm-intake.md), [`discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md) | Post-interview / post-first-50 / post–results-review / warm-intro CRM / no-show densify |
+| Referral / rebook | `referral-ask-script.md`, `post-first50-referral-wave.md`, [`pilot-referral-evidence-packet.md`](../commercial/pilot-referral-evidence-packet.md), [`warm-intro-crm-intake.md`](../commercial/warm-intro-crm-intake.md), [`discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md), [`closeout-f-testimonial-capture.md`](../commercial/closeout-f-testimonial-capture.md) | Post-interview / post-first-50 / post–results-review / warm-intro CRM / no-show densify / close-out F |
 | Minutes leave-behind | [`../commercial/minutes-saved-leave-behind.md`](../commercial/minutes-saved-leave-behind.md) | Post–results-review customer one-pager; blank Actuals |
 | Stage scripts | [`../commercial/crm-stage-scripts.md`](../commercial/crm-stage-scripts.md) | Discovery → pilot offer → Pilot |
 | Pilot offer email | [`../commercial/pilot-offer-email.md`](../commercial/pilot-offer-email.md) | Solicitor-gated; no win-rate claims |
@@ -1379,6 +1379,7 @@ Full outcomes table: **Part 5 §5.2**. Do not treat as scorecard Actuals.
 | Validation scorecard | [`../research/validation-scorecard.md`](../research/validation-scorecard.md) | Actuals **0 / blank** |
 | Interview grid 8wk | [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md) | Template |
 | Discovery no-show / densification rebook | [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md) | Blank Actuals |
+| Close-out F testimonial capture | [`../commercial/closeout-f-testimonial-capture.md`](../commercial/closeout-f-testimonial-capture.md) | Blank quotes |
 | Recording / synthesis | `research/recording-template.md`, `interview-synthesis.md` | Templates |
 | Observation kit / session log | `research/observation-kit-naame-hethel.md`, `observation-session-log.md` | Templates |
 | SharePoint / inbound time-study | [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md) | Blank Actuals |
