@@ -5,7 +5,7 @@
 **Prior gate:** [`week4-gate-checklist.md`](week4-gate-checklist.md)  
 **Programme note:** [`customer-discovery-programme.md`](customer-discovery-programme.md)
 
-**Rule:** Do **not** invent pilots, continuations, or scorecard Actuals. Dry-runs (DRY-001/002/003) alone are **not** GO evidence. Leave outcome blank until the gate meeting.
+**Rule:** Do **not** invent pilots, continuations, or scorecard Actuals. Dry-runs (DRY-001/002/003) alone are **not** GO evidence. Leave outcome blank until the gate meeting. Actuals map: [`scorecard-actuals-hygiene.md`](scorecard-actuals-hygiene.md).
 
 ## 1. Prerequisites
 
