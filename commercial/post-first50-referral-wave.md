@@ -5,6 +5,7 @@
 **Prior wave:** [`week5-send-runbook.md`](week5-send-runbook.md)  
 **Scripts:** [`referral-ask-script.md`](referral-ask-script.md) · [`crm-stage-scripts.md`](crm-stage-scripts.md) · [`bounce-ooo-triage.md`](bounce-ooo-triage.md) · [`reply-booking-scripts.md`](reply-booking-scripts.md)  
 **Grid:** [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md)  
+**No-show / densification:** [`discovery-noshow-rebook-checklist.md`](discovery-noshow-rebook-checklist.md) — use Track A/B here to densify toward held interviews  
 **Product name:** Supplier Desk
 
 **Rule:** Keep research framing. No win-rate claims. Do **not** invent named intros, personal emails, or send Actuals. Prefer Norfolk **AME / marine** lead ICP. Do **not** scrape a new cold 50-list in this wave. Parallel network path (events + LinkedIn warm intros, also not a new cold-50): [`naame-hethel-gy-network-peer-intro-pack.md`](naame-hethel-gy-network-peer-intro-pack.md).

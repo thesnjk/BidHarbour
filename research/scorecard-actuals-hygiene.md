@@ -24,7 +24,7 @@ Update [`validation-scorecard.md`](validation-scorecard.md) honestly: each Actua
 | Repeat usage | [`../operations/pilot-repeat-usage-tracker.md`](../operations/pilot-repeat-usage-tracker.md) (live packs ≥2 / 60d) | Dry-run pack sequences; continuation yes alone |
 | Support effort | Monthly rows in [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md) | DRY `support_minutes=0` |
 | Contribution margin | Real fee/cost notes (founder private) after customer #6 | Hypotheses only |
-| Repeatable acquisition | ≥1 qualified discovery/week with completed booking → held interview path | Cold sends alone |
+| Repeatable acquisition | ≥1 qualified discovery/week with booking → **held** interview; no-show densify → [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md) | Cold sends alone; booked-but-not-held |
 
 ## Founder steps (each update)
 
