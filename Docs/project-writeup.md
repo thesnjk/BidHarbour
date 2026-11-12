@@ -921,6 +921,7 @@ Thin index: [`developer-map.md`](developer-map.md).
 | Support-burden log | [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md) | Scorecard Support effort; blank Actuals |
 | Repeat-usage tracker | [`../operations/pilot-repeat-usage-tracker.md`](../operations/pilot-repeat-usage-tracker.md) | Scorecard Repeat usage; blank Actuals |
 | FO7 live write-back | [`../operations/pilot-fo7-live-writeback-playbook.md`](../operations/pilot-fo7-live-writeback-playbook.md) | Scoped promote; no shared pollution; blank Actuals |
+| Dual-buyer live window | [`../operations/pilot-dual-buyer-live-window-checklist.md`](../operations/pilot-dual-buyer-live-window-checklist.md) | Multi-customer in-window; blank Actuals |
 | Close-out scripts | [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) | A–G close |
 | Retention schedule | [`../operations/pilot-data-retention-schedule.md`](../operations/pilot-data-retention-schedule.md) | Align DPA |
 | Metrics stub | [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv) | DRY rows recorded |

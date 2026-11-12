@@ -8,6 +8,7 @@
 **Metrics:** [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) (`P02` / `P03`)  
 **Repeat usage (scorecard):** [`pilot-repeat-usage-tracker.md`](pilot-repeat-usage-tracker.md)  
 **FO7 live write-back:** [`pilot-fo7-live-writeback-playbook.md`](pilot-fo7-live-writeback-playbook.md)  
+**Dual-buyer live window:** [`pilot-dual-buyer-live-window-checklist.md`](pilot-dual-buyer-live-window-checklist.md)  
 **Kickoff (once only):** [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md)  
 **Design / offer:** [`../research/pilot-design.md`](../research/pilot-design.md) · [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md) — 4 weeks · max **3** packs  
 **Training (not Actuals):** [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md) dual-buyer / FO7 handoff  
@@ -66,7 +67,8 @@ Pack N closed (A)
 | Keep shared CSV clean across the window | Invent evidence to clear MISSING |
 
 Training characterisation: [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md).  
-Live write-back after Approver: [`pilot-fo7-live-writeback-playbook.md`](pilot-fo7-live-writeback-playbook.md).
+Live write-back after Approver: [`pilot-fo7-live-writeback-playbook.md`](pilot-fo7-live-writeback-playbook.md).  
+Live dual-buyer window (two different buyers): [`pilot-dual-buyer-live-window-checklist.md`](pilot-dual-buyer-live-window-checklist.md).
 
 ## Founder checklist
 

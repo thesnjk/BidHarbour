@@ -5,7 +5,7 @@
 **Lead gap:** multi-customer isolation — shared library ≠ silent buyer-specific inheritance (FO7 / G5)  
 **Training (not Actuals):** [`pack-dry-run-dry-007.md`](pack-dry-run-dry-007.md) · [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md)  
 **Schema reference only:** [`../testdata/synthetic-customer-scoped-answers-v1/`](../testdata/synthetic-customer-scoped-answers-v1/)  
-**Companions:** [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md) · [`path-b-first-live-pack-intake.md`](path-b-first-live-pack-intake.md) · [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md) · [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md) · [`approver-review-training.md`](approver-review-training.md)  
+**Companions:** [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md) · [`path-b-first-live-pack-intake.md`](path-b-first-live-pack-intake.md) · [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md) · [`pilot-dual-buyer-live-window-checklist.md`](pilot-dual-buyer-live-window-checklist.md) · [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md) · [`approver-review-training.md`](approver-review-training.md)  
 **Product name:** Supplier Desk
 
 **Evidence label:** Template only until rows are filled from **real** live packs.  
