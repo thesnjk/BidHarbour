@@ -6,6 +6,7 @@
 **Closeout:** [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md) (A → B → C)  
 **Fee / waiver (pack 1 gate):** [`pilot-fee-waiver-log.md`](pilot-fee-waiver-log.md)  
 **Metrics:** [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) (`P02` / `P03`)  
+**Repeat usage (scorecard):** [`pilot-repeat-usage-tracker.md`](pilot-repeat-usage-tracker.md)  
 **Kickoff (once only):** [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md)  
 **Design / offer:** [`../research/pilot-design.md`](../research/pilot-design.md) · [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md) — 4 weeks · max **3** packs  
 **Training (not Actuals):** [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md) dual-buyer / FO7 handoff  
@@ -72,6 +73,7 @@ Training characterisation: [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md).
 - [ ] Script B sent **or** inbound pack received **or** skipped to C  
 - [ ] New pack_id logged (`P02` / `P03`)  
 - [ ] Metrics row filled after Approver decision (real pilots only)  
+- [ ] Repeat-usage tracker updated → [`pilot-repeat-usage-tracker.md`](pilot-repeat-usage-tracker.md)  
 - [ ] FO7 check: no cross-buyer scoped cites  
 - [ ] Fee log still shows pack-1 gate satisfied — no invented second fee row  
 
@@ -80,6 +82,6 @@ Training characterisation: [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md).
 - Never process pack 2/3 on uncleared MSA/DPA or pending pack-1 fee.  
 - Never invent MISSING fills, certifications, or win rates.  
 - Never commit live customer packs to git.  
-- Never count DRY-008 / other dry-runs as scorecard Actuals.  
+- Never count DRY-008 / other dry-runs as scorecard Actuals or repeat usage.  
 - Never open pack 4 inside the pilot window (max 3).  
 - Never re-run full kickoff solely for packs 2–3 unless legal terms changed.

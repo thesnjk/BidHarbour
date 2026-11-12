@@ -11,7 +11,7 @@ Update weekly during the 8-week programme.
 | Paid pilots | 3 | 0 | | |
 | Continuations | ≥2 | 0 | | [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) (real `yes` only) |
 | Time/value | ≥90 min saved median or ≥£150/pack value | — | | Pre-pilot: [`interview-sharepoint-time-study.md`](interview-sharepoint-time-study.md); pilot contrast: [`../operations/baseline-minutes-worksheet.md`](../operations/baseline-minutes-worksheet.md); rollup: [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) |
-| Repeat usage | ≥2 packs / continuing customer / 60d | — | | |
+| Repeat usage | ≥2 packs / continuing customer / 60d | — | | [`../operations/pilot-repeat-usage-tracker.md`](../operations/pilot-repeat-usage-tracker.md) (live packs only) |
 | Support effort | &lt;45 min/customer/mo | — | | [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md) (live months only) |
 | Contribution margin | Positive by customer #6 | — | | |
 | Repeatable acquisition | ≥1 qualified discovery/week | — | | |

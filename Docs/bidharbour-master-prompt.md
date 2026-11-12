@@ -224,7 +224,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 94 | **done** | Scorecard Actuals update hygiene checklist (founder; synthesis→scorecard; no invent) → `research/scorecard-actuals-hygiene.md` | #1 |
 | 95 | **done** | When 90–94 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 96 | **done** | Minutes-saved customer leave-behind (blank Actuals; post–results-review; vs SharePoint; no invent) → `commercial/minutes-saved-leave-behind.md` | #6 |
-| 97 | todo | Repeat-usage tracker log (blank Actuals; ≥2 packs/60d; wires scorecard Repeat usage) → `operations/` | #2 |
+| 97 | **done** | Repeat-usage tracker log (blank Actuals; ≥2 packs/60d; wires scorecard Repeat usage) → `operations/pilot-repeat-usage-tracker.md` | #2 |
 | 98 | todo | FO7 Path B live scoped-answer write-back playbook (blank; no shared-library pollution) → `operations/` | #2 |
 | 99 | todo | Discovery no-show / densification rebook checklist (blank; wires grid + reply scripts) → `commercial/` | #6 |
 | 100 | todo | Close-out F testimonial capture template (blank quotes; no invent; wires closeout scripts) → `commercial/` | #6 |
