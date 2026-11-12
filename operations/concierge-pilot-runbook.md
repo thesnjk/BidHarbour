@@ -8,7 +8,7 @@
 **Completed dry-runs:** [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (DRY-001 PQQ) · [`pack-dry-run-dry-002.md`](pack-dry-run-dry-002.md) (DRY-002 SQ)  
 **Evidence intake:** [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md) · [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv)  
 **Synthetic library:** [`../testdata/synthetic-evidence-library-v1/`](../testdata/synthetic-evidence-library-v1/) (partial-library dry-runs)  
-**Customer-scoped answers (FO7):** [`../testdata/synthetic-customer-scoped-answers-v1/`](../testdata/synthetic-customer-scoped-answers-v1/) (DRY-007 / DRY-008)  
+**Customer-scoped answers (FO7):** [`../testdata/synthetic-customer-scoped-answers-v1/`](../testdata/synthetic-customer-scoped-answers-v1/) (DRY-007 / DRY-008) · live write-back → [`pilot-fo7-live-writeback-playbook.md`](pilot-fo7-live-writeback-playbook.md)  
 **MISSING queue email:** [`missing-queue-email.md`](missing-queue-email.md)  
 **Export manifest:** [`export-manifest-template.md`](export-manifest-template.md)  
 **Approver training:** [`approver-review-training.md`](approver-review-training.md)  

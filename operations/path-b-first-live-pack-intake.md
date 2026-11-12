@@ -40,7 +40,7 @@ Turn kickoff exit into a logged **P01** intake: encrypted receive → local evid
 2. **Local evidence CSV** — Copy [`pilot-evidence-library-intake.csv`](pilot-evidence-library-intake.csv) outside git; mark `received` / `expired` / `waived` per [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md).  
 3. **Metrics row** — Start a **local** row in metrics CSV: `pack_id`, `mode=live`, `customer_or_fixture`, `received_at` (leave minutes/missing blank until first draft). Do **not** invent values.  
 4. **Checklist extract** — Build per-pack requirement list (same shape as fixture); hand off to Path B step 2.  
-5. **FO7** — Buyer-specific / scoped answers stay scoped; do **not** merge into shared library without Approver + `applies_to` change (see DRY-007 / [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md)).  
+5. **FO7** — Buyer-specific / scoped answers stay scoped; do **not** merge into shared library without Approver + `applies_to` change. After Approver: follow [`pilot-fo7-live-writeback-playbook.md`](pilot-fo7-live-writeback-playbook.md) (training: DRY-007 / [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md)).  
 6. **Continue** — Path B steps 2–8 (match → MISSING queue → Approver → export → log → closeout **A**).
 
 ## Founder / operator checklist
