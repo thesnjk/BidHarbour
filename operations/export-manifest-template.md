@@ -5,7 +5,7 @@
 **Train first:** [`approver-review-training.md`](approver-review-training.md)  
 **Rule:** Export **blocked** while any required row is unapproved, **MISSING**, **EXPIRED**, or **CONFLICT** without an explicit waiver / Approver pick.
 
-Copy this page per pack (local only for live customers). Dry-runs may use fixture pack_ids (DRY-001–009). Filled blocked example: [`export-manifest-dry-009-filled.md`](export-manifest-dry-009-filled.md).
+Copy this page per pack (local only for live customers). Dry-runs may use fixture pack_ids (DRY-001–010). Filled blocked example: [`export-manifest-dry-009-filled.md`](export-manifest-dry-009-filled.md). Waiver ≠ Approve example: [`export-manifest-dry-010-filled.md`](export-manifest-dry-010-filled.md).
 
 ## Pack header
 

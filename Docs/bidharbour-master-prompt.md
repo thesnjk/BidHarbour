@@ -218,7 +218,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 88 | **done** | Pilot referral evidence packet template (blank Actuals; anonymised minutes/gates bullets; post–results-review referral) → `commercial/pilot-referral-evidence-packet.md` | #6 |
 | 89 | **done** | When 84–88 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 90 | **done** | Path B first live pack intake worksheet (blank; wires kickoff + runbook Path B; no confidential content in git) → `operations/path-b-first-live-pack-intake.md` | #2 |
-| 91 | todo | DRY-010 waiver discipline dry-run (recorded waiver does not unlock export without Approver; fixture-only; no live Actuals) → `operations/` | #2 |
+| 91 | **done** | DRY-010 waiver discipline dry-run (recorded waiver does not unlock export without Approver; fixture-only; no live Actuals) → `operations/pack-dry-run-dry-010.md` + `export-manifest-dry-010-filled.md` | #2 |
 | 92 | todo | Pilot support-burden log (blank Actuals; wires scorecard Support effort + metrics) → `operations/` | #2 |
 | 93 | todo | Warm-intro CRM intake checklist (blank; wires referral evidence packet + CRM stages; no invented emails) → `commercial/` | #6 |
 | 94 | todo | Scorecard Actuals update hygiene checklist (founder; synthesis→scorecard; no invent) → `research/` | #1 |

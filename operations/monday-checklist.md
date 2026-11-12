@@ -101,6 +101,7 @@
 - [x] Pilot referral evidence packet (blank Actuals; post–results-review → **G**) → [`../commercial/pilot-referral-evidence-packet.md`](../commercial/pilot-referral-evidence-packet.md)  
 - [x] Backlog re-rank: rows 90–94 queued (Path B live pack intake, DRY-010 waiver discipline, support-burden log, warm-intro CRM intake, scorecard Actuals hygiene — Lead: SharePoint live intake / Approver waiver / support burden / referral CRM / scorecard hygiene) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Path B first live pack intake worksheet (blank; P01; no confidential content in git) → [`path-b-first-live-pack-intake.md`](path-b-first-live-pack-intake.md)  
+- [x] Pack dry-run DRY-010 (operator waiver ≠ Approver Approve; Block export) → [`pack-dry-run-dry-010.md`](pack-dry-run-dry-010.md) · [`export-manifest-dry-010-filled.md`](export-manifest-dry-010-filled.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 
  
 
