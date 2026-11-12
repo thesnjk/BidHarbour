@@ -222,7 +222,13 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 92 | **done** | Pilot support-burden log (blank Actuals; wires scorecard Support effort + metrics) → `operations/pilot-support-burden-log.md` | #2 |
 | 93 | **done** | Warm-intro CRM intake checklist (blank; wires referral evidence packet + CRM stages; no invented emails) → `commercial/warm-intro-crm-intake.md` | #6 |
 | 94 | **done** | Scorecard Actuals update hygiene checklist (founder; synthesis→scorecard; no invent) → `research/scorecard-actuals-hygiene.md` | #1 |
-| 95 | todo | When 90–94 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 95 | **done** | When 90–94 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 96 | todo | Minutes-saved customer leave-behind (blank Actuals; post–results-review; vs SharePoint; no invent) → `commercial/` | #6 |
+| 97 | todo | Repeat-usage tracker log (blank Actuals; ≥2 packs/60d; wires scorecard Repeat usage) → `operations/` | #2 |
+| 98 | todo | FO7 Path B live scoped-answer write-back playbook (blank; no shared-library pollution) → `operations/` | #2 |
+| 99 | todo | Discovery no-show / densification rebook checklist (blank; wires grid + reply scripts) → `commercial/` | #6 |
+| 100 | todo | Close-out F testimonial capture template (blank quotes; no invent; wires closeout scripts) → `commercial/` | #6 |
+| 101 | todo | When 96–100 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 
