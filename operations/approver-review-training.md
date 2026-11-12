@@ -28,7 +28,8 @@ Walk the pack checklist + manifest row by row:
 2. Complete the manifest table (status + initials + date).  
 3. Tick **Approve export** only if every required row is approved or explicitly waived.  
 4. Tick **Block export** if anything required is still MISSING, EXPIRED, CONFLICT, or wrong — list blocking rows in Notes (both labels for CONFLICT).  
-5. After approve: founder delivers formats + updates metrics CSV (`export_approved=yes`).
+5. After approve: founder delivers formats + updates metrics CSV (`export_approved=yes`).  
+6. Live packs: log Approve/Block on [`pilot-approver-attestation-log.md`](pilot-approver-attestation-log.md) (blank Actuals in git until real).
 
 ## Waive vs block
 
@@ -45,7 +46,7 @@ Target: ≤**1** major rework loop after your first review ([`../research/pilot-
 
 ## Practice (dry-run)
 
-Rehearse on fixture packs (DRY-001–010) with [`../testdata/`](../testdata/) — synthetic only. **EXPIRED:** [`pack-dry-run-dry-005.md`](pack-dry-run-dry-005.md). **CONFLICT:** [`pack-dry-run-dry-006.md`](pack-dry-run-dry-006.md). **Filled manifest + Block export:** [`pack-dry-run-dry-009.md`](pack-dry-run-dry-009.md) · [`export-manifest-dry-009-filled.md`](export-manifest-dry-009-filled.md). **Waiver ≠ Approve export:** [`pack-dry-run-dry-010.md`](pack-dry-run-dry-010.md) · [`export-manifest-dry-010-filled.md`](export-manifest-dry-010-filled.md). Dry-runs do **not** count as scorecard GO evidence.
+Rehearse on fixture packs (DRY-001–011) with [`../testdata/`](../testdata/) — synthetic only. **EXPIRED:** [`pack-dry-run-dry-005.md`](pack-dry-run-dry-005.md). **CONFLICT:** [`pack-dry-run-dry-006.md`](pack-dry-run-dry-006.md). **Filled manifest + Block export:** [`pack-dry-run-dry-009.md`](pack-dry-run-dry-009.md) · [`export-manifest-dry-009-filled.md`](export-manifest-dry-009-filled.md). **Waiver ≠ Approve export:** [`pack-dry-run-dry-010.md`](pack-dry-run-dry-010.md) · [`export-manifest-dry-010-filled.md`](export-manifest-dry-010-filled.md). Dry-runs do **not** count as scorecard GO evidence or live attestation rows.
 
 ## Stop rules
 

@@ -913,6 +913,7 @@ Thin index: [`developer-map.md`](developer-map.md).
 | Library intake | [`../operations/pilot-evidence-library-intake.md`](../operations/pilot-evidence-library-intake.md) + CSV | Taxonomy / approval_status / expiry |
 | Missing queue email | [`../operations/missing-queue-email.md`](../operations/missing-queue-email.md) | Customer gap chase |
 | Approver training | [`../operations/approver-review-training.md`](../operations/approver-review-training.md) | Export gate behaviour |
+| Approver attestation log | [`../operations/pilot-approver-attestation-log.md`](../operations/pilot-approver-attestation-log.md) | Live Approve/Block; blank Actuals |
 | Export manifest | [`../operations/export-manifest-template.md`](../operations/export-manifest-template.md) | Evidence-version manifest |
 | Baseline minutes | [`../operations/baseline-minutes-worksheet.md`](../operations/baseline-minutes-worksheet.md) | FO8 pre-pilot |
 | Fee / waiver log | [`../operations/pilot-fee-waiver-log.md`](../operations/pilot-fee-waiver-log.md) | Blank Actuals |
