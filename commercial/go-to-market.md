@@ -67,13 +67,13 @@ Fixture-led runbook: [`concierge-discovery-demo-runbook.md`](concierge-discovery
 
 | Objection | Handle |
 |-----------|--------|
-| Constructionline | Different job — multi-customer packs |
+| Constructionline | Different job — multi-customer packs ([`constructionline-vs-multi-buyer-pack-matrix.md`](constructionline-vs-multi-buyer-pack-matrix.md)) |
 | SharePoint | Measure hours; pilot proves delta |
 | AI risk | Abstain + human approve; export gates |
 | Too busy | That’s the pain; pilot caps at 3 packs |
 | Price | Compare to half a consultant day |
 
-Expanded sheet: [`competitive-objection-sheet.md`](competitive-objection-sheet.md) — Constructionline, SharePoint, tender-AI, Complys; abstain + Approver; no win-rate claims.
+Expanded sheet: [`competitive-objection-sheet.md`](competitive-objection-sheet.md) — Constructionline, SharePoint, tender-AI, Complys; abstain + Approver; no win-rate claims. Constructionline scan matrix: [`constructionline-vs-multi-buyer-pack-matrix.md`](constructionline-vs-multi-buyer-pack-matrix.md).
 
 ## Referral strategy
 

@@ -57,7 +57,8 @@
 
 **AI risk:** “AI may draft later. Today we abstain: unsupported facts stay **MISSING**. Only a named Approver exports.”
 
-**Constructionline:** “Membership profiles help schemes. This is the next OEM questionnaire in the inbox — different job.”
+**Constructionline:** “Membership profiles help schemes. This is the next OEM questionnaire in the inbox — different job.”  
+Matrix: [`constructionline-vs-multi-buyer-pack-matrix.md`](constructionline-vs-multi-buyer-pack-matrix.md).
 
 More rows: [`competitive-objection-sheet.md`](competitive-objection-sheet.md).
 

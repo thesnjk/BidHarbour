@@ -28,7 +28,7 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 | Inbound pack → structured checklist | Concierge + fixture (`testdata/redacted-pqq-v1/`) | **Lead** (hypothesis) vs SharePoint; **Gap** vs SaaS until GO | Fixture + pilot runbook shipped; no paid interview proof yet |
 | Evidence match + abstain (MISSING) | Standing product principle | **Lead** vs tender-AI that invents prose; **Parity** with Evidash buyer validation (wrong side of market) | Master prompt / legal-data-policy |
 | Human approval before export | Non-negotiable gate | **Lead** vs autonomous bid tools | Pilot runbook Approver path |
-| Multi-customer packs (same SME, different buyers) | Core thesis | **Lead** vs Constructionline single profile | Business plan / executive decision |
+| Multi-customer packs (same SME, different buyers) | Core thesis | **Lead** vs Constructionline single profile | Business plan / executive decision; discovery/demo matrix [`../commercial/constructionline-vs-multi-buyer-pack-matrix.md`](../commercial/constructionline-vs-multi-buyer-pack-matrix.md) |
 | Norfolk SME price point | Pilot £250–£750 ex VAT / pack window | **Lead** vs Evidash $649+/mo buyer tools; **Parity** band with Complys/Velstrian monthly SaaS *if* validated | pilot-offer-sheet; scorecard Actual still 0 |
 | Public tender discovery | Out of scope | **Gap** by design (Velstrian/KimonBids Lead there) | competitors.md this file |
 | RFQ estimating | Out of scope / fallback only | **Gap** by design (ManufactIQ/FabPulse) | Fallback A below |
@@ -64,7 +64,7 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
  
  
 5. **2026-11-10 delta:** Velstrian mid-tier clarified as Pro **£149** (not a flat £49–£549 smear); Evidash dual USD/GBP Core cites documented; Complys/KimonBids tiers unchanged vs prior pass.  
-6. **Next agent band (queued, not shipped):** DRY-012 SQ EXPIRED gate + Constructionline vs multi-buyer matrix + Path A pack clock-time log + held discovery→pilot booking commitment + customer CONFLICT brief (backlog **#108–#112**) — strengthen EXPIRED abstention on multi-customer fixture, Constructionline differentiation, SharePoint minutes proof, pilot conversion, and CONFLICT vs tender-AI without inventing Actuals.
+6. **Next agent band:** DRY-012 shipped; Constructionline vs multi-buyer matrix shipped ([`../commercial/constructionline-vs-multi-buyer-pack-matrix.md`](../commercial/constructionline-vs-multi-buyer-pack-matrix.md)); remaining **#110–#112** — Path A pack clock-time log, held discovery→pilot booking, customer CONFLICT brief (SharePoint minutes / pilot conversion / CONFLICT vs tender-AI) without inventing Actuals.
 
 ## Gaps in this research
 
