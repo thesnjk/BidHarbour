@@ -234,7 +234,13 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 104 | **done** | Path B dual-buyer live in-window checklist (blank; wires DRY-008, repeat pack, FO7 write-back; no shared pollution) → `operations/pilot-dual-buyer-live-window-checklist.md` | #2 |
 | 105 | **done** | Customer MISSING/abstention brief template (blank; post gap-queue; vs tender-AI autofill; no invented prose) → `commercial/customer-missing-abstention-brief.md` | #6 |
 | 106 | **done** | Qualified discovery/week tracker (blank Actuals; held interviews only; wires scorecard Repeatable acquisition + interview grid) → `research/qualified-discovery-week-tracker.md` | #1 |
-| 107 | todo | When 102–106 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 107 | **done** | When 102–106 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 108 | todo | DRY-012 dry-run: EXPIRED library on `redacted-sq-v1` → EXPIRED flags + export block (fixture-only; Broads SQ multi-customer; metrics + method note) → `operations/pack-dry-run-dry-012.md` | #2 |
+| 109 | todo | Constructionline single-profile vs multi-buyer inbound pack matrix (blank Actuals; discovery/demo; scheme ≠ per-buyer packs) → `commercial/constructionline-vs-multi-buyer-pack-matrix.md` | #6 |
+| 110 | todo | Path A pilot per-pack clock-time log (blank Actuals; wires baseline, minutes rollup, scorecard Time/value; vs SharePoint; no invent) → `operations/path-a-pilot-pack-clock-time-log.md` | #2 |
+| 111 | todo | Held discovery → paid pilot booking commitment checklist (blank Actuals; wires qualified week tracker, CRM stages, discovery→pilot bridge; solicitor-gated) → `commercial/held-discovery-pilot-booking-commitment.md` | #6 |
+| 112 | todo | Customer CONFLICT/abstention brief template (blank; post gap-queue; vs tender-AI newest-wins; no invented resolution) → `commercial/customer-conflict-abstention-brief.md` | #6 |
+| 113 | todo | When 108–112 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 
