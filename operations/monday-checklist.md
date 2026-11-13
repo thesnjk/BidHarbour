@@ -117,6 +117,7 @@
 - [x] Path B dual-buyer live in-window checklist (blank; FO7 isolation) → [`pilot-dual-buyer-live-window-checklist.md`](pilot-dual-buyer-live-window-checklist.md)  
 - [x] Customer MISSING/abstention brief template (blank; vs tender-AI) → [`../commercial/customer-missing-abstention-brief.md`](../commercial/customer-missing-abstention-brief.md)  
 - [x] Qualified discovery/week tracker (blank Actuals; held only) → [`../research/qualified-discovery-week-tracker.md`](../research/qualified-discovery-week-tracker.md)  
+- [x] Backlog re-rank: rows 108–112 queued (DRY-012 SQ expired, Constructionline vs multi-buyer matrix, Path A pack clock-time log, held discovery→pilot booking, customer CONFLICT brief — Lead: EXPIRED multi-customer / Constructionline / SharePoint minutes / pilot conversion / CONFLICT vs tender-AI) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 
  
 
