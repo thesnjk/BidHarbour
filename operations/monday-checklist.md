@@ -118,6 +118,7 @@
 - [x] Customer MISSING/abstention brief template (blank; vs tender-AI) → [`../commercial/customer-missing-abstention-brief.md`](../commercial/customer-missing-abstention-brief.md)  
 - [x] Qualified discovery/week tracker (blank Actuals; held only) → [`../research/qualified-discovery-week-tracker.md`](../research/qualified-discovery-week-tracker.md)  
 - [x] Backlog re-rank: rows 108–112 queued (DRY-012 SQ expired, Constructionline vs multi-buyer matrix, Path A pack clock-time log, held discovery→pilot booking, customer CONFLICT brief — Lead: EXPIRED multi-customer / Constructionline / SharePoint minutes / pilot conversion / CONFLICT vs tender-AI) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
+- [x] Pack dry-run DRY-012 (Broads SQ + expired library; Q7 EL EXPIRED; Block export) → [`pack-dry-run-dry-012.md`](pack-dry-run-dry-012.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 
  
 

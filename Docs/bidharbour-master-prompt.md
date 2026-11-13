@@ -235,7 +235,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 105 | **done** | Customer MISSING/abstention brief template (blank; post gap-queue; vs tender-AI autofill; no invented prose) → `commercial/customer-missing-abstention-brief.md` | #6 |
 | 106 | **done** | Qualified discovery/week tracker (blank Actuals; held interviews only; wires scorecard Repeatable acquisition + interview grid) → `research/qualified-discovery-week-tracker.md` | #1 |
 | 107 | **done** | When 102–106 done: re-rank from open epics + gaps; append new rows surgically | — |
-| 108 | todo | DRY-012 dry-run: EXPIRED library on `redacted-sq-v1` → EXPIRED flags + export block (fixture-only; Broads SQ multi-customer; metrics + method note) → `operations/pack-dry-run-dry-012.md` | #2 |
+| 108 | **done** | DRY-012 dry-run: EXPIRED library on `redacted-sq-v1` → EXPIRED flags + export block (fixture-only; Broads SQ multi-customer; metrics + method note) → `operations/pack-dry-run-dry-012.md` | #2 |
 | 109 | todo | Constructionline single-profile vs multi-buyer inbound pack matrix (blank Actuals; discovery/demo; scheme ≠ per-buyer packs) → `commercial/constructionline-vs-multi-buyer-pack-matrix.md` | #6 |
 | 110 | todo | Path A pilot per-pack clock-time log (blank Actuals; wires baseline, minutes rollup, scorecard Time/value; vs SharePoint; no invent) → `operations/path-a-pilot-pack-clock-time-log.md` | #2 |
 | 111 | todo | Held discovery → paid pilot booking commitment checklist (blank Actuals; wires qualified week tracker, CRM stages, discovery→pilot bridge; solicitor-gated) → `commercial/held-discovery-pilot-booking-commitment.md` | #6 |

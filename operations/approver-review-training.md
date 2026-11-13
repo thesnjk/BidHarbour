@@ -46,7 +46,7 @@ Target: ≤**1** major rework loop after your first review ([`../research/pilot-
 
 ## Practice (dry-run)
 
-Rehearse on fixture packs (DRY-001–011) with [`../testdata/`](../testdata/) — synthetic only. **EXPIRED:** [`pack-dry-run-dry-005.md`](pack-dry-run-dry-005.md). **CONFLICT:** [`pack-dry-run-dry-006.md`](pack-dry-run-dry-006.md). **Filled manifest + Block export:** [`pack-dry-run-dry-009.md`](pack-dry-run-dry-009.md) · [`export-manifest-dry-009-filled.md`](export-manifest-dry-009-filled.md). **Waiver ≠ Approve export:** [`pack-dry-run-dry-010.md`](pack-dry-run-dry-010.md) · [`export-manifest-dry-010-filled.md`](export-manifest-dry-010-filled.md). Dry-runs do **not** count as scorecard GO evidence or live attestation rows.
+Rehearse on fixture packs (DRY-001–012) with [`../testdata/`](../testdata/) — synthetic only. **EXPIRED (PQQ):** [`pack-dry-run-dry-005.md`](pack-dry-run-dry-005.md). **EXPIRED (Broads SQ):** [`pack-dry-run-dry-012.md`](pack-dry-run-dry-012.md). **CONFLICT:** [`pack-dry-run-dry-006.md`](pack-dry-run-dry-006.md). **Filled manifest + Block export:** [`pack-dry-run-dry-009.md`](pack-dry-run-dry-009.md) · [`export-manifest-dry-009-filled.md`](export-manifest-dry-009-filled.md). **Waiver ≠ Approve export:** [`pack-dry-run-dry-010.md`](pack-dry-run-dry-010.md) · [`export-manifest-dry-010-filled.md`](export-manifest-dry-010-filled.md). Dry-runs do **not** count as scorecard GO evidence or live attestation rows.
 
 ## Stop rules
 

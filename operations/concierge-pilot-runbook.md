@@ -52,7 +52,8 @@
 **Done (2026-11-11):** dual-buyer pilot-window DRY-008 → [`pack-dry-run-dry-008.md`](pack-dry-run-dry-008.md) (Harbour Wind PQQ → Broads SQ; FO7 isolation; both exports blocked).  
 **Done (2026-11-11):** filled-manifest Approver discipline DRY-009 → [`pack-dry-run-dry-009.md`](pack-dry-run-dry-009.md) · [`export-manifest-dry-009-filled.md`](export-manifest-dry-009-filled.md) (partial library; Block export).  
 **Done (2026-11-12):** waiver discipline DRY-010 → [`pack-dry-run-dry-010.md`](pack-dry-run-dry-010.md) · [`export-manifest-dry-010-filled.md`](export-manifest-dry-010-filled.md) (operator waiver ≠ Approver Approve; Block export).  
-**Done (2026-11-12):** structured checklist extract DRY-011 → [`pack-dry-run-dry-011.md`](pack-dry-run-dry-011.md) · [`requirement-checklist-dry-011.md`](requirement-checklist-dry-011.md) (inbound PQQ → 22/22 Q-rows; vs SharePoint; export blocked).
+**Done (2026-11-12):** structured checklist extract DRY-011 → [`pack-dry-run-dry-011.md`](pack-dry-run-dry-011.md) · [`requirement-checklist-dry-011.md`](requirement-checklist-dry-011.md) (inbound PQQ → 22/22 Q-rows; vs SharePoint; export blocked).  
+**Done (2026-11-13):** expired-library DRY-012 → [`pack-dry-run-dry-012.md`](pack-dry-run-dry-012.md) (Broads SQ + `synthetic-evidence-library-v1-expired`; Q7 EL EXPIRED; 6 MISSING; Block export).
 
 ## Path B — Live pack (after legal clearance)
 
