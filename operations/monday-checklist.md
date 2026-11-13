@@ -119,6 +119,7 @@
 - [x] Qualified discovery/week tracker (blank Actuals; held only) → [`../research/qualified-discovery-week-tracker.md`](../research/qualified-discovery-week-tracker.md)  
 - [x] Backlog re-rank: rows 108–112 queued (DRY-012 SQ expired, Constructionline vs multi-buyer matrix, Path A pack clock-time log, held discovery→pilot booking, customer CONFLICT brief — Lead: EXPIRED multi-customer / Constructionline / SharePoint minutes / pilot conversion / CONFLICT vs tender-AI) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Pack dry-run DRY-012 (Broads SQ + expired library; Q7 EL EXPIRED; Block export) → [`pack-dry-run-dry-012.md`](pack-dry-run-dry-012.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
+- [x] Constructionline vs multi-buyer inbound pack matrix (blank Actuals; discovery/demo) → [`../commercial/constructionline-vs-multi-buyer-pack-matrix.md`](../commercial/constructionline-vs-multi-buyer-pack-matrix.md)  
 
  
 
