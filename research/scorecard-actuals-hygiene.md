@@ -3,7 +3,7 @@
 **Epic:** [#1](https://github.com/thesnjk/BidHarbour/issues/1)  
 **Use on:** Friday ritual / after each completed interview, observation, or live pilot close  
 **Scorecard:** [`validation-scorecard.md`](validation-scorecard.md)  
-**Companions:** [`interview-synthesis.md`](interview-synthesis.md) · [`observation-session-log.md`](observation-session-log.md) · [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) · [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md) · [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) · [`week4-gate-checklist.md`](week4-gate-checklist.md) · [`week8-gate-checklist.md`](week8-gate-checklist.md)  
+**Companions:** [`interview-synthesis.md`](interview-synthesis.md) · [`observation-session-log.md`](observation-session-log.md) · [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) · [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md) · [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) · [`../operations/path-a-pilot-pack-clock-time-log.md`](../operations/path-a-pilot-pack-clock-time-log.md) · [`week4-gate-checklist.md`](week4-gate-checklist.md) · [`week8-gate-checklist.md`](week8-gate-checklist.md)  
 **Lead gap:** validation proof path — one map from source artefacts → Actuals without inventing
 
 **Evidence label:** Checklist template only. Do **not** invent Actuals, INT/OBS/pack IDs, or Pass marks in git. Leave scorecard numbers at current zeros / `—` until real evidence exists.
@@ -20,7 +20,7 @@ Update [`validation-scorecard.md`](validation-scorecard.md) honestly: each Actua
 | Workflow evidence | Distinct firms with completed `OBS-*` / interview-equivalent INT ([`observation-session-log.md`](observation-session-log.md)) | Send logs; synthetic dry-runs |
 | Paid pilots | Live packs completed (kickoff + Path B; metrics `mode=live`) | DRY-00x; unsigned MSA stubs |
 | Continuations | Written `yes` rows in [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) | Verbal interest; pending D |
-| Time/value | Live minutes contrast [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) (+ baseline) | DRY wall-clock; invented £ |
+| Time/value | Live minutes contrast [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) (+ baseline); live capture [`../operations/path-a-pilot-pack-clock-time-log.md`](../operations/path-a-pilot-pack-clock-time-log.md) | DRY wall-clock; invented £ |
 | Repeat usage | [`../operations/pilot-repeat-usage-tracker.md`](../operations/pilot-repeat-usage-tracker.md) (live packs ≥2 / 60d) | Dry-run pack sequences; continuation yes alone |
 | Support effort | Monthly rows in [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md) | DRY `support_minutes=0` |
 | Contribution margin | Real fee/cost notes (founder private) after customer #6 | Hypotheses only |
