@@ -123,6 +123,7 @@
 - [x] Path A pilot per-pack clock-time log (blank Actuals; wires baseline / rollup / Time/value; vs SharePoint) → [`path-a-pilot-pack-clock-time-log.md`](path-a-pilot-pack-clock-time-log.md)  
 - [x] Held discovery → paid pilot booking commitment checklist (blank Actuals; solicitor-gated) → [`../commercial/held-discovery-pilot-booking-commitment.md`](../commercial/held-discovery-pilot-booking-commitment.md)  
 - [x] Customer CONFLICT/abstention brief template (blank; vs tender-AI newest-wins) → [`../commercial/customer-conflict-abstention-brief.md`](../commercial/customer-conflict-abstention-brief.md)  
+- [x] Backlog re-rank: rows 114–118 queued (EXPIRED brief, Complys vault matrix, DRY-013 stacked gates, observation scatter worksheet, Evidash wrong-side one-pager — Lead: EXPIRED customer comms / Complys copycat / Approver export / SharePoint workflow evidence / buyer-SaaS price anchor) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 
  
 

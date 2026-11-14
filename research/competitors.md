@@ -64,7 +64,7 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
  
  
 5. **2026-11-10 delta:** Velstrian mid-tier clarified as Pro **£149** (not a flat £49–£549 smear); Evidash dual USD/GBP Core cites documented; Complys/KimonBids tiers unchanged vs prior pass.  
-6. **Next agent band:** DRY-012 shipped; Constructionline vs multi-buyer matrix shipped ([`../commercial/constructionline-vs-multi-buyer-pack-matrix.md`](../commercial/constructionline-vs-multi-buyer-pack-matrix.md)); remaining **#110–#112** — Path A pack clock-time log, held discovery→pilot booking, customer CONFLICT brief (SharePoint minutes / pilot conversion / CONFLICT vs tender-AI) without inventing Actuals.
+6. **Next agent band (queued, not shipped):** customer EXPIRED abstention brief + Complys vault vs inbound pack matrix + DRY-013 stacked export gates + observation inbound-pack scatter worksheet + Evidash buyer vs Supplier Desk one-pager (backlog **#114–#118**) — Lead: EXPIRED customer comms / Complys copycat / Approver export composite gate / SharePoint workflow evidence / buyer-SaaS wrong-side price anchor — without inventing Actuals. Band **#108–#112** shipped (DRY-012, Constructionline matrix, Path A clock-time, held→pilot booking, CONFLICT brief).
 
 ## Gaps in this research
 
