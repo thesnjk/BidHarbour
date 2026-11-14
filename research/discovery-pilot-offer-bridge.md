@@ -72,6 +72,7 @@ flowchart LR
 ## Related
 
 - Offer sheet: [`../commercial/pilot-offer-sheet.md`](../commercial/pilot-offer-sheet.md)  
+- Held → commitment densification: [`../commercial/held-discovery-pilot-booking-commitment.md`](../commercial/held-discovery-pilot-booking-commitment.md)  
 - Fee / waiver: [`../operations/pilot-fee-waiver-log.md`](../operations/pilot-fee-waiver-log.md)  
 - Solicitor send checklist: [`../security-and-legal/solicitor-send-checklist.md`](../security-and-legal/solicitor-send-checklist.md)  
 - Solicitor return intake: [`../security-and-legal/solicitor-return-intake-checklist.md`](../security-and-legal/solicitor-return-intake-checklist.md)  
