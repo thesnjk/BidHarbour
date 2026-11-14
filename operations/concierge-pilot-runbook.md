@@ -40,7 +40,7 @@
 3. Start timer. For each question: attach a fictional source **or** mark **MISSING**.  
 4. Hand draft to Approver; record rework loops.  
 5. Export only after Approver approval or explicit waiver.  
-6. Stop timer; fill one row in [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) (`mode=dry_run`).
+6. Stop timer; fill one row in [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) (`mode=dry_run`); optionally log phases on [`path-a-pilot-pack-clock-time-log.md`](path-a-pilot-pack-clock-time-log.md) (founder re-time — DRY ≠ scorecard).
 
 **Done (2026-11-10):** empty-library DRY-001 → [`pack-dry-run-dry-001.md`](pack-dry-run-dry-001.md) (22 MISSING; export blocked).  
 **Done (2026-11-10):** empty-library DRY-002 → [`pack-dry-run-dry-002.md`](pack-dry-run-dry-002.md) (18 MISSING Broads SQ; export blocked; multi-customer thesis).  
@@ -75,6 +75,8 @@ Repeat for up to **3** packs in the 4-week window — operator checklist: [`pilo
 After each pack (dry-run or live), one CSV row in [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv):
 
 - `minutes_to_first_draft`, `missing_fields_first_draft`, `rework_loops`, `support_minutes`, `export_approved` (yes/no)
+
+Per-pack phased clock (optional Path A re-time; required discipline for live): [`path-a-pilot-pack-clock-time-log.md`](path-a-pilot-pack-clock-time-log.md) — CSV total must match; DRY wall-clock ≠ Time/value.
 
 Customer baseline (kickoff only): [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) — contrast live rows at results review via [`minutes-saved-contrast-rollup.md`](minutes-saved-contrast-rollup.md) and [`pilot-results-review-agenda.md`](pilot-results-review-agenda.md); DRY-00x rows are not baseline Actuals.
 

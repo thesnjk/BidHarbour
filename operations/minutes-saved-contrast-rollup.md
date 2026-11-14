@@ -31,6 +31,7 @@ Single place to compute **Time/value** contrast across:
 | Pre-pilot | [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md) | Last inbound pack total admin minutes / tools (INT-ID) |
 | Kickoff baseline | [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) | Total admin minutes (or agreed time-to-first-draft) for last comparable pack |
 | Live pilot | [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) | `minutes_to_first_draft`, `support_minutes`, `rework_loops`; `export_approved`; live mode only |
+| Live per-pack clock | [`path-a-pilot-pack-clock-time-log.md`](path-a-pilot-pack-clock-time-log.md) | Phased timestamps that justify CSV `minutes_to_first_draft` (**live only** for this rollup; ignore `dry_run`) |
 | Design thresholds | [`../research/pilot-design.md`](../research/pilot-design.md) | ≥40% reduction **or** ≥90 min saved; £ value alternative on scorecard |
 
 ## Thresholds (pass definitions)
@@ -75,5 +76,6 @@ Optional: if interview time-study exists for the same CRM id and no kickoff base
 
 - Kickoff: [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md) §2 Baseline workshop  
 - Path B logging: [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md)  
+- Per-pack clock (live capture): [`path-a-pilot-pack-clock-time-log.md`](path-a-pilot-pack-clock-time-log.md)  
 - Continuation (separate gate): [`pilot-continuation-log.md`](pilot-continuation-log.md)  
 - Customer leave-behind (post–results-review): [`../commercial/minutes-saved-leave-behind.md`](../commercial/minutes-saved-leave-behind.md)  
