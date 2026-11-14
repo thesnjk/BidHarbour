@@ -240,7 +240,13 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 110 | **done** | Path A pilot per-pack clock-time log (blank Actuals; wires baseline, minutes rollup, scorecard Time/value; vs SharePoint; no invent) → `operations/path-a-pilot-pack-clock-time-log.md` | #2 |
 | 111 | **done** | Held discovery → paid pilot booking commitment checklist (blank Actuals; wires qualified week tracker, CRM stages, discovery→pilot bridge; solicitor-gated) → `commercial/held-discovery-pilot-booking-commitment.md` | #6 |
 | 112 | **done** | Customer CONFLICT/abstention brief template (blank; post gap-queue; vs tender-AI newest-wins; no invented resolution) → `commercial/customer-conflict-abstention-brief.md` | #6 |
-| 113 | todo | When 108–112 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 113 | **done** | When 108–112 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 114 | todo | Customer EXPIRED/abstention brief template (blank; post gap-queue; vs silent renew/autofill; no invented dates) → `commercial/customer-expired-abstention-brief.md` | #6 |
+| 115 | todo | Complys contractor vault vs inbound OEM pack matrix (blank Actuals; discovery/demo; RAMS/vault ≠ per-buyer Approver export) → `commercial/complys-vault-vs-inbound-pack-matrix.md` | #6 |
+| 116 | todo | DRY-013 dry-run: stacked export blocks on fixture (EXPIRED + CONFLICT + unsigned Approver; metrics + method note) → `operations/pack-dry-run-dry-013.md` | #2 |
+| 117 | todo | Observation inbound-pack scatter capture worksheet (blank Actuals; wires time-study, observation kit, checklist Lead) → `research/observation-inbound-pack-scatter-worksheet.md` | #1 |
+| 118 | todo | Evidash buyer-side vs Supplier Desk supplier job one-pager (dated public pricing context only; no invented proof) → `commercial/evidash-buyer-vs-supplier-desk-one-pager.md` | #6 |
+| 119 | todo | When 114–118 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 
