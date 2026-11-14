@@ -3,7 +3,7 @@
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
 **Use after / with:** MISSING queue ([`../operations/missing-queue-email.md`](../operations/missing-queue-email.md)) — Path B step 4  
 **Lead gap:** MISSING abstention vs tender-AI autofill  
-**Companions:** [`customer-conflict-abstention-brief.md`](customer-conflict-abstention-brief.md) · [`competitive-objection-sheet.md`](competitive-objection-sheet.md) (Tender-AI) · [`../operations/approver-review-training.md`](../operations/approver-review-training.md) · [`../operations/concierge-pilot-runbook.md`](../operations/concierge-pilot-runbook.md) · [`concierge-discovery-demo-runbook.md`](concierge-discovery-demo-runbook.md)  
+**Companions:** [`customer-conflict-abstention-brief.md`](customer-conflict-abstention-brief.md) · [`customer-expired-abstention-brief.md`](customer-expired-abstention-brief.md) · [`competitive-objection-sheet.md`](competitive-objection-sheet.md) (Tender-AI) · [`../operations/approver-review-training.md`](../operations/approver-review-training.md) · [`../operations/concierge-pilot-runbook.md`](../operations/concierge-pilot-runbook.md) · [`concierge-discovery-demo-runbook.md`](concierge-discovery-demo-runbook.md)  
 **Product name:** Supplier Desk
 
 **Evidence label:** Template only until filled from a **real** pack’s gap list.  
