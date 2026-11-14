@@ -3,7 +3,7 @@
 **Epic:** [#2](https://github.com/thesnjk/BidHarbour/issues/2)  
 **Use at:** Path B step 4 in [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md)  
 **SLA:** customer reply ≤ **3 business days** ([`../research/pilot-design.md`](../research/pilot-design.md))  
-**Abstention brief (why gaps stay MISSING):** [`../commercial/customer-missing-abstention-brief.md`](../commercial/customer-missing-abstention-brief.md)  
+**Abstention briefs:** MISSING → [`../commercial/customer-missing-abstention-brief.md`](../commercial/customer-missing-abstention-brief.md) · CONFLICT → [`../commercial/customer-conflict-abstention-brief.md`](../commercial/customer-conflict-abstention-brief.md)  
 **Product name:** Supplier Desk
 
 **Rule:** List gaps only. Do **not** invent certifications, insurance, or capabilities. Live packs require solicitor-cleared MSA/DPA.
@@ -42,8 +42,9 @@ Supplier Desk (BidHarbour pilot)
 
 1. Log send time in pack notes / metrics `notes`.  
 2. Optionally send / attach [`../commercial/customer-missing-abstention-brief.md`](../commercial/customer-missing-abstention-brief.md) (why we abstain vs autofill).  
-3. On receipt: update local intake CSV (`received` / `waived`); rematch checklist.  
-4. Still-MISSING after SLA: Approver may **waive** (recorded) or block export — never silent-fill.
+3. If open **CONFLICT** rows: optionally attach [`../commercial/customer-conflict-abstention-brief.md`](../commercial/customer-conflict-abstention-brief.md) (dual cites; no newest-wins).  
+4. On receipt: update local intake CSV (`received` / `waived`); rematch checklist.  
+5. Still-MISSING / CONFLICT after SLA: Approver may **waive** (recorded), pick/retire a CONFLICT source, or block export — never silent-fill / newest-wins.
 
 ## Stop rules
 

@@ -122,6 +122,7 @@
 - [x] Constructionline vs multi-buyer inbound pack matrix (blank Actuals; discovery/demo) → [`../commercial/constructionline-vs-multi-buyer-pack-matrix.md`](../commercial/constructionline-vs-multi-buyer-pack-matrix.md)  
 - [x] Path A pilot per-pack clock-time log (blank Actuals; wires baseline / rollup / Time/value; vs SharePoint) → [`path-a-pilot-pack-clock-time-log.md`](path-a-pilot-pack-clock-time-log.md)  
 - [x] Held discovery → paid pilot booking commitment checklist (blank Actuals; solicitor-gated) → [`../commercial/held-discovery-pilot-booking-commitment.md`](../commercial/held-discovery-pilot-booking-commitment.md)  
+- [x] Customer CONFLICT/abstention brief template (blank; vs tender-AI newest-wins) → [`../commercial/customer-conflict-abstention-brief.md`](../commercial/customer-conflict-abstention-brief.md)  
 
  
 

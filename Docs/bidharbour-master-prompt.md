@@ -239,7 +239,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 109 | **done** | Constructionline single-profile vs multi-buyer inbound pack matrix (blank Actuals; discovery/demo; scheme ≠ per-buyer packs) → `commercial/constructionline-vs-multi-buyer-pack-matrix.md` | #6 |
 | 110 | **done** | Path A pilot per-pack clock-time log (blank Actuals; wires baseline, minutes rollup, scorecard Time/value; vs SharePoint; no invent) → `operations/path-a-pilot-pack-clock-time-log.md` | #2 |
 | 111 | **done** | Held discovery → paid pilot booking commitment checklist (blank Actuals; wires qualified week tracker, CRM stages, discovery→pilot bridge; solicitor-gated) → `commercial/held-discovery-pilot-booking-commitment.md` | #6 |
-| 112 | todo | Customer CONFLICT/abstention brief template (blank; post gap-queue; vs tender-AI newest-wins; no invented resolution) → `commercial/customer-conflict-abstention-brief.md` | #6 |
+| 112 | **done** | Customer CONFLICT/abstention brief template (blank; post gap-queue; vs tender-AI newest-wins; no invented resolution) → `commercial/customer-conflict-abstention-brief.md` | #6 |
 | 113 | todo | When 108–112 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
