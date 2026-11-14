@@ -4,7 +4,7 @@
 **Use after:** each **Held** interview, or Friday densification rollup  
 **Scorecard:** [`validation-scorecard.md`](validation-scorecard.md) Repeatable acquisition (≥1 qualified discovery/week)  
 **Week-8 gate:** [`week8-gate-checklist.md`](week8-gate-checklist.md)  
-**Companions:** [`interview-grid-8wk.md`](interview-grid-8wk.md) · [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md) · [`scorecard-actuals-hygiene.md`](scorecard-actuals-hygiene.md)  
+**Companions:** [`interview-grid-8wk.md`](interview-grid-8wk.md) · [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md) · [`../commercial/held-discovery-pilot-booking-commitment.md`](../commercial/held-discovery-pilot-booking-commitment.md) · [`scorecard-actuals-hygiene.md`](scorecard-actuals-hygiene.md)  
 **Product name:** Supplier Desk
 
 **Evidence label:** Template only until rows are filled from **real** held interviews.  

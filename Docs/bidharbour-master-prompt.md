@@ -238,7 +238,7 @@ On every bare continue / attach of this file: pick the **first unfinished** row,
 | 108 | **done** | DRY-012 dry-run: EXPIRED library on `redacted-sq-v1` → EXPIRED flags + export block (fixture-only; Broads SQ multi-customer; metrics + method note) → `operations/pack-dry-run-dry-012.md` | #2 |
 | 109 | **done** | Constructionline single-profile vs multi-buyer inbound pack matrix (blank Actuals; discovery/demo; scheme ≠ per-buyer packs) → `commercial/constructionline-vs-multi-buyer-pack-matrix.md` | #6 |
 | 110 | **done** | Path A pilot per-pack clock-time log (blank Actuals; wires baseline, minutes rollup, scorecard Time/value; vs SharePoint; no invent) → `operations/path-a-pilot-pack-clock-time-log.md` | #2 |
-| 111 | todo | Held discovery → paid pilot booking commitment checklist (blank Actuals; wires qualified week tracker, CRM stages, discovery→pilot bridge; solicitor-gated) → `commercial/held-discovery-pilot-booking-commitment.md` | #6 |
+| 111 | **done** | Held discovery → paid pilot booking commitment checklist (blank Actuals; wires qualified week tracker, CRM stages, discovery→pilot bridge; solicitor-gated) → `commercial/held-discovery-pilot-booking-commitment.md` | #6 |
 | 112 | todo | Customer CONFLICT/abstention brief template (blank; post gap-queue; vs tender-AI newest-wins; no invented resolution) → `commercial/customer-conflict-abstention-brief.md` | #6 |
 | 113 | todo | When 108–112 done: re-rank from open epics + gaps; append new rows surgically | — |
 

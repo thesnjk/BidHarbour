@@ -34,14 +34,15 @@ Reserve / construction-control / non-ICP rows may move stages for honesty — **
 
 1. Keep `Discovery`.  
 2. `notes`: `int={{INT-ID}}` (and time-study if used).  
-3. Follow bridge checklist [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md).
-4. Confirm [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md) **PASS** before Script A.
-5. If pain fits ICP and they are open to a pilot **and** gate PASS → send [`pilot-offer-email.md`](pilot-offer-email.md) Script A → add `pilot_offer_sent`.
-6. If gate FAIL/pending → Script B deferral; keep Discovery + `pilot_offer_held_legal`.
+3. Follow bridge checklist [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md).  
+4. Same-day commitment densification: [`held-discovery-pilot-booking-commitment.md`](held-discovery-pilot-booking-commitment.md).  
+5. Confirm [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md) **PASS** before Script A.  
+6. If pain fits ICP and they are open to a pilot **and** gate PASS → send [`pilot-offer-email.md`](pilot-offer-email.md) Script A → add `pilot_offer_sent`.  
+7. If gate FAIL/pending → Script B deferral; keep Discovery + `pilot_offer_held_legal`.
 
 ### C — Written interest in paid pilot
 
-1. Move to `Pilot` only when kickoff is **in motion** (MSA/DPA path, fee discussion, or kickoff booked) — not on “sounds interesting” alone.  
+1. Move to `Pilot` only when kickoff is **in motion** (MSA/DPA path, fee discussion, or kickoff booked) — not on “sounds interesting” alone. Use [`held-discovery-pilot-booking-commitment.md`](held-discovery-pilot-booking-commitment.md) for written interest + kickoff booking log.  
 2. `notes`: `pilot_offer_accepted` · `fee_pending` until logged.  
 3. On fee: update [`../operations/pilot-fee-waiver-log.md`](../operations/pilot-fee-waiver-log.md) **and** CRM `fee_received` or `fee_waived`.  
 4. On cleared MSA/DPA: add `msa_cleared` (date in private notes OK).
