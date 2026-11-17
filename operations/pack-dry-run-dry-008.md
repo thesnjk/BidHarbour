@@ -12,6 +12,7 @@
 **Runbook:** Path A in [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md) · Intake: [`pilot-evidence-library-intake.md`](pilot-evidence-library-intake.md) · Approver: [`approver-review-training.md`](approver-review-training.md) · Closeout B intent: [`pilot-closeout-scripts.md`](pilot-closeout-scripts.md)  
 **Live Path B companion (packs 2–3):** [`pilot-repeat-pack-playbook.md`](pilot-repeat-pack-playbook.md) — dry-run ≠ live Actuals  
 **Live dual-buyer window checklist:** [`pilot-dual-buyer-live-window-checklist.md`](pilot-dual-buyer-live-window-checklist.md) — training ≠ live proof  
+**Scoped-export follow-on:** [`pack-dry-run-dry-014.md`](pack-dry-run-dry-014.md) — FO7 cites on Broads export story only  
 **Metrics row:** [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 **Prior:** [`pack-dry-run-dry-003.md`](pack-dry-run-dry-003.md) (Harbour Wind partial) · [`pack-dry-run-dry-007.md`](pack-dry-run-dry-007.md) (FO7 Broads + Harbour Wind control)
 
