@@ -125,6 +125,7 @@
 - [x] Customer CONFLICT/abstention brief template (blank; vs tender-AI newest-wins) → [`../commercial/customer-conflict-abstention-brief.md`](../commercial/customer-conflict-abstention-brief.md)  
 - [x] Backlog re-rank: rows 114–118 queued (EXPIRED brief, Complys vault matrix, DRY-013 stacked gates, observation scatter worksheet, Evidash wrong-side one-pager — Lead: EXPIRED customer comms / Complys copycat / Approver export / SharePoint workflow evidence / buyer-SaaS price anchor) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Customer EXPIRED/abstention brief template (blank; vs silent renew/autofill) → [`../commercial/customer-expired-abstention-brief.md`](../commercial/customer-expired-abstention-brief.md)  
+- [x] Complys vault vs inbound OEM pack matrix (blank Actuals; discovery/demo) → [`../commercial/complys-vault-vs-inbound-pack-matrix.md`](../commercial/complys-vault-vs-inbound-pack-matrix.md)  
 
  
 

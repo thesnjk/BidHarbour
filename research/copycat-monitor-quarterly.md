@@ -3,6 +3,7 @@
 **Epic:** [#1](https://github.com/thesnjk/BidHarbour/issues/1)  
 **Cadence:** Quarterly (public pages only)  
 **Lead gap:** Complys or tender-AI adding a “customer pack importer” that blurs Supplier Desk’s inbound-pack + MISSING + Approver job ([`competitors.md`](competitors.md) §4)  
+**Scan matrix (vault ≠ inbound packs):** [`../commercial/complys-vault-vs-inbound-pack-matrix.md`](../commercial/complys-vault-vs-inbound-pack-matrix.md)  
 **Companions:** [`competitors.md`](competitors.md) · [`../commercial/competitive-objection-sheet.md`](../commercial/competitive-objection-sheet.md)  
 **Baseline honesty pass:** 2026-11-10 (pricing notes; see competitors.md)
 
@@ -54,7 +55,7 @@ Fill **Y / N / blank** only from pages you opened this pass. Record URL + date. 
 2. Browse public pages for Complys, Velstrian, KimonBids (optional Constructionline glance).  
 3. Tick checklist from what you **saw** — leave blank if not checked.  
 4. Classify any new claims via the signal table.  
-5. If material delta: patch [`competitors.md`](competitors.md) dated observation + [`../commercial/competitive-objection-sheet.md`](../commercial/competitive-objection-sheet.md) talk track in a normal PR.  
+5. If material delta: patch [`competitors.md`](competitors.md) dated observation + [`../commercial/competitive-objection-sheet.md`](../commercial/competitive-objection-sheet.md) talk track in a normal PR; refresh [`../commercial/complys-vault-vs-inbound-pack-matrix.md`](../commercial/complys-vault-vs-inbound-pack-matrix.md) only if the job contrast changes (no invented parity).  
 6. Do **not** run a full Firecrawl sweep pre-GO unless posture moves post-GO (master prompt competitive research section).
 
 ## Stop rules
