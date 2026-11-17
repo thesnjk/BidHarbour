@@ -18,7 +18,8 @@ Start here:
 6. [`operations/monday-checklist.md`](operations/monday-checklist.md)  
 7. [`research/validation-scorecard.md`](research/validation-scorecard.md)
 
-Agent standing orders (**committed** in this private repo): [`Docs/bidharbour-master-prompt.md`](Docs/bidharbour-master-prompt.md)
+Agent standing orders (**local-only, not committed**): `Docs/bidharbour-master-prompt.md` (attach with `@`).  
+Pre-GO Continue queue (**committed**): [`Docs/agent-backlog.md`](Docs/agent-backlog.md)
 
 ## Repo layout
 

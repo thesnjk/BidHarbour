@@ -3,12 +3,12 @@
 **As-of:** 2026-11-17  
 **Purpose:** Pre-flight before shipping agent Continues / OS PRs. Mark Pass only with dated evidence — do **not** invent Actuals or GO dates.
 
-Direction: [`project-charter.md`](project-charter.md) · Rules: [`bidharbour-master-prompt.md`](bidharbour-master-prompt.md)
+Direction: [`project-charter.md`](project-charter.md) · Rules: local-only `bidharbour-master-prompt.md` · Continue queue: [`agent-backlog.md`](agent-backlog.md)
 
 | # | Check | Pass? | Evidence / notes | Date |
 |---|-------|-------|------------------|------|
-| 1 | Charter present; prompt points to it as direction SoT | | | |
-| 2 | Dual-backlog: Continue = master-prompt table; `product/backlog.md` = post-GO only | | | |
+| 1 | Charter present; local prompt points to it as direction SoT; prompt **not** in git | | | |
+| 2 | Dual-backlog: Continue = `agent-backlog.md`; `product/backlog.md` = post-GO only | | | |
 | 3 | Evidence labels used on material claims (five labels) | | | |
 | 4 | No invented interviews / scorecard Actuals / GO dates | | | |
 | 5 | Human-approval + MISSING/EXPIRED/CONFLICT abstention intact | | | |
