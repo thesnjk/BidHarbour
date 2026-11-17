@@ -144,7 +144,7 @@ On every bare continue / attach of the local master prompt: (1) inspect workspac
 | 125 | **done** | When 120–124 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 126 | **done** | SharePoint folders vs inbound checklist + Approver matrix (blank Actuals; discovery/demo; checklist Lead vs folder scatter) → `commercial/sharepoint-vs-inbound-checklist-matrix.md` | #6 |
 | 127 | **done** | Tender-AI wrong-fight one-pager (Velstrian/KimonBids; Gap-by-design; no win-rate claims) → `commercial/tender-ai-wrong-fight-one-pager.md` | #6 |
-| 128 | todo | RFQ backup exclusion one-pager (ManufactIQ/FabPulse; portfolio backup only if PQQ fails; no silent pivot) → `commercial/rfq-backup-exclusion-one-pager.md` | #6 |
+| 128 | **done** | RFQ backup exclusion one-pager (ManufactIQ/FabPulse; portfolio backup only if PQQ fails; no silent pivot) → `commercial/rfq-backup-exclusion-one-pager.md` | #6 |
 | 129 | todo | DRY-014 FO7 dual-buyer scoped-export dry-run (scoped answers in pack; shared library clean; metrics + method note) → `operations/pack-dry-run-dry-014.md` | #2 |
 | 130 | todo | Observation→scorecard workflow-evidence tally (blank Actuals; ≥3 businesses; wires OBS log + scorecard Workflow evidence) → `research/observation-workflow-evidence-tally.md` | #1 |
 | 131 | todo | When 126–130 done: re-rank from open epics + gaps; append new rows surgically | — |
