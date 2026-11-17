@@ -1019,6 +1019,7 @@ Pre-GO, the **system** is not a deployed service — it is a **versioned control
 | DRY-010 | Waiver ≠ Approver Approve | `redacted-pqq-v1` | `synthetic-evidence-library-v1` | Q3 operator `waived` without Approve; Q22 MISSING; Q15 draft; Block export | **no** | [`../operations/pack-dry-run-dry-010.md`](../operations/pack-dry-run-dry-010.md) · [`../operations/export-manifest-dry-010-filled.md`](../operations/export-manifest-dry-010-filled.md) |
 | DRY-011 | Inbound → structured checklist | `redacted-pqq-v1` questionnaire | *(extract only — no library rewrite)* | 22/22 Q-rows extracted; vs SharePoint 0; open-until-match | **no** | [`../operations/pack-dry-run-dry-011.md`](../operations/pack-dry-run-dry-011.md) · [`../operations/requirement-checklist-dry-011.md`](../operations/requirement-checklist-dry-011.md) |
 | DRY-012 | Expired library — Broads SQ | `redacted-sq-v1` | `synthetic-evidence-library-v1-expired` | Q7 EL **EXPIRED**; 6 MISSING Broads deltas; Block export | **no** | [`../operations/pack-dry-run-dry-012.md`](../operations/pack-dry-run-dry-012.md) |
+| DRY-013 | Stacked EXPIRED+CONFLICT + Approver block | `redacted-pqq-v1` | `synthetic-evidence-library-v1-stacked` | Q9 EL **EXPIRED** + Q10 PL **CONFLICT** + Q22 MISSING + draft-only; Block export unsigned | **no** | [`../operations/pack-dry-run-dry-013.md`](../operations/pack-dry-run-dry-013.md) · [`../operations/export-manifest-dry-013-filled.md`](../operations/export-manifest-dry-013-filled.md) |
 
 Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv) (`export_approved=no` for each dry_run).
 
@@ -1029,8 +1030,9 @@ Metrics rows: [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metri
 | Empty library → all MISSING | DRY-001, DRY-002 |
 | Partial library → residual MISSING | DRY-003, DRY-004 |
 | Multi-customer buyer-specific MISSING | DRY-002, DRY-004 |
-| EXPIRED blocks export (no silent renewal invent) | DRY-005 (PQQ), DRY-012 (Broads SQ) |
-| CONFLICT blocks export (no newest-wins) | DRY-006 |
+| EXPIRED blocks export (no silent renewal invent) | DRY-005 (PQQ), DRY-012 (Broads SQ), DRY-013 (stacked) |
+| CONFLICT blocks export (no newest-wins) | DRY-006, DRY-013 (stacked) |
+| Stacked EXPIRED + CONFLICT + unsigned Approver Block | DRY-013 |
 | FO7 scoped promote without shared pollution | DRY-007 |
 | Dual-buyer in-window (PQQ then SQ; FO7 isolation) | DRY-008 |
 | Filled manifest still blocks on hard gaps | DRY-009 |
