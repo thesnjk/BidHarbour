@@ -1,7 +1,8 @@
 # 22. Risk register and pre-mortem
 
 **As-of:** 9 November 2025  
-Probability/impact are **judgement**, not actuarial.
+Probability/impact are **judgement**, not actuarial.  
+Direction: [`../Docs/project-charter.md`](../Docs/project-charter.md). Live scorecard Actuals: [`../research/validation-scorecard.md`](../research/validation-scorecard.md) (do **not** invent). Agent OS: [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md) §O.
 
 | Risk | Prob. | Impact | Early warning | Mitigation | Owner | Stop/pivot trigger |
 |------|-------|--------|---------------|------------|-------|--------------------|
