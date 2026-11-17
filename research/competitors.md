@@ -82,7 +82,8 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 21. **#138 shipped:** Interview pain-convergence → scorecard tally — [`interview-pain-convergence-tally.md`](interview-pain-convergence-tally.md) (blank Actuals; ≥6/10; wires synthesis + Week-4).  
 22. **#139 shipped:** Customer Approver export-gate brief — [`../commercial/customer-approver-export-gate-brief.md`](../commercial/customer-approver-export-gate-brief.md) (blank Actuals; vs portal auto-submit / tender-AI; wires Approver training).  
 23. **#140 shipped:** Path A clock → leave-behind bridge — [`../commercial/path-a-clock-to-leavebehind-bridge.md`](../commercial/path-a-clock-to-leavebehind-bridge.md) (blank Actuals; live only; DRY ≠ proof).  
-24. **#141 shipped:** Continuation → scorecard Continuations tally — [`../operations/continuation-scorecard-tally.md`](../operations/continuation-scorecard-tally.md) (blank Actuals; ≥2 written yes; wires log + Week-8). **Next unfinished:** **#142**.
+24. **#141 shipped:** Continuation → scorecard Continuations tally — [`../operations/continuation-scorecard-tally.md`](../operations/continuation-scorecard-tally.md) (blank Actuals; ≥2 written yes; wires log + Week-8).  
+25. **#142 shipped:** Peer-intro → qualified-week densification — [`../commercial/peer-intro-to-qualified-week-densification.md`](../commercial/peer-intro-to-qualified-week-densification.md) (blank Actuals; no new cold-50). **Next unfinished:** **#143**.
 
 ## Gaps in this research
 

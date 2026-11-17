@@ -171,7 +171,7 @@ Mark the row **done** in **this file** in the **same** PR. Do not ship Continues
 | 139 | **done** | Customer Approver export-gate brief template (blank; vs portal auto-submit / tender-AI; wires Approver training) → `commercial/customer-approver-export-gate-brief.md` | #6 |
 | 140 | **done** | Path A clock-time → minutes-saved leave-behind bridge checklist (blank Actuals; vs SharePoint; no invent) → `commercial/path-a-clock-to-leavebehind-bridge.md` | #6 |
 | 141 | **done** | Continuation log → scorecard Continuations tally (blank Actuals; ≥2; wires continuation log + scorecard) → `operations/continuation-scorecard-tally.md` | #2 |
-| 142 | todo | NAAME peer-intro → qualified discovery/week densification checklist (blank; wires peer-intro pack + week tracker) → `commercial/peer-intro-to-qualified-week-densification.md` | #6 |
+| 142 | **done** | NAAME peer-intro → qualified discovery/week densification checklist (blank; wires peer-intro pack + week tracker) → `commercial/peer-intro-to-qualified-week-densification.md` | #6 |
 | 143 | todo | When 138–142 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 144 | todo | TenderNation public pricing honesty micro-pass (Gaps Unresolved; public pages only; no invent) → update `research/competitors.md` | #1 |
 | 145 | todo | KanchanFlow Fallback A honesty micro-pass (prior-pass Unresolved; public pages only; no invent) → update `research/competitors.md` | #1 |
