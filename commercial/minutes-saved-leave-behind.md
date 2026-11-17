@@ -3,7 +3,7 @@
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
 **Use after:** results review with a **live** minutes contrast ([`../operations/pilot-results-review-agenda.md`](../operations/pilot-results-review-agenda.md))  
 **Lead gap:** minutes saved vs SharePoint / folder labour on inbound packs  
-**Companions:** [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) · [`../operations/baseline-minutes-worksheet.md`](../operations/baseline-minutes-worksheet.md) · [`competitive-objection-sheet.md`](competitive-objection-sheet.md) · [`go-to-market.md`](go-to-market.md)  
+**Companions:** [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) · [`../operations/baseline-minutes-worksheet.md`](../operations/baseline-minutes-worksheet.md) · [`competitive-objection-sheet.md`](competitive-objection-sheet.md) · [`go-to-market.md`](go-to-market.md) · clock → leave-behind bridge → [`path-a-clock-to-leavebehind-bridge.md`](path-a-clock-to-leavebehind-bridge.md)  
 **Not this file:** peer-intro packet → [`pilot-referral-evidence-packet.md`](pilot-referral-evidence-packet.md) (close-out **G**)  
 **Product name:** Supplier Desk
 
@@ -14,6 +14,8 @@
 A short customer-facing leave-behind after results review: honest baseline vs pilot minutes, framed against SharePoint/folders — checklist + Approver export — with no win-rate or qualification claims.
 
 ## When to fill
+
+Follow [`path-a-clock-to-leavebehind-bridge.md`](path-a-clock-to-leavebehind-bridge.md) (live clock → rollup → review → this leave-behind).
 
 | Ready | Not ready |
 |-------|-----------|
