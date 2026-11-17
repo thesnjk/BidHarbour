@@ -1,6 +1,12 @@
 # D. First 20 backlog items
 
-Priority for **post-GO** engineering. Pre-GO work is research/pilot (see commercial + research).
+**Post-GO engineering MoSCoW only.** This file is **not** the agent Continue queue.
+
+- Pre-GO agent self-service backlog (authoritative): [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
+- Direction / charter: [`../Docs/project-charter.md`](../Docs/project-charter.md)  
+- Pre-GO research/pilot work: `commercial/` + `research/` (founder outreach; agent fixtures/runbooks)
+
+Do **not** migrate master-prompt row numbers here. Do **not** treat rows below as next Continue work until scorecard **GO**.
 
 | # | Item | MoSCoW | Notes |
 |---|------|--------|-------|

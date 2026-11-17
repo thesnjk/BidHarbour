@@ -127,6 +127,7 @@
 - [x] Customer EXPIRED/abstention brief template (blank; vs silent renew/autofill) → [`../commercial/customer-expired-abstention-brief.md`](../commercial/customer-expired-abstention-brief.md)  
 - [x] Complys vault vs inbound OEM pack matrix (blank Actuals; discovery/demo) → [`../commercial/complys-vault-vs-inbound-pack-matrix.md`](../commercial/complys-vault-vs-inbound-pack-matrix.md)  
 - [x] Pack dry-run DRY-013 (stacked EXPIRED+CONFLICT + Block export unsigned Approver) → [`pack-dry-run-dry-013.md`](pack-dry-run-dry-013.md) · [`export-manifest-dry-013-filled.md`](export-manifest-dry-013-filled.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
+- [x] Agent OS upgrade / charter shipped → [`../Docs/project-charter.md`](../Docs/project-charter.md) · [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md) · dual-backlog semantics in [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md) (queue head remains **#117**)
 
  
 
