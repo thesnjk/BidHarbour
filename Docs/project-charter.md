@@ -1,7 +1,7 @@
 # BidHarbour — project charter
 
 **As-of:** 2026-11-17  
-**Authority:** This file is the source of truth for **current direction**. Operating rules live in [`bidharbour-master-prompt.md`](bidharbour-master-prompt.md). Do not invent interviews, pilots, or scorecard Actuals here.
+**Authority:** This file is the source of truth for **current direction**. Operating rules live in local-only `bidharbour-master-prompt.md` (not committed). Continue queue: [`agent-backlog.md`](agent-backlog.md). Do not invent interviews, pilots, or scorecard Actuals here.
 
 | Field | Content |
 |-------|---------|
@@ -25,21 +25,22 @@
 
 | Queue | Role | Path |
 |-------|------|------|
-| **Continue / self-service** | Authoritative pre-GO agent work | [`bidharbour-master-prompt.md`](bidharbour-master-prompt.md) table |
+| **Continue / self-service** | Authoritative pre-GO agent work | [`agent-backlog.md`](agent-backlog.md) |
 | **Post-GO engineering** | MoSCoW after scorecard **GO** only | [`../product/backlog.md`](../product/backlog.md) |
+| **Operating rules** | Local-only standing orders | `bidharbour-master-prompt.md` (not in git) |
 
-Do **not** treat `product/backlog.md` as the Continue queue. Do **not** migrate self-service row numbers into it.
+Do **not** treat `product/backlog.md` as the Continue queue. Do **not** migrate self-service row numbers into it. Do **not** commit the master prompt.
 
 ## Evidence & human approval (one-liners)
 
-- **Evidence:** label material claims Verified fact / Reasoned inference / Working assumption / Proposed experiment / Unresolved question — see master prompt §C; never invent interviews or scorecard Actuals ([`../research/validation-scorecard.md`](../research/validation-scorecard.md)).
+- **Evidence:** label material claims Verified fact / Reasoned inference / Working assumption / Proposed experiment / Unresolved question — see local master prompt §C; never invent interviews or scorecard Actuals ([`../research/validation-scorecard.md`](../research/validation-scorecard.md)).
 - **Human approval:** AI may extract/match/draft; only authorised humans approve statements and submissions — see [`legal-data-policy.md`](legal-data-policy.md).
 
 ## Agent vs founder ownership
 
 | Work | Owner |
 |------|--------|
-| Self-service agent backlog (fixtures, runbooks, DRY, blank templates) | **Agent** — [`bidharbour-master-prompt.md`](bidharbour-master-prompt.md) |
+| Self-service agent backlog (fixtures, runbooks, DRY, blank templates) | **Agent** — [`agent-backlog.md`](agent-backlog.md) |
 | Post-GO engineering MoSCoW | **Agent after GO** — [`../product/backlog.md`](../product/backlog.md) |
 | Outreach sends, interview Actuals, scorecard numbers | **Founder** |
 | Solicitor MSA/DPA clearance, live customer packs | **Founder** (+ counsel) |

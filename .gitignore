@@ -1,6 +1,9 @@
 # Local research dumps
 .firecrawl/
 
+# Agent standing orders (local-only — do not commit)
+Docs/bidharbour-master-prompt.md
+
 # Secrets and env
 .env
 .env.*
