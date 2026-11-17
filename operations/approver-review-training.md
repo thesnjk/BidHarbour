@@ -3,6 +3,7 @@
 **Epic:** [#2](https://github.com/thesnjk/BidHarbour/issues/2)  
 **Use before:** Path B Approver gate — [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md) step 5  
 **Sign on:** [`export-manifest-template.md`](export-manifest-template.md)  
+**Customer-facing brief:** [`../commercial/customer-approver-export-gate-brief.md`](../commercial/customer-approver-export-gate-brief.md) (named Approver gates export; no portal auto-submit)  
 **Product name:** Supplier Desk
 
 **Role:** You are the **named Approver** with authority to approve statements for the organisation. Concierge / AI may **draft** only — you sign every export (or explicitly block).

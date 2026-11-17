@@ -79,7 +79,8 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 18. **#135 shipped:** FO7 customer scoped-answer brief — [`../commercial/customer-fo7-scoped-answer-brief.md`](../commercial/customer-fo7-scoped-answer-brief.md) (blank Actuals; vs silent shared pollution; wires FO7 playbook).  
 19. **#136 shipped:** Demo → held booking densification — [`../commercial/demo-to-held-booking-densification.md`](../commercial/demo-to-held-booking-densification.md) (blank Actuals; wires demo runbook + booking commitment).  
 20. **#137 re-rank shipped:** appended **144–149** — TenderNation pricing honesty; KanchanFlow Fallback A honesty; paid-pilots→scorecard tally; solicitor-return→Script A densification; OBS scatter→leave-behind densification.  
-21. **#138 shipped:** Interview pain-convergence → scorecard tally — [`interview-pain-convergence-tally.md`](interview-pain-convergence-tally.md) (blank Actuals; ≥6/10; wires synthesis + Week-4). **Next unfinished:** **#139**.
+21. **#138 shipped:** Interview pain-convergence → scorecard tally — [`interview-pain-convergence-tally.md`](interview-pain-convergence-tally.md) (blank Actuals; ≥6/10; wires synthesis + Week-4).  
+22. **#139 shipped:** Customer Approver export-gate brief — [`../commercial/customer-approver-export-gate-brief.md`](../commercial/customer-approver-export-gate-brief.md) (blank Actuals; vs portal auto-submit / tender-AI; wires Approver training). **Next unfinished:** **#140**.
 
 ## Gaps in this research
 
