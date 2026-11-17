@@ -72,7 +72,8 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 11. **#128 shipped:** RFQ backup exclusion one-pager — [`../commercial/rfq-backup-exclusion-one-pager.md`](../commercial/rfq-backup-exclusion-one-pager.md) (ManufactIQ/FabPulse Gap-by-design; backup only if PQQ fails; prior-pass prices; blank Actuals).  
 12. **#129 shipped:** DRY-014 FO7 dual-buyer scoped-export — [`../operations/pack-dry-run-dry-014.md`](../operations/pack-dry-run-dry-014.md) (Broads SYNTH-BROADS cites on export story; Harbour Wind zero; shared clean; blank Actuals).  
 13. **#130 shipped:** Observation→scorecard workflow-evidence tally — [`observation-workflow-evidence-tally.md`](observation-workflow-evidence-tally.md) (blank Actuals; ≥3 businesses). Continue loop now mandates four-axis GitHub coverage.  
-14. **#131 re-rank shipped:** appended **138–143** — interview pain-convergence tally; Approver export-gate brief; Path A clock→leave-behind bridge; continuation→scorecard tally; peer-intro→qualified-week densification. **Next unfinished:** **#132**. Portfolio: [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md).
+14. **#131 re-rank shipped:** appended **138–143** — interview pain-convergence tally; Approver export-gate brief; Path A clock→leave-behind bridge; continuation→scorecard tally; peer-intro→qualified-week densification.  
+15. **#132 shipped:** Charter Continues pointer refresh — [`../Docs/project-charter.md`](../Docs/project-charter.md) next-band points at **#133+** (no posture/Actuals invent). **Next unfinished:** **#133**. Portfolio: [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md).
 
 ## Gaps in this research
 
