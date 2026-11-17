@@ -46,15 +46,18 @@ Do **not** treat `product/backlog.md` as the Continue queue. Do **not** migrate 
 | Solicitor MSA/DPA clearance, live customer packs | **Founder** (+ counsel) |
 | Brand IPO / domain / Companies House | **Founder** |
 
-## First five post-upgrade Continues (after this OS ship)
+## Next Continues (queue pointer)
+
+**Continue queue (committed):** [`agent-backlog.md`](agent-backlog.md) — not the local master prompt.  
+**As-of queue:** Post-upgrade band **118–131** complete; this charter pointer refresh is **#132**. After merge, first unfinished = **#133** (portfolio matrix-path notes), then **134–137**, then **138+**.
 
 Execute on subsequent Continues — not invent Actuals:
 
-1. Row **118** — Evidash buyer vs Supplier Desk one-pager  
-2. Row **119** — re-rank; append Lead-closing rows  
-3. Next unfinished self-service rows after that re-rank  
+1. Row **133** — Opportunity portfolio matrix-path notes  
+2. Row **134** — ManufactIQ/FabPulse Fallback A honesty micro-pass  
+3. Rows **135–137** — FO7 customer brief; demo→booking densification; re-rank sentinel  
 4. Keep founder outreach / scorecard Actuals founder-owned  
-5. Charter hygiene only if posture/scorecard actually moves
+5. Further charter hygiene only if posture/scorecard actually moves
 
 ## Pointers (do not duplicate)
 
