@@ -1,7 +1,7 @@
 # Supplier Desk competitive objection sheet
 
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
-**As-of:** 11 November 2026  
+**As-of:** 17 November 2026  
 **Product name:** Supplier Desk  
 **Use with:** [`go-to-market.md`](go-to-market.md) · [`discovery-one-pager.md`](discovery-one-pager.md) · [`concierge-discovery-demo-runbook.md`](concierge-discovery-demo-runbook.md) · [`pilot-offer-sheet.md`](pilot-offer-sheet.md) · [`crm-stage-scripts.md`](crm-stage-scripts.md) · [`../research/competitors.md`](../research/competitors.md) · [`../research/copycat-monitor-quarterly.md`](../research/copycat-monitor-quarterly.md) · [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) · [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md)
 
@@ -30,6 +30,7 @@ Public **tender discovery** and AI bid-win drafting are **out of scope by design
 | **SharePoint / folders** | Familiar; already paid M365 | Structured checklist + Approver export gate | Measure hours; pilot proves delta | “SharePoint stores files. We time how long the last pack took, then contrast against a concierge pilot — no invented minutes.” | Checklist extract dry-run: DRY-011; minutes: time-study + baseline + rollup + leave-behind [`minutes-saved-leave-behind.md`](minutes-saved-leave-behind.md) |
 | **Tender-AI** (Velstrian / KimonBids) | Fast draft text for tenders | Evidence-backed answers; **MISSING** if unsupported; **CONFLICT** if dual sources disagree; **EXPIRED** if past review | We abstain; no newest-wins / silent renew | “Tender tools draft to win public bids. We refuse to invent certs — gaps stay MISSING, conflicts cite both labels, and expired evidence stays EXPIRED until you renew — no silent date roll.” | MISSING [`customer-missing-abstention-brief.md`](customer-missing-abstention-brief.md); CONFLICT [`customer-conflict-abstention-brief.md`](customer-conflict-abstention-brief.md) + DRY-006; EXPIRED [`customer-expired-abstention-brief.md`](customer-expired-abstention-brief.md) + DRY-005/012; never claim win rates |
 | **Complys / vaults** | Compliance vault / RAMS for contractor oversight | OEM inbound packs + Approver gate | Adjacent — different buyer of the job | “Vaults help share compliance artefacts. We’re assembling customer-specific packs with human sign-off before export.” | Scan matrix: [`complys-vault-vs-inbound-pack-matrix.md`](complys-vault-vs-inbound-pack-matrix.md); copycat monitor quarterly ([`../research/copycat-monitor-quarterly.md`](../research/copycat-monitor-quarterly.md)); dual-buyer: DRY-008 + [`../operations/pilot-dual-buyer-live-window-checklist.md`](../operations/pilot-dual-buyer-live-window-checklist.md) |
+| **Evidash / buyer SaaS** | Buyer QA — vendor doc coverage + validation | Supplier inbound packs + Approver export | Wrong side of market | “Evidash is a buyer tool. We’re on the supplier side — assemble the customer’s PQQ/SQ with evidence match and Approver before send.” | One-pager: [`evidash-buyer-vs-supplier-desk-one-pager.md`](evidash-buyer-vs-supplier-desk-one-pager.md); dated Core pricing context in [`../research/competitors.md`](../research/competitors.md) (2026-11-10) — not WTP proof |
 | **AI risk** | AI can hallucinate | Abstain + Approver + export gates | Humans approve; AI drafts only | “AI may draft. Your named Approver signs every export. Unsupported facts stay MISSING — we won’t invent insurance or certs.” | Approver training + export manifest |
 | **Too busy** | Time is the constraint | Cap at 3 packs / 4 weeks | That’s the pain; pilot is bounded | “That’s why the pilot caps at three packs in four weeks — we don’t ask for a perpetual SaaS project.” | [`pilot-offer-sheet.md`](pilot-offer-sheet.md) |
 | **Price** | Budgets are tight | Pilot £250–£750 ex VAT / window *(offer sheet)* | Compare to half a consultant day — hypothesis until validated | “Pilot is a bounded pack window, not an enterprise vault. Numbers stay offer-sheet hypotheses until you’ve seen a pack.” | No win-rate ROI stories; solicitor-cleared terms before live packs |
@@ -66,6 +67,14 @@ Public **tender discovery** and AI bid-win drafting are **out of scope by design
 - **Do say:** complementary / adjacent job — inbound OEM questionnaires with Approver export.  
 - **Scan matrix (discovery/demo):** [`complys-vault-vs-inbound-pack-matrix.md`](complys-vault-vs-inbound-pack-matrix.md).  
 - **Copycat risk:** “customer pack importer” — monitor via [`../research/copycat-monitor-quarterly.md`](../research/copycat-monitor-quarterly.md); don’t invent feature parity claims.
+
+### Evidash / buyer SaaS
+
+- **Lead thesis:** supplier inbound PQQ/SQ pack assembly vs buyer vendor-doc vault (wrong side of market for Norfolk SME ICP).  
+- **Do not claim:** “replaces Evidash,” feature parity, or “cheaper than Core by £X” ROI.  
+- **Do say:** complementary if a large buyer already uses Evidash; supplier still answers *their* questionnaire.  
+- **Scan one-pager (discovery/demo):** [`evidash-buyer-vs-supplier-desk-one-pager.md`](evidash-buyer-vs-supplier-desk-one-pager.md).  
+- **Dated price context only:** Coverage/Validation Core **$649/mo** or **£499/mo** (competitors.md 2026-11-10) — not BidHarbour WTP proof.
 
 ---
 

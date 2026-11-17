@@ -286,7 +286,7 @@ On every bare continue / attach of this file: (1) inspect workspace, (2) read **
 | 115 | **done** | Complys contractor vault vs inbound OEM pack matrix (blank Actuals; discovery/demo; RAMS/vault ≠ per-buyer Approver export) → `commercial/complys-vault-vs-inbound-pack-matrix.md` | #6 |
 | 116 | **done** | DRY-013 dry-run: stacked export blocks on fixture (EXPIRED + CONFLICT + unsigned Approver; metrics + method note) → `operations/pack-dry-run-dry-013.md` | #2 |
 | 117 | **done** | Observation inbound-pack scatter capture worksheet (blank Actuals; wires time-study, observation kit, checklist Lead) → `research/observation-inbound-pack-scatter-worksheet.md` | #1 |
-| 118 | todo | Evidash buyer-side vs Supplier Desk supplier job one-pager (dated public pricing context only; no invented proof) → `commercial/evidash-buyer-vs-supplier-desk-one-pager.md` | #6 |
+| 118 | **done** | Evidash buyer-side vs Supplier Desk supplier job one-pager (dated public pricing context only; no invented proof) → `commercial/evidash-buyer-vs-supplier-desk-one-pager.md` | #6 |
 | 119 | todo | When 114–118 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 120 | **done** | Charter hygiene pass: refresh `Docs/project-charter.md` as-of + next-gate only if posture/scorecard moved (no invent Actuals) | — |
 | 121 | **done** | Opportunity portfolio refresh ritual: dated skim of `research/competitors.md` → update scores in `strategy/opportunity-portfolio.md` only with labelled evidence | — |
