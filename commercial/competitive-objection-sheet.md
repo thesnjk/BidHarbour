@@ -1,7 +1,7 @@
 # Supplier Desk competitive objection sheet
 
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
-**As-of:** 17 November 2026  
+**As-of:** 17 November 2026 *(SharePoint scan matrix wired)*  
 **Product name:** Supplier Desk  
 **Use with:** [`go-to-market.md`](go-to-market.md) · [`discovery-one-pager.md`](discovery-one-pager.md) · [`concierge-discovery-demo-runbook.md`](concierge-discovery-demo-runbook.md) · [`pilot-offer-sheet.md`](pilot-offer-sheet.md) · [`crm-stage-scripts.md`](crm-stage-scripts.md) · [`../research/competitors.md`](../research/competitors.md) · [`../research/copycat-monitor-quarterly.md`](../research/copycat-monitor-quarterly.md) · [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) · [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md)
 
@@ -27,7 +27,7 @@ Public **tender discovery** and AI bid-win drafting are **out of scope by design
 | Objection | They’re right about | BidHarbour job | One-line handle | Spoken (~20s) | Pilot bridge |
 |-----------|---------------------|----------------|-----------------|---------------|--------------|
 | **Constructionline** | Membership / one profile helps buyer portals | Multi-customer inbound packs (different buyers, same SME) | Different job — packs ≠ single profile | “Constructionline is useful for schemes. We’re about the next OEM questionnaire that lands in your inbox — checklist, evidence match, Approver before you send.” | Scan matrix: [`constructionline-vs-multi-buyer-pack-matrix.md`](constructionline-vs-multi-buyer-pack-matrix.md); dual-buyer rehearsal: DRY-008; live: [`../operations/pilot-dual-buyer-live-window-checklist.md`](../operations/pilot-dual-buyer-live-window-checklist.md) + pack-2/3 playbook |
-| **SharePoint / folders** | Familiar; already paid M365 | Structured checklist + Approver export gate | Measure hours; pilot proves delta | “SharePoint stores files. We time how long the last pack took, then contrast against a concierge pilot — no invented minutes.” | Checklist extract dry-run: DRY-011; minutes: time-study + baseline + rollup + leave-behind [`minutes-saved-leave-behind.md`](minutes-saved-leave-behind.md) |
+| **SharePoint / folders** | Familiar; already paid M365 | Structured checklist + Approver export gate | Measure hours; pilot proves delta | “SharePoint stores files. We time how long the last pack took, then contrast against a concierge pilot — no invented minutes.” | Scan matrix: [`sharepoint-vs-inbound-checklist-matrix.md`](sharepoint-vs-inbound-checklist-matrix.md); checklist extract: DRY-011; minutes: time-study + baseline + rollup + leave-behind [`minutes-saved-leave-behind.md`](minutes-saved-leave-behind.md) |
 | **Tender-AI** (Velstrian / KimonBids) | Fast draft text for tenders | Evidence-backed answers; **MISSING** if unsupported; **CONFLICT** if dual sources disagree; **EXPIRED** if past review | We abstain; no newest-wins / silent renew | “Tender tools draft to win public bids. We refuse to invent certs — gaps stay MISSING, conflicts cite both labels, and expired evidence stays EXPIRED until you renew — no silent date roll.” | MISSING [`customer-missing-abstention-brief.md`](customer-missing-abstention-brief.md); CONFLICT [`customer-conflict-abstention-brief.md`](customer-conflict-abstention-brief.md) + DRY-006; EXPIRED [`customer-expired-abstention-brief.md`](customer-expired-abstention-brief.md) + DRY-005/012; never claim win rates |
 | **Complys / vaults** | Compliance vault / RAMS for contractor oversight | OEM inbound packs + Approver gate | Adjacent — different buyer of the job | “Vaults help share compliance artefacts. We’re assembling customer-specific packs with human sign-off before export.” | Scan matrix: [`complys-vault-vs-inbound-pack-matrix.md`](complys-vault-vs-inbound-pack-matrix.md); copycat monitor quarterly ([`../research/copycat-monitor-quarterly.md`](../research/copycat-monitor-quarterly.md)); dual-buyer: DRY-008 + [`../operations/pilot-dual-buyer-live-window-checklist.md`](../operations/pilot-dual-buyer-live-window-checklist.md) |
 | **Evidash / buyer SaaS** | Buyer QA — vendor doc coverage + validation | Supplier inbound packs + Approver export | Wrong side of market | “Evidash is a buyer tool. We’re on the supplier side — assemble the customer’s PQQ/SQ with evidence match and Approver before send.” | One-pager: [`evidash-buyer-vs-supplier-desk-one-pager.md`](evidash-buyer-vs-supplier-desk-one-pager.md); dated Core pricing context in [`../research/competitors.md`](../research/competitors.md) (2026-11-10) — not WTP proof |
@@ -49,6 +49,9 @@ Public **tender discovery** and AI bid-win drafting are **out of scope by design
 ### SharePoint / M365 / Copilot
 
 - **Lead thesis:** checklist + MISSING + Approver export vs folder scatter.  
+- **Do not claim:** “replaces SharePoint” or invented minutes saved.  
+- **Do say:** keep the library; inbound pack assembly is a different job.  
+- **Scan matrix (discovery/demo):** [`sharepoint-vs-inbound-checklist-matrix.md`](sharepoint-vs-inbound-checklist-matrix.md).  
 - **Proof path only:** interviews + baseline + live minutes rollup (Actuals still 0).  
 - **Do not** cite dry-run wall-clock as customer minutes saved.
 
