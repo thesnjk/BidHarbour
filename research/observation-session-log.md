@@ -5,6 +5,7 @@
 **Kit:** [`observation-kit-naame-hethel.md`](observation-kit-naame-hethel.md)  
 **During:** [`observation-checklist.md`](observation-checklist.md) · scatter map [`observation-inbound-pack-scatter-worksheet.md`](observation-inbound-pack-scatter-worksheet.md)  
 **Scorecard:** [`validation-scorecard.md`](validation-scorecard.md) → *Workflow evidence*  
+**Tally → scorecard:** [`observation-workflow-evidence-tally.md`](observation-workflow-evidence-tally.md)  
 **Booking index:** [`interview-grid-8wk.md`](interview-grid-8wk.md)  
 **Rollup:** [`interview-synthesis.md`](interview-synthesis.md) Workflow evidence table
 
