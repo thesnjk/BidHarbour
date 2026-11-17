@@ -26,6 +26,8 @@ On every bare continue / attach of the local master prompt: (1) inspect workspac
 
 Mark the row **done** in **this file** in the **same** PR. Do not ship Continues that skip Issues or Code review.
 
+**Continuous improvement:** when a real gap or advancement appears (Lead/Gap, missing instrument, pilot conversion, maintainability, or post-GO MVP slice), append backlog rows and keep shipping — never idle. Still no premature SaaS / invented Actuals. Pre-GO = validation/pilot artefacts; post-GO = [`../product/backlog.md`](../product/backlog.md).
+
 | # | Status | Slice | Epic |
 |---|--------|-------|------|
 | 1 | **done** | Redacted PQQ fixture + dry-run kit → `testdata/redacted-pqq-v1/` | #2 |
