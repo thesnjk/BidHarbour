@@ -25,7 +25,7 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 
 | Surface | BidHarbour posture | Lead / Parity / Gap | Evidence |
 |---------|-------------------|---------------------|----------|
-| Inbound pack → structured checklist | Concierge + fixture (`testdata/redacted-pqq-v1/`) | **Lead** (hypothesis) vs SharePoint; **Gap** vs SaaS until GO | Fixture + pilot runbook shipped; no paid interview proof yet |
+| Inbound pack → structured checklist | Concierge + fixture (`testdata/redacted-pqq-v1/`) | **Lead** (hypothesis) vs SharePoint; **Gap** vs SaaS until GO | Fixture + pilot runbook; discovery/demo matrix [`../commercial/sharepoint-vs-inbound-checklist-matrix.md`](../commercial/sharepoint-vs-inbound-checklist-matrix.md); no paid interview proof yet |
 | Evidence match + abstain (MISSING) | Standing product principle | **Lead** vs tender-AI that invents prose; **Parity** with Evidash buyer validation (wrong side of market) | Master prompt / legal-data-policy |
 | Human approval before export | Non-negotiable gate | **Lead** vs autonomous bid tools | Pilot runbook Approver path |
 | Multi-customer packs (same SME, different buyers) | Core thesis | **Lead** vs Constructionline single profile | Business plan / executive decision; discovery/demo matrix [`../commercial/constructionline-vs-multi-buyer-pack-matrix.md`](../commercial/constructionline-vs-multi-buyer-pack-matrix.md) |
@@ -66,7 +66,8 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 5. **2026-11-10 delta:** Velstrian mid-tier clarified as Pro **£149** (not a flat £49–£549 smear); Evidash dual USD/GBP Core cites documented; Complys/KimonBids tiers unchanged vs prior pass.  
 6. **#118 shipped:** Evidash buyer vs Supplier Desk one-pager — [`../commercial/evidash-buyer-vs-supplier-desk-one-pager.md`](../commercial/evidash-buyer-vs-supplier-desk-one-pager.md) (wrong-side price anchor; blank Actuals). Objection-sheet Evidash row wired.  
 7. **#119 re-rank shipped:** appended **126–131** — SharePoint checklist matrix (Lead vs folders); tender-AI wrong-fight one-pager (Gap-by-design); RFQ backup exclusion (no silent pivot); DRY-014 FO7 scoped-export; observation→scorecard workflow-evidence tally.  
-8. **#125 OS re-rank shipped:** appended **132–137** — charter Continues pointer; portfolio matrix-path notes; ManufactIQ/FabPulse Fallback A honesty micro-pass; FO7 customer brief; demo→held booking densification. **Next unfinished:** **#126**. Portfolio: [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md).
+8. **#125 OS re-rank shipped:** appended **132–137** — charter Continues pointer; portfolio matrix-path notes; ManufactIQ/FabPulse Fallback A honesty micro-pass; FO7 customer brief; demo→held booking densification.  
+9. **#126 shipped:** SharePoint folders vs inbound checklist matrix — [`../commercial/sharepoint-vs-inbound-checklist-matrix.md`](../commercial/sharepoint-vs-inbound-checklist-matrix.md) (blank Actuals; objection-sheet SharePoint row wired). **Next unfinished:** **#127**. Portfolio: [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md).
 
 ## Gaps in this research
 
