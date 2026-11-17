@@ -165,7 +165,7 @@ Mark the row **done** in **this file** in the **same** PR. Do not ship Continues
 | 135 | **done** | FO7 customer scoped-answer brief template (blank; vs silent shared-library pollution; wires FO7 playbook) → `commercial/customer-fo7-scoped-answer-brief.md` | #6 |
 | 136 | **done** | Discovery demo → held booking densification checklist (blank Actuals; wires demo runbook + booking commitment) → `commercial/demo-to-held-booking-densification.md` | #6 |
 | 137 | **done** | When 132–136 done: re-rank from open epics + gaps; append new rows surgically | — |
-| 138 | todo | Interview pain-convergence → scorecard tally (blank Actuals; ≥6/10; wires synthesis + Week-4 gate) → `research/interview-pain-convergence-tally.md` | #1 |
+| 138 | **done** | Interview pain-convergence → scorecard tally (blank Actuals; ≥6/10; wires synthesis + Week-4 gate) → `research/interview-pain-convergence-tally.md` | #1 |
 | 139 | todo | Customer Approver export-gate brief template (blank; vs portal auto-submit / tender-AI; wires Approver training) → `commercial/customer-approver-export-gate-brief.md` | #6 |
 | 140 | todo | Path A clock-time → minutes-saved leave-behind bridge checklist (blank Actuals; vs SharePoint; no invent) → `commercial/path-a-clock-to-leavebehind-bridge.md` | #6 |
 | 141 | todo | Continuation log → scorecard Continuations tally (blank Actuals; ≥2; wires continuation log + scorecard) → `operations/continuation-scorecard-tally.md` | #2 |

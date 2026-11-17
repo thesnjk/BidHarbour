@@ -1,7 +1,7 @@
 # Week-4 gate decision checklist
 
 **Purpose:** Decide GO continue discovery / NARROW / PIVOT / STOP at the Week-4 gate using **completed** interview evidence only.  
-**Inputs:** [`interview-synthesis.md`](interview-synthesis.md) · [`validation-scorecard.md`](validation-scorecard.md) · [`interview-grid-8wk.md`](interview-grid-8wk.md) · [`negative-findings.md`](negative-findings.md)  
+**Inputs:** [`interview-synthesis.md`](interview-synthesis.md) · [`interview-pain-convergence-tally.md`](interview-pain-convergence-tally.md) · [`validation-scorecard.md`](validation-scorecard.md) · [`interview-grid-8wk.md`](interview-grid-8wk.md) · [`negative-findings.md`](negative-findings.md)  
 **Programme note:** [`customer-discovery-programme.md`](customer-discovery-programme.md)
 
 **Rule:** Do **not** invent INT rows, tallies, or scorecard Actuals. Send/reply alone is not evidence. Leave outcome blank until the gate meeting. Actuals map: [`scorecard-actuals-hygiene.md`](scorecard-actuals-hygiene.md).
@@ -13,7 +13,7 @@
 - [ ] Negative findings reviewed same week  
 - [ ] Lead niche chosen (AME or marine — construction is control)
 
-## 2. Tally (copy from synthesis — blank until data)
+## 2. Tally (copy from [`interview-pain-convergence-tally.md`](interview-pain-convergence-tally.md) / synthesis — blank until data)
 
 | Field | Value |
 |-------|-------|

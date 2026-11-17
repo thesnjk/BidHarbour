@@ -78,7 +78,8 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 17. **#134 shipped:** Fallback A ManufactIQ/FabPulse public pricing honesty — Essential/Premium/Pro and Starter/Studio/Pro bands dated **2026-11-17** (Verified fact; Gap-by-design unchanged).  
 18. **#135 shipped:** FO7 customer scoped-answer brief — [`../commercial/customer-fo7-scoped-answer-brief.md`](../commercial/customer-fo7-scoped-answer-brief.md) (blank Actuals; vs silent shared pollution; wires FO7 playbook).  
 19. **#136 shipped:** Demo → held booking densification — [`../commercial/demo-to-held-booking-densification.md`](../commercial/demo-to-held-booking-densification.md) (blank Actuals; wires demo runbook + booking commitment).  
-20. **#137 re-rank shipped:** appended **144–149** — TenderNation pricing honesty; KanchanFlow Fallback A honesty; paid-pilots→scorecard tally; solicitor-return→Script A densification; OBS scatter→leave-behind densification. **Next unfinished:** **#138**.
+20. **#137 re-rank shipped:** appended **144–149** — TenderNation pricing honesty; KanchanFlow Fallback A honesty; paid-pilots→scorecard tally; solicitor-return→Script A densification; OBS scatter→leave-behind densification.  
+21. **#138 shipped:** Interview pain-convergence → scorecard tally — [`interview-pain-convergence-tally.md`](interview-pain-convergence-tally.md) (blank Actuals; ≥6/10; wires synthesis + Week-4). **Next unfinished:** **#139**.
 
 ## Gaps in this research
 

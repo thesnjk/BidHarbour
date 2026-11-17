@@ -42,7 +42,8 @@
 | Pain convergence | `same_pain_Y / max(n,1)` as x/10 style vs threshold ≥6/10 **in lead niche** | 0/10 |
 | Lead niche focus | Filter table to AME or marine; recompute | — |
 
-**Scorecard field:** Interview pain convergence → paste Evidence IDs (INT-*) into scorecard when Actual moves.
+**Scorecard field:** Interview pain convergence → paste Evidence IDs (INT-*) into scorecard when Actual moves.  
+**Founder rollup:** [`interview-pain-convergence-tally.md`](interview-pain-convergence-tally.md) (recompute here first, then sync scorecard / Week-4).
 
 ## Workflow evidence (≥3 businesses)
 
@@ -61,5 +62,5 @@ Scorecard: Workflow evidence ≥3 businesses. Source of truth for observation ro
 3. Update [`validation-scorecard.md`](validation-scorecard.md) Actuals **only if** numbers changed from real completions — follow [`scorecard-actuals-hygiene.md`](scorecard-actuals-hygiene.md).  
 4. Log negatives the same day.  
 5. Attach any new [`interview-sharepoint-time-study.md`](interview-sharepoint-time-study.md) sheets to Evidence note (INT-ID) — minutes vs SharePoint; do not invent; Time/value Actual stays blank until pilots.  
-6. At Week 4: run [`week4-gate-checklist.md`](week4-gate-checklist.md) from this tally — do not invent rows to pass.  
+6. At Week 4: run [`week4-gate-checklist.md`](week4-gate-checklist.md) from [`interview-pain-convergence-tally.md`](interview-pain-convergence-tally.md) — do not invent rows to pass.  
 7. At Week 8: run [`week8-gate-checklist.md`](week8-gate-checklist.md) from scorecard + live pilot metrics — dry-runs alone are not GO evidence.
