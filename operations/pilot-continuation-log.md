@@ -15,7 +15,7 @@
 2. Status must be `yes`, `no`, or `pending` (awaiting reply after **D** sent).  
 3. Dry-runs (DRY-00x) are **not** continuations — never copy them into this log.  
 4. A `yes` does **not** authorise further confidential packs until solicitor-cleared continuation MSA/DPA.  
-5. Scorecard Continuations Actual increments only from real `yes` rows (never invent; leave Actual at 0 until then).  
+5. Scorecard Continuations Actual increments only from real `yes` rows (never invent; leave Actual at 0 until then) — recompute via [`continuation-scorecard-tally.md`](continuation-scorecard-tally.md) first.  
 6. On `no` (or timeout → treat as stop): run close-out **E** per [`pilot-data-retention-schedule.md`](pilot-data-retention-schedule.md).
 
 ## Log (blank until real)
@@ -41,7 +41,7 @@
 - [ ] CRM `notes`: `continuation_yes` or `continuation_no`; stage Active / Churned per [`../commercial/crm-stage-scripts.md`](../commercial/crm-stage-scripts.md)  
 - [ ] If `yes`: arrange commercial outline + legal review before any further packs  
 - [ ] If `no` / stop: run **E**; optional **G** referral ask (clean no only)  
-- [ ] Update scorecard Continuations Actual only from real `yes` count  
+- [ ] Update scorecard Continuations Actual only from real `yes` count via [`continuation-scorecard-tally.md`](continuation-scorecard-tally.md)  
 - [ ] At Week-8 gate: copy tally into [`../research/week8-gate-checklist.md`](../research/week8-gate-checklist.md)  
 
 ## Stop rules
