@@ -3,7 +3,7 @@
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
 **Goal:** Show inbound pack → checklist → **MISSING** → Approver **block** on a synthetic PQQ — **no SaaS**, no live customer packs.  
 **Product name:** Supplier Desk  
-**Use with:** [`go-to-market.md`](go-to-market.md) · [`discovery-one-pager.md`](discovery-one-pager.md) · [`competitive-objection-sheet.md`](competitive-objection-sheet.md) · [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md) · [`pilot-offer-sheet.md`](pilot-offer-sheet.md) · [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md)  
+**Use with:** [`go-to-market.md`](go-to-market.md) · [`discovery-one-pager.md`](discovery-one-pager.md) · [`competitive-objection-sheet.md`](competitive-objection-sheet.md) · [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md) · [`pilot-offer-sheet.md`](pilot-offer-sheet.md) · [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md) · post-demo densify → [`demo-to-held-booking-densification.md`](demo-to-held-booking-densification.md)  
 **Ops depth:** Path A [`../operations/concierge-pilot-runbook.md`](../operations/concierge-pilot-runbook.md) · empty-library story [`../operations/pack-dry-run-dry-001.md`](../operations/pack-dry-run-dry-001.md) · Approver [`../operations/approver-review-training.md`](../operations/approver-review-training.md) · manifest [`../operations/export-manifest-template.md`](../operations/export-manifest-template.md)
 
 **Rule:** Research / discovery framing. Fixture-only. Do **not** invent scorecard Actuals, win rates, or certifications. DRY-001 is training — not customer minutes-saved proof. Filled blocked manifest (ops depth): [`../operations/pack-dry-run-dry-009.md`](../operations/pack-dry-run-dry-009.md) — discovery demo still uses empty-library story only.
@@ -70,9 +70,10 @@ More rows: [`competitive-objection-sheet.md`](competitive-objection-sheet.md).
 ## After demo
 
 1. Keep CRM **Discovery**; optional `notes=fixture_demo` ([`crm-stage-scripts.md`](crm-stage-scripts.md)).  
-2. If pain fits → [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md) → Script A/B per [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md).  
-3. Do **not** update [`../research/validation-scorecard.md`](../research/validation-scorecard.md) Actuals from the fixture demo.  
-4. Book observation / interview follow-up if useful ([`../research/observation-kit-naame-hethel.md`](../research/observation-kit-naame-hethel.md)).
+2. Same-day densify toward held / booking commitment → [`demo-to-held-booking-densification.md`](demo-to-held-booking-densification.md).  
+3. If pain fits → [`../research/discovery-pilot-offer-bridge.md`](../research/discovery-pilot-offer-bridge.md) → Script A/B per [`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md) (usually after Held — see booking commitment).  
+4. Do **not** update [`../research/validation-scorecard.md`](../research/validation-scorecard.md) Actuals from the fixture demo.  
+5. Book observation / interview follow-up if useful ([`../research/observation-kit-naame-hethel.md`](../research/observation-kit-naame-hethel.md)).
 
 ## Stop rules
 

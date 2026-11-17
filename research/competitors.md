@@ -76,7 +76,8 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 15. **#132 shipped:** Charter Continues pointer refresh — [`../Docs/project-charter.md`](../Docs/project-charter.md) next-band points at **#133+** (no posture/Actuals invent).  
 16. **#133 shipped:** Portfolio matrix-path notes — Constructionline/Evidash/Complys (+ tender/SharePoint) artefacts linked on candidates #3–#7 in [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md) (scores unchanged).  
 17. **#134 shipped:** Fallback A ManufactIQ/FabPulse public pricing honesty — Essential/Premium/Pro and Starter/Studio/Pro bands dated **2026-11-17** (Verified fact; Gap-by-design unchanged).  
-18. **#135 shipped:** FO7 customer scoped-answer brief — [`../commercial/customer-fo7-scoped-answer-brief.md`](../commercial/customer-fo7-scoped-answer-brief.md) (blank Actuals; vs silent shared pollution; wires FO7 playbook). **Next unfinished:** **#136**.
+18. **#135 shipped:** FO7 customer scoped-answer brief — [`../commercial/customer-fo7-scoped-answer-brief.md`](../commercial/customer-fo7-scoped-answer-brief.md) (blank Actuals; vs silent shared pollution; wires FO7 playbook).  
+19. **#136 shipped:** Demo → held booking densification — [`../commercial/demo-to-held-booking-densification.md`](../commercial/demo-to-held-booking-densification.md) (blank Actuals; wires demo runbook + booking commitment). **Next unfinished:** **#137**.
 
 ## Gaps in this research
 
