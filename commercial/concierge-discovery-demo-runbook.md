@@ -60,6 +60,9 @@
 **Constructionline:** “Membership profiles help schemes. This is the next OEM questionnaire in the inbox — different job.”  
 Matrix: [`constructionline-vs-multi-buyer-pack-matrix.md`](constructionline-vs-multi-buyer-pack-matrix.md).
 
+**Complys / vaults:** “Vaults help share compliance artefacts. We’re assembling customer-specific packs with Approver sign-off — different job.”  
+Matrix: [`complys-vault-vs-inbound-pack-matrix.md`](complys-vault-vs-inbound-pack-matrix.md).
+
 More rows: [`competitive-objection-sheet.md`](competitive-objection-sheet.md).
 
 ---

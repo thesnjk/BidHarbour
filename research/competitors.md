@@ -59,12 +59,12 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 1. **Underserved job (hypothesis):** inbound, customer-specific qualification pack with approved evidence graph + human approval export at SME price.  
 2. **Differentiation valuable enough to buy?** Unproven — must show time saved vs SharePoint in paid pilots (scorecard Actual still 0).  
 3. **Service vs SaaS:** Concierge + light software first; pure SaaS only after retention / GO.  
-4. **Most likely copycat:** Complys or a tender-AI vendor adding “customer pack importer.” Monitor quarterly. Copycat-awareness talk track: [`../commercial/competitive-objection-sheet.md`](../commercial/competitive-objection-sheet.md). Quarterly public-page monitor stub (not a full Firecrawl scrape): [`copycat-monitor-quarterly.md`](copycat-monitor-quarterly.md).  
+4. **Most likely copycat:** Complys or a tender-AI vendor adding “customer pack importer.” Monitor quarterly. Copycat-awareness talk track: [`../commercial/competitive-objection-sheet.md`](../commercial/competitive-objection-sheet.md). Scan matrix (vault ≠ inbound packs): [`../commercial/complys-vault-vs-inbound-pack-matrix.md`](../commercial/complys-vault-vs-inbound-pack-matrix.md). Quarterly public-page monitor stub (not a full Firecrawl scrape): [`copycat-monitor-quarterly.md`](copycat-monitor-quarterly.md).  
  
  
  
 5. **2026-11-10 delta:** Velstrian mid-tier clarified as Pro **£149** (not a flat £49–£549 smear); Evidash dual USD/GBP Core cites documented; Complys/KimonBids tiers unchanged vs prior pass.  
-6. **Next agent band (queued, not shipped):** customer EXPIRED abstention brief + Complys vault vs inbound pack matrix + DRY-013 stacked export gates + observation inbound-pack scatter worksheet + Evidash buyer vs Supplier Desk one-pager (backlog **#114–#118**) — Lead: EXPIRED customer comms / Complys copycat / Approver export composite gate / SharePoint workflow evidence / buyer-SaaS wrong-side price anchor — without inventing Actuals. Band **#108–#112** shipped (DRY-012, Constructionline matrix, Path A clock-time, held→pilot booking, CONFLICT brief).
+6. **Next agent band:** EXPIRED brief + Complys vault matrix shipped ([`../commercial/customer-expired-abstention-brief.md`](../commercial/customer-expired-abstention-brief.md), [`../commercial/complys-vault-vs-inbound-pack-matrix.md`](../commercial/complys-vault-vs-inbound-pack-matrix.md)); remaining **#116–#118** — DRY-013 stacked export gates, observation inbound-pack scatter worksheet, Evidash buyer vs Supplier Desk one-pager (Approver export composite / SharePoint workflow evidence / buyer-SaaS wrong-side price anchor) without inventing Actuals.
 
 ## Gaps in this research
 
