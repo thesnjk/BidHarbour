@@ -158,10 +158,16 @@ Mark the row **done** in **this file** in the **same** PR. Do not ship Continues
 | 128 | **done** | RFQ backup exclusion one-pager (ManufactIQ/FabPulse; portfolio backup only if PQQ fails; no silent pivot) → `commercial/rfq-backup-exclusion-one-pager.md` | #6 |
 | 129 | **done** | DRY-014 FO7 dual-buyer scoped-export dry-run (scoped answers in pack; shared library clean; metrics + method note) → `operations/pack-dry-run-dry-014.md` | #2 |
 | 130 | **done** | Observation→scorecard workflow-evidence tally (blank Actuals; ≥3 businesses; wires OBS log + scorecard Workflow evidence) → `research/observation-workflow-evidence-tally.md` | #1 |
-| 131 | todo | When 126–130 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 131 | **done** | When 126–130 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 132 | todo | Charter Continues pointer refresh: update `Docs/project-charter.md` First-five band (118/119 done; next = 126+); no posture/Actuals invent | — |
 | 133 | todo | Opportunity portfolio matrix-path notes: link Constructionline/Evidash/Complys scan artefacts on candidates (dated skim; scores unchanged unless labelled evidence) → `strategy/opportunity-portfolio.md` | — |
 | 134 | todo | ManufactIQ/FabPulse public pricing honesty micro-pass (Fallback A Unresolved; public pages only; no invent) → update `research/competitors.md` | #1 |
 | 135 | todo | FO7 customer scoped-answer brief template (blank; vs silent shared-library pollution; wires FO7 playbook) → `commercial/customer-fo7-scoped-answer-brief.md` | #6 |
 | 136 | todo | Discovery demo → held booking densification checklist (blank Actuals; wires demo runbook + booking commitment) → `commercial/demo-to-held-booking-densification.md` | #6 |
 | 137 | todo | When 132–136 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 138 | todo | Interview pain-convergence → scorecard tally (blank Actuals; ≥6/10; wires synthesis + Week-4 gate) → `research/interview-pain-convergence-tally.md` | #1 |
+| 139 | todo | Customer Approver export-gate brief template (blank; vs portal auto-submit / tender-AI; wires Approver training) → `commercial/customer-approver-export-gate-brief.md` | #6 |
+| 140 | todo | Path A clock-time → minutes-saved leave-behind bridge checklist (blank Actuals; vs SharePoint; no invent) → `commercial/path-a-clock-to-leavebehind-bridge.md` | #6 |
+| 141 | todo | Continuation log → scorecard Continuations tally (blank Actuals; ≥2; wires continuation log + scorecard) → `operations/continuation-scorecard-tally.md` | #2 |
+| 142 | todo | NAAME peer-intro → qualified discovery/week densification checklist (blank; wires peer-intro pack + week tracker) → `commercial/peer-intro-to-qualified-week-densification.md` | #6 |
+| 143 | todo | When 138–142 done: re-rank from open epics + gaps; append new rows surgically | — |
