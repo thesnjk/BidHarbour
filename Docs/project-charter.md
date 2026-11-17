@@ -49,13 +49,13 @@ Do **not** treat `product/backlog.md` as the Continue queue. Do **not** migrate 
 ## Next Continues (queue pointer)
 
 **Continue queue (committed):** [`agent-backlog.md`](agent-backlog.md) — not the local master prompt.  
-**As-of queue:** Post-upgrade band **118–131** complete; this charter pointer refresh is **#132**. After merge, first unfinished = **#133** (portfolio matrix-path notes), then **134–137**, then **138+**.
+**As-of queue:** Bands **118–131** and **132–137** complete (**#137** re-rank appended **144–149**). After merge, first unfinished = **#138** (interview pain-convergence tally), then **139–143**, then **144+**.
 
 Execute on subsequent Continues — not invent Actuals:
 
-1. Row **133** — Opportunity portfolio matrix-path notes  
-2. Row **134** — ManufactIQ/FabPulse Fallback A honesty micro-pass  
-3. Rows **135–137** — FO7 customer brief; demo→booking densification; re-rank sentinel  
+1. Row **138** — Interview pain-convergence → scorecard tally  
+2. Rows **139–142** — Approver export brief; clock→leave-behind; continuation tally; peer-intro densification  
+3. Row **143** — re-rank sentinel; then **144+** (TenderNation/KanchanFlow honesty; paid-pilots tally; solicitor→Script A; OBS→leave-behind)  
 4. Keep founder outreach / scorecard Actuals founder-owned  
 5. Further charter hygiene only if posture/scorecard actually moves
 

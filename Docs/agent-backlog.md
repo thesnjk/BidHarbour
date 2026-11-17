@@ -164,10 +164,16 @@ Mark the row **done** in **this file** in the **same** PR. Do not ship Continues
 | 134 | **done** | ManufactIQ/FabPulse public pricing honesty micro-pass (Fallback A Unresolved; public pages only; no invent) → update `research/competitors.md` | #1 |
 | 135 | **done** | FO7 customer scoped-answer brief template (blank; vs silent shared-library pollution; wires FO7 playbook) → `commercial/customer-fo7-scoped-answer-brief.md` | #6 |
 | 136 | **done** | Discovery demo → held booking densification checklist (blank Actuals; wires demo runbook + booking commitment) → `commercial/demo-to-held-booking-densification.md` | #6 |
-| 137 | todo | When 132–136 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 137 | **done** | When 132–136 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 138 | todo | Interview pain-convergence → scorecard tally (blank Actuals; ≥6/10; wires synthesis + Week-4 gate) → `research/interview-pain-convergence-tally.md` | #1 |
 | 139 | todo | Customer Approver export-gate brief template (blank; vs portal auto-submit / tender-AI; wires Approver training) → `commercial/customer-approver-export-gate-brief.md` | #6 |
 | 140 | todo | Path A clock-time → minutes-saved leave-behind bridge checklist (blank Actuals; vs SharePoint; no invent) → `commercial/path-a-clock-to-leavebehind-bridge.md` | #6 |
 | 141 | todo | Continuation log → scorecard Continuations tally (blank Actuals; ≥2; wires continuation log + scorecard) → `operations/continuation-scorecard-tally.md` | #2 |
 | 142 | todo | NAAME peer-intro → qualified discovery/week densification checklist (blank; wires peer-intro pack + week tracker) → `commercial/peer-intro-to-qualified-week-densification.md` | #6 |
 | 143 | todo | When 138–142 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 144 | todo | TenderNation public pricing honesty micro-pass (Gaps Unresolved; public pages only; no invent) → update `research/competitors.md` | #1 |
+| 145 | todo | KanchanFlow Fallback A honesty micro-pass (prior-pass Unresolved; public pages only; no invent) → update `research/competitors.md` | #1 |
+| 146 | todo | Paid-pilot kickoff → scorecard Paid pilots tally (blank Actuals; ≥3; wires kickoff checklist + scorecard) → `research/paid-pilots-scorecard-tally.md` | #1 |
+| 147 | todo | Solicitor-return → Script A unlock densification checklist (blank; wires solicitor intake + legal gate + booking commitment) → `commercial/solicitor-return-script-a-unlock-densification.md` | #6 |
+| 148 | todo | Observation scatter → minutes-saved leave-behind densification checklist (blank Actuals; vs SharePoint; wires OBS worksheet + leave-behind; no invent) → `commercial/observation-scatter-to-leavebehind-densification.md` | #6 |
+| 149 | todo | When 144–148 done: re-rank from open epics + gaps; append new rows surgically | — |
