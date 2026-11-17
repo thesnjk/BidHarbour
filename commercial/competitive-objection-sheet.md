@@ -45,7 +45,8 @@ Public **tender discovery** and AI bid-win drafting are **out of scope by design
 - **Lead thesis:** multi-customer packs vs one membership profile.  
 - **Do not claim:** “replaces Constructionline.”  
 - **Do say:** complementary job — inbound OEM/customer questionnaires.  
-- **Scan matrix (discovery/demo):** [`constructionline-vs-multi-buyer-pack-matrix.md`](constructionline-vs-multi-buyer-pack-matrix.md).
+- **Scan matrix (discovery/demo):** [`constructionline-vs-multi-buyer-pack-matrix.md`](constructionline-vs-multi-buyer-pack-matrix.md).  
+- **Customer FO7 brief:** [`customer-fo7-scoped-answer-brief.md`](customer-fo7-scoped-answer-brief.md) (buyer-specific answers stay scoped; no silent shared pollution).
 
 ### SharePoint / M365 / Copilot
 
@@ -97,7 +98,7 @@ Public **tender discovery** and AI bid-win drafting are **out of scope by design
 2. Unsupported facts → **MISSING** — never invent certifications, insurance, financials, or contractual commitments.  
 3. Two in-date approved sources that disagree → **CONFLICT** — cite both labels; no newest-wins / silent pick.  
 4. Past review/expiry → **EXPIRED** — cite the stale label; no silent renew or date roll.  
-5. Multi-customer: buyer-specific answers stay **scoped** (FO7) — no silent shared pollution.  
+5. Multi-customer: buyer-specific answers stay **scoped** (FO7) — no silent shared pollution ([`customer-fo7-scoped-answer-brief.md`](customer-fo7-scoped-answer-brief.md)).  
 6. Differentiation valuable enough to buy? **Unproven** until paid pilots show time saved vs SharePoint.
 
 ---
