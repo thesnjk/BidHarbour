@@ -229,6 +229,7 @@ These instruments exist so founder fieldwork can be recorded honestly. **None ar
 | 8-week interview grid | [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md) | Template |
 | Interview recording / synthesis | `research/recording-template.md`, `interview-synthesis.md` | Templates |
 | Observation kit / session log | `research/observation-kit-naame-hethel.md`, `observation-session-log.md` | Templates |
+| Inbound-pack scatter worksheet | [`../research/observation-inbound-pack-scatter-worksheet.md`](../research/observation-inbound-pack-scatter-worksheet.md) | Blank Actuals |
 | SharePoint / inbound-pack time-study | [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md) | Blank Actuals |
 | CRM first-50 + Week 1–5 outreach | `commercial/` | Packs/runbooks shipped; sends founder-only |
 
@@ -1309,6 +1310,7 @@ External statistics and competitor pricing in this writeup are cited **as record
 | Interview grid | [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md) | Template |
 | Recording / synthesis | `research/recording-template.md`, `research/interview-synthesis.md` | Templates |
 | Observation kit / log | `research/observation-kit-naame-hethel.md`, `research/observation-session-log.md` | Templates |
+| Inbound-pack scatter worksheet | [`../research/observation-inbound-pack-scatter-worksheet.md`](../research/observation-inbound-pack-scatter-worksheet.md) | Blank Actuals |
 | SharePoint time-study | [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md) | Blank Actuals |
 | Pilot design | [`../research/pilot-design.md`](../research/pilot-design.md) | — |
 | Customer discovery programme | `research/customer-discovery-programme.md` | — |
@@ -1392,6 +1394,7 @@ Full outcomes table: **Part 5 §5.2**. Do not treat as scorecard Actuals.
 | Customer MISSING / abstention brief | [`../commercial/customer-missing-abstention-brief.md`](../commercial/customer-missing-abstention-brief.md) | Blank; vs tender-AI |
 | Recording / synthesis | `research/recording-template.md`, `interview-synthesis.md` | Templates |
 | Observation kit / session log | `research/observation-kit-naame-hethel.md`, `observation-session-log.md` | Templates |
+| Inbound-pack scatter worksheet | [`../research/observation-inbound-pack-scatter-worksheet.md`](../research/observation-inbound-pack-scatter-worksheet.md) | Blank Actuals |
 | SharePoint / inbound time-study | [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md) | Blank Actuals |
 | Week send logs | `commercial/week1-send-log.csv` … Week-5 | Blank until founder sends |
 | Continuation / fee-waiver / support-burden / repeat-usage / FO7 write-back | `operations/pilot-continuation-log.md`, `pilot-fee-waiver-log.md`, `pilot-support-burden-log.md`, `pilot-repeat-usage-tracker.md`, `pilot-fo7-live-writeback-playbook.md` | Blank Actuals |

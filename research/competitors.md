@@ -64,7 +64,7 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
  
  
 5. **2026-11-10 delta:** Velstrian mid-tier clarified as Pro **£149** (not a flat £49–£549 smear); Evidash dual USD/GBP Core cites documented; Complys/KimonBids tiers unchanged vs prior pass.  
-6. **Next agent band:** **#116 DRY-013 shipped** ([`../operations/pack-dry-run-dry-013.md`](../operations/pack-dry-run-dry-013.md)). Remaining **#117–#118** then OS hygiene **#120–#124** after **#119** re-rank: observation inbound-pack scatter worksheet, Evidash buyer vs Supplier Desk one-pager (SharePoint workflow evidence / buyer-SaaS wrong-side price anchor) without inventing Actuals. Portfolio: [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md).
+6. **Next agent band:** **#117 scatter worksheet shipped** ([`observation-inbound-pack-scatter-worksheet.md`](observation-inbound-pack-scatter-worksheet.md)). Remaining **#118** then **#119** re-rank then OS hygiene **#120–#124**: Evidash buyer vs Supplier Desk one-pager (SharePoint workflow evidence / buyer-SaaS wrong-side price anchor) without inventing Actuals. Portfolio: [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md).
 
 ## Gaps in this research
 

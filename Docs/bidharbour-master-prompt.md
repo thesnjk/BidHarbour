@@ -269,7 +269,7 @@ On every bare continue / attach of this file: (1) inspect workspace, (2) read ch
 | 114 | **done** | Customer EXPIRED/abstention brief template (blank; post gap-queue; vs silent renew/autofill; no invented dates) → `commercial/customer-expired-abstention-brief.md` | #6 |
 | 115 | **done** | Complys contractor vault vs inbound OEM pack matrix (blank Actuals; discovery/demo; RAMS/vault ≠ per-buyer Approver export) → `commercial/complys-vault-vs-inbound-pack-matrix.md` | #6 |
 | 116 | **done** | DRY-013 dry-run: stacked export blocks on fixture (EXPIRED + CONFLICT + unsigned Approver; metrics + method note) → `operations/pack-dry-run-dry-013.md` | #2 |
-| 117 | todo | Observation inbound-pack scatter capture worksheet (blank Actuals; wires time-study, observation kit, checklist Lead) → `research/observation-inbound-pack-scatter-worksheet.md` | #1 |
+| 117 | **done** | Observation inbound-pack scatter capture worksheet (blank Actuals; wires time-study, observation kit, checklist Lead) → `research/observation-inbound-pack-scatter-worksheet.md` | #1 |
 | 118 | todo | Evidash buyer-side vs Supplier Desk supplier job one-pager (dated public pricing context only; no invented proof) → `commercial/evidash-buyer-vs-supplier-desk-one-pager.md` | #6 |
 | 119 | todo | When 114–118 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 120 | todo | Charter hygiene pass: refresh `Docs/project-charter.md` as-of + next-gate only if posture/scorecard moved (no invent Actuals) | — |
