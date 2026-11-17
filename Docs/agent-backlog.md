@@ -161,7 +161,7 @@ Mark the row **done** in **this file** in the **same** PR. Do not ship Continues
 | 131 | **done** | When 126–130 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 132 | **done** | Charter Continues pointer refresh: update `Docs/project-charter.md` First-five band (118/119 done; next = 126+); no posture/Actuals invent | — |
 | 133 | **done** | Opportunity portfolio matrix-path notes: link Constructionline/Evidash/Complys scan artefacts on candidates (dated skim; scores unchanged unless labelled evidence) → `strategy/opportunity-portfolio.md` | — |
-| 134 | todo | ManufactIQ/FabPulse public pricing honesty micro-pass (Fallback A Unresolved; public pages only; no invent) → update `research/competitors.md` | #1 |
+| 134 | **done** | ManufactIQ/FabPulse public pricing honesty micro-pass (Fallback A Unresolved; public pages only; no invent) → update `research/competitors.md` | #1 |
 | 135 | todo | FO7 customer scoped-answer brief template (blank; vs silent shared-library pollution; wires FO7 playbook) → `commercial/customer-fo7-scoped-answer-brief.md` | #6 |
 | 136 | todo | Discovery demo → held booking densification checklist (blank Actuals; wires demo runbook + booking commitment) → `commercial/demo-to-held-booking-densification.md` | #6 |
 | 137 | todo | When 132–136 done: re-rank from open epics + gaps; append new rows surgically | — |
