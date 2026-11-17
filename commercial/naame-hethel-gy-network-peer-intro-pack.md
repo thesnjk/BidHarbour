@@ -2,7 +2,7 @@
 
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
 **Product name:** Supplier Desk  
-**Use with:** [`../research/observation-kit-naame-hethel.md`](../research/observation-kit-naame-hethel.md) · [`referral-ask-script.md`](referral-ask-script.md) · [`post-first50-referral-wave.md`](post-first50-referral-wave.md) · [`week3-outreach-pack.md`](week3-outreach-pack.md) (A25/A26) · [`crm-stage-scripts.md`](crm-stage-scripts.md) · [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md) · [`go-to-market.md`](go-to-market.md)
+**Use with:** [`../research/observation-kit-naame-hethel.md`](../research/observation-kit-naame-hethel.md) · [`referral-ask-script.md`](referral-ask-script.md) · [`post-first50-referral-wave.md`](post-first50-referral-wave.md) · [`week3-outreach-pack.md`](week3-outreach-pack.md) (A25/A26) · [`crm-stage-scripts.md`](crm-stage-scripts.md) · [`../research/interview-grid-8wk.md`](../research/interview-grid-8wk.md) · [`go-to-market.md`](go-to-market.md) · week short → [`peer-intro-to-qualified-week-densification.md`](peer-intro-to-qualified-week-densification.md)
 
 **Rule:** Research framing only. Raise **referral density** via network venues + LinkedIn warm intros. Do **not** invent named intros, member emails, event dates, partnerships, or CRM/scorecard Actuals. Prefer Norfolk **AME / marine** peers with multi-customer PQQ/SQ packs. **Not a new cold-50** — do not scrape A51–A100.
 
@@ -36,7 +36,7 @@ Network-only rows (org intros, venue hosts) **do not** count as lead ICP wins.
 
 | Venue | Prep | After useful chat |
 |-------|------|-------------------|
-| **NAAME** meetings / member events | Print observation kit + 5 CRM IDs you hope to meet | Same-day LinkedIn connect + peer ask (scripts below); book grid if yes |
+| **NAAME** meetings / member events | Print observation kit + 5 CRM IDs you hope to meet | Same-day LinkedIn connect + peer ask (scripts below); book grid if yes; densify short week → [`peer-intro-to-qualified-week-densification.md`](peer-intro-to-qualified-week-densification.md) |
 | **Hethel** Engineering Centre network | Same; fab / AME density | Same; tenants as peers — not Hethel-as-customer |
 | **Great Yarmouth / Lowestoft** energy / marine events | Same; marine ICP | Same; do not invent event dates — use public listings founder finds |
 

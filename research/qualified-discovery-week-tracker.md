@@ -4,7 +4,7 @@
 **Use after:** each **Held** interview, or Friday densification rollup  
 **Scorecard:** [`validation-scorecard.md`](validation-scorecard.md) Repeatable acquisition (≥1 qualified discovery/week)  
 **Week-8 gate:** [`week8-gate-checklist.md`](week8-gate-checklist.md)  
-**Companions:** [`interview-grid-8wk.md`](interview-grid-8wk.md) · [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md) · [`../commercial/held-discovery-pilot-booking-commitment.md`](../commercial/held-discovery-pilot-booking-commitment.md) · [`scorecard-actuals-hygiene.md`](scorecard-actuals-hygiene.md)  
+**Companions:** [`interview-grid-8wk.md`](interview-grid-8wk.md) · [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md) · [`../commercial/held-discovery-pilot-booking-commitment.md`](../commercial/held-discovery-pilot-booking-commitment.md) · [`../commercial/peer-intro-to-qualified-week-densification.md`](../commercial/peer-intro-to-qualified-week-densification.md) · [`../commercial/demo-to-held-booking-densification.md`](../commercial/demo-to-held-booking-densification.md) · [`scorecard-actuals-hygiene.md`](scorecard-actuals-hygiene.md)  
 **Product name:** Supplier Desk
 
 **Evidence label:** Template only until rows are filled from **real** held interviews.  
@@ -18,7 +18,7 @@ Track whether each programme week achieved ≥**1** **held** qualified discovery
 
 1. Count only grid slots with Status **`Held`**.  
 2. **Qualified** = lead ICP (AME / marine / fab) discovery interview — not anti-persona, reserve, or construction-control-only contrast rows counted as lead wins.  
-3. Booked / No-show / Cancelled ≠ held. Densify via [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md) when the week is still short.  
+3. Booked / No-show / Cancelled ≠ held. Densify via [`../commercial/discovery-noshow-rebook-checklist.md`](../commercial/discovery-noshow-rebook-checklist.md) or network peer-intros [`../commercial/peer-intro-to-qualified-week-densification.md`](../commercial/peer-intro-to-qualified-week-densification.md) when the week is still short.  
 4. **Pass week** = ≥1 held qualified discovery in that calendar week (Mon–Sun UK, or state window).  
 5. Scorecard Repeatable acquisition Actual updates **only** from real pass weeks (leave Actual `—` until then).  
 6. At Week-8: copy pass/fail into the gate checklist Repeatable acquisition field.
