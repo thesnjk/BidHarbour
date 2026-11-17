@@ -74,3 +74,16 @@ See [`../../operations/pack-dry-run-dry-006.md`](../../operations/pack-dry-run-d
 | CONFLICT at first draft | 1/22 (Q10) |
 | Rework loops after Approver review | 1 |
 | Export blocked until Approver sign-off? (yes/no) | yes (export_approved=no; no waiver) |
+
+### DRY-013 — stacked library (`synthetic-evidence-library-v1-stacked`)
+
+See [`../../operations/pack-dry-run-dry-013.md`](../../operations/pack-dry-run-dry-013.md) · [`../../operations/export-manifest-dry-013-filled.md`](../../operations/export-manifest-dry-013-filled.md). Working statuses: Q9 **EXPIRED** (`ins_el`); Q10 **CONFLICT** (`ins_pl` — both labels); Q22 **MISSING**; Q15 draft-only; Block export / Approve unticked. Base v1 library unchanged.
+
+| Metric | Value |
+|--------|-------|
+| Minutes to first complete draft | 1 |
+| Fields MISSING at first draft | 1/22 |
+| EXPIRED at first draft | 1/22 (Q9) |
+| CONFLICT at first draft | 1/22 (Q10) |
+| Rework loops after Approver review | 1 |
+| Export blocked until Approver sign-off? (yes/no) | yes (export_approved=no; Block export; Approve unticked) |

@@ -126,6 +126,7 @@
 - [x] Backlog re-rank: rows 114–118 queued (EXPIRED brief, Complys vault matrix, DRY-013 stacked gates, observation scatter worksheet, Evidash wrong-side one-pager — Lead: EXPIRED customer comms / Complys copycat / Approver export / SharePoint workflow evidence / buyer-SaaS price anchor) → [`../Docs/bidharbour-master-prompt.md`](../Docs/bidharbour-master-prompt.md)  
 - [x] Customer EXPIRED/abstention brief template (blank; vs silent renew/autofill) → [`../commercial/customer-expired-abstention-brief.md`](../commercial/customer-expired-abstention-brief.md)  
 - [x] Complys vault vs inbound OEM pack matrix (blank Actuals; discovery/demo) → [`../commercial/complys-vault-vs-inbound-pack-matrix.md`](../commercial/complys-vault-vs-inbound-pack-matrix.md)  
+- [x] Pack dry-run DRY-013 (stacked EXPIRED+CONFLICT + Block export unsigned Approver) → [`pack-dry-run-dry-013.md`](pack-dry-run-dry-013.md) · [`export-manifest-dry-013-filled.md`](export-manifest-dry-013-filled.md) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv)  
 
  
 

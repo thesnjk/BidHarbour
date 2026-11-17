@@ -33,6 +33,10 @@ For Path A **EXPIRED** rehearsal (backdated `ins_el` only), use sibling [`../syn
 
 For Path A **CONFLICT** rehearsal (duplicate in-date `ins_pl` rows), use sibling [`../synthetic-evidence-library-v1-conflict/`](../synthetic-evidence-library-v1-conflict/). Leave this v1 folder unchanged.
 
+## Stacked variant (DRY-013)
+
+For Path A **EXPIRED + CONFLICT** composite rehearsal, use sibling [`../synthetic-evidence-library-v1-stacked/`](../synthetic-evidence-library-v1-stacked/). Leave this v1 folder unchanged.
+
 ## Rules
 
 - Never commit live customer certificates or filled real intake CSVs here.  
