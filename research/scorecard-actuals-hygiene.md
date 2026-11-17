@@ -3,7 +3,7 @@
 **Epic:** [#1](https://github.com/thesnjk/BidHarbour/issues/1)  
 **Use on:** Friday ritual / after each completed interview, observation, or live pilot close  
 **Scorecard:** [`validation-scorecard.md`](validation-scorecard.md)  
-**Companions:** [`interview-synthesis.md`](interview-synthesis.md) · [`observation-session-log.md`](observation-session-log.md) · [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) · [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md) · [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) · [`../operations/path-a-pilot-pack-clock-time-log.md`](../operations/path-a-pilot-pack-clock-time-log.md) · [`week4-gate-checklist.md`](week4-gate-checklist.md) · [`week8-gate-checklist.md`](week8-gate-checklist.md)  
+**Companions:** [`interview-synthesis.md`](interview-synthesis.md) · [`interview-pain-convergence-tally.md`](interview-pain-convergence-tally.md) · [`observation-session-log.md`](observation-session-log.md) · [`observation-workflow-evidence-tally.md`](observation-workflow-evidence-tally.md) · [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) · [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md) · [`../operations/minutes-saved-contrast-rollup.md`](../operations/minutes-saved-contrast-rollup.md) · [`../operations/path-a-pilot-pack-clock-time-log.md`](../operations/path-a-pilot-pack-clock-time-log.md) · [`week4-gate-checklist.md`](week4-gate-checklist.md) · [`week8-gate-checklist.md`](week8-gate-checklist.md)  
 **Lead gap:** validation proof path — one map from source artefacts → Actuals without inventing
 
 **Evidence label:** Checklist template only. Do **not** invent Actuals, INT/OBS/pack IDs, or Pass marks in git. Leave scorecard numbers at current zeros / `—` until real evidence exists.
@@ -16,7 +16,7 @@ Update [`validation-scorecard.md`](validation-scorecard.md) honestly: each Actua
 
 | Criterion | Allowed source (recompute first) | Never count |
 |-----------|----------------------------------|-------------|
-| Interview pain convergence | [`interview-synthesis.md`](interview-synthesis.md) same_pain tally (lead niche) | Email sends, replies, booked-but-not-held slots |
+| Interview pain convergence | [`interview-synthesis.md`](interview-synthesis.md) same_pain → rollup [`interview-pain-convergence-tally.md`](interview-pain-convergence-tally.md) (lead niche) | Email sends, replies, booked-but-not-held slots |
 | Workflow evidence | Distinct firms with completed `OBS-*` / interview-equivalent INT ([`observation-session-log.md`](observation-session-log.md)) | Send logs; synthetic dry-runs |
 | Paid pilots | Live packs completed (kickoff + Path B; metrics `mode=live`) | DRY-00x; unsigned MSA stubs |
 | Continuations | Written `yes` rows in [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) | Verbal interest; pending D |
