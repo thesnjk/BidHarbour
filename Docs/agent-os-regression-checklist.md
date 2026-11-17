@@ -17,6 +17,16 @@ Direction: [`project-charter.md`](project-charter.md) · Rules: local-only `bidh
 | 8 | Self-service numbering preserved; first unfinished row is Continue target | | | |
 | 9 | Risk register + validation-scorecard linked; Actuals blank until founder evidence | | | |
 | 10 | PR cadence: feature branch → PR → substantive review → print squash merge | | | |
+| 11 | Four-axis coverage on last Continue: **Issues** + **Commits** + **Pull requests** + **Code review** (no empty LGTM; no skip issue) | | | |
+
+## Last Continue four-axis check
+
+| Axis | Hit? (Y/N) | Evidence (issue/PR/review URLs or ids) |
+|------|------------|----------------------------------------|
+| Issues | | |
+| Commits | | |
+| Pull requests | | |
+| Code review | | |
 
 ## Last run
 

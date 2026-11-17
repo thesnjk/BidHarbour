@@ -13,7 +13,18 @@ Direction: [`project-charter.md`](project-charter.md) · Map: [`developer-map.md
 
 ## Continue loop
 
-On every bare continue / attach of the local master prompt: (1) inspect workspace, (2) read charter + developer-map, (3) pick the **first unfinished** row below, (4) implement end-to-end on a feature branch, (5) open a PR, (6) print `gh pr merge <n> --squash`, (7) mark the row **done** in **this file** in the **same** PR. Never ask what next. Never idle because founder email is unsent. No filler, no premature SaaS, no invented Actuals.
+On every bare continue / attach of the local master prompt: (1) inspect workspace, (2) read charter + developer-map, (3) pick the **first unfinished** row below, (4) implement end-to-end on a feature branch. Never ask what next. Never idle because founder email is unsent. No filler, no premature SaaS, no invented Actuals.
+
+**Four-axis GitHub coverage (required every Continue — keep the contribution radar covered):**
+
+| Axis | Required action |
+|------|-----------------|
+| **Issues** | `gh issue create` for the slice **or** link an existing epic/issue with `Refs #N` / `Fixes #N` |
+| **Commits** | Feature-branch commit(s) with why-focused message (never commit local `bidharbour-master-prompt.md`) |
+| **Pull requests** | `gh pr create` with Summary + Test plan + `Fixes`/`Refs` |
+| **Code review** | Substantive `gh pr review` on the real diff (not empty LGTM); then print `gh pr merge <n> --squash` |
+
+Mark the row **done** in **this file** in the **same** PR. Do not ship Continues that skip Issues or Code review.
 
 | # | Status | Slice | Epic |
 |---|--------|-------|------|
@@ -146,7 +157,7 @@ On every bare continue / attach of the local master prompt: (1) inspect workspac
 | 127 | **done** | Tender-AI wrong-fight one-pager (Velstrian/KimonBids; Gap-by-design; no win-rate claims) → `commercial/tender-ai-wrong-fight-one-pager.md` | #6 |
 | 128 | **done** | RFQ backup exclusion one-pager (ManufactIQ/FabPulse; portfolio backup only if PQQ fails; no silent pivot) → `commercial/rfq-backup-exclusion-one-pager.md` | #6 |
 | 129 | **done** | DRY-014 FO7 dual-buyer scoped-export dry-run (scoped answers in pack; shared library clean; metrics + method note) → `operations/pack-dry-run-dry-014.md` | #2 |
-| 130 | todo | Observation→scorecard workflow-evidence tally (blank Actuals; ≥3 businesses; wires OBS log + scorecard Workflow evidence) → `research/observation-workflow-evidence-tally.md` | #1 |
+| 130 | **done** | Observation→scorecard workflow-evidence tally (blank Actuals; ≥3 businesses; wires OBS log + scorecard Workflow evidence) → `research/observation-workflow-evidence-tally.md` | #1 |
 | 131 | todo | When 126–130 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 132 | todo | Charter Continues pointer refresh: update `Docs/project-charter.md` First-five band (118/119 done; next = 126+); no posture/Actuals invent | — |
 | 133 | todo | Opportunity portfolio matrix-path notes: link Constructionline/Evidash/Complys scan artefacts on candidates (dated skim; scores unchanged unless labelled evidence) → `strategy/opportunity-portfolio.md` | — |
