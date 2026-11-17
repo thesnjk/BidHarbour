@@ -77,5 +77,6 @@ Optional: if interview time-study exists for the same CRM id and no kickoff base
 - Kickoff: [`pilot-kickoff-checklist.md`](pilot-kickoff-checklist.md) §2 Baseline workshop  
 - Path B logging: [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md)  
 - Per-pack clock (live capture): [`path-a-pilot-pack-clock-time-log.md`](path-a-pilot-pack-clock-time-log.md)  
+- Clock → leave-behind bridge: [`../commercial/path-a-clock-to-leavebehind-bridge.md`](../commercial/path-a-clock-to-leavebehind-bridge.md)  
 - Continuation (separate gate): [`pilot-continuation-log.md`](pilot-continuation-log.md)  
 - Customer leave-behind (post–results-review): [`../commercial/minutes-saved-leave-behind.md`](../commercial/minutes-saved-leave-behind.md)  

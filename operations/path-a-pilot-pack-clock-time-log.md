@@ -4,7 +4,7 @@
 **Use after:** each Path A pack (DRY training / founder re-time) **or** Path B live pack close  
 **Lead gap:** minutes saved vs SharePoint / ad-hoc folders — unproven until **live** contrast  
 **Scorecard:** [`../research/validation-scorecard.md`](../research/validation-scorecard.md) Time/value (via rollup only)  
-**Companions:** [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md) (Path A 1–6 · Metrics ritual) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) · [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) · [`minutes-saved-contrast-rollup.md`](minutes-saved-contrast-rollup.md) · [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md) · [`../research/scorecard-actuals-hygiene.md`](../research/scorecard-actuals-hygiene.md) · [`../commercial/minutes-saved-leave-behind.md`](../commercial/minutes-saved-leave-behind.md)  
+**Companions:** [`concierge-pilot-runbook.md`](concierge-pilot-runbook.md) (Path A 1–6 · Metrics ritual) · [`pilot-metrics-stub.csv`](pilot-metrics-stub.csv) · [`baseline-minutes-worksheet.md`](baseline-minutes-worksheet.md) · [`minutes-saved-contrast-rollup.md`](minutes-saved-contrast-rollup.md) · [`../research/interview-sharepoint-time-study.md`](../research/interview-sharepoint-time-study.md) · [`../research/scorecard-actuals-hygiene.md`](../research/scorecard-actuals-hygiene.md) · [`../commercial/minutes-saved-leave-behind.md`](../commercial/minutes-saved-leave-behind.md) · live clock → leave-behind → [`../commercial/path-a-clock-to-leavebehind-bridge.md`](../commercial/path-a-clock-to-leavebehind-bridge.md)  
 **Product name:** Supplier Desk
 
 **Evidence label:** Template only until rows are filled from **real** timers.  
