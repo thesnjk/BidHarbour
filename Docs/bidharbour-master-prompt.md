@@ -29,7 +29,7 @@ It is **not:** a generic file store; a basic certificate-expiry tracker; a suppl
 - **Wedge:** inbound multi-customer PQQ/SQ pack assembly — evidence match + **MISSING** abstention + human Approver export — at SME price (pilot **£250–£750** ex VAT band).
 - **Profit path now:** paid pilots → measured minutes saved → continuation yes/no → referrals in Norfolk **AME / marine** ICP. Not SaaS spend.
 - Prefer agent work that raises **pilot conversion**, **minutes-saved proof**, **continuation capture**, or **referral density**.
-- On every backlog **re-rank**: close a **Lead** surface gap from `research/competitors.md` (or append a row that does); name the gap in the plan/PR.
+- On every backlog **re-rank**: close a **Lead** surface gap from `research/competitors.md` (or append a row that does); name the gap in the plan/PR. **#119** named: SharePoint checklist Lead →126; tender-AI Gap-by-design →127; RFQ backup-only →128; FO7 multi-customer →129; workflow-evidence ≥3 →130.
 - **Deprioritize:** public tender discovery; holiday-property ops; RFQ quoting (unless PQQ validation fails); counting large-group anti-persona CRM rows as wins.
 - **Never monetize** via win-rate claims, fabricated evidence/certs, or uncleared MSA/DPA stubs with customers.
 
@@ -157,7 +157,7 @@ Founder-led sales before ads; CRM stages in [`../commercial/crm-stage-scripts.md
 
 ### Shipped first-wave artefacts (keep honest)
 
-Week-1–3 outreach packs (A01–A30) + follow-ups A01–A50 + **DRY-001–013** (export gates through stacked EXPIRED+CONFLICT+unsigned Approver) + Path B ops + commercial/ops blank-Actuals instruments + Week-4/8 gates (PRs through **#133**+). Epics #2–#6 open (#1 closed on GitHub; scorecard Actuals still **0** until founder interviews). Do **not** open a PR solely to renumber this band.
+Week-1–3 outreach packs (A01–A30) + follow-ups A01–A50 + **DRY-001–013** (export gates through stacked EXPIRED+CONFLICT+unsigned Approver) + Path B ops + commercial/ops blank-Actuals instruments + Week-4/8 gates + competitor matrices through Evidash (**#118**) + **#119** re-rank append **126–131** (SharePoint checklist Lead; tender-AI wrong-fight; RFQ backup exclusion; DRY-014 FO7; workflow-evidence tally). Epics #2–#6 open (#1 closed on GitHub; scorecard Actuals still **0** until founder interviews). Do **not** open a PR solely to renumber this band.
 
 **Founder parallel track (does not block the agent):** execute `commercial/week1-send-runbook.md` (then Week-2/3) → fill send logs → book `research/interview-grid-8wk.md` → update scorecard Actuals only after completed interviews.
 
@@ -287,13 +287,19 @@ On every bare continue / attach of this file: (1) inspect workspace, (2) read **
 | 116 | **done** | DRY-013 dry-run: stacked export blocks on fixture (EXPIRED + CONFLICT + unsigned Approver; metrics + method note) → `operations/pack-dry-run-dry-013.md` | #2 |
 | 117 | **done** | Observation inbound-pack scatter capture worksheet (blank Actuals; wires time-study, observation kit, checklist Lead) → `research/observation-inbound-pack-scatter-worksheet.md` | #1 |
 | 118 | **done** | Evidash buyer-side vs Supplier Desk supplier job one-pager (dated public pricing context only; no invented proof) → `commercial/evidash-buyer-vs-supplier-desk-one-pager.md` | #6 |
-| 119 | todo | When 114–118 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 119 | **done** | When 114–118 done: re-rank from open epics + gaps; append new rows surgically | — |
 | 120 | **done** | Charter hygiene pass: refresh `Docs/project-charter.md` as-of + next-gate only if posture/scorecard moved (no invent Actuals) | — |
 | 121 | **done** | Opportunity portfolio refresh ritual: dated skim of `research/competitors.md` → update scores in `strategy/opportunity-portfolio.md` only with labelled evidence | — |
 | 122 | **done** | Dual-backlog doc sync check: confirm `product/backlog.md` header still points agent Continue to this table; fix drift if any | — |
 | 123 | **done** | Decision-scorecard twin note: ensure `strategy/decision-scorecard.md` points to live `research/validation-scorecard.md` for Actuals (no duplicate invent) | — |
 | 124 | **done** | Agent OS regression checklist (blank): gates, evidence labels, human approval, secrets, dual-backlog, charter pointer → `Docs/agent-os-regression-checklist.md` | — |
 | 125 | todo | When 120–124 done: re-rank from open epics + gaps; append new rows surgically | — |
+| 126 | todo | SharePoint folders vs inbound checklist + Approver matrix (blank Actuals; discovery/demo; checklist Lead vs folder scatter) → `commercial/sharepoint-vs-inbound-checklist-matrix.md` | #6 |
+| 127 | todo | Tender-AI wrong-fight one-pager (Velstrian/KimonBids; Gap-by-design; no win-rate claims) → `commercial/tender-ai-wrong-fight-one-pager.md` | #6 |
+| 128 | todo | RFQ backup exclusion one-pager (ManufactIQ/FabPulse; portfolio backup only if PQQ fails; no silent pivot) → `commercial/rfq-backup-exclusion-one-pager.md` | #6 |
+| 129 | todo | DRY-014 FO7 dual-buyer scoped-export dry-run (scoped answers in pack; shared library clean; metrics + method note) → `operations/pack-dry-run-dry-014.md` | #2 |
+| 130 | todo | Observation→scorecard workflow-evidence tally (blank Actuals; ≥3 businesses; wires OBS log + scorecard Workflow evidence) → `research/observation-workflow-evidence-tally.md` | #1 |
+| 131 | todo | When 126–130 done: re-rank from open epics + gaps; append new rows surgically | — |
 
 ### Known gates / failed approaches (do not repeat)
 
