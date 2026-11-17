@@ -1,7 +1,7 @@
 # Week-8 gate decision checklist
 
 **Purpose:** Decide **GO MVP** / **NARROW** / **PIVOT** / **STOP** at the Week-8 gate using **completed** paid-pilot evidence and scorecard Actuals only.  
-**Inputs:** [`validation-scorecard.md`](validation-scorecard.md) · [`interview-grid-8wk.md`](interview-grid-8wk.md) · [`pilot-design.md`](pilot-design.md) · [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv) · [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) · [`negative-findings.md`](negative-findings.md)  
+**Inputs:** [`validation-scorecard.md`](validation-scorecard.md) · [`interview-grid-8wk.md`](interview-grid-8wk.md) · [`pilot-design.md`](pilot-design.md) · [`../operations/pilot-metrics-stub.csv`](../operations/pilot-metrics-stub.csv) · [`../operations/pilot-closeout-scripts.md`](../operations/pilot-closeout-scripts.md) · [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) · [`../operations/continuation-scorecard-tally.md`](../operations/continuation-scorecard-tally.md) · [`negative-findings.md`](negative-findings.md)  
 **Prior gate:** [`week4-gate-checklist.md`](week4-gate-checklist.md)  
 **Programme note:** [`customer-discovery-programme.md`](customer-discovery-programme.md)
 
@@ -13,7 +13,7 @@
 - [ ] Scorecard Actuals updated from real interviews + live pilot packs only  
 - [ ] Paid pilots used solicitor-cleared MSA/DPA (Path B)  
 - [ ] Pilot metrics rows filled for live packs (not dry-run masquerading as P01+)  
-- [ ] Continuations recorded as written yes/no (close-out script D) → [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) — never invented  
+- [ ] Continuations recorded as written yes/no (close-out script D) → [`../operations/pilot-continuation-log.md`](../operations/pilot-continuation-log.md) · rollup [`../operations/continuation-scorecard-tally.md`](../operations/continuation-scorecard-tally.md) — never invented  
 - [ ] Negative findings reviewed same week  
 
 ## 2. Tally (copy from scorecard / metrics — blank until data)
@@ -23,7 +23,7 @@
 | Gate date | |
 | Lead niche | |
 | Paid pilots completed (target 3) | /3 |
-| Continuations written yes (target ≥2) | /2 |
+| Continuations written yes (target ≥2) | /2 *(from [`../operations/continuation-scorecard-tally.md`](../operations/continuation-scorecard-tally.md))* |
 | Time/value (median ≥90 min saved **or** ≥£150/pack stated value) | pass / fail / — |
 | Repeat usage (≥2 packs / continuing customer) | pass / fail / — *(from [`../operations/pilot-repeat-usage-tracker.md`](../operations/pilot-repeat-usage-tracker.md))* |
 | Support effort (&lt;45 min/customer/mo) | pass / fail / — *(from [`../operations/pilot-support-burden-log.md`](../operations/pilot-support-burden-log.md))* |
