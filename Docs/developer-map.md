@@ -1,35 +1,40 @@
 # BidHarbour developer map
 
-Thin always-on index. Pull one file at a time. Research as-of: **9 November 2025**.
+Thin always-on index. Pull one file at a time.  
+**Map as-of:** 2026-11-17 · Desk research as-of: **9 November 2025**.
 
 ## Strategic posture
 
 **INVESTIGATE FURTHER** — validate Norfolk supplier PQQ/SQ pack assembly before production SaaS.
 
+**Direction (charter):** [`project-charter.md`](project-charter.md)  
 Recommendation owner: `strategy/executive-decision.md`  
+Opportunity portfolio: `strategy/opportunity-portfolio.md`  
 Full plan: `strategy/business-plan.md`  
-Scorecard: `research/validation-scorecard.md`
+Live scorecard: `research/validation-scorecard.md` (threshold twin only: `strategy/decision-scorecard.md` — do not invent Actuals)
 
 ## Folder map
 
 | Path | Purpose | Key deliverables |
 |------|---------|------------------|
-| `strategy/` | Decision, brand, market, roadmap | `executive-decision.md`, `business-plan.md`, canvases |
-| `research/` | Discovery, competitors, assumptions | interview templates, matrices, scorecard |
-| `product/` | MVP and backlog | `mvp-spec.md`, `backlog.md` |
+| `strategy/` | Decision, brand, market, roadmap | `executive-decision.md`, `opportunity-portfolio.md`, `business-plan.md`, canvases |
+| `research/` | Discovery, competitors, assumptions | interview templates, `competitors.md`, scorecard |
+| `product/` | MVP + **post-GO** engineering backlog | `mvp-spec.md`, `backlog.md` (not the agent Continue queue) |
 | `design/` | UX / IA | `ux-ia.md` |
 | `engineering/` | Post-GO code (empty until GO) | apps/, packages/ later |
 | `security-and-legal/` | Controls and stubs | `security-privacy-legal.md`, DPA stub, privacy issue-spotter, transfers annex |
 | `commercial/` | GTM | outreach, first actions, CRM, NAAME/Hethel/GY peer-intro pack |
 | `finance/` | Model and pricing | `model-24mo.xlsx`, `pricing.md` |
 | `operations/` | Run model | KPIs, RACI, runbooks |
-| `Docs/` | Committed thin docs | this file, [`project-writeup.md`](project-writeup.md) (living narrative), architecture, legal-data-policy, master prompt |
+| `Docs/` | Committed thin docs | this file, [`project-charter.md`](project-charter.md), [`project-writeup.md`](project-writeup.md), architecture, legal-data-policy, master prompt |
 | `testdata/` | Redacted synthetic fixtures only | `redacted-pqq-v1/`, `redacted-sq-v1/`, `synthetic-evidence-library-v1/` |
 | `.firecrawl/` | Local research dumps | **gitignored** |
 
 ## Agent standing orders
 
-Tracked: [`bidharbour-master-prompt.md`](bidharbour-master-prompt.md) (attach at chat start).  
+Tracked: [`bidharbour-master-prompt.md`](bidharbour-master-prompt.md) (attach at chat start) — **authoritative pre-GO agent backlog** lives in that file.  
+Post-GO MoSCoW only: [`../product/backlog.md`](../product/backlog.md).  
+Direction: [`project-charter.md`](project-charter.md).  
 Living narrative: [`project-writeup.md`](project-writeup.md) (chapters fill via self-service backlog).  
 Evidence labels required on material claims.  
 Human approval before any submission statement.  

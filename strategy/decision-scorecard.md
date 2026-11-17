@@ -29,4 +29,4 @@ These are **management decision rules**, not validated industry benchmarks.
 | PIVOT | Move to RFQ+compliance hybrid (fallback A) with new scorecard |
 | STOP | Wind down product thesis |
 
-Live tracking sheet: `research/validation-scorecard.md` and `research/validation-scorecard.xlsx`.
+**Actuals live only on** [`../research/validation-scorecard.md`](../research/validation-scorecard.md) (and `.xlsx` twin). This file is the **threshold / recommendation twin** — do **not** invent or duplicate Actuals here. Direction: [`../Docs/project-charter.md`](../Docs/project-charter.md).

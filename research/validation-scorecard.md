@@ -1,6 +1,7 @@
 # Validation scorecard (live)
 
 **Management rules — not industry benchmarks.**  
+Direction: [`../Docs/project-charter.md`](../Docs/project-charter.md). Threshold twin (no Actuals invent): [`../strategy/decision-scorecard.md`](../strategy/decision-scorecard.md).  
 Update weekly during the 8-week programme.  
 **Actuals hygiene:** [`scorecard-actuals-hygiene.md`](scorecard-actuals-hygiene.md) — synthesis→scorecard; no invent.
 
