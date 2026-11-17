@@ -64,7 +64,8 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
  
  
 5. **2026-11-10 delta:** Velstrian mid-tier clarified as Pro **£149** (not a flat £49–£549 smear); Evidash dual USD/GBP Core cites documented; Complys/KimonBids tiers unchanged vs prior pass.  
-6. **#118 shipped:** Evidash buyer vs Supplier Desk one-pager — [`../commercial/evidash-buyer-vs-supplier-desk-one-pager.md`](../commercial/evidash-buyer-vs-supplier-desk-one-pager.md) (wrong-side price anchor; blank Actuals). Objection-sheet Evidash row wired. **Next:** #119 re-rank (append Lead-closing rows); #125 OS hygiene re-rank still open. Portfolio: [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md).
+6. **#118 shipped:** Evidash buyer vs Supplier Desk one-pager — [`../commercial/evidash-buyer-vs-supplier-desk-one-pager.md`](../commercial/evidash-buyer-vs-supplier-desk-one-pager.md) (wrong-side price anchor; blank Actuals). Objection-sheet Evidash row wired.  
+7. **#119 re-rank shipped:** appended **126–131** — SharePoint checklist matrix (Lead vs folders); tender-AI wrong-fight one-pager (Gap-by-design); RFQ backup exclusion (no silent pivot); DRY-014 FO7 scoped-export; observation→scorecard workflow-evidence tally. **Next unfinished:** **#125** OS hygiene re-rank, then **#126**. Portfolio: [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md).
 
 ## Gaps in this research
 
