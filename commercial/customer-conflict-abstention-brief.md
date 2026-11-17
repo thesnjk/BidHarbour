@@ -3,7 +3,7 @@
 **Epic:** [#6](https://github.com/thesnjk/BidHarbour/issues/6)  
 **Use after / with:** Gap queue ([`../operations/missing-queue-email.md`](../operations/missing-queue-email.md)) when any required row is **CONFLICT** — Path B step 4  
 **Lead gap:** CONFLICT + no newest-wins vs tender-AI silent merge / autofill  
-**Companions:** [`customer-missing-abstention-brief.md`](customer-missing-abstention-brief.md) · [`competitive-objection-sheet.md`](competitive-objection-sheet.md) (Tender-AI) · [`../operations/approver-review-training.md`](../operations/approver-review-training.md) · [`../operations/concierge-pilot-runbook.md`](../operations/concierge-pilot-runbook.md) · fixture rehearsal [`../operations/pack-dry-run-dry-006.md`](../operations/pack-dry-run-dry-006.md)  
+**Companions:** [`customer-missing-abstention-brief.md`](customer-missing-abstention-brief.md) · [`customer-expired-abstention-brief.md`](customer-expired-abstention-brief.md) · [`competitive-objection-sheet.md`](competitive-objection-sheet.md) (Tender-AI) · [`../operations/approver-review-training.md`](../operations/approver-review-training.md) · [`../operations/concierge-pilot-runbook.md`](../operations/concierge-pilot-runbook.md) · fixture rehearsal [`../operations/pack-dry-run-dry-006.md`](../operations/pack-dry-run-dry-006.md)  
 **Product name:** Supplier Desk
 
 **Evidence label:** Template only until filled from a **real** pack’s CONFLICT list.  
