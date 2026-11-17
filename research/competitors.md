@@ -69,7 +69,8 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 8. **#125 OS re-rank shipped:** appended **132–137** — charter Continues pointer; portfolio matrix-path notes; ManufactIQ/FabPulse Fallback A honesty micro-pass; FO7 customer brief; demo→held booking densification.  
 9. **#126 shipped:** SharePoint folders vs inbound checklist matrix — [`../commercial/sharepoint-vs-inbound-checklist-matrix.md`](../commercial/sharepoint-vs-inbound-checklist-matrix.md) (blank Actuals; objection-sheet SharePoint row wired).  
 10. **#127 shipped:** Tender-AI wrong-fight one-pager — [`../commercial/tender-ai-wrong-fight-one-pager.md`](../commercial/tender-ai-wrong-fight-one-pager.md) (Velstrian/KimonBids Gap-by-design; dated prices only; blank Actuals).  
-11. **#128 shipped:** RFQ backup exclusion one-pager — [`../commercial/rfq-backup-exclusion-one-pager.md`](../commercial/rfq-backup-exclusion-one-pager.md) (ManufactIQ/FabPulse Gap-by-design; backup only if PQQ fails; prior-pass prices; blank Actuals). **Next unfinished:** **#129**. Portfolio: [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md).
+11. **#128 shipped:** RFQ backup exclusion one-pager — [`../commercial/rfq-backup-exclusion-one-pager.md`](../commercial/rfq-backup-exclusion-one-pager.md) (ManufactIQ/FabPulse Gap-by-design; backup only if PQQ fails; prior-pass prices; blank Actuals).  
+12. **#129 shipped:** DRY-014 FO7 dual-buyer scoped-export — [`../operations/pack-dry-run-dry-014.md`](../operations/pack-dry-run-dry-014.md) (Broads SYNTH-BROADS cites on export story; Harbour Wind zero; shared clean; blank Actuals). **Next unfinished:** **#130**. Portfolio: [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md).
 
 ## Gaps in this research
 

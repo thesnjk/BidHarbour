@@ -12,6 +12,7 @@ DRY-010,dry_run,testdata/redacted-pqq-v1,2026-11-12T00:05:00Z,2026-11-12T00:05:4
 DRY-011,dry_run,testdata/redacted-pqq-v1,2026-11-12T12:50:00Z,2026-11-12T12:50:40Z,1,22,1,0,no,inbound→structured checklist extract 22/22 open-until-match; vs SharePoint 0 Q-rows; see pack-dry-run-dry-011.md / requirement-checklist-dry-011.md
 DRY-012,dry_run,testdata/redacted-sq-v1+synthetic-evidence-library-v1-expired,2026-11-13T15:20:00Z,2026-11-13T15:20:40Z,1,6,1,0,no,Broads SQ + expired library; Q7 EL EXPIRED; 6 MISSING Broads deltas; Block export; see pack-dry-run-dry-012.md
 DRY-013,dry_run,testdata/redacted-pqq-v1+synthetic-evidence-library-v1-stacked,2026-11-17T13:40:00Z,2026-11-17T13:40:40Z,1,1,1,0,no,stacked library; Q9 EL EXPIRED + Q10 PL CONFLICT (both labels) + Block export unsigned Approver; see pack-dry-run-dry-013.md / export-manifest-dry-013-filled.md
+DRY-014,dry_run,testdata/redacted-pqq-v1→redacted-sq-v1+synthetic-evidence-library-v1+synthetic-customer-scoped-answers-v1,2026-11-17T14:32:00Z,2026-11-17T14:32:45Z,1,3,1,0,no,FO7 dual-buyer scoped-export; Broads manifest 3 SYNTH-BROADS cites; Harbour Wind zero; shared untouched; both export blocked; see pack-dry-run-dry-014.md / export-manifest-dry-014-broads.md
 P01,live,,,,,,,,
 P02,live,,,,,,,,
 P03,live,,,,,,,,

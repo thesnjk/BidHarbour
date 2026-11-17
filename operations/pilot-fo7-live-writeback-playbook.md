@@ -9,7 +9,7 @@
 **Product name:** Supplier Desk
 
 **Evidence label:** Template only until rows are filled from **real** live packs.  
-**Do not** invent promotions, doc_keys, or scoped answers in git. Prefer anonymised IDs; keep live scoped CSVs on the local encrypted path. DRY-007/008 rehearse FO7 — they are **not** live write-back proof.
+**Do not** invent promotions, doc_keys, or scoped answers in git. Prefer anonymised IDs; keep live scoped CSVs on the local encrypted path. DRY-007/008 rehearse FO7; DRY-014 rehearses FO7 cites on the **correct buyer’s export story** — they are **not** live write-back proof.
 
 ## Goal
 
