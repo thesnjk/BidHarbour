@@ -15,7 +15,7 @@
 | Channel received (email/portal) | | |
 | File types and page count | | |
 | Number of distinct requirements (approx) | | |
-| Where evidence lived (paths/tools) | | |
+| Where evidence lived (paths/tools) | | Expand on [`observation-inbound-pack-scatter-worksheet.md`](observation-inbound-pack-scatter-worksheet.md) |
 | People involved + handoffs | | |
 | Time on each major step (stopwatch or estimate) | | |
 | Missing items encountered | | |
@@ -35,5 +35,6 @@
 - [ ] Confirm estimated total minutes with participant  
 - [ ] Ask what they would refuse to upload to a vendor  
 - [ ] Log negative finding  
+- [ ] Complete [`observation-inbound-pack-scatter-worksheet.md`](observation-inbound-pack-scatter-worksheet.md) (blank Actuals until real)  
 - [ ] Add `OBS-YYYYMMDD-##` row in [`observation-session-log.md`](observation-session-log.md)  
 - [ ] File note using `recording-template.md` — **do not commit PII**
