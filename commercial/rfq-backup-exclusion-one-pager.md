@@ -8,7 +8,7 @@
 **Product name:** Supplier Desk
 
 **Evidence label:** Discovery/demo framing template only. Blank Actuals — do **not** invent interviews, WTP, or scorecard proof in git.  
-**Dated competitor pricing** (Fallback A) lives in [`../research/competitors.md`](../research/competitors.md) — ManufactIQ from **£99/mo**; FabPulse **£49–£199**/mo *(prior pass; not re-fetched this slice — see Gaps / row #134)*. Do not invent new price claims. Do **not** silent-pivot to RFQ as v1.
+**Dated competitor pricing** (Fallback A) lives in [`../research/competitors.md`](../research/competitors.md) — ManufactIQ Essential **£99** / Premium **£299** / Pro **£749**/mo ex VAT; FabPulse Starter **£49** / Studio **£99** / Pro **£199**/mo (**Verified fact** 2026-11-17). Do not invent new price claims. Do **not** silent-pivot to RFQ as v1.
 
 ## Goal
 
@@ -23,7 +23,7 @@ One scan-ready comparison: estimating tools own enquiry→quote for fab SMEs; Su
 | When BidHarbour revisits | N/A | **Only if** scorecard shows PQQ validation **fail** → portfolio backup #2 | No silent pivot |
 | AI posture | Drawing/email → quote assist *(prior-pass desk notes)* | Extract/match/draft on **qualification** evidence; **abstain** on unsupported facts | Different job |
 | Human gate | Quote approval (their product) | Named **Approver** before pack export | Different gate |
-| Price band (prior-pass context) | ManufactIQ from **£99/mo**; FabPulse **£49–£199**/mo *(prior pass — not re-verified this slice)* | Pilot **£250–£750** ex VAT / pack window *(offer-sheet hypothesis — not validated WTP)* | Context only — not BidHarbour WTP proof |
+| Price band (dated context) | ManufactIQ Essential **£99** / Premium **£299** / Pro **£749**/mo ex VAT; FabPulse Starter **£49** / Studio **£99** / Pro **£199**/mo (**Verified fact** 2026-11-17) | Pilot **£250–£750** ex VAT / pack window *(offer-sheet hypothesis — not validated WTP)* | Context only — not BidHarbour WTP proof |
 | Adjacent exception | RFQs that embed heavy compliance questionnaires | Still treat as pack-assembly job if the pain is inbound questionnaires | Reasoned adjacency — not a quote engine |
 | Proof path | Estimating value (their job) | Pilots + scorecard Actuals (still 0); this one-pager is framing only | Framing ≠ GO evidence |
 
@@ -45,7 +45,7 @@ One scan-ready comparison: estimating tools own enquiry→quote for fab SMEs; Su
 | Charter backup | [`../Docs/project-charter.md`](../Docs/project-charter.md) |
 | Scorecard gate (PQQ fail?) | [`../research/validation-scorecard.md`](../research/validation-scorecard.md) — Actuals still blank until founder |
 
-Do **not** claim Supplier Desk replaces ManufactIQ/FabPulse. Do say different job; backup only after PQQ fail. Do **not** invent prices beyond prior-pass cites. Do **not** start an RFQ build pre-GO.
+Do **not** claim Supplier Desk replaces ManufactIQ/FabPulse. Do say different job; backup only after PQQ fail. Do **not** invent prices beyond dated Fallback A cites. Do **not** start an RFQ build pre-GO.
 
 ## Discovery / demo header (blank until real)
 
@@ -64,7 +64,7 @@ Do **not** claim Supplier Desk replaces ManufactIQ/FabPulse. Do say different jo
 
 - [ ] Objection or demo minute calls this one-pager (or objection-sheet RFQ row)  
 - [ ] Spoken track used — no “we also quote” / silent pivot / invented parity  
-- [ ] Price cite only prior-pass Fallback A (or newer dated refresh via #134)  
+- [ ] Price cite only dated Fallback A in competitors.md (2026-11-17)  
 - [ ] Header filled locally only if a real session happened  
 - [ ] No win-rate / qualification guarantees  
 - [ ] No confidential pack text staged for git  
@@ -73,8 +73,8 @@ Do **not** claim Supplier Desk replaces ManufactIQ/FabPulse. Do say different jo
 
 - Never invent interviews, Actuals, or “customers left ManufactIQ for us.”  
 - Never silent-pivot to RFQ / holiday ops as v1.  
-- Do not invent ManufactIQ/FabPulse prices beyond dated/prior-pass cites in competitors.md.  
-- Do not treat prior-pass list prices as BidHarbour WTP proof.  
+- Do not invent ManufactIQ/FabPulse prices beyond dated cites in competitors.md.  
+- Do not treat list prices as BidHarbour WTP proof.  
 - Do not scaffold quoting SaaS pre-GO.  
 - Live packs only after solicitor-cleared MSA/DPA ([`../operations/pre-pilot-legal-readiness-gate.md`](../operations/pre-pilot-legal-readiness-gate.md)).  
 - This one-pager is **not** scorecard GO evidence.

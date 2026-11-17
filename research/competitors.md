@@ -1,8 +1,8 @@
 # 8. Competitors and substitutes
 
-**Pricing / feature observations dated:** 10 November 2026 (honesty pass) unless noted.  
+**Pricing / feature observations dated:** 10 November 2026 (honesty pass) unless noted; **Fallback A ManufactIQ/FabPulse re-checked 17 November 2026**.  
 **Prior pass:** 9 November 2025.  
-**Refresh method:** public pricing pages via WebSearch/WebFetch 2026-11-10 → local notes [`.firecrawl/2026-11-10-competitor-pricing.md`](../.firecrawl/2026-11-10-competitor-pricing.md) (gitignored).  
+**Refresh method:** public pricing pages via WebSearch/WebFetch 2026-11-10 → local notes [`.firecrawl/2026-11-10-competitor-pricing.md`](../.firecrawl/2026-11-10-competitor-pricing.md) (gitignored); Fallback A micro-pass Firecrawl 2026-11-17 → [`.firecrawl/2026-11-17-fallback-a-pricing.md`](../.firecrawl/2026-11-17-fallback-a-pricing.md) (gitignored).  
 “Not found in documentation” ≠ “does not exist.”
 
 ## Direct and adjacent matrix
@@ -39,8 +39,8 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 
 | Product | Notes | Price checked |
 |---------|-------|---------------|
-| ManufactIQ | Enquiry→quote→invoice for UK manufacturers | From £99/mo *(prior pass)* |
-| FabPulse | Fab quoting from drawings/email | £49–£199/mo *(prior pass)* |
+| ManufactIQ | Enquiry→quote→invoice for UK manufacturers; per-company plans | Essential **£99** / Premium **£299** / Pro **£749**/mo ex VAT (**Verified fact** — [manufactiq.co.uk/pricing](https://manufactiq.co.uk/pricing) 2026-11-17) |
+| FabPulse | Fab quoting from drawings/email | Starter **£49** / Studio **£99** / Pro **£199**/mo; site: no VAT to add (**Verified fact** — [fabpulse.co.uk](https://www.fabpulse.co.uk/) Pricing 2026-11-17) |
 | KanchanFlow | RFQ-to-order job shops | Tiered (GBP pages) *(prior pass)* |
 
 **Implication:** BidHarbour should **not** compete on estimating. Only adjacent if RFQs embed heavy compliance questionnaires.
@@ -74,8 +74,9 @@ Job: inbound customer-specific PQQ/SQ pack → checklist → evidence match → 
 13. **#130 shipped:** Observation→scorecard workflow-evidence tally — [`observation-workflow-evidence-tally.md`](observation-workflow-evidence-tally.md) (blank Actuals; ≥3 businesses). Continue loop now mandates four-axis GitHub coverage.  
 14. **#131 re-rank shipped:** appended **138–143** — interview pain-convergence tally; Approver export-gate brief; Path A clock→leave-behind bridge; continuation→scorecard tally; peer-intro→qualified-week densification.  
 15. **#132 shipped:** Charter Continues pointer refresh — [`../Docs/project-charter.md`](../Docs/project-charter.md) next-band points at **#133+** (no posture/Actuals invent).  
-16. **#133 shipped:** Portfolio matrix-path notes — Constructionline/Evidash/Complys (+ tender/SharePoint) artefacts linked on candidates #3–#7 in [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md) (scores unchanged). **Next unfinished:** **#134**.
+16. **#133 shipped:** Portfolio matrix-path notes — Constructionline/Evidash/Complys (+ tender/SharePoint) artefacts linked on candidates #3–#7 in [`../strategy/opportunity-portfolio.md`](../strategy/opportunity-portfolio.md) (scores unchanged).  
+17. **#134 shipped:** Fallback A ManufactIQ/FabPulse public pricing honesty — Essential/Premium/Pro and Starter/Studio/Pro bands dated **2026-11-17** (Verified fact; Gap-by-design unchanged). **Next unfinished:** **#135**.
 
 ## Gaps in this research
 
-Full Constructionline official PDF price grid not scraped (selector-based); TenderNation / ManufactIQ / FabPulse not re-fetched this pass; My Supplier List deep review not completed — remain **Unresolved**.
+Full Constructionline official PDF price grid not scraped (selector-based); TenderNation not re-fetched this pass; My Supplier List deep review not completed; KanchanFlow still prior-pass only — remain **Unresolved**. ManufactIQ / FabPulse Fallback A prices re-checked 2026-11-17.
