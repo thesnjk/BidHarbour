@@ -21,6 +21,20 @@
 | **GO / NARROW / PIVOT / STOP** | Current: **INVESTIGATE FURTHER / NARROW** (Norfolk AME/marine PQQ). Production SaaS = **NO-GO until scorecard**. Live sheet: [`../research/validation-scorecard.md`](../research/validation-scorecard.md). Threshold twin (do not invent Actuals): [`../strategy/decision-scorecard.md`](../strategy/decision-scorecard.md). |
 | **Next decision gate** | Week-4 interview gate (≥6/10 same pain) via [`../research/week4-gate-checklist.md`](../research/week4-gate-checklist.md); Week-8 pilot gate via [`../research/week8-gate-checklist.md`](../research/week8-gate-checklist.md). |
 
+## Dual-backlog contract
+
+| Queue | Role | Path |
+|-------|------|------|
+| **Continue / self-service** | Authoritative pre-GO agent work | [`bidharbour-master-prompt.md`](bidharbour-master-prompt.md) table |
+| **Post-GO engineering** | MoSCoW after scorecard **GO** only | [`../product/backlog.md`](../product/backlog.md) |
+
+Do **not** treat `product/backlog.md` as the Continue queue. Do **not** migrate self-service row numbers into it.
+
+## Evidence & human approval (one-liners)
+
+- **Evidence:** label material claims Verified fact / Reasoned inference / Working assumption / Proposed experiment / Unresolved question — see master prompt §C; never invent interviews or scorecard Actuals ([`../research/validation-scorecard.md`](../research/validation-scorecard.md)).
+- **Human approval:** AI may extract/match/draft; only authorised humans approve statements and submissions — see [`legal-data-policy.md`](legal-data-policy.md).
+
 ## Agent vs founder ownership
 
 | Work | Owner |
@@ -30,6 +44,16 @@
 | Outreach sends, interview Actuals, scorecard numbers | **Founder** |
 | Solicitor MSA/DPA clearance, live customer packs | **Founder** (+ counsel) |
 | Brand IPO / domain / Companies House | **Founder** |
+
+## First five post-upgrade Continues (after this OS ship)
+
+Execute on subsequent Continues — not invent Actuals:
+
+1. Row **118** — Evidash buyer vs Supplier Desk one-pager  
+2. Row **119** — re-rank; append Lead-closing rows  
+3. Next unfinished self-service rows after that re-rank  
+4. Keep founder outreach / scorecard Actuals founder-owned  
+5. Charter hygiene only if posture/scorecard actually moves
 
 ## Pointers (do not duplicate)
 

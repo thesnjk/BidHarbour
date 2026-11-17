@@ -32,9 +32,10 @@ Live scorecard: `research/validation-scorecard.md` (threshold twin only: `strate
 
 ## Agent standing orders
 
-Tracked: [`bidharbour-master-prompt.md`](bidharbour-master-prompt.md) (attach at chat start) — **authoritative pre-GO agent backlog** lives in that file.  
-Post-GO MoSCoW only: [`../product/backlog.md`](../product/backlog.md).  
+Tracked: [`bidharbour-master-prompt.md`](bidharbour-master-prompt.md) (attach at chat start) — sections **A–Q**; **authoritative pre-GO agent backlog** = §N table in that file.  
+**Dual backlog:** Continue queue = master-prompt §N; post-GO MoSCoW only = [`../product/backlog.md`](../product/backlog.md) (never the Continue queue).  
 Direction: [`project-charter.md`](project-charter.md).  
+OS regression: [`agent-os-regression-checklist.md`](agent-os-regression-checklist.md).  
 Living narrative: [`project-writeup.md`](project-writeup.md) (chapters fill via self-service backlog).  
 Evidence labels required on material claims.  
 Human approval before any submission statement.  

@@ -2,7 +2,9 @@
 
 **As-of:** 2026-11-17  
 **Rule:** One active opportunity at a time. Scores are **judgement** from desk research — not validated WTP. Do **not** invent interviews, prices beyond dated cites, or scorecard Actuals.  
-**Primary sources:** [`executive-decision.md`](executive-decision.md) · [`../research/competitors.md`](../research/competitors.md) · [`../research/customer-discovery-programme.md`](../research/customer-discovery-programme.md) · [`../Docs/project-charter.md`](../Docs/project-charter.md)
+**Primary sources:** [`executive-decision.md`](executive-decision.md) · [`norfolk-market-map.md`](norfolk-market-map.md) (**15-row industry screen** lives there) · [`../research/competitors.md`](../research/competitors.md) · [`../research/customer-discovery-programme.md`](../research/customer-discovery-programme.md) · [`../Docs/project-charter.md`](../Docs/project-charter.md)
+
+**This file:** thin scored portfolio index (primary / backup / exclusions). Do **not** duplicate the Norfolk industry screen — refresh attractiveness there, then sync selection below.
 
 ## Scoring dimensions (1–5)
 
